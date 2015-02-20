@@ -4,7 +4,7 @@
 <key>version:%@</key><string>έκδοση:%@</string>
 <key>Done</key><string>Ολοκληρώθηκε </string>
 <key>versionid</key><string>1.0.0</string>
-<key>Select Languages</key><string>Επιλέξτε Γλώσσες </string>
+<key>Select Language</key><string>Επιλέξτε Γλώσσες </string>
 <key>etcid</key><string>κατεβάσει από το διαδίκτυο ...</string>
 <key>language:%@</key><string>γλώσσα:%@</string>
 <key>languageid</key><string>el</string>

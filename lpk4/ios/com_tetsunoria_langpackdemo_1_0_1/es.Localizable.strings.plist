@@ -4,7 +4,7 @@
 <key>version:%@</key><string>versión:%@</string>
 <key>Done</key><string>Hecho</string>
 <key>versionid</key><string>1.0.0</string>
-<key>Select Languages</key><string>Seleccione Idiomas</string>
+<key>Select Language</key><string>Seleccione Idiomas</string>
 <key>etcid</key><string>descargado de Internet ...</string>
 <key>language:%@</key><string>language:%@</string>
 <key>languageid</key><string>es</string>

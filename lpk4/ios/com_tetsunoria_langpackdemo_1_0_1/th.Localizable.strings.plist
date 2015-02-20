@@ -4,7 +4,7 @@
 <key>version:%@</key><string>รุ่น:%@</string>
 <key>Done</key><string>บริจาค</string>
 <key>versionid</key><string>1.0.0</string>
-<key>Select Languages</key><string>เลือกภาษา</string>
+<key>Select Language</key><string>เลือกภาษา</string>
 <key>etcid</key><string>ที่ดาวน์โหลดมาจากอินเทอร์เน็ต ...</string>
 <key>language:%@</key><string>ภาษา:%@</string>
 <key>languageid</key><string>th</string>

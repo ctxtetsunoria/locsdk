@@ -4,7 +4,7 @@
 <key>version:%@</key><string>버전:%@</string>
 <key>Done</key><string>기부</string>
 <key>versionid</key><string>1.0.0</string>
-<key>Select Languages</key><string>선택 언어</string>
+<key>Select Language</key><string>선택 언어</string>
 <key>etcid</key><string>인터넷에서 다운로드 ...</string>
 <key>language:%@</key><string>언어:%@</string>
 <key>languageid</key><string>ko</string>

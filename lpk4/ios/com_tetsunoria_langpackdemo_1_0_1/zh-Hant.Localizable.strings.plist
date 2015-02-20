@@ -4,7 +4,7 @@
 <key>version:%@</key><string>版本:%@</string>
 <key>Done</key><string>捐贈</string>
 <key>versionid</key><string>1.0.0</string>
-<key>Select Languages</key><string>選擇語言</string>
+<key>Select Language</key><string>選擇語言</string>
 <key>etcid</key><string>從網上下載...</string>
 <key>language:%@</key><string>語言:%@</string>
 <key>languageid</key><string>zh-Hant</string>

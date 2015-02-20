@@ -4,7 +4,7 @@
 <key>version:%@</key><string>version:%@</string>
 <key>Done</key><string>donera</string>
 <key>versionid</key><string>1.0.0</string>
-<key>Select Languages</key><string>Välj språk</string>
+<key>Select Language</key><string>Välj språk</string>
 <key>etcid</key><string>laddas ner från internet ...</string>
 <key>language:%@</key><string>språk:%@</string>
 <key>languageid</key><string>sv</string>

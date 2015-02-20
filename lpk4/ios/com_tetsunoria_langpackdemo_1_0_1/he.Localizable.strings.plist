@@ -4,7 +4,7 @@
 <key>version:%@</key><string>גרסה:%@</string>
 <key>Done</key><string>נַעֲשָׂה</string>
 <key>versionid</key><string>1.0.0</string>
-<key>Select Languages</key><string>שפות בחרו</string>
+<key>Select Language</key><string>שפות בחרו</string>
 <key>etcid</key><string>שהורד מהאינטרנט ... </string>
 <key>language:%@</key><string>שפה:%@</string>
 <key>languageid</key><string>he</string>

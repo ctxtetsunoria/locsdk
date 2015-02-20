@@ -4,7 +4,7 @@
 <key>version:%@</key><string>Версия:%@</string>
 <key>Done</key><string>сделано</string>
 <key>versionid</key><string>1.0.0</string>
-<key>Select Languages</key><string>Выберите Языки</string>
+<key>Select Language</key><string>Выберите Языки</string>
 <key>etcid</key><string>загрузить из Интернета ... </string>
 <key>language:%@</key><string>Язык:%@</string>
 <key>languageid</key><string>ru</string>
