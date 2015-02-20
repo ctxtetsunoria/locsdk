@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CTXDAY</key><string>день</string>
+    <key>CTXDAYS</key><string>дней</string>
+    <key>CTXHOUR</key><string>стойка</string>
+    <key>CTXHOURS</key><string>Часы</string>
+    <key>CTXMINUTE</key><string>минута</string>
+    <key>CTXMINUTES</key><string>минут</string>
+    <key>CTXSECOND</key><string>второй</string>
+    <key>CTXSECONDS</key><string>секунд</string>
+    <key>AlertButtonDISMISS</key><string>Уволить</string>
+    <key>AlertButtonLATER</key><string>Позже</string>
+    <key>AlertButtonLOGON</key><string>Войдите в систему</string>
+    <key>AlertButtonEXIT</key><string>Выход</string>
+    <key>AlertButtonQUIT</key><string>Бросить</string>
+    <key>AlertButtonOK</key><string>Хорошо</string>
+    <key>AlertButtonUPDATENOW</key><string>Обновить сейчас</string>
+    <key>AlertButtonSETTINGS</key><string>Параметры</string>
+    <key>AlertButtonINSTALL</key><string>Установить</string>
+    <key>AlertButtonOPENRECEIVER</key><string>Разрешить</string>
+    <key>AlertButtonSTARTRECEIVER</key><string>Старт приемника</string>
+    <key>AlertButtonCONTINUE</key><string>Продолжить</string>
+    <key>ReceiverNotInstalledAlertTitle</key><string>Не удается найти приемника</string>
+    <key>ReceiverNotInstalledAlertMsg</key><string>Пожалуйста, установите Citrix приемника на вашем %@ использовать этот app.</string>
+    <key>LogonRequiredAlertTitle</key><string>Требуется вход в систему</string>
+    <key>LogonRequiredAlertMsg</key><string>Войдите в Citrix приемник надежно использовать этот app.</string>
+    <key>LogonMaybeRequiredAlertTitle</key><string></string>
+    <key>LogonMaybeRequiredAlertMsg</key><string>Citrix приемника необходимо санкционировать этот app.</string>
+    <key>LogonFailedAlertTitle</key><string>Не удается войти в систему</string>
+    <key>LogonFailedAlertMsg</key><string>Проверьте учетные данные и повторите попытку.</string>
+    <key>AppRemovedAlertTitle</key><string>Приложение не доступно</string>
+    <key>AppRemovedAlertMsg</key><string>Этот app был удален из приемника Citrix. Можно удалить его из вашей %@ или переустановите его в приемник.</string>
+    <key>JailBrokenAlertTitle</key><string></string>
+    <key>JailBrokenAlertMsg</key><string>Ваша организация не допускает это приложение для запуска на взломанный %@.</string>
+    <key>PasscodeRequiredAlertTitle</key><string>Код доступа требуется</string>
+    <key>PasscodeRequiredAlertMsg</key><string>Установите секретный код на вашем устройстве, чтобы использовать это приложение.</string>
+    <key>RequireInternalNetworkAlertTitle</key><string>Внутренние сети</string>
+    <key>RequireInternalNetworkAlertMsg</key><string>Подключение к внутренней сети, чтобы использовать это приложение.</string>
+    <key>WifiRequiredAlertTitle</key><string>Wi-Fi требуется</string>
+    <key>WifiRequiredAlertMsg</key><string>Подключение к WiFi сети использовать это приложение.</string>
+    <key>InternalWifiRequiredAlertTitle</key><string>Уполномоченные WiFi требуется</string>
+    <key>InternalWifiRequiredAlertMsg</key><string>Подключение к уполномоченным беспроводной сети для использования этой app:%@</string>
+    <key>OfflineLeaseWarningAlertTitle</key><string>Требуется вход в систему</string>
+    <key>OfflineLeaseWarningAlertMsg</key><string>Войдите в Citrix приемник в течение %@ %@ продолжать использовать этот app. После этого времени приложение блокируется.</string>
+    <key>AppUpdateDeferAlertTitle</key><string>Доступно обновление</string>
+    <key>AppUpdateDeferAlertMsg</key><string>Вам необходимо обновить этот app в пределах %@ %@.</string>
+    <key>AppUpdateGracePeriodExpiredAlertTitle</key><string>Требуется обновление</string>
+    <key>AppUpdateGracePeriodExpiredAlertMsg</key><string>Нельзя использовать этот app до обновления.</string>
+    <key>AppUpdateGracePeriodWarningAlertTitle</key><string>Требуется обновление</string>
+    <key>AppUpdateGracePeriodWarningAlertMsg</key><string>Вам придется использовать этот app %@ больше %@. Сохраните вашу работу и применить обновление.</string>
+    <key>DontShowThisMsgAgainOption</key><string>Больше не показывать это сообщение</string>
+    <key>AGSessionExpiredAlertTitle</key><string>Срок ожидания подключения истек</string>
+    <key>AGSessionExpiredAlertMsg</key><string>Войдите в Citrix приемника продолжать использовать этот app.</string>
+    <key>LogonRequiredForSTATicketExpiredAlertTitle</key><string>Требуется вход в систему</string>
+    <key>LogonRequiredForSTATicketExpiredAlertMsg</key><string>Войдите в Citrix приемника для обеспечения доступа к сети. Пресс по-прежнему использовать приложение без доступа к сети.</string>
+    <key>LogonRequiredForNetworkAccessAlertTitle</key><string>Требуется вход в систему</string>
+    <key>LogonRequiredForNetworkAccessAlertMsg</key><string>Войдите в Citrix приемника для обеспечения доступа к сети. Пресс по-прежнему использовать приложение без доступа к сети.</string>
+    <key>IPC_InvalidAppAlertTitle</key><string></string>
+    <key>IPC_InvalidAppAlertMsg</key><string>Это приложение не совместим с приемником Citrix. Попробуйте удалить его и переустановить его.</string>
+    <key>IPC_NoStoreFoundAlertTitle</key><string>Не удается найти приложение</string>
+    <key>IPC_NoStoreFoundAlertMsg</key><string>Пожалуйста, добавьте свой аккаунт в Citrix приемника перед запуском этого приложения.</string>
+    <key>IPC_QuitRequestAlertTitle</key><string></string>
+    <key>IPC_QuitRequestAlertMsg</key><string>Citrix ресивер не может общаться с этим app.</string>
+    <key>IPC_WakeReceiverAlertTitle</key><string></string>
+    <key>IPC_WakeReceiverAlertMsg</key><string>Ваше приложение станет активным снова, как только начинает приемник Citrix.</string>
+    <key>AppContainmentAlertTitle</key><string>Ограниченной политикой администратора</string>
+    <key>AppContainment_DISABLECOPYAlertMsg</key><string>\"Cut и copy\» блокируются для этого приложения.</string>
+    <key>AppContainment_DISABLEPASTEAlertMsg</key><string>\"Paste\» блокируется для этого приложения</string>
+    <key>AppContainment_DISABLECAMERAAlertMsg</key><string>\"Camera\» блокируется для этого приложения</string>
+    <key>AppContainment_DISABLEMICAlertMsg</key><string>\"Mic record\» блокируется для этого приложения</string>
+    <key>AppContainment_DISABLELOCATIONAlertMsg</key><string>\"Location\ «услуги заблокированы для этого приложения</string>
+    <key>AppContainment_DISABLESMSAlertMsg</key><string>\"SMS\ «сочинять блокируется для этого приложения.</string>
+    <key>AppContainment_DISABLEEMAILAlertMsg</key><string>\"Email\ «сочинять блокируется для этого приложения</string>
+    <key>AppContainment_DISABLEICLOUDAlertMsg</key><string>\"iCloud\» блокируется для этого приложения</string>
+    <key>AppContainment_DISABLEPRINTINGAlertMsg</key><string>\"AirPrint\» блокируется для этого приложения</string>
+    <key>AppContainment_DISABLEOPENINAlertMsg</key><string>\"Opening Files\» блокируется для этого приложения</string>
+    <key>AppContainment_AlertMsg</key><string>%@ ограничивается политикой администратора.</string>
+    <key>AppContainment_CommonAlertMsg</key><string>Ваш администратор заблокирована %@.</string>
+    <key>CTXCamera</key><string>Камеры</string>
+    <key>CTXCutCopy</key><string>Вырезать Копировать &amp;</string>
+    <key>CTXPaste</key><string>Паста</string>
+    <key>CTXDocumentExchange</key><string>Обмен документами (открыт в)</string>
+    <key>CTXMicrophoneRecording</key><string>Запись микрофона</string>
+    <key>CTXLocationServicesGPS</key><string>Службы определения местоположения (GPS)</string>
+    <key>CTXSMS</key><string>SMS</string>
+    <key>CTXEmail</key><string>Отправить по электронной почте</string>
+    <key>CTXPrinting</key><string>Печать</string>
+    <key>CTXNetworkAccess</key><string>Доступ к сети</string>
+    <key>CTXICloud</key><string>iCloud</string>
+    <key>CTXand</key><string>и</string>
+    <key>DataProtection_KeyFailureAlertTitle</key><string>Не удается получить доступ к данным приложения</string>
+    <key>DataProtection_KeyFailureAlertMsg</key><string>Пожалуйста, убедитесь, что вы можете получить доступ к сети и попробуйте снова войти в Citrix ресивер.</string>
+    <key>DataProtection_PolicyChangeAlertTitle</key><string></string>
+    <key>DataProtection_PolicyChangeAlertMsg</key><string>Изменилась политика доступа к данным приложения. Удалить и заново установить этот app для того чтобы продолжать использовать</string>
+    <key>AppDisabledTitle</key><string>Приложение не доступно</string>
+    <key>AppDisabledMsg</key><string>Это приложение временно отключен.</string>
+    <key>Done</key><string>Договорились</string>
+    <key>Downloadable Resources</key><string>Загружаемые ресурсы</string>
+    <key>Language</key><string>Язык</string>
+    <key>No Downloadable Resource</key><string>Загружаемый ресурс не</string>
+    <key>Package Resources</key><string>Пакет ресурсов</string>
+    <key>Select Language</key><string>Выбрать язык</string>
+    <key>SettingsAutoSendCrash</key><string>Автоматический отчет</string>
+    <key>SettingsAutoSendCrashDescription</key><string>Если аварии, данные будут отправлены разработчику автоматически не спрашивая пользователей.</string>
+    <key>SettingsAllowContact</key><string>Разрешить контакты</string>
+    <key>SettingsContactEmail</key><string>Адрес электронной почты</string>
+    <key>SettingsContactDescription</key><string>Адрес электронной почты будет использоваться только для связаться с пользователем, если там может быть больше разъяснений о проблеме</string>
+    <key>SettingsCrashTitle</key><string>Отчет об ошибке</string>
+    <key>Return</key><string>Возвращение</string>
+    <key>Enter</key><string>Введите</string>
+    <key>Tab</key><string>Закладка</string>
+    <key>Space</key><string>Пространство</string>
+    <key>Delete</key><string>Удалить</string>
+    <key>Clear</key><string>Ясно</string>
+    <key>Esc</key><string>ESC</string>
+    <key>Home</key><string>Главная</string>
+    <key>Page Up</key><string>Page Up</string>
+    <key>End</key><string>Конец</string>
+    <key>Page Down</key><string>Page Down</string>
+    <key>Help</key><string>Справка</string>
+    <key>Keypad .</key><string>Клавиатура.</string>
+    <key>Keypad *</key><string>Клавиатура *</string>
+    <key>Keypad +</key><string>Клавиатура +</string>
+    <key>Keypad /</key><string>Клавиатура /</string>
+    <key>Keypad -</key><string>Клавиатура-</string>
+    <key>Keypad =</key><string>Клавиатура =</string>
+    <key>Keypad 0</key><string>Клавиатура 0</string>
+    <key>Keypad 1</key><string>Клавиатура 1</string>
+    <key>Keypad 2</key><string>Клавиатура 2</string>
+    <key>Keypad 3</key><string>Клавиатура 3</string>
+    <key>Keypad 4</key><string>Клавиатура 4</string>
+    <key>Keypad 5</key><string>Клавиатура 5</string>
+    <key>Keypad 6</key><string>Клавиатура 6</string>
+    <key>Keypad 7</key><string>Клавиатура 7</string>
+    <key>Keypad 8</key><string>Клавиатура 8</string>
+    <key>Keypad 9</key><string>Клавиатура 9</string>
+    <key>F1</key><string>F1</string>
+    <key>F2</key><string>F2</string>
+    <key>F3</key><string>F3</string>
+    <key>F4</key><string>F4</string>
+    <key>F5</key><string>F5</string>
+    <key>F6</key><string>F6</string>
+    <key>F7</key><string>F7</string>
+    <key>F8</key><string>F8</string>
+    <key>F9</key><string>F9</string>
+    <key>F10</key><string>F10</string>
+    <key>F11</key><string>F11</string>
+    <key>F12</key><string>F12</string>
+    <key>F13</key><string>F13</string>
+    <key>F14</key><string>F14</string>
+    <key>F15</key><string>F15</string>
+    <key>F16</key><string>F16</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>Ошибка аутентификации неожиданное.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>Проверка подлинности не было поставлено.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>Попытка входа не был успешным.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID является признанным, но устаревшие. Пожалуйста повторной проверки подлинности перед продолжением.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID не найден действительный.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>Текущий AuthID не является допустимым для запроса поддомена.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>Текущие средства/счета запрещен с помощью API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>Ошибка неожиданный операции.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>Запрошенная операция не соответствует любой поддерживаемый ОП.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Это ОП требует параметров, которые не были предоставлены.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>Параметров поставляется не действительны (например string вместо int, вал из диапазона и т.д.).</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>Запрошенный ОП не совместим с текущей целевой идентификатор.</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>ОП не допускается для учетной записи текущего ShareFile (функция инвалидов/нет разрешения).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>ОП не допускается для текущего ShareFile пользователя (пользователь не имеет разрешения соответствующего пользователя роли для использования).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>ОП не допускается для целевой (пользователь может иметь соответствующие роли/разрешения, в других случаях, но не для этой конкретной ID).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>Неожиданное целевая ошибка.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>Просил, но не существует целевой правильного типа (например, пытается выполнять ОП папку с файлами).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>Целевой объект не найден.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>Ошибка при создании неожиданные.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>Предоставленный родитель не является допустимым для создания запрошенного элемента (например, пытается создать папку в корне учетной записи).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>Неожиданные редактирования ошибка.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>Элемент, который вы пытаетесь создать, уже существует.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>Элемент, который вы пытаетесь редактировать уже существует.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>Непредвиденная ошибка.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>Сервер проходит техническое обслуживание.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>Достигнут предел ставки.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>Сервер — над емкостью.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>Непредвиденная ошибка (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>Сервер — над емкостью (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>Добавлено подготовки не удалось (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>Скачайте подготовка не удалось (SC).</string>
+    <key>SFAPIConnection_JSONParseError</key><string>Ошибка разбора JSON.</string>
+    <key>SFAPIConnection_NilResponse</key><string>Объект SFResponse был нулевым. Поддерживается ли этот запрос?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>Подключение к сети не обнаружено.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth не удалось. Информация о Reauth был нулевым.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth не удалось. Информация единого входа был нулевым.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth не удалось. Неизвестная ошибка.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth не удалось. Неподдерживаемый тип входа SAML.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection получил вызов проверки подлинности.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Формат неизвестный ответа.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest был нулевым.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest неверный. Пожалуйста, проверьте параметры запроса.</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>Ошибка аутентификации неожиданное.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>Проверка подлинности не было поставлено.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>Попытка входа не был успешным.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID является признанным, но устаревшие. Пожалуйста повторной проверки подлинности перед продолжением.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID не найден действительный.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>Текущий AuthID не является допустимым для запроса поддомена.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>Текущие средства/счета запрещен с помощью API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>Ошибка неожиданный операции.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>Запрошенная операция не соответствует любой поддерживаемый ОП.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Это ОП требует параметров, которые не были предоставлены.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>Параметров поставляется не действительны (например string вместо int, вал из диапазона и т.д.).</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>Запрошенный ОП не совместим с текущей целевой идентификатор.</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>ОП не допускается для учетной записи текущего ShareFile (функция инвалидов/нет разрешения).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>ОП не допускается для текущего ShareFile пользователя (пользователь не имеет разрешения соответствующего пользователя роли для использования).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>ОП не допускается для целевой (пользователь может иметь соответствующие роли/разрешения, в других случаях, но не для этой конкретной ID).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>Неожиданное целевая ошибка.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>Просил, но не существует целевой правильного типа (например, пытается выполнять ОП папку с файлами).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>Целевой объект не найден.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>Ошибка при создании неожиданные.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>Предоставленный родитель не является допустимым для создания запрошенного элемента (например, пытается создать папку в корне учетной записи).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>Неожиданные редактирования ошибка.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>Элемент, который вы пытаетесь создать, уже существует.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>Элемент, который вы пытаетесь редактировать уже существует.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>Непредвиденная ошибка.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>Сервер проходит техническое обслуживание.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>Достигнут предел ставки.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>Сервер — над емкостью.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>Непредвиденная ошибка (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>Сервер — над емкостью (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>Добавлено подготовки не удалось (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>Скачайте подготовка не удалось (SC).</string>
+    <key>SFAPIConnection_JSONParseError</key><string>Ошибка разбора JSON.</string>
+    <key>SFAPIConnection_NilResponse</key><string>Объект SFResponse был нулевым. Поддерживается ли этот запрос?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>Подключение к сети не обнаружено.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth не удалось. Информация о Reauth был нулевым.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth не удалось. Информация единого входа был нулевым.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth не удалось. Неизвестная ошибка.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth не удалось. Неподдерживаемый тип входа SAML.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection получил вызов проверки подлинности.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Формат неизвестный ответа.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest был нулевым.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest неверный. Пожалуйста, проверьте параметры запроса.</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>Ошибка аутентификации неожиданное.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>Проверка подлинности не было поставлено.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>Попытка входа не был успешным.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID является признанным, но устаревшие. Пожалуйста повторной проверки подлинности перед продолжением.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID не найден действительный.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>Текущий AuthID не является допустимым для запроса поддомена.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>Текущие средства/счета запрещен с помощью API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>Ошибка неожиданный операции.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>Запрошенная операция не соответствует любой поддерживаемый ОП.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Это ОП требует параметров, которые не были предоставлены.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>Параметров поставляется не действительны (например string вместо int, вал из диапазона и т.д.).</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>Запрошенный ОП не совместим с текущей целевой идентификатор.</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>ОП не допускается для учетной записи текущего ShareFile (функция инвалидов/нет разрешения).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>ОП не допускается для текущего ShareFile пользователя (пользователь не имеет разрешения соответствующего пользователя роли для использования).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>ОП не допускается для целевой (пользователь может иметь соответствующие роли/разрешения, в других случаях, но не для этой конкретной ID).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>Неожиданное целевая ошибка.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>Просил, но не существует целевой правильного типа (например, пытается выполнять ОП папку с файлами).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>Целевой объект не найден.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>Ошибка при создании неожиданные.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>Предоставленный родитель не является допустимым для создания запрошенного элемента (например, пытается создать папку в корне учетной записи).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>Неожиданные редактирования ошибка.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>Элемент, который вы пытаетесь создать, уже существует.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>Элемент, который вы пытаетесь редактировать уже существует.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>Непредвиденная ошибка.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>Сервер проходит техническое обслуживание.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>Достигнут предел ставки.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>Сервер — над емкостью.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>Непредвиденная ошибка (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>Сервер — над емкостью (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>Добавлено подготовки не удалось (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>Скачайте подготовка не удалось (SC).</string>
+    <key>SFAPIConnection_JSONParseError</key><string>Ошибка разбора JSON.</string>
+    <key>SFAPIConnection_NilResponse</key><string>Объект SFResponse был нулевым. Поддерживается ли этот запрос?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>Подключение к сети не обнаружено.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth не удалось. Информация о Reauth был нулевым.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth не удалось. Информация единого входа был нулевым.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth не удалось. Неизвестная ошибка.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth не удалось. Неподдерживаемый тип входа SAML.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection получил вызов проверки подлинности.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Формат неизвестный ответа.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest был нулевым.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest неверный. Пожалуйста, проверьте параметры запроса.</string>
+    <key>14.normalTitle</key><string>Договорились</string>
+    <key>139.normalTitle</key><string>◀</string>
+    <key>140.normalTitle</key><string>▲</string>
+    <key>141.normalTitle</key><string>▶</string>
+    <key>143.normalTitle</key><string>▼</string>
+    <key>177.text</key><string>Пара</string>
+    <key>178.text</key><string>Главная</string>
+    <key>179.text</key><string>Клавиши со стрелками</string>
+    <key>180.text</key><string>Клавиатура</string>
+    <key>181.text</key><string>Указатель</string>
+    <key>182.text</key><string>Переключатель</string>
+    <key>299.text</key><string>Лупа</string>
+    <key>301.text</key><string>Мышь</string>
+    <key>316.text</key><string>Жест Путеводитель</string>
+    <key>329.text</key><string>Коснитесь одним пальцем:</string>
+    <key>330.text</key><string>Один клик</string>
+    <key>331.text</key><string>Touch-Hold релиз:</string>
+    <key>332.text</key><string>Щелкните правой кнопкой мыши</string>
+    <key>333.text</key><string>Коснитесь тремя пальцами:</string>
+    <key>334.text</key><string>Клавиатура</string>
+    <key>335.text</key><string>Щепотка в и из:</string>
+    <key>336.text</key><string>Зум</string>
+    <key>337.text</key><string>Touch-Hold слайд:</string>
+    <key>338.text</key><string>Перетащите</string>
+    <key>339.text</key><string>Касание двумя пальцами:</string>
+    <key>340.text</key><string>Alt + Tab</string>
+    <key>40.text</key><string>© 2014 Citrix Systems, Inc. Все права защищены.</string>
+    <key>58.text</key><string>Дополнительные сведения об авторских правах</string>
+    <key>8.normalTitle</key><string>Добавить избранное</string>
+    <key>4.placeholder</key><string>http://Citrix.mycompany.com</string>
+    <key>5.text</key><string>Пожалуйста, введите адрес веб-сайта вашей компании Citrix.</string>
+    <key>26.title</key><string>Загрузка</string>
+    <key>97.title</key><string>Магазины</string>
+    <key>4.text</key><string>Имя_папки</string>
+    <key>5.text</key><string>Изменение февраля 29,2012 2:21 PM</string>
+    <key>6.text</key><string>(Чтение &amp;)</string>
+    <key>8.text</key><string>Размер 134.2 MB</string>
+    <key>10.normalTitle</key><string>Доля папки</string>
+    <key>26.normalTitle</key><string>Отправить папку</string>
+    <key>39.text</key><string>Владелец</string>
+    <key>5.segmentTitles[0]</key><string>Пригласить</string>
+    <key>5.segmentTitles[1]</key><string>Разрешения</string>
+    <key>14.segmentTitles[0]</key><string>Читать</string>
+    <key>14.segmentTitles[1]</key><string>Чтение и запись</string>
+    <key>15.text</key><string>Доступ к</string>
+    <key>24.text</key><string>Кому:</string>
+    <key>38.segmentTitles[0]</key><string>Читать</string>
+    <key>38.segmentTitles[1]</key><string>Написать</string>
+    <key>38.segmentTitles[2]</key><string>Чтение &amp;</string>
+    <key>39.normalTitle</key><string>X</string>
+    <key>52.title</key><string>Закрыть</string>
+    <key>58.text</key><string>Доля папки</string>
+    <key>69.text</key><string>Лейбл</string>
+    <key>9.text</key><string>Джек Блэк</string>
+    <key>10.text</key><string>Размер 12.4 МБ</string>
+    <key>19.text</key><string>Размер:</string>
+    <key>20.text</key><string>Февраль 29.2012</string>
+    <key>7.title</key><string>Закрыть</string>
+    <key>16.text</key><string>Лейбл</string>
+    <key>22.text</key><string>Кому</string>
+    <key>28.text</key><string>Скачиваний</string>
+    <key>31.text</key><string>Трек, который Скачиваний</string>
+    <key>33.text</key><string>Копия меня</string>
+    <key>35.text</key><string>Уведомлять меня на скачать</string>
+    <key>40.segmentTitles[0]</key><string>Неограниченное количество</string>
+    <key>40.segmentTitles[1]</key><string>День</string>
+    <key>40.segmentTitles[2]</key><string>Неделя</string>
+    <key>40.segmentTitles[3]</key><string>Месяц</string>
+    <key>48.segmentTitles[0]</key><string>Отправить файл</string>
+    <key>48.segmentTitles[1]</key><string>Скопировать ссылку</string>
+    <key>14.segmentTitles[0]</key><string>Скачать GoToMeeting</string>
+    <key>20.placeholder</key><string>123-456-789</string>
+    <key>21.text</key><string>GoToMeeting делает его легче посещать собрания по сети на вашем iPad. Просто введите совещание ID номер и ваше имя, а затем нажмите \"Join\" кнопку.</string>
+    <key>22.segmentTitles[0]</key><string>Присоединяйтесь к встрече</string>
+    <key>30.text</key><string>Недопустимый встречи ID</string>
+    <key>32.text</key><string>Присоединение к встрече</string>
+    <key>33.text</key><string>ID конференции:</string>
+    <key>34.placeholder</key><string>Первая Последняя</string>
+    <key>36.text</key><string>Имя:</string>
+    <key>37.text</key><string>Чтобы узнать, как вы можете разместить свои собственные встречи, пожалуйста, посетите:</string>
+    <key>38.text</key><string>Для поддержки пожалуйста, посетите:</string>
+    <key>40.normalTitle</key><string>GoToMeeting.com</string>
+    <key>41.normalTitle</key><string>Центр поддержки</string>
+    <key>179.normalTitle</key><string>Закрыть</string>
+    <key>14.text</key><string>Подождите...</string>
+    <key>24.text</key><string>Лейбл</string>
+    <key>13.title</key><string>Вырезать</string>
+    <key>14.title</key><string>Копия</string>
+    <key>15.title</key><string>Паста</string>
+    <key>16.title</key><string>Отменить</string>
+    <key>45.title</key><string>F1</string>
+    <key>47.title</key><string>F2</string>
+    <key>48.title</key><string>F3</string>
+    <key>49.title</key><string>F4</string>
+    <key>50.title</key><string>F5</string>
+    <key>51.title</key><string>F6</string>
+    <key>52.title</key><string>F7</string>
+    <key>53.title</key><string>F8</string>
+    <key>54.title</key><string>F9</string>
+    <key>55.title</key><string>F10</string>
+    <key>56.title</key><string>F11</string>
+    <key>57.title</key><string>F12</string>
+    <key>9.title</key><string>ESC</string>
+    <key>26.title</key><string>Ctrl</string>
+    <key>27.title</key><string>FN</string>
+    <key>28.title</key><string>Страница</string>
+    <key>29.title</key><string>Дель</string>
+    <key>111.title</key><string>Alt</string>
+    <key>113.title</key><string>Закладка</string>
+    <key>120.segmentTitles[1]</key><string>T</string>
+    <key>17.title</key><string>Главная</string>
+    <key>18.title</key><string>Конец</string>
+    <key>57.title</key><string>Договорились</string>
+    <key>62.placeholder</key><string>Поиск</string>
+    <key>101.text</key><string>Обновление списка приложений</string>
+    <key>103.text</key><string>Подождите...</string>
+    <key>45.title</key><string>Выход</string>
+    <key>7.text</key><string>Имя:</string>
+    <key>8.text</key><string>Фамилия:</string>
+    <key>9.text</key><string>Адрес электронной почты:</string>
+    <key>37.text</key><string>Спасибо за регистрацию бла бла бла </string>
+    <key>38.normalTitle</key><string>Продолжить</string>
+    <key>16.text</key><string>Подробнее...</string>
+    <key>5.text</key><string>Интерактивный фильм</string>
+    <key>4.text</key><string>Выберите \"pair\» на iPad, вы хотите подключиться.</string>
+    <key>23.normalTitle</key><string>Добавление учетной записи</string>
+    <key>24.normalTitle</key><string>Получить демо</string>
+    <key>25.text</key><string>Подробнее...</string>
+    <key>WelcomeScreenTitleKey</key><string>Добро пожаловать</string>
+    <key>WelcomeScreenDemoAccountPageTitle</key><string>Подпишитесь на Citrix демо облако</string>
+    <key>WelcomeScreenSetupWorkspaceTitleKey</key><string>Настройка рабочей области</string>
+    <key>WelcomeScreenDemoAccountiPhonePageTitle</key><string>Демо облако</string>
+    <key>CRDemoRegistrationRegisterButtonLabelKey</key><string>Зарегистрироваться</string>
+    <key>CRDemoRegistrationWarningTitleKey</key><string>Предупреждение</string>
+    <key>CRDemoRegistrationWarningMessageKey</key><string>Пожалуйста, введите действительные учетные данные, прежде чем продолжить</string>
+    <key>CRDemoRegistrationFailedErrorTitleKey</key><string>Ошибка регистрации</string>
+    <key>CRDemoRegistrationFirstName</key><string>Имя:</string>
+    <key>CRDemoRegistrationLastName</key><string>Фамилия:</string>
+    <key>CRDemoRegistrationEmail</key><string>Отправить по электронной почте:</string>
+    <key>CRDemoRegistrationRegistering</key><string>Регистрация...</string>
+    <key>CRDemoRegistrationTitle</key><string>Регистрация приемника демо</string>
+    <key>WebAddressTitle</key><string>Веб-адрес</string>
+    <key>WebAddressOpenButtonLabel</key><string>Открытые</string>
+    <key>WebAddressInvalidURLTitle</key><string>Недопустимый URL-адрес</string>
+    <key>WebAddressInvalidURLMessage</key><string>Это не кажется как действительный URL-адрес. Пожалуйста, проверьте ваш вход и повторите попытку.</string>
+    <key>WebViewTitleLoading</key><string>Загрузка...</string>
+    <key>WebViewTitleUntitled</key><string>Без названия</string>
+    <key>WebViewCannotOpenPageTitle</key><string>Не удается открыть страницу</string>
+    <key>WebViewTitleVPNLogin</key><string>VPN входа</string>
+    <key>WebViewStartingVPNConnectionTitle</key><string>Запуск VPN-подключения</string>
+    <key>WebViewConnectingTitle</key><string>Загрузка...</string>
+    <key>WebViewUpdateStoreAlertTitle</key><string>Шлюз доступа</string>
+    <key>WebViewUpdateStoreAlertButtonLabel</key><string>Обновить учетную запись</string>
+    <key>WebViewUpdateStoreAlertMessage</key><string>Возможности самообслуживания обнаружено. Обновите учетную запись с вашими учетными данными.</string>
+    <key>BrowserButtonLabel</key><string>Обозреватель</string>
+    <key>WebViewAuthTitle</key><string>Требуется проверка подлинности</string>
+    <key>SelfServiceScreenHomeButtonKey</key><string>Главная</string>
+    <key>SelfServiceScreenExploreButtonKey</key><string>Исследовать</string>
+    <key>StoreToolbarCategoriesButtonDefaultTitle</key><string>Категории</string>
+    <key>StoreToolbarCategoriesButtonTitlePrefix</key><string>Категория: %@</string>
+    <key>StoreToolbarStoresButtonTitle</key><string>Учетные записи</string>
+    <key>StoreToolbarCategoriesAll</key><string>Все</string>
+    <key>StoreToolbarCategoriesFeatured</key><string>Рекомендуемые</string>
+    <key>StoreToolbarDefaultTitle</key><string>Исследовать</string>
+    <key>StoreToolbarSearchBarPlaceholder</key><string>Поиск</string>
+    <key>StoreGlobalSearchWithMatchCount</key><string>Поиск (%i матчей)</string>
+    <key>AccountListTitle</key><string>Настройки учетной записи</string>
+    <key>AccountListFooter</key><string>\n выберите учетную запись для входа.</string>
+    <key>StoreLaunchErrorAlertMessageKey</key><string>Произошла ошибка во время запрашиваемого подключения.</string>
+    <key>StoreNoApplicationsAlertTitleKey</key><string>Нет доступных приложений</string>
+    <key>StoreNoApplicationsAlertMessageKey</key><string>Есть нет приложений, доступных для учетной записи ' %@'.</string>
+    <key>StoreEnterCredentialsTitleKey</key><string>Вход приемника Citrix</string>
+    <key>StoreStartingConnectionKey</key><string>Начиная с соединении...</string>
+    <key>StoreRequestingConnectionKey</key><string>Запрашивающее подключение...</string>
+    <key>StoreRequestingCredentialsKey</key><string>Запрос учетных данных...</string>
+    <key>StoreNumberOfDesktops</key><string>%d настольных компьютеров</string>
+    <key>StoreOneDesktop</key><string>%d рабочий стол</string>
+    <key>StoreNumberOfApplications</key><string>%d приложений</string>
+    <key>StoreOneApplication</key><string>приложение %d</string>
+    <key>StoreAddStore</key><string>Добавление учетной записи</string>
+    <key>StoreDuplicateStore</key><string>Дублировать аккаунт</string>
+    <key>StoreDeleteStore</key><string>Удаление учетной записи</string>
+    <key>StoreEditStore</key><string>Изменение учетной записи</string>
+    <key>StoreShareSettings</key><string>Доля настройки учетной записи</string>
+    <key>StoreUpdateStore</key><string>Обновить учетную запись</string>
+    <key>StoreMyStoresTitleFormatKey</key><string>Мои счета (%1 %2)</string>
+    <key>StoreDeleteStoreWarningTitleKey</key><string>Предупреждение</string>
+    <key>StoreDeleteStoreWarningMessageKey</key><string>Вы собираетесь удалить аккаунт только! Вы уверены, что вы хотите продолжить?</string>
+    <key>StoreDeleteStoreDeleteButtonLabelKey</key><string>Удалить</string>
+    <key>StoreItemLogOnLabel</key><string>Войдите в систему</string>
+    <key>StoreItemActionsLabel</key><string>Действия</string>
+    <key>StoreItemPleaseWait</key><string>Подождите...</string>
+    <key>LoginLabel</key><string>Войдите в систему</string>
+    <key>RecentsTitle</key><string>Избранное</string>
+    <key>NoRecentsMessage</key><string>Запуск ваших любимых приложений.</string>
+    <key>ConfirmDeleteTokenTitle</key><string>Удалить токен RSA</string>
+    <key>ConfirmDeleteToken</key><string>Вы уверены, что хотите удалить этот маркер?</string>
+    <key>GetPasscodeTitle</key><string>Получить код доступа</string>
+    <key>EnterPinTitle</key><string>Пожалуйста, введите Ваш ПИН-код.</string>
+    <key>StoreServerConnectionErrorTitleKey</key><string>Не удается подключиться к серверу</string>
+    <key>StoreServerConnectionErrorMessageKey</key><string>Повторите попытку через несколько минут.</string>
+    <key>AccountLabelTitle</key><string>Учетная запись:</string>
+    <key>FavoritesTrackpadButtonLabelKey</key><string>Трекпад</string>
+    <key>FavoritesLaunchErrorAlertTitleKey</key><string>Ошибка</string>
+    <key>FavoritesLaunchErrorAlertMessageKey</key><string>Учетная запись для приложения больше не существует.  Вы хотели бы удалить фаворитом?</string>
+    <key>FavoritesLaunchErrorAlertMessage2Key</key><string>Произошла ошибка во время запрашиваемого подключения. Вы хотели бы удалить это приложение?</string>
+    <key>FavoritesMobileAppDownloadPausedKey</key><string>Нажмите для установки</string>
+    <key>FavoritesMobileAppDownloadQueuedKey</key><string>Ожидание загрузки...</string>
+    <key>FavoritesMobileAppDownloadingKey</key><string>Загрузка...</string>
+    <key>FavoritesMobileAppDownloadedKey</key><string>Загрузка...</string>
+    <key>FavoritesMobileAppInstallPausedKey</key><string>Нажмите для установки</string>
+    <key>FavoritesMobileAppInstallSetupKey</key><string>Подготовка...</string>
+    <key>FavoritesMobileAppInstallingKey</key><string>Установка...</string>
+    <key>FavoritesMobileAppInstalledKey</key><string>Установка...</string>
+    <key>EditStoreErrorTitleKey</key><string>Ошибка</string>
+    <key>EditStoreErrorURLForbidden</key><string>%@ запрещена. Код ошибки: %d</string>
+    <key>EditStoreErrorURLNotFound</key><string>%@ не был найден. Код ошибки: %d</string>
+    <key>EditStoreErrorCouldNotValidateURL</key><string>Не удалось проверить URL-адрес. Код ошибки: %d</string>
+    <key>EditStoreErrorCouldNotValidateServer</key><string>Адрес сервера не может быть проверен.</string>
+    <key>EditStoreErrorCouldNotVerifyServer</key><string>Не удалось проверить адрес сервера: </string>
+    <key>EditStoreErrorManualModeButtonKey</key><string>Ручная настройка</string>
+    <key>EditStoreErrorRetryButtonKey</key><string>Повторить попытку</string>
+    <key>EditStoreErrorOpenInSafariButtonKey</key><string>Открыть в Safari</string>
+    <key>EditStoreEnterValidWebAddressTitleKey</key><string>Адрес</string>
+    <key>EditStoreEnterValidWebAddressMessageKey</key><string>Пожалуйста, введите действительный адрес электронной почты или адрес сервера.</string>
+    <key>EditStoreErrorInvalidURLMessageKey</key><string>Пожалуйста, добавьте префикс http:// или https:// в ваш адрес.</string>
+    <key>EditStoreActivityVerifying</key><string>Проверка...</string>
+    <key>EditStoreServerTypeXenApp</key><string>Виртуальные приложения</string>
+    <key>EditStoreServerTypeXenDesktop</key><string>Мой виртуальный рабочий стол</string>
+    <key>EditStoreStoreVerifiedTitleKey</key><string>Проверено</string>
+    <key>EditStoreNewStoreTitleKey</key><string>Новая учетная запись</string>
+    <key>EditStoreVerifyStoreTitleKey</key><string>Проверка учетной записи</string>
+    <key>EditStoreWebStoreLabelKey</key><string>Веб-счета</string>
+    <key>EditStoreEmailSupportLabelKey</key><string>Поддержка по электронной почте</string>
+    <key>EditStoreAppStoreNameFormatKey</key><string>%@ Виртуальные приложения</string>
+    <key>EditStoreAppStoreDefaultNameKey</key><string>Мои виртуальные приложения</string>
+    <key>EditStoreDemoStoreNameKey</key><string>Демо-счет</string>
+    <key>EditStoreSerurityTokenTitleKey</key><string>Маркер безопасности</string>
+    <key>EditStoreDuplicateStoreSuffixKey</key><string>(копия)</string>
+    <key>EditStoreLoadingStoreKey</key><string>Загрузка...</string>
+    <key>EditStoreCertificateNotSelectedKey</key><string>Нет выделения</string>
+    <key>EditStoreCellAddressTitleKey</key><string>Адрес</string>
+    <key>EditStoreCellAddressPlaceholderKey</key><string>URL-адрес или работы электронной почты</string>
+    <key>EditStoreCellDescriptionTitleKey</key><string>Описание</string>
+    <key>EditStoreCellDescriptionPlaceholderKey</key><string>Описание учетной записи</string>
+    <key>EditStoreCellWebInterfaceCheckTitleKey</key><string>Веб-интерфейс</string>
+    <key>EditStoreCellXenAppServicesCheckTitleKey</key><string>XenApp услуги</string>
+    <key>EditStoreCellAccessGatewayCheckTitleKey</key><string>Шлюз доступа</string>
+    <key>EditStoreCellAutoConfigureCheckTitleKey</key><string>Авто настройка</string>
+    <key>EditStoreCellAGTypeStandardCheckTitleKey</key><string>Стандартное издание</string>
+    <key>EditStoreCellAGTypeAdvancedCheckTitleKey</key><string>Расширенный выпуск</string>
+    <key>EditStoreCellAGTypeEnterpriseCheckTitleKey</key><string>Выпуск Enterprise Edition</string>
+    <key>EditStoreCellDeliveryServicesCheckTitleKey</key><string>Витрина магазина</string>
+    <key>EditStoreCellDomainTitleKey</key><string>Домен</string>
+    <key>EditStoreCellDomainPlaceholderKey</key><string>Домен</string>
+    <key>EditStoreCellUsernameTitleKey</key><string>Имя пользователя</string>
+    <key>EditStoreCellUsernamePlaceholderKey</key><string>Имя пользователя</string>
+    <key>EditStoreCellPasswordTitleKey</key><string>Пароль</string>
+    <key>EditStoreCellPasswordPlaceholderKey</key><string>Факультативный</string>
+    <key>EditStoreCellSecurityTokenSwitchTitleKey</key><string>Маркер безопасности</string>
+    <key>EditStoreCellSecurityTokenOnlyCheckTitleKey</key><string>Маркер безопасности только</string>
+    <key>EditStoreCellIdentifierDomainAndSecurityTokenCheck</key><string>Домен + маркер безопасности</string>
+    <key>EditStoreCellSecuritySoftTokenCheck</key><string>Мягкий знак</string>
+    <key>EditStoreCellIdentifierWebAppsCheck</key><string>Веб-приложения</string>
+    <key>EditStoreCellIdentifierIgnoreCertErrorsCheck</key><string>Игнорировать предупреждения сертификатов</string>
+    <key>EditStoreWebAppsMessage</key><string>Обеспечивает безопасный доступ к веб-приложений. (Экспериментальный)</string>
+    <key>EditStoreCellIdentifierCertificate</key><string>Сертификат</string>
+    <key>EditStoreServiceRecordGatewaysSectionTitle</key><string>Выберите местоположение</string>
+    <key>EditStoreCellIdentifierUseSmartCard</key><string>Использование смарт-карт</string>
+    <key>ProfilesScreenTitleKey</key><string>Рабочие области</string>
+    <key>AddProfileScreenTitleKey</key><string>Новая учетная запись</string>
+    <key>AddProfileContactAdminMessageKey</key><string>ИТ-администратор для установки инструкции по электронной почте.</string>
+    <key>AddProfileEmailMessageBodyKey</key><string>Уважаемый Администратор, &lt; br / раздел настроек &lt; br / раздел настроек я хотел получить доступ к моей приложениям, приемника Citrix для iOS. &lt; br / раздел настроек могли бы вы пожалуйста, помогите мне настроить мою рабочую область?</string>
+    <key>AddProfileEmailMessageFooterKey</key><string>&lt; br / раздел настроек &lt; br / раздел настроек для получения дополнительной информации и требований, посетите: &lt; br / раздел настроек %@ &lt; br / раздел настроек &lt; br / раздел настроек наилучшими пожеланиями, &lt; br / раздел настроек Me.</string>
+    <key>AddProfileEmailSubjectKey</key><string>Citrix приемник для iOS</string>
+    <key>AddProfileEmailNotAvailableTitleKey</key><string>Электронной почты не доступен</string>
+    <key>AddProfileEmailNotAvailableMessageKey</key><string>Ваш iPad не имеет настройки учетной записи электронной почты.</string>
+    <key>AddProfileEmailNotAvailableiPhoneMessageKey</key><string>Ваши iPhone или касание iPod не имеет настройки учетной записи электронной почты.</string>
+    <key>ShareSettingsEmailMessageBodyKey</key><string>Привет &lt; br / раздел настроек &lt; br / раздел настроек пожалуйста нажмите следующую ссылку, чтобы настроить ресивер Citrix: &lt; br / раздел настроек &lt; br / настроек</string>
+    <key>ShareSettingsEmailSubjectKey</key><string>Параметров приемника Citrix</string>
+    <key>OldProfileNameKey</key><string>Версия 1.0 профиль</string>
+    <key>GeneralSettingsGroupTitleKey</key><string>Общие параметры</string>
+    <key>ProfilenameFieldTitleKey</key><string>Описание</string>
+    <key>ProfilenameFieldPlaceholderKey</key><string>Описание учетной записи</string>
+    <key>ProfilenameFieldDefaultKey</key><string>Новые функции</string>
+    <key>ProfilenameErrorTitleKey</key><string>Ошибка</string>
+    <key>ProfilenameErrorMessageKey</key><string>Рабочая область с таким именем уже существует</string>
+    <key>ProfilenameErrorButtonTitleKey</key><string>Уволить</string>
+    <key>UsernameFieldTitleKey</key><string>Имя пользователя</string>
+    <key>UsernameFieldPlaceholderKey</key><string>Имя пользователя</string>
+    <key>DomainFieldTitleKey</key><string>Домен</string>
+    <key>DomainFieldPlaceholderKey</key><string>Домен</string>
+    <key>PasswordAlertTitleKey</key><string>Пароль</string>
+    <key>PasswordAlertMessageKey</key><string>Введите ваше имя пользователя и пароль</string>
+    <key>AddressFieldTitleKey</key><string>Адрес</string>
+    <key>AddressFieldPlaceholderKey</key><string>URL-адрес или работы электронной почты</string>
+    <key>RememberPasswordFieldTitleKey</key><string>Войти автоматически в</string>
+    <key>UseRSAFieldTitleKey</key><string>Citrix Access Gateway ™</string>
+    <key>InvalidProtocolErrorTitleKey</key><string>Неверный адрес</string>
+    <key>InvalidProtocolErrorMessageKey</key><string>Пожалуйста, проверьте адрес и повторите попытку.</string>
+    <key>InvalidProtocolErrorButtonTitleKey</key><string>Изменения</string>
+    <key>HostUnreachableErrorTitleKey</key><string>Адрес недоступен</string>
+    <key>HostUnreachableErrorMessageKey</key><string>Этот адрес не может быть достигнут. Пожалуйста, проверьте адрес, параметры шлюза и подключения к сети.</string>
+    <key>HostUnreachableErrorButtonTitleKey</key><string>Хорошо</string>
+    <key>SetupScreenHelpLinkTitleKey</key><string>Подробнее...</string>
+    <key>SetupScreenHelpLinkKey</key><string>http://m.iPhone.Citrix.com/</string>
+    <key>SetupScreenButtonTitleKey</key><string>Следующая</string>
+    <key>InvalidCitrixXMLFromSuccessfulHTTPConnectionErrorMessageKey</key><string>По указанному адресу отсутствует допустимый список App. Пожалуйста, проверьте адрес, параметры шлюза и подключения к сети.</string>
+    <key>RSAPromptTitleKey</key><string>RSA SecurID ®</string>
+    <key>SMSPassCodePromptTitleKey</key><string>SMS аутентификации</string>
+    <key>PasscodePromptMessageKey</key><string>Введите ваше имя пользователя и пароль</string>
+    <key>PromptCancelButtonTitleKey</key><string>Отмена</string>
+    <key>PromptLoginButtonTitleKey</key><string>Хорошо</string>
+    <key>LoginFailedLabelKey</key><string>Пожалуйста, попробуйте еще раз.</string>
+    <key>loginFailedTitleKey</key><string>Не может войти</string>
+    <key>LoginFailedTryAgainTitleKey</key><string>Повторить</string>
+    <key>PasscodePromptUserNameKey</key><string>Имя пользователя</string>
+    <key>PasscodePromptPassCodeKey</key><string>Секретный код</string>
+    <key>GatewayEnableGatewayKey</key><string>Шлюз доступа</string>
+    <key>AuthenticationMethodGroupTitleKey</key><string>Шлюза аутентификации</string>
+    <key>AuthenticationMethodNoneKey</key><string>Без проверки подлинности</string>
+    <key>AuthenticationMethodDomainKey</key><string>Только домен</string>
+    <key>AuthenticationMethodTokenKey</key><string>Маркер только</string>
+    <key>AuthenticationMethodDomainAndTokenKey</key><string>Домен + маркер</string>
+    <key>RequiredFieldErrorTitleKey</key><string>Информация</string>
+    <key>RequiredFieldErrorMessageKey</key><string>Пожалуйста, заполните все обязательные поля перед сохранением этой учетной записи.</string>
+    <key>RequiredFieldAlertMessageKey</key><string>Пожалуйста, введите всю информацию перед подключением</string>
+    <key>RequiredFieldErrorButtonTitleKey</key><string>Уволить</string>
+    <key>DisabledSavePasswordTextFieldKey</key><string>отключен администратором</string>
+    <key>AccountSelectionTitleKey</key><string>Выбор</string>
+    <key>AccountSelectionNewWorkspaceLabelKey</key><string>Новая учетная запись</string>
+    <key>AccountSelectionPCConnectionLabelKey</key><string>Подключение ПК</string>
+    <key>AddDesktopScreenTitleKey</key><string>Добавить подключение</string>
+    <key>DesktopNameFieldTitleKey</key><string>Описание</string>
+    <key>DesktopNameFieldPlaceholderKey</key><string>Мое имя рабочего</string>
+    <key>DesktopAddressFieldPlaceholderKey</key><string>IP-адрес или имя компьютера</string>
+    <key>DesktopConnectionsTitleKey</key><string>Подключения к ПК</string>
+    <key>DesktopConnectButtonLabelKey</key><string>Подключение</string>
+    <key>RSAImportTitle</key><string>Импорт маркеров</string>
+    <key>RSAImportTokenFailed</key><string>Сбой импорта токен RSA.</string>
+    <key>RSAImportTokenSuccessTitle</key><string>Маркер, успешно импортирован </string>
+    <key>HaveAPinTitle</key><string>У вас уже есть ПИН-код?</string>
+    <key>RSAImportTokenPasswordTitle</key><string>Пожалуйста, введите пароль, предоставленный вашей справочной.</string>
+    <key>RSAPinSetupTitle</key><string>Установка ПИН-кода</string>
+    <key>RSAPasscodeSetupInstructions</key><string>Следуйте инструкциям из вашей справочной, используя одноразовый код, показанный здесь.</string>
+    <key>RSACancelTitle</key><string>Отмена маркера импорт</string>
+    <key>RSASecsRemaining</key><string>%@ оставшихся секунд</string>
+    <key>RSACancelConfirmTitle</key><string>Вы уверены, что вы хотите отменить токен RSA импорта?</string>
+    <key>RSATokenImportPasswordError</key><string>Введенный пароль неверен.</string>
+    <key>RSATokenExpired</key><string>Токен RSA истек.</string>
+    <key>RSATokenImportGeneralFailure</key><string>Произошла внутренняя ошибка при импорте токен RSA.</string>
+    <key>RSASerialIncorrectError</key><string>RSA серийный номер был неправильным.</string>
+    <key>RSAPinIncorrectError</key><string>ПИН-код RSA был неправильным.</string>
+    <key>RSAOtpParamIncorrectError</key><string>Параметр RSA OTP был неправильным.</string>
+    <key>RSASecondsRemainingError</key><string>RSA количество секунд, остальные неверные.</string>
+    <key>RSATokenNotFoundError</key><string>Токен RSA не найден.</string>
+    <key>RSAPasscodeRetrievalError</key><string>Произошла ошибка при получении код RSA.</string>
+    <key>RSAPasscodeKey</key><string>Секретный код RSA</string>
+    <key>RSATokenDeletionSuccess</key><string>RSA-токен %@ была удалена.</string>
+    <key>RSATokenDeletionSerialIncorrectError</key><string>Сбой удаления маркеров RSA. Серийный номер %@ неверно.</string>
+    <key>RSATokenDeletionNotFoundError</key><string>Сбой удаления маркеров RSA. Маркер не найти серийный номер %@.</string>
+    <key>RSATokenDeletionFailedError</key><string>Маркер для RSA маркер %@ удаления.</string>
+    <key>RSATokenReuseTitle</key><string>Ошибка ПИН</string>
+    <key>RSASoftTokenReUseMessage</key><string>Подождите 60 секунд, затем повторите попытку.</string>
+    <key>RSATokenReUseMessage</key><string>Подождите 60 секунд, затем повторите попытку</string>
+    <key>RSATokenImportContinue</key><string>Продолжить</string>
+    <key>RSATokenImportDuplicateError</key><string>Этот токен уже импортированы.</string>
+    <key>AuthenticatingKey</key><string>Проверка подлинности...</string>
+    <key>ConnectingKey</key><string>Подключение...</string>
+    <key>LaunchingKey</key><string>Запуск...</string>
+    <key>StartingKey</key><string>Начиная %@...</string>
+    <key>StartingApplicationKey</key><string>Запуск приложения...</string>
+    <key>SecuringCommunicationKey</key><string>Обеспечение коммуникаций...</string>
+    <key>SyncingAppsTitleKey</key><string>Обновление приложений...</string>
+    <key>LoadingProfileButtonCancelTitleKey</key><string>Отмена</string>
+    <key>LoadingProfileButtonDismissTitleKey</key><string>Уволить</string>
+    <key>PublishedItemsScreenTitleKey</key><string>Приложения</string>
+    <key>PublishedItemsTipMessage</key><string>\n Совет: можно добавлять или удалять приложения в рабочую область, нажав и удерживая его. \n</string>
+    <key>SearchAppsDesktopsPlaceholderKey</key><string>Поиск приложений и настольных компьютеров</string>
+    <key>FavoritesEditButtonTitleKey</key><string>Редактировать</string>
+    <key>FavoritesDoneButtonTitleKey</key><string>Договорились</string>
+    <key>EditFavoritesCancelButtonTitleKey</key><string>Отмена</string>
+    <key>AddFavoriteButtonTitleKey</key><string>Добавить избранное</string>
+    <key>AddFavoriteScreenTitleKey</key><string>Добавить избранное</string>
+    <key>AppDetailScreenTitleKey</key><string>Детали</string>
+    <key>AppDetailInfoNoDescriptionKey</key><string>Описание не предоставлено.</string>
+    <key>AppDetailRemoveFavoriteButtonLabelKey</key><string>Удалить Избранное</string>
+    <key>AppDetailAddToFavoritesButtonLabelKey</key><string>Добавить в избранное</string>
+    <key>AppCellFavoriteLabelKey</key><string>Любимый</string>
+    <key>AppViewNewApp</key><string>Новое приложение</string>
+    <key>AppBrowserAllFolders</key><string>Все папки</string>
+    <key>RefreshApplistLabelKey</key><string>Обновление приложений</string>
+    <key>UnableToUpdateApplistTitleKey</key><string>Не удается обновить Applist</string>
+    <key>UnableToUpdateApplistMessageKey</key><string>Существует проблема обновления текущей applist.</string>
+    <key>FeaturedNoFeaturedAppsKey</key><string>Рекомендуемые приложения не были определены для вас вашим администратором.</string>
+    <key>DesktopItemsUpdatingKey</key><string>Обновление...</string>
+    <key>DesktopItemsUpdatedKey</key><string>Обновление </string>
+    <key>DesktopItemsUpdatedDateFormatKey</key><string>ММ/дд/гггг ч: мм</string>
+    <key>DesktopOrganizeWorkspaceKey</key><string>Упорядочить избранное</string>
+    <key>DesktopSnapToGridTitleKey</key><string>Привязка к сетке</string>
+    <key>FeaturedCategoryKey</key><string>Рекомендуемые</string>
+    <key>AppListErrorButtonTitleKey</key><string>Уволить</string>
+    <key>ZeroPublishedItemsErrorKey</key><string>Никакие Apps доступны по этому адресу.</string>
+    <key>FailedToExtractListErrorKey</key><string>По указанному адресу отсутствует допустимый список App. Пожалуйста, проверьте адрес, параметры шлюза и подключения к сети.</string>
+    <key>BadAddressErrorTitleKey</key><string>Адрес не найден</string>
+    <key>BadAddressErrorMessageKey</key><string>Адрес не найден. Пожалуйста, проверьте адрес, параметры шлюза и подключения к сети.</string>
+    <key>BadAddressErrorButtonTitleKey</key><string>Хорошо</string>
+    <key>BadCredentialsErrorTitleKey</key><string>Неверные учетные данные</string>
+    <key>BadCredentialsErrorMessageKey</key><string>Ваши учетные данные были отклонены.</string>
+    <key>BadCredentialsErrorButtonTitleKey</key><string>Хорошо</string>
+    <key>CharlotteErrorBadCredentialsMessageKey</key><string>Проверьте имя пользователя и пароль и повторите попытку.</string>
+    <key>NoConfigurationFileTitleKey</key><string>Файл конфигурации не</string>
+    <key>NoConfigurationFileMessageKey</key><string>Не удалось достичь сервера файл конфигурации.</string>
+    <key>ResourceUnavailableTitleKey</key><string>Ресурс недоступен</string>
+    <key>ResourceUnavailableMessageKey</key><string>Сервер в настоящее время недоступен.</string>
+    <key>AppRemovedTitleKey</key><string>Приложение удалено</string>
+    <key>AppRemovedMessageKey</key><string>Запрашиваемого приложения был удален или отключен. Пожалуйста обновите список приложений.</string>
+    <key>CharlotteErrorAccountDisabledTitleKey</key><string>Учетная запись отключена</string>
+    <key>CharlotteErrorAccountDisabledMessageKey</key><string>Ваш аккаунт был отключен.</string>
+    <key>CharlotteErrorAccountLockedOutTitleKey</key><string>Учетная запись заблокирована</string>
+    <key>CharlotteErrorAccountLockedOutMessageKey</key><string>Ваша учетная запись временно заблокирована.</string>
+    <key>CharlotteErrorCredentialsMustChangeTitleKey</key><string>Необходимо изменить учетные данные</string>
+    <key>CharlotteErrorCredentialsMustChangeMessageKey</key><string>Ваши полномочия истекли и должен быть изменен.</string>
+    <key>CharlotteErrorCredentialsExpiredTitleKey</key><string>Срок действия учетных данных истек</string>
+    <key>CharlotteErrorCredentialsExpiredMessageKey</key><string>Истек срок действия учетных данных.</string>
+    <key>CharlotteErrorInvalidLogonHoursTitleKey</key><string>Неудачных часов</string>
+    <key>CharlotteErrorInvalidLogonHoursMessageKey</key><string>Ваш системный администратор запретил вам вход в это время.</string>
+    <key>InternalServerErrorKey</key><string>На данный момент никакие Apps.</string>
+    <key>UnableToLaunchApplicationTitleKey</key><string>Запуск приложения</string>
+    <key>UnableToLaunchApplicationMessageKey</key><string>Не удалось запустить требуемый App. Select \"More Info\" для получения более подробной информации.</string>
+    <key>UnableToLaunchApplicationDueToNetWorkKey</key><string>Это приложение не была отключена администратором, или сервер не принимает подключения.</string>
+    <key>UnableToLaunchApplicationButtonKey</key><string>Хорошо</string>
+    <key>HTTP404ErrorMessageKey</key><string>По указанному адресу отсутствует допустимый список App. Пожалуйста, проверьте адрес, параметры шлюза и подключения к сети.</string>
+    <key>AppListFailedGatewayAuthErrorKey</key><string>Проверьте учетные данные и подключения к сети.</string>
+    <key>AppListFailedGatewayPreAuthScanNotSupportedErrorKey</key><string>Предварительной проверки подлинности конечной точки анализа сканирование не поддерживается на этом устройстве.</string>
+    <key>AppListFailedGatewayNextTokenErrorKey</key><string>Устройство находится в следующий маркер состоянии.</string>
+    <key>AppListFailedErrorTitleKey</key><string>Не удается загрузить список приложений</string>
+    <key>AppListFailedErrorButtonTitleKey</key><string>Хорошо</string>
+    <key>UnknownErrorMessageKey</key><string>На данный момент никакие Apps.</string>
+    <key>AccountLockedOutErrorMessageKey</key><string>Ваш администратор заблокировал аккаунт.</string>
+    <key>ChangeAccountSettingsButtonTitleKey</key><string>Параметры</string>
+    <key>GatewaySessionExpiredErrorMessageKey</key><string>Ваш шлюз доступа сессии истек, пожалуйста войдите снова.</string>
+    <key>SessionTicketInvalidErrorMessageKey</key><string>Ваш билет сеанса является недействительным, пожалуйста войдите в систему снова.</string>
+    <key>AuthenticationErrorTitleKey</key><string>Ошибка аутентификации</string>
+    <key>UnableToLaunchAppDetailsTitleKey</key><string>Подробные сведения об ошибке</string>
+    <key>LoginErrorMessageNull</key><string>Значение null</string>
+    <key>LoginErrorMessageSuccess</key><string>Успех</string>
+    <key>LoginErrorMessageInvalidAddress</key><string>Неверный адрес</string>
+    <key>LoginErrorMessageSSLError</key><string>Ошибка SSL</string>
+    <key>LoginErrorMessageIoException</key><string>Исключение ввода-вывода</string>
+    <key>LoginErrorMessageProtocolException</key><string>Исключение протокола</string>
+    <key>LoginErrorMessageEpaEnabled</key><string>EPA включен</string>
+    <key>LoginErrorMessageConfigXmlPathNotDetermined</key><string>ConfigXml путь не определен</string>
+    <key>LoginErrorMessageUserCancelled</key><string>Отменено пользователем</string>
+    <key>LoginErrorMessageUnexpectedResponse</key><string>Неожиданный ответ</string>
+    <key>LoginErrorMessagePreAuthEnabled</key><string>PreAuth включен</string>
+    <key>LoginErrorMessageNewPinRequired</key><string>Новый ПИН-код Required.\n\nPlease создать новый ПИН-код, с помощью веб-браузера.</string>
+    <key>LoginErrorMessageNextTokencodeRequired</key><string>Текущий маркер не является synchronized.\n\nPlease повторно синхронизировать ваш маркер, с помощью веб-браузера.</string>
+    <key>LoginErrorMessageChangePasswordRequired</key><string>Пароль для этой учетной записи есть expired.\n\nPlease изменить пароль с помощью веб-браузера.</string>
+    <key>LoginErrorMessagePinSetupFailed</key><string>Неправильный PIN-код.</string>
+    <key>NoAvailableWorkstationTitleKey</key><string>Нет доступных серверных станций</string>
+    <key>NoAvailableWorkstationMessageKey</key><string>Есть нет доступных серверных станций на которой будет выполняться приложение.</string>
+    <key>ServerErrorKey</key><string>Ошибка сервера.</string>
+    <key>TheServerDisconnectedTheSessionKey</key><string>Сервер отключил сеанс.</string>
+    <key>WaitForICASessionKey</key><string>Подождите...</string>
+    <key>SessionExitActionSheetTitleKey</key><string></string>
+    <key>SessionExitActionSheetBackButtonTitleKey_XA</key><string>Вернуться к приложениям</string>
+    <key>SessionExitActionSheetExitButtonTitleKey_XA</key><string>Закрыть приложение</string>
+    <key>SessionExitActionSheetBackButtonTitleKey_XD</key><string>Обратно на настольных компьютерах</string>
+    <key>SessionExitActionSheetExitButtonTitleKey_XD</key><string>Отправить Crtl + Alt + Del</string>
+    <key>SessionExitActionSheetGesturesButtonTitleKey</key><string>Жесты Путеводитель</string>
+    <key>SessionExitActionSheetCancelButtonTitleKey</key><string>Отмена</string>
+    <key>SessionStatePanningMode</key><string>Режим панорамирования</string>
+    <key>SessionStateScrollingMode</key><string>Режим прокрутки</string>
+    <key>SegmentedControlTitleDisconnect</key><string>Отсоедините</string>
+    <key>SegmentedControlTitleLogoff</key><string>Выход</string>
+    <key>SegmentedControlTitleResetZoom</key><string>Сброс зум</string>
+    <key>SegmentedControlTitleChangeResolution</key><string>Изменить разрешение</string>
+    <key>SegmentedControlTitleGesturesGuide</key><string>Жесты Путеводитель</string>
+    <key>SegmentedControlTitleDismiss</key><string>Уволить</string>
+    <key>SwitchingWindowTitleKey</key><string>Переключение окон</string>
+    <key>SessionStateScrollingOn</key><string>Прокрутка на</string>
+    <key>SessionStateScrollingOff</key><string>Прокрутка от</string>
+    <key>SessionStateScrollingOnSmall</key><string>Прокрутка на</string>
+    <key>SessionStateScrollingOffSmall</key><string>Прокрутка от</string>
+    <key>SessionWarningTitleKey</key><string>Предупреждение сессии</string>
+    <key>SessionReadyTitleKey</key><string>App Ready Alert</string>
+    <key>SessionReadyMessageKey</key><string>Ваше приложение теперь готова.</string>
+    <key>SessionReadyCancelButtonTitleKey</key><string>Отмена</string>
+    <key>SessionReadyOkButtonTitleKey</key><string>Показать App</string>
+    <key>CurrentSessionTerminatedKey</key><string>Ваш сеанс был завершен, вы можете открыть приемник, чтобы начать новый сеанс.</string>
+    <key>GuesturesGuidePortraitFileKey</key><string>gestures_portrait.png</string>
+    <key>GuesturesGuideLandscapeLeftFileKey</key><string>gestures_landscape_left.png</string>
+    <key>GuesturesGuideLandscapeRightFileKey</key><string>gestures_landscape_right.png</string>
+    <key>SettingsTabTitleKey</key><string>Параметры</string>
+    <key>SettingsSessionTitleKey</key><string>Параметры сеанса</string>
+    <key>SettingsWorkspaceTitleKey</key><string>Параметры рабочей области</string>
+    <key>SettingsAccountTitleKey</key><string>Настройки учетной записи</string>
+    <key>SettingsWallpaperLabelKey</key><string>Обои</string>
+    <key>SettingsWallpaperTitleKey</key><string>Обои</string>
+    <key>SettingsAppearanceLabelKey</key><string>Дисплей</string>
+    <key>SettingsSessionLabelKey</key><string>Сессия</string>
+    <key>SettingsKeyboardLabelKey</key><string>Клавиатура</string>
+    <key>SettingsAudioLabelKey</key><string>Аудио</string>
+    <key>SettingsMultimediaLabelKey</key><string>Win Media перенаправление</string>
+    <key>SettingsDefaultProfileLabelKey</key><string>Учетная запись по умолчанию</string>
+    <key>SettingsCaffeineLabelKey</key><string>Кофеин</string>
+    <key>SettingsHelpLabelKey</key><string>Справка</string>
+    <key>SettingsFeedbackLabelKey</key><string>Отправить отзыв</string>
+    <key>SettingsFeedbackMailComposerMailBodyKey</key><string>&lt; br / раздел настроек обратной связи: </string>
+    <key>SettingsFeedbackMailAppMailBodyKey</key><string>&amp; тела = &lt; br / раздел настроек обратной связи: </string>
+    <key>SettingsTellaFriendMailComposerMailBodyKey</key><string>&lt;p&gt;Проверить это приложение:&lt;/p&gt;</string>
+    <key>SettingsTellaFriendMailAppMailBodyKey</key><string>&amp; тела = &lt;p&gt;проверить это приложение:&lt;/p&gt;</string>
+    <key>SettingsReceiverAppStoreAddress</key><string>http://iTunes.Apple.com/WebObjects/MZStore.WOA/WA/viewSoftware?ID=363501921&amp;MT=8</string>
+    <key>SettingsAboutLabelKey</key><string>О</string>
+    <key>SettingsAppearanceTitleKey</key><string>Параметры отображения</string>
+    <key>SettingsKeyboardTitleKey</key><string>Параметры клавиатуры</string>
+    <key>SettingsDefaultProfileTitleKey</key><string>Учетная запись по умолчанию</string>
+    <key>SettingsCaffeineTitleKey</key><string>Кофеин</string>
+    <key>SettingsAboutScreenTitleKey</key><string>О</string>
+    <key>SettingsResolutionLabelKey</key><string>Сессии резолюцию</string>
+    <key>SettingsZoomLabelKey</key><string>Первоначальный масштаб</string>
+    <key>SettingsHideStatusBarLabelKey</key><string>Скрыть строку состояния</string>
+    <key>SettingsResolutionTitleKey</key><string>Сессии резолюцию</string>
+    <key>SettingsZoomTitleKey</key><string>Зум</string>
+    <key>SettingsProfilesFooterOnTitleKey</key><string>Когда off, последний используется счет будет самостоятельной загрузки \n в следующий раз откроется Citrix приемника.</string>
+    <key>SettingsProfilesFooterOffTitleKey</key><string>Когда на выбранный счет самостоятельно загрузит \n каждый раз открывает Citrix приемника.</string>
+    <key>SettingsResolutionDefaultLabelKey</key><string>Разрешение по умолчанию</string>
+    <key>SettingsResolutionAutofitLabelKey</key><string>Auto-fit экран</string>
+    <key>SettingsResolutionFitScreenLabelKey</key><string>Fit портрет</string>
+    <key>SettingsResolutionFitWideScreenLabelKey</key><string>Fit пейзаж</string>
+    <key>SettingsResolutionLargeLabelKey</key><string>Большие</string>
+    <key>SettingsResolutionMediumLabelKey</key><string>Средний</string>
+    <key>SettingsResolutionSmallLabelKey</key><string>Маленький</string>
+    <key>SettingsStayAwakeLabelKey</key><string>Бодрствовать</string>
+    <key>SettingsStayAwakeFooterTitleKey</key><string>Предотвращает ваш iPad экран от перехода \n для сна, но может уменьшить аккумулятора.</string>
+    <key>SettingsStayAwakeFooteriPhoneTitleKey</key><string>Предотвращает ваш iPhone или iPod Touch в спящий режим, но может уменьшить аккумулятора.</string>
+    <key>SettingsZoomActualSizeLabelKey</key><string>Фактический размер</string>
+    <key>SettingsZoomZoomedInLabelKey</key><string>Увеличено</string>
+    <key>SettingsZoomZoomedOutLabelKey</key><string>Масштаб</string>
+    <key>SettingsShareLabelKey</key><string>Предоставить общий доступ</string>
+    <key>SettingsTellAFriendLabelKey</key><string>Рассказать другу</string>
+    <key>SettingsHelpTitleKey</key><string>Справка</string>
+    <key>DismissHelpTitleKey</key><string>Договорились</string>
+    <key>SettingsStartSessionCenterLabelKey</key><string>Начать по центру</string>
+    <key>SettingsZoomViewFooterTitleKey</key><string>Если первоначальный масштаб отличается от \"Actual Size\ «\n \"Start Centered\» вариант будет игнорироваться</string>
+    <key>SettingsExitSessionLabelKey</key><string>Спросите удалились</string>
+    <key>SettingsGesturesLabelKey</key><string>Жесты Путеводитель</string>
+    <key>SettingsStartInScrollModeLabelKey</key><string>Запуск в режиме прокрутки</string>
+    <key>SettingsExternalDisplayLabelKey</key><string>Внешний дисплей</string>
+    <key>SettingsUseDeviceStorageLabelKey</key><string>Использование %@ хранения</string>
+    <key>SettingsLogOutLabelKey</key><string>Выход</string>
+    <key>SettingsLogOutMessageKey</key><string>Выход %@?</string>
+    <key>SettingsLearnAskShareLabelKey</key><string>Узнать, спросить и поделиться</string>
+    <key>SettingsApplicationSettingsLabelKey</key><string>Параметры приложения</string>
+    <key>SettingsLaunchTrackpadLabelKey</key><string>Беспроводной трекпад</string>
+    <key>SettingsTrackpadModeLabelKey</key><string>Указатель</string>
+    <key>SettingsAdvancedLabelKey</key><string>Расширенный</string>
+    <key>SettingsLogOffLabelKey</key><string>Выход</string>
+    <key>SettingsSessionSharingLabelKey</key><string>Сессии обмена</string>
+    <key>SettingsSessionSharingAutoAddFavoritesLabelKey</key><string>Авто добавить в избранное</string>
+    <key>SettingsSessionSharingAutoAddFavoritesMessageKey</key><string>Автоматически добавляет запущенных приложений в избранное для быстрого доступа к сессии общие черты.</string>
+    <key>SettingsReconnectLogon</key><string>Повторное подключение во время входа учетной записи</string>
+    <key>SettingsReconnectRefresh</key><string>Подключите во время обновления</string>
+    <key>SettingsWorkspaceControlLabelKey</key><string>Область управления</string>
+    <key>SettingFullscreenWindowKey</key><string>Окно в полноэкранный режим</string>
+    <key>SettingsReconnectMessageKey</key><string>Автоматически подключиться к сеансу, начал с другого устройства, при добавлении учетной записи или обновления приложений, если доступен только один сеанс.</string>
+    <key>SettingsAutomaticKeyboardLabelKey</key><string>Автоматическая клавиатура</string>
+    <key>SettingsCustomKeysLabelKey</key><string>Дополнительные клавиши</string>
+    <key>SettingsNativeComboBoxLabelKey</key><string>Использование поля со списком</string>
+    <key>SettingsAllowKeyboardExtensionsLabelKey</key><string>Использовать пользовательские клавишные</string>
+    <key>SettingsDontAllowKeyboardExtensionsLabelKey</key><string>Отключить пользовательские клавишные</string>
+    <key>SettingsAllowKeyboardExtensionsMessageKey</key><string>Разрешение пользовательской клавиатуры, которые взаимодействуют с внешними источниками, может создать угрозу безопасности.  Отключение их является безопасный вариант. \n\nAllowing пользовательской клавиатуры потребует приемника для выхода. Вы может затем перезагрузите приемник</string>
+    <key>SettingsTokenManagementLabelKey</key><string>Маркер безопасности</string>
+    <key>SettingsTokensLabelKey</key><string>Маркер</string>
+    <key>SettingsOptionsLabelKey</key><string>Параметры</string>
+    <key>SettingsRequestHelpFromSupportLabelKey</key><string>Запросить помощь в службе поддержки</string>
+    <key>SettingsMutlitouchModeLabelKey</key><string>Включить сенсорный</string>
+    <key>RequestHelpFromSupportMailBodyTemplate</key><string>&lt;b&gt; &lt; &lt;/b&gt;Имя сотрудника &lt;b&gt;&gt;&lt;/b&gt; возникли проблемы с Citrix приемником на iOS. &lt; br / раздел настроек &lt; br / раздел настроек вот описание моей проблемы &lt; br / раздел настроек &lt; br / раздел настроек о вашем устройстве:</string>
+    <key>SendFeatureIdeasToCitrixMailBodyTemplate</key><string>Вот мои идеи для улучшения Citrix приемника на iOS: &lt; br / раздел настроек &lt; br / раздел настроек &lt; br / раздел настроек о моем устройстве:</string>
+    <key>EmailBodyDeviceModel</key><string>Модель устройства: %@</string>
+    <key>EmailBodyOSVersion</key><string>Версия iOS: %@</string>
+    <key>EmailBodyReceiverVersion</key><string>Версия приемника: %@</string>
+    <key>EmailBodyIsJailBroken</key><string>Это Jailbroken: %@</string>
+    <key>EmailBodyApplicationMemory</key><string>Памяти приложения: %@</string>
+    <key>EmailBodyFreeMemory</key><string>Свободная память: %@</string>
+    <key>EmailBodyTotalMemory</key><string>Общая память: %@</string>
+    <key>EmailBodyMemoryFormat</key><string>%d ДМБ</string>
+    <key>TokenManagementSerialNumber</key><string>Серийный номер</string>
+    <key>TokenManagementExpirationDate</key><string>Дата окончания срока действия</string>
+    <key>TokenManagementGetPasscode</key><string>Получить код доступа</string>
+    <key>TokenManagementDeleteToken</key><string>Удалить маркер</string>
+    <key>SettingsSupportKey</key><string>Поддержка</string>
+    <key>SettingsSupportVisit</key><string>Посетить support.citrix.com</string>
+    <key>SettingsIdeasKey</key><string>Отправить функция идеи Citrix</string>
+    <key>SettingsLogOptionsTitleKey</key><string>Параметры журнала</string>
+    <key>SettingsLogs_LogLevel_Critical_Key</key><string>Уровень 1 критические</string>
+    <key>SettingsLogs_LogLevel_Error_Key</key><string>Ошибка уровня 2</string>
+    <key>SettingsLogs_LogLevel_Warning_Key</key><string>Предупреждение уровня 3</string>
+    <key>SettingsLogs_LogLevel_Info_Key</key><string>Уровень 4 информационных</string>
+    <key>SettingsLogs_LogLevel_Detail_Key</key><string>Уровень 5 подробно</string>
+    <key>SettingsLogs_LogLevel_Debug_Key</key><string>6 уровня отладки</string>
+    <key>SettingsLogs_LogDestination_File_Key</key><string>Файл</string>
+    <key>SettingsLogs_LogDestination_Console_Key</key><string>Консоль</string>
+    <key>SettingsLogs_LogDestination_FileAndConsole_Key</key><string>Файл и консоли</string>
+    <key>SettingsLogs_MaxLogFiles_Key</key><string>Максимальное количество файлов журнала:</string>
+    <key>SettingsLogs_MaxLogFileSize_Key</key><string>Максимальный размер файла журнала:</string>
+    <key>SettingsLogs_LogLevel_Options_Key</key><string>Уровень журнала</string>
+    <key>SettingsLogs_LogDestination_Options_Key</key><string>Журнал назначения</string>
+    <key>SettingsLogs_ResetToDefaults_Key</key><string>Сброс</string>
+    <key>SettingsLogDestinationOptionsTitleKey</key><string>Журнал назначения</string>
+    <key>SettingsLogOptionsResetToDefaultValuesTitleKey</key><string>Восстановить значения по умолчанию</string>
+    <key>SettingsLogOptionsResetToDefaultValuesMessageKey</key><string>Параметры журнала были сброшены к значениям по умолчанию.</string>
+    <key>SettingsLogDetailWarningTitle</key><string>Предупреждение!</string>
+    <key>SettingsLogDetailWarningMessage</key><string>При выборе этого уровня может замедлить работу приемника.  Вы хотите продолжить?</string>
+    <key>AltKeyTitleKey</key><string>Alt</string>
+    <key>AltTabKeyTitleKey</key><string>Alt + Tab</string>
+    <key>ControlCKeyTitleKey</key><string>Копия</string>
+    <key>ControlAltDeleteKeyTitleKey</key><string>Ctrl + Alt + Del</string>
+    <key>ControlEscapeKeyTitleKey</key><string>Ctrl + Esc</string>
+    <key>ControlXKeyTitleKey</key><string>Вырезать</string>
+    <key>ControlZKeyTitleKey</key><string>Отменить</string>
+    <key>DeleteKeyTitleKey</key><string>Дель</string>
+    <key>EndKeyTitleKey</key><string>Конец</string>
+    <key>EscapeKeyTitleKey</key><string>ESC</string>
+    <key>F1KeyTitleKey</key><string>F1</string>
+    <key>F2KeyTitleKey</key><string>F2</string>
+    <key>F3KeyTitleKey</key><string>F3</string>
+    <key>F4KeyTitleKey</key><string>F4</string>
+    <key>F5KeyTitleKey</key><string>F5</string>
+    <key>F6KeyTitleKey</key><string>F6</string>
+    <key>F7KeyTitleKey</key><string>F7</string>
+    <key>F8KeyTitleKey</key><string>F8</string>
+    <key>F9KeyTitleKey</key><string>F9</string>
+    <key>F10KeyTitleKey</key><string>F10</string>
+    <key>F11KeyTitleKey</key><string>F11</string>
+    <key>F12KeyTitleKey</key><string>F12</string>
+    <key>HomeKeyTitleKey</key><string>Главная</string>
+    <key>IMEKey</key><string>IME</string>
+    <key>WinKeyTitleKey</key><string>Победа</string>
+    <key>ControlKeyTitleKey</key><string>Ctrl</string>
+    <key>PageDownKeyTitleKey</key><string>Page Down</string>
+    <key>PageUpKeyTitleKey</key><string>Page Up</string>
+    <key>ControlVKeyTitleKey</key><string>Паста</string>
+    <key>RefreshKeyTitleKey</key><string>Обновить</string>
+    <key>ControlSKeyTitleKey</key><string>Сохранить</string>
+    <key>SlideshowKeyTitleKey</key><string>Слайд-шоу</string>
+    <key>TabKeyTitleKey</key><string>Закладка</string>
+    <key>AltF4TitileKey</key><string>Закрыть окно</string>
+    <key>ShiftKeyTitleKey</key><string>Сдвиг</string>
+    <key>StartMenuKeyTitleKey</key><string>Меню «Пуск»</string>
+    <key>SendKeyTitleKey</key><string>Отправить</string>
+    <key>CopyKeyTitleKey</key><string>Копия</string>
+    <key>DoneKeyTitleKey</key><string>Договорились</string>
+    <key>VirtualTextViewMargin</key><string>140</string>
+    <key>UseUnicodeKeyboardKey</key><string>Использование Unicode клавиатуры</string>
+    <key>PinKeyboardToolbar</key><string>PIN клавиатуры панели инструментов</string>
+    <key>CitrixDocFinderAppNameKey</key><string>Finder Citrix Doc</string>
+    <key>SMSMsgTitle</key><string>Секретный код статуса</string>
+    <key>SMSMsgButtonTitle</key><string>Хорошо</string>
+    <key>SMSPassCodeRequestSuccessMsg</key><string>Вы получите ваш один раз пароль в текстовом сообщении вскоре. Пожалуйста выберите ответ и нажмите по ссылке внутри сообщения текста.</string>
+    <key>AddProfileFromUrlWarningMsg</key><string>Вы собираетесь добавить новую учетную запись. Пожалуйста просмотрите сведения на следующем экране и только сохранить его, если он поступает из надежного источника.</string>
+    <key>AddProfileFromUrlWarningTitle</key><string>Добавление учетной записи</string>
+    <key>PasswordSaveStatusChangeTitleKey</key><string>Смена статуса</string>
+    <key>PasswordSavingHasBeenDisabledMessageKey</key><string>Администратор отключил сохранение паролей на этом сервере</string>
+    <key>PasswordSavingHasBeenEnabledMessageKey</key><string>Администратор позволяет сохранять пароли на этом сервере.</string>
+    <key>ChangePasswordErrorTitleKey</key><string>Ошибка пароля</string>
+    <key>ChangePasswordErrorFailedConsistencyCheck</key><string>Произошла ошибка при попытке изменить пароль password.\n\nYour не был изменен.</string>
+    <key>ChangePasswordErrorNewPasswordInvalid</key><string>Новый пароль, введенный вами был признан недействительным.</string>
+    <key>ChangePasswordErrorOldPasswordInvalid</key><string>Старый пароль, введенный вами был признан недействительным.</string>
+    <key>ChangePasswordErrorNewPasswordMismatch</key><string>Новый пароль, введенный вами не найдено.</string>
+    <key>ChangePasswordErrorOldPasswordMismatch</key><string>Старый пароль, введенный вами не соответствует.</string>
+    <key>ChangePasswordErrorOperationFailed</key><string>Произошла ошибка при попытке изменить пароль password.\n\nYour не был изменен.</string>
+    <key>ChangePasswordOldPasswordPlaceholderKey</key><string>Старый пароль</string>
+    <key>ChangePasswordNewPasswordPlaceholderKey</key><string>Новый пароль</string>
+    <key>ChangePasswordConfirmPasswordPlaceholderKey</key><string>Подтверждение пароля</string>
+    <key>ChangePasswordPasswordExpiredTitleKey</key><string>Срок действия пароля истек</string>
+    <key>ChangePasswordPasswordExpiredMessageKey</key><string>Смена пароля требуется</string>
+    <key>ChangePasswordPasswordExpiredContactAdminMessageKey</key><string>Измените свой пароль и повторите попытку.</string>
+    <key>ChangePasswordPasswordExpiredContactAdminMessageKey2</key><string>Измените свой пароль и повторите попытку.</string>
+    <key>ChangePasswordPasswordsNotMatch</key><string>Пароли не не матч. \nThe пароль для этой учетной записи есть expired.\n\nWould вы хотите изменить пароль сейчас?</string>
+    <key>ChangePasswordPasswordExpiredPromptKey</key><string>Истек срок действия пароля, пожалуйста, введите новый пароль</string>
+    <key>ChangePasswordPleaseLoginAgain</key><string>Обновление пароля. снова войти \nPlease.</string>
+    <key>NextTokenTitleKey</key><string>Следующий маркер</string>
+    <key>NextTokenPlaceholderKey</key><string>Следующий маркер</string>
+    <key>NextTokenMessageKey</key><string>Подождите маркера код для изменения, а затем введите новый маркер code.\n\n</string>
+    <key>NextTokenInvalidTokenKey</key><string>Недопустимый маркер</string>
+    <key>NextTokenOperationFailedMessageKey</key><string>Маркер sync не представляется возможным. Пожалуйста, повторите попытку позже</string>
+    <key>NextTokenLoginAgainMessageKey</key><string>Обновление маркера. \nPlease ждать маркера код для изменения, а затем снова войдите.</string>
+    <key>NextTokenEnterPasscodeKey</key><string>Введите секретный код</string>
+    <key>NextTokenNewPINKey</key><string>Новый ПИН-код</string>
+    <key>NextTokenConfirmNewPINKey</key><string>Подтвердите новый ПИН-код</string>
+    <key>NextTokenEnterNewPINTitleKey</key><string>Введите новый PIN-код</string>
+    <key>NextTokenEnterNewPINMessageKey</key><string>Введите новый PIN-код от 4 до 8 символов.</string>
+    <key>NextTokenPINsNotMatch</key><string>Булавки не не матч. \nEnter новый ПИН-код от 4 до 8 символов.</string>
+    <key>NextTokenPINChangedMessageKey</key><string>PIN-код изменен успешно. \nPlease ждать tokencode изменить, а затем введите Ваш ПИН-код и следующий tokencode.</string>
+    <key>TokenPlaceholderKey</key><string>Маркер</string>
+    <key>PinPlaceholderKey</key><string>PIN-КОД</string>
+    <key>PinTokenPlaceholderKey</key><string>PIN + маркер</string>
+    <key>ASyncHTTPCannotVerifyServerIdentityWithManualSetupOption</key><string>Не удается проверить сертификат данного сервера: \ "%@\». Сервер не может быть безопасной. \nTo продолжать доступа, выстучайте установки и проверить предупреждения сертификата \"Ignore. \»</string>
+    <key>ASyncHTTPCannotVerifyServerIdentityWithContactHelpdesk</key><string>Этот сервер не может быть безопасным: \ "%@\». Попросите службу поддержки действительный сертификат.</string>
+    <key>ASyncHTTPInvalidSSLCert</key><string>Сертификат не доверяют</string>
+    <key>ASyncHTTPAllowButtonLabelKey</key><string>Разрешить</string>
+    <key>ASyncHTTPSetupButtonLabelKey</key><string>Установка</string>
+    <key>ASyncHTTPGetDataError</key><string>Не удалось получить данные. \nStatus: %d, %@.</string>
+    <key>AsyncHTTPLearnMoreButtonLabelKey</key><string>Подробнее</string>
+    <key>BluetoothAlertTitleKey</key><string>Подключение</string>
+    <key>BluetoothSessionEstablishedMessageKey</key><string>Беспроводной сессия уже созданы.</string>
+    <key>BluetoothWaitingConnectionMessageKey</key><string>Ожидание удаленное устройство для подключения...</string>
+    <key>OkButtonText</key><string>Хорошо</string>
+    <key>YesButtonText</key><string>Да</string>
+    <key>NoButtonText</key><string>Нет</string>
+    <key>DismissButtonText</key><string>Уволить</string>
+    <key>CancelButtonText</key><string>Отмена</string>
+    <key>MoreInfoButtonText</key><string>Более подробная информация</string>
+    <key>NextButtonText</key><string>Следующая</string>
+    <key>SaveButtonText</key><string>Сохранить</string>
+    <key>ConfirmButtonText</key><string>Подтвердите</string>
+    <key>BackButtonText</key><string>Назад</string>
+    <key>AllowButtonText</key><string>Разрешить</string>
+    <key>DontAllowButtonText</key><string>Не разрешать</string>
+    <key>ConnectionErrorText</key><string>Произошла ошибка во время соединения. Проверьте подключение к сети и адрес сервера.</string>
+    <key>LoginButtonText</key><string>Войти</string>
+    <key>ExitingTitle</key><string>Выход из</string>
+    <key>ExitingText</key><string>Приемник будет прервана.</string>
+    <key>RestartWarningText</key><string>Это изменение требует приемника для выхода. Вы может затем перезагрузите приемник</string>
+    <key>ExitButtonText</key><string>Выход</string>
+    <key>DontExitButtonText</key><string>Не выход</string>
+    <key>HelpButtonText</key><string>Справка</string>
+    <key>HelpURL</key><string>http://support.Citrix.com/Help/Receiver/58/iOS/en/index.HTML</string>
+    <key>SettingsPrivacyKey</key><string>Политика конфиденциальности</string>
+    <key>PrivacyURL</key><string>http://www.Citrix.com/about/legal/privacy/plain.HTML</string>
+    <key>SettingsLicensesKey</key><string>Третьей стороной уведомления</string>
+    <key>3rdParthNoticesURL</key><string>HTTPS://www.Citrix.com/buy/Licensing/Open-Source.HTML</string>
+    <key>GesturesTitleKey</key><string>Жесты</string>
+    <key>GestureTapLabelKey</key><string>Нажмите Нажмите</string>
+    <key>GestureTapHoldReleaseLabelKey</key><string>Нажмите, удерживайте на мгновение, затем отпустите правой кнопкой мыши</string>
+    <key>GestureTapHoldMoveLabelKey</key><string>Нажмите, удерживайте на мгновение, затем переместить перетащить</string>
+    <key>GesturePanLabelKey</key><string>Переместите палец для прокрутки экрана</string>
+    <key>GestureVerticalSwipeLabelKey</key><string>Вертикальной прокрутки для прокрутки</string>
+    <key>GestureHorizontalSwipeLabelKey</key><string>Горизонтальной прокрутки влево/вправо стрелки</string>
+    <key>GesturePinchLabelKey</key><string>Пинч, чтобы увеличить</string>
+    <key>GestureTwoFingerTapLabelKey</key><string>Коснитесь экрана двумя пальцами, чтобы увеличить/уменьшить</string>
+    <key>GestureTwoFingerSwipeLabelKey</key><string>Два пальца перенести представление</string>
+    <key>GestureRightClickLabelKey</key><string>Щелкните правой кнопкой мыши</string>
+    <key>GestureAltTabLabelKey</key><string>Alt + Tab</string>
+    <key>GestureToggleKeyboardLabelKey</key><string>Переключение клавиатуры</string>
+    <key>GestureLeftArrowLabelKey</key><string>Клавиша со стрелкой влево</string>
+    <key>GestureRightArrowLabelKey</key><string>Клавишу со стрелкой вправо</string>
+    <key>GestureUpArrowLabelKey</key><string>Клавиша со стрелкой вверх</string>
+    <key>GestureDownArrowLabelKey</key><string>Клавиша со стрелкой вниз</string>
+    <key>GestureMouseWheelUpLabelKey</key><string>Колесо мыши вверх</string>
+    <key>GestureMouseWheelDownLabelKey</key><string>Колесо мыши вниз</string>
+    <key>GestureTapAndHoldKey</key><string>Коснитесь и удерживайте</string>
+    <key>GestureTwoFingerTapKey</key><string>Два пальца кран</string>
+    <key>GestureThreeFingerTapKey</key><string>Три пальца кран</string>
+    <key>GestureSwipeLeftKey</key><string>Смахните влево</string>
+    <key>GestureSwipeRightKey</key><string>Проведите право</string>
+    <key>GestureSwipeUpKey</key><string>Смахните вверх</string>
+    <key>GestureSwipeDownKey</key><string>Быстро проведите пальцем вниз</string>
+    <key>GestureTwoFingerSwipeLeftKey</key><string>Два пальца прокрутки влево</string>
+    <key>GestureTwoFingerSwipeRightKey</key><string>Два пальца прокрутки право</string>
+    <key>GestureTwoFingerSwipeUpKey</key><string>Два пальца вверх</string>
+    <key>GestureTwoFingerSwipeDownKey</key><string>Два пальца вниз</string>
+    <key>GestureThreeFingerSwipeLeftKey</key><string>Три пальца проведите влево</string>
+    <key>GestureThreeFingerSwipeRightKey</key><string>Три пальца проведите право</string>
+    <key>GestureThreeFingerSwipeUpKey</key><string>Три пальца вверх</string>
+    <key>GestureThreeFingerSwipeDownKey</key><string>Три пальца вниз</string>
+    <key>GestureDisableGesture</key><string>Отключить жест</string>
+    <key>GestureResetToDefaultLabelKey</key><string>Восстановить по умолчанию</string>
+    <key>GestureResetToDefaultMessageKey</key><string>Вы уверены, что вы хотите, чтобы восстановить их значения по умолчанию жесты?</string>
+    <key>SecurityAlertTitleKey</key><string>Оповещение системы безопасности</string>
+    <key>SecurityAlertJailbreakMessageKey</key><string>Citrix приемник обнаружил этот прибор был jailbroken и не может быть доверенным для запуска этого приложения надежно.</string>
+    <key>SecurityAlertExitButtonLabelKey</key><string>Выход</string>
+    <key>IgnoreCertificateErrorsKey</key><string>Игнорировать предупреждения сертификатов</string>
+    <key>IgnoreCertificateErrorsMessage</key><string>Вы уверены, что вы хотите обойти сертификат безопасности? Обращайтесь службу поддержки, если вы не уверены.</string>
+    <key>DataSaveAlertTitleKey</key><string>Несохраненные данные оповещения</string>
+    <key>DataSaveAlertMessageKey</key><string>Приложение имеет некоторые несохраненные данные, которые могут быть сохранены в буфере обмена для использования в будущем, вы хотите сохранить его теперь?</string>
+    <key>DataSaveAlertCancelButtonLabelKey</key><string>Отменить</string>
+    <key>DataSaveAlertOKButtonLabelKey</key><string>Сохранить</string>
+    <key>TrackpadReadyToConnectTitleKey</key><string>Готов к подключению</string>
+    <key>TrackpadAcceptConnectionFromLabelKey</key><string>Принимать подключения от: \n</string>
+    <key>TrackpadConfirmConnectionLabelKey</key><string>Подтверждение подключения</string>
+    <key>TrackpadConnectionErrorLabelKey</key><string>Ошибка соединения</string>
+    <key>TrackpadWirelessTrackpadActiveAlertMessageKey</key><string>Беспроводной трекпад является активным. Пожалуйста отключите перед попыткой использовать родной трекпад.</string>
+    <key>TrackpadNativeTrackpadActiveAlertMessageKey</key><string>Родной трекпад является активным. Пожалуйста отключите перед попыткой использовать беспроводной трекпад.</string>
+    <key>TrackpadConnectedTitleKey</key><string>Подключен</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey1</key><string>Открытые</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey2</key><string>Новое окно</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey3</key><string>Отсоедините</string>
+    <key>DisambiguateReconnectOpen</key><string>Открытые</string>
+    <key>DisambiguateReconnectNewWindow</key><string>Новое окно</string>
+    <key>DisambiguateReconnectCancel</key><string>Отмена</string>
+    <key>DisambiguateReconnectTitleFormat</key><string>%@ уже выполняется.</string>
+    <key>DisambiguateReconnectMessage</key><string>Можно подключиться к этому приложению или открыть дополнительное окно.</string>
+    <key>AppSwitchMenuTitleKey</key><string>Переключение между приложениями</string>
+    <key>AppSwitchMenuTitleKeyNoWindows</key><string>Подключенный сервер может не поддерживать переключение между приложениями...</string>
+    <key>PullRefreshDateFormatKey</key><string>ММ/дд/гггг чч: мм:</string>
+    <key>PullRefreshDateAMSymbolKey</key><string>AM</string>
+    <key>PullRefreshDatePMSymbolKey</key><string>ВЕЧЕРА</string>
+    <key>PullRefreshLastUpdatedFormatKey</key><string>Последнее обновление: %@</string>
+    <key>PullRefreshPullingLabelKey</key><string>Релиз для обновления...</string>
+    <key>PullRefreshNormalLabelKey</key><string>Потяните вниз, чтобы освежить...</string>
+    <key>PullRefreshLoadingLabelKey</key><string>Загрузка...</string>
+    <key>ConnectionErrorAlertTitleKey</key><string>Ошибка соединения</string>
+    <key>ConnectionErrorAlertMessageKey</key><string>Приложение обнаружил неустранимую ошибку и будет закрыто. Пожалуйста, исправьте выше ошибки и перезапустить приложение.</string>
+    <key>ConnectionErrorAlertMessage2Key</key><string>Не удалось подключиться к серверу.</string>
+    <key>RestoringDataConnection</key><string>Восстановление подключения данных...</string>
+    <key>DataConnectionRestored</key><string>Подключение данных восстановлен.</string>
+    <key>StoreLogoutMessageTitleKey</key><string>Завершение сеанса или отключение?</string>
+    <key>StoreLogoutMessageKey</key><string>Если вы отключитесь, все несохраненные данные в открытых приложений доступен следующий раз при подключении. Если вы выйдите, все несохраненные данные могут быть потеряны.</string>
+    <key>LogoutButtonText</key><string>Выход</string>
+    <key>DisconnectButtonText</key><string>Отсоедините</string>
+    <key>StoreLoggedOffMessageKey</key><string>Вы вошли всех счетов.</string>
+    <key>ConnectionsButtonTitleKey</key><string>Соединения</string>
+    <key>ConnectionsActionSheetTitleKey</key><string>Центр связи</string>
+    <key>LogoutAlertTitleKey</key><string>Подтверждение выхода</string>
+    <key>LogoutAlertMessageKey</key><string>Вы уверены, что вы хотите выйти? Все несохраненные данные будут потеряны.</string>
+    <key>DISMISS_BUTTON_TITLE</key><string>Хорошо</string>
+    <key>PLACE_HOLDER_CRED_ID</key><string>A12345678</string>
+    <key>CONNECTING_LABEL</key><string>Подключение...</string>
+    <key>CANCEL_BUTTON_TITLE</key><string>Отмена</string>
+    <key>TIMEOUT_MESSAGE_FORMAT</key><string>осталось %d секунд</string>
+    <key>LocationServicesAllowAccessKey</key><string>\ «%@\» Хотели бы использовать ваше текущее местоположение</string>
+    <key>LocationServicesChangeGeneralSettingsKey</key><string>Включение службы определения местоположения, чтобы позволить \ «%@\» для определения вашего местоположения</string>
+    <key>LocationServicesSecureConnectionWarning</key><string>%@\n\nA безопасное соединение рекомендуется при использовании служб определения местоположения</string>
+    <key>ImportCertificateKey</key><string>Импорт сертификата</string>
+    <key>ImportNewCertificateKey</key><string>Импорт нового сертификата</string>
+    <key>SelectCertificateKey</key><string>Выбрать сертификат</string>
+    <key>CertificatesKey</key><string>Сертификаты</string>
+    <key>CertificateKey</key><string>Сертификат</string>
+    <key>CertificateNameKey</key><string>Имя</string>
+    <key>CertificateNamePlaceHolderKey</key><string>Имя сертификата</string>
+    <key>CertificateURLKey</key><string>Адрес</string>
+    <key>CertificateURLPlaceHolderKey</key><string>URL-адрес сертификата</string>
+    <key>IssuedToKey</key><string>Издал:</string>
+    <key>PasswordAlertMessageForImportCertificateKey</key><string>Введите пароль для этого сертификата.</string>
+    <key>ImportCertificateFailedTitle</key><string>Не удается импортировать сертификат</string>
+    <key>ImportCertificateFailedMessage</key><string>В связке ключей не удалось импортировать.</string>
+    <key>WrongPasswordErrorKey</key><string>Импорт в связку ключей, не удалось из-за неправильного пароля.</string>
+    <key>CertificateExistsErrorKey</key><string>Импорт в связку ключей, не удалось, потому что сертификат уже существует.</string>
+    <key>CertificateFormatNotSupportedErrorKey</key><string>Импорт в связку ключей, не удалась, поскольку сертификат находится не в формате P12.</string>
+    <key>AddCertificateErrorTitleKey</key><string>Сертификат уже импортированы</string>
+    <key>AddCertificateErrorButtonText</key><string>Хорошо</string>
+    <key>DeleteCertificateWarningTitleKey</key><string>Предупреждение</string>
+    <key>DeleteCertificateWarningMessageKey</key><string>Этот сертификат используется в хранилище! Вы уверены, что вы хотите продолжить?</string>
+    <key>DeleteButtonText</key><string>Удалить</string>
+    <key>ImportCertificateFailedNoDataMessage</key><string>Пустой или искаженные сертификат по этому URL-адресу.</string>
+    <key>SRConfigurationError</key><string>Не удалось добавить учетную запись.</string>
+    <key>SRParseError</key><string>Не удалось добавить учетную запись.</string>
+    <key>SSLChainNotEvaluated</key><string>Не удается проверить сертификат сервера. Чтобы добавить эту учетную запись, включите «Игнорировать предупреждения сертификатов».</string>
+    <key>SRStoreLogin</key><string>Доступен новый аккаунт. Пожалуйста Войдите для доступа к вашей новой учетной записи.</string>
+    <key>SRStorePersistError</key><string>Не удалось добавить учетную запись.</string>
+    <key>SROverwriteStore</key><string>Заменить учетную запись?</string>
+    <key>SRConfirmOverwriteStore</key><string>Вы хотите заменить %@?</string>
+    <key>SelectAccountDiscoveryStore</key><string>Выберите магазин</string>
+    <key>AccountDiscoveryDocumentNoStore</key><string>Не удалось добавить учетную запись.</string>
+    <key>AccountDiscoveryDocumentNoNewStores</key><string>Все Магазины в документе обнаружения были загружены.</string>
+    <key>AccountDiscoveryDocumentError</key><string>Не удалось добавить учетную запись.</string>
+    <key>AccountDiscoveryIgnoreCertificateDescription</key><string>Открытие счета</string>
+    <key>AccountDiscoveryAddAccountErrorTitle</key><string>Не удается добавить учетную запись</string>
+    <key>AccountDiscoveryNoURLForEmail</key><string>Приемник не может найти сервер для данного домена. Если от него был получен URL-адрес, который можно ввести вместо вашей электронной почты.</string>
+    <key>AccountDiscoveryEmailErrorTitle</key><string>Неправильный электронный адрес</string>
+    <key>AccountDiscoveryInvalidEmail</key><string>Введите ваш e-mail в формате name@domain.com.</string>
+    <key>AccountDiscoveryInvalidGatewaySetting</key><string>Недопустимый параметр шлюза.</string>
+    <key>AppsTabTitleKey</key><string>Приложения</string>
+    <key>DocsTabTitleKey</key><string>Документы</string>
+    <key>FilePreviewKey</key><string>Предварительный просмотр</string>
+    <key>OpenWithXenappKey</key><string>Открыть приложение</string>
+    <key>SendFileKey</key><string>Отправить файл</string>
+    <key>SaveOfflineKey</key><string>Скачать</string>
+    <key>RemoveOfflineKey</key><string>Удалить</string>
+    <key>NoMatchKey</key><string>Совпадений не найдено</string>
+    <key>EnableSharedDocuments</key><string>Пожалуйста, включите общие документы от дополнительных параметров</string>
+    <key>SessionSharingWarning</key><string>Предупреждение!</string>
+    <key>RemoveDocFromOffline_Title</key><string>Удалить Doc?</string>
+    <key>RemoveDocFromOffline_Text</key><string>Можно просматривать этот документ, при подключении к Интернету.</string>
+    <key>FMDBlade_Title</key><string>Поделился со мной</string>
+    <key>FMDSendDefaultSubjectFile</key><string>Файл был отправлен к вам используя Sharefile</string>
+    <key>FMDSendDefaultSubjectFolder</key><string>Папка был отправлен к вам используя Sharefile</string>
+    <key>FMDSendHintText</key><string>Введите текст здесь.</string>
+    <key>OK</key><string>Хорошо</string>
+    <key>Cancel</key><string>Отмена</string>
+    <key>DeleteUser</key><string>Удалить пользователя?</string>
+    <key>Read</key><string>Читать</string>
+    <key>ReadOnlyKey</key><string>Только чтение</string>
+    <key>ReadWrite</key><string>Чтение и запись</string>
+    <key>RemoveButtonText</key><string>Удалить</string>
+    <key>CopyFileURLKey</key><string>Скопировать ссылку</string>
+    <key>LastModifiedBy</key><string>Владелец</string>
+    <key>LastModified</key><string>Дата последнего изменения</string>
+    <key>FileSize</key><string>Размер</string>
+    <key>FMD_PermanentDeleteTitle</key><string>Окончательно удалить Doc?</string>
+    <key>FMD_CannotBeUnDone</key><string>Это действие нельзя отменить.</string>
+    <key>UserNotInAddressBook</key><string>Этот человек не находится в сети вашей компании. Вы только можете поделиться папках с людьми, которые находятся в сети вашей компании.</string>
+    <key>NotBeingShared</key><string>Эта папка не доступна ни с кем</string>
+    <key>SendFolderTitle</key><string>Отправить папку</string>
+    <key>SendFileTitle</key><string>Отправить файл</string>
+    <key>FMD_MyDocs</key><string>%1$@ %2$@ документы</string>
+    <key>FMD_RemoveFavorite_Title</key><string>Удалить папку?</string>
+    <key>FMD_RemoveFavorite_Text</key><string>%@ больше не будут синхронизироваться с вашими устройствами.</string>
+    <key>Unlimited</key><string>Неограниченное количество</string>
+    <key>Downloads</key><string>Скачиваний</string>
+    <key>FMD_GeneralError_NotLoggedIn_Title</key><string>Неверный вход</string>
+    <key>FMD_GeneralError_NotLoggedIn_Text</key><string>Вы должны войти ShareFile для выполнения этого действия.</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Title</key><string>Не удается подключиться</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Text</key><string>Проверьте сетевое подключение и повторите попытку.</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Title</key><string>Документы уничтожены</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Text</key><string>Ваш администратор удалил документы с вашего устройства.</string>
+    <key>FMD_GeneralError_InvalidCredentials_Title</key><string>Неверный вход</string>
+    <key>FMD_GeneralError_InvalidCredentials_NonSSO_Text</key><string>Неправильное имя пользователя или пароль.</string>
+    <key>FMD_GeneralError_InvalidCredentials_SSO_Text</key><string>Войдите в Citrix приемник, чтобы продолжить.</string>
+    <key>FMD_GeneralError_UnrecognizedSFAPIError_Title</key><string>Проблема совместного использования папки</string>
+    <key>FMD_SyncError_ItemNotFound_Title</key><string>Файл не найден</string>
+    <key>FMD_SyncError_ItemNotFound_Text</key><string>Файл не найден на вашем устройстве.</string>
+    <key>FMD_DownloadError_Title</key><string>Проблема загрузки файла</string>
+    <key>FMD_DownloadError_ParentNotFound_Text</key><string>Этот элемент невозможно извлечь из облака, потому что его родительской папки не может быть определено.</string>
+    <key>FMD_DownloadError_AccessDenied_Text</key><string>Не нужно разрешение для загрузки файлов для данного устройства.</string>
+    <key>FMD_DownloadError_NotEnoughSpace_Text</key><string>Не удается загрузить файл. Будет превышать предел в 500 МБ для загруженных файлов.</string>
+    <key>FMD_UploadError_Title</key><string>Проблема загрузки файла</string>
+    <key>FMD_UploadError_ParentNotFound_Text</key><string>Этот элемент невозможно сохранить в облако, потому что его родительской папки не может быть определено.</string>
+    <key>FMD_UploadError_FileNotFound_Text</key><string>Файл не найден на вашем устройстве.</string>
+    <key>FMD_UploadError_CannotReadFileAttributes_Text</key><string>Этот элемент невозможно сохранить в облако, потому что его размер на вашем устройстве не может быть определено. Возможно, файл был поврежден.</string>
+    <key>FMD_UploadError_AccessDenied_Text</key><string>Не нужно разрешение на загрузку этого файла.</string>
+    <key>FMD_AddressBookError_Title</key><string>Ошибка адресной книги</string>
+    <key>FMD_EmployeeAddressBookError_AccessDenied_Text</key><string>Адресная книга работника невозможно извлечь из облака потому, что вы не были предоставлены права на accesss его.</string>
+    <key>FMD_ClientAddressBookError_AccessDenied_Text</key><string>В адресной книге клиента невозможно извлечь из облака потому, что вы не были предоставлены права на accesss его.</string>
+    <key>FMD_DeleteFileError_Title</key><string>Не удается удалить файл</string>
+    <key>FMD_DeleteFileError_AccessDenied_Text</key><string>Вас нет разрешения на удаление этого файла.</string>
+    <key>FMD_DocsSettingsLabelKey</key><string>ShareFile</string>
+    <key>FMD_DocsUsernameLabelKey</key><string>Имя пользователя</string>
+    <key>FMD_DocsPasswordLabelKey</key><string>Пароль</string>
+    <key>FMD_DocsAccountsTitleKey</key><string>ShareFile параметры</string>
+    <key>FMD_SaveButtonKey</key><string>Сохранить</string>
+    <key>FMDLoginFailedUsernamePasswdText</key><string>Неправильное имя пользователя или пароль.</string>
+    <key>FMDSendFileFailedTitle</key><string>Проблема отправки файла</string>
+    <key>FMDShareFolderFailedTitle</key><string>Проблема совместного использования папки</string>
+    <key>FMDShareFolderFailedInvalidEmailText</key><string>Введите адреса электронной почты в формате name@domain.com</string>
+    <key>FMDDownloadFailedConnectionText</key><string>Не удается подключиться. Проверьте сетевое подключение и повторите попытку.</string>
+    <key>FMDDownloadFailedPermissionText</key><string>Не нужно разрешение для загрузки файлов для данного устройства.</string>
+    <key>FMDChooseSubDomainMessageFormatKey</key><string>Использовать этот поддомен? - %@</string>
+    <key>FMDUseTitleKey</key><string>Использование</string>
+    <key>FMDNotUseTitleKey</key><string>Не используйте</string>
+    <key>TryDemoLabel</key><string>Попробуйте демо-версию</string>
+    <key>FirstTimeAddYour</key><string>ДОБАВИТЬ ВАШ</string>
+    <key>FirstTimeFavoriteApps</key><string>ЛЮБИМЫЕ ПРИЛОЖЕНИЯ</string>
+    <key>FMDErrorAddAccountFailedGeneral</key><string>Проверьте настройки учетной записи и повторите попытку</string>
+    <key>FMDErrorSubDomain</key><string>Введите субдомен в формате myaccount.sharefile.com</string>
+    <key>FMDErrorCantFindAddressBook_Title</key><string>Проблема нахождения адресная книга</string>
+    <key>FMDErrorSendingFolder_Title</key><string>Проблема отправки папки</string>
+    <key>FMDErrorProblemCopyingLink</key><string>Проблема копирования ссылка</string>
+    <key>FMDErrorSaveQuota</key><string>Не удается сохранить файл. Вы достигли ShareFile квота</string>
+    <key>FMDErrorNoPermissionToDownload</key><string>У вас нет разрешения для загрузки файлов для данного устройства</string>
+    <key>FMDErrorCouldNotUpload1</key><string>Не удалось загрузить файл. Вы достигли ShareFile квота</string>
+    <key>FMDErrorCouldNotUpload2</key><string>Не удалось загрузить файл</string>
+    <key>FMDErrorFileNotAvailable</key><string>Этот файл больше не доступен.</string>
+    <key>FMDErrorNoDocs</key><string>Ваши документы в настоящее время недоступны</string>
+    <key>FMDErrorNoSharedFolders</key><string>В настоящее время ваши общие папки не доступны</string>
+    <key>FMDErrorFatal</key><string>Произошла непредвиденная ошибка. [Если перезагрузка возможно] Вы хотите перезагрузить ресивер Citrix сейчас? Да/нет</string>
+    <key>DeleteFileKey</key><string>Удалить</string>
+    <key>ErrorKey</key><string>Ошибка</string>
+    <key>Write</key><string>Написать</string>
+    <key>FMD_DocsAccountsLabelKey</key><string>Учетные записи</string>
+    <key>FMDLoginFailedTitle</key><string>Неверный вход</string>
+    <key>FMDLoginFailedGeneralText</key><string>Проверьте данные вашей учетной записи и повторите попытку.</string>
+    <key>FMDLoginFailedURLText</key><string>Введите URL-адрес в формате myaccount.sharefile.com</string>
+    <key>FMDLoginFailedSofttokenText</key><string>Введите действительный код маркера.</string>
+    <key>FMDAddAccountFailedTitle</key><string>Не удалось добавить учетную запись</string>
+    <key>FMDLoginFailedUsernameRequiredText</key><string>Введите свое имя пользователя.</string>
+    <key>FMDLoginFailedPasswordRequiredText</key><string>Введите свой пароль.</string>
+    <key>FMDLoginFailedInvalidEmailText</key><string>Введите адрес электронной почты в формате name@domain.com</string>
+    <key>FMDLoginFailedNoAccountText</key><string>Эта ShareFile учетная запись не была найдена.</string>
+    <key>FMDSendFileFailedInvalidEmailText</key><string>Введите адреса электронной почты в формате name@domain.com.</string>
+    <key>FMDShareFolderFailedShare</key><string>Повторите попытку через несколько минут.</string>
+    <key>FMDShareFolderFailedPersonNotFound</key><string>Эти люди находятся не в сети вашей компании. Вы только можете поделиться папках с людьми, которые находятся в сети вашей компании.</string>
+    <key>FMDShareFolderFailedAddressbookAccess</key><string>Вы не имеют разрешения на доступ к адресной книге.</string>
+    <key>FMDDownloadFailedTitle</key><string>Проблема загрузки файла</string>
+    <key>FMDDownloadFailedSpaceText</key><string>Существует не хватает места на вашем устройстве, чтобы сохранить этот файл.</string>
+    <key>FMDDownloadFailedQuotaText</key><string>Не удается загрузить файл. Будет превышать предел в 500 МБ для загруженных файлов.</string>
+    <key>FMDDownloadFailedFileText</key><string>Этот файл не найден.</string>
+    <key>FMDDownloadFailedFileSizeText</key><string>Размер файла не может быть определено. Этот файл может быть поврежден.</string>
+    <key>FMDDownloadFailedFileRemovedText</key><string>Этот файл был удален с вашего устройства.</string>
+    <key>FMDSaveFileFailedTitle</key><string>Не удается сохранить файл</string>
+    <key>FMDSaveFileFailedSpaceText</key><string>В настоящее время нет достаточно места, чтобы сохранить этот файл. </string>
+    <key>FMDSaveFileFailedPermissionText</key><string>Не нужно разрешение на сохранение файлов.</string>
+    <key>FMDReplaceFileTitle</key><string>Заменить файл?</string>
+    <key>FMDReplaceFileText</key><string>Файл уже существует, вы хотите заменить его?</string>
+    <key>FMDOpenFileFailedTitle</key><string>Не удается открыть файл</string>
+    <key>FMDOpenFileFailedNoAppText</key><string>Не удалось найти приложение для данного типа файлов. Проверьте, если приложение доступно в приемнике сначала.</string>
+    <key>FMDRemoveFileFailedTitle</key><string>Не удается удалить файл</string>
+    <key>FMDRemoveFileFailedPermisisonText</key><string>Нет разрешения на удаление этого файла.</string>
+    <key>FMDFileNotFoundFailedTitle</key><string>Файл не найден</string>
+    <key>FMDFileNotFoundFailedNotAvailableText</key><string>Этот файл не доступен в настоящее время. Повторите попытку через несколько минут.</string>
+    <key>FMDFileNotFoundFailedNotSyncedText</key><string>Этот файл имеет не были синхронизированы с этим устройством еще.</string>
+    <key>FMDFileNotFoundFailedWipedText</key><string>Ваш администратор удалил ваши документы с вашего устройства</string>
+    <key>FMDFileNotFoundFailedRemovedText</key><string>Этот файл был удален с вашего устройства.</string>
+    <key>MobileAppConfirmUnsubscribeTitleKey</key><string>Удалить \ «%@\»? </string>
+    <key>MobileAppConfirmUnsubscribeDescriptionKey</key><string>Удаление этого приложения отключает его на всех устройствах.</string>
+    <key>MobileAppConfirmDownloadTitleKey</key><string>Подтверждение загрузки</string>
+    <key>MobileAppConfirmDownloadDescriptionKey</key><string>Это мобильное приложение должны сначала быть загружены в устройство для того, чтобы открыть его. Вы хотите скачать этот app?</string>
+    <key>AppPendingTitleKey</key><string>Запрос приложения</string>
+    <key>AppPendingDescriptionKey</key><string>Это приложение ожидает утверждения.</string>
+    <key>AppDeniedTitleKey</key><string>App отказано</string>
+    <key>AppDeniedDescriptionKey</key><string>Отказано в доступе к этому приложению.</string>
+    <key>MaintenenceModeTitleKey</key><string>Приложение отключено</string>
+    <key>MaintenenceModeAppDisabled</key><string>Этот app в настоящее время отключена</string>
+    <key>AppNotFoundTitleKey</key><string>Приложение недоступно</string>
+    <key>AppNotFoundDescriptionKey</key><string>Это приложение является в настоящее время недоступна.</string>
+    <key>SelectFeedbackTitleKey</key><string>Отправить отзыв</string>
+    <key>SelectFeedbackCancelKey</key><string>Отмена</string>
+    <key>GeneralFeedback</key><string>Генеральный обратной связи</string>
+    <key>ReportIssue</key><string>Сообщить о проблеме</string>
+    <key>EmailSubjectForIOSLogs</key><string>для iOS журналов</string>
+    <key>EmailSubjectForIOSFeedback</key><string>для iOS обратной связи</string>
+    <key>EmailSubjectForFeatureIdeasToCitrix</key><string>Отправить функция идеи Citrix</string>
+    <key>JailBrokenAlertTitle</key><string>Устройство не безопасный</string>
+    <key>JailBrokenAlertMsg</key><string>Ваша компания не допускает это приложение для запуска на устройстве jailbroken.</string>
+    <key>WifiRequiredAlertMsg</key><string>Подключиться к беспроводной сети, чтобы использовать это приложение.</string>
+    <key>AccountLockedTitle</key><string>Приложения к морю</string>
+    <key>AccountLockedMessage</key><string>Вашей организации заблокирована приложений Citrix приемника. Обратитесь к администратору для получения дополнительной информации.</string>
+    <key>DeviceNameLabel</key><string>Имя устройства</string>
+    <key>WebcamPermissionDialogTitle</key><string>Ваш виртуальный рабочий стол пытается использовать микрофон или веб-камеру.</string>
+    <key>WebcamPermissionDialogMsg</key><string>Вы хотите ваш виртуальный рабочий стол использовать эти устройства?</string>
+    <key>MouseViewFTUGuide</key><string>Нажмите дважды, чтобы увеличить</string>
+    <key>BAIPairingTitleKey</key><string>Спаривание</string>
+    <key>BAIBeginPairingKey</key><string>Положите вашего читателя в обнаруживаемых \"Continue\ режим и нажмите «начать сопряжения.</string>
+    <key>BAIAttachAdapterKey</key><string>Прикрепить baiMobile Bluetooth адаптер для вашего устройства</string>
+    <key>BAICancelKey</key><string>Отмена</string>
+    <key>BAISearchDiscoverableDevicesKey</key><string>Поиск для обнаружения устройств</string>
+    <key>BAISelectDeviceKey</key><string>Выберите устройство</string>
+    <key>BAISearchAgainKey</key><string>Искать снова</string>
+    <key>BAIPairingPINMatchKey</key><string>Совпадает ли код, показанный на ваш читатель бай код отображается ниже?</string>
+    <key>BAIOneMomentKey</key><string>Одну минуту...</string>
+    <key>BAIPairingCompleteKey</key><string>Этот телефон сейчас в паре с baiMobile читателя</string>
+    <key>BAIUnableToPairKey</key><string>Не удается выполнить сопряжение с вашего читателя. Попробуйте подключить аксессуар и имея ваш считыватель смарт-карт в режиме обнаружения, прежде чем пытаться снова установить.</string>
+    <key>BAIContinueKey</key><string>Продолжить</string>
+    <key>BAIRetryKey</key><string>Повторить.</string>
+    <key>BAIPairingMatchButtonKey</key><string>Да, код совпадает.</string>
+    <key>BAIPairingNoMatchButtonKey</key><string>Нет, код не совпадают.</string>
+    <key>BAIPairingDismissButtonKey</key><string>Уволить</string>
+    <key>%d attempts remaining.</key><string>%d попыток оставшихся.</string>
+    <key>1 attempt remaining.</key><string>1 попытка оставшиеся.</string>
+    <key>Ask the card issuer to unblock your smart card before signing on.</key><string>Попросите эмитентом карты, чтобы разблокировать смарт-карты перед подписанием.</string>
+    <key>Connect Smart Card</key><string>Подключите смарт-карты</string>
+    <key>Enter Smart Card PIN</key><string>Введите ПИН-код смарт-карты</string>
+    <key>Identity</key><string>Личность</string>
+    <key>Insert Smart Card</key><string>Вставьте смарт-карту</string>
+    <key>Please connect your smart card reader to continue.</key><string>Подключите ваш считыватель смарт-карт, чтобы продолжить.</string>
+    <key>Please connect your smart card reader to sign on.</key><string>Подключите ваш считыватель смарт-карт для входа.</string>
+    <key>Please insert your smart card to continue.</key><string>Вставьте смарт-карту для продолжения.</string>
+    <key>Please insert your smart card to sign on.</key><string>Вставьте смарт-карту для входа.</string>
+    <key>Please wait...</key><string>Подождите...</string>
+    <key>Smart card PIN</key><string>ПИН-код смарт-карты</string>
+    <key>You have exceeded the maximum sign on attempts.\n\n</key><string>Вы превысили максимально знак на attempts.\n\n</string>
+    <key>Your PIN is incorrect. Please try again.</key><string>Ваш ПИН-код неверен. Пожалуйста, попробуйте еще раз.</string>
+    <key>Your smart card does not have a valid certificate.</key><string>Ваша смарт-карта не имеет действительный сертификат.</string>
+    <key>Your smart card is blocked.</key><string>Ваша смарт-карта блокируется.</string>
+    <key>Your smart card is blocked.\n\nAsk the card issuer to unblock your smart card before signing on.</key><string>Ваша смарт-карта является blocked.\n\nAsk эмитентом карты, чтобы разблокировать смарт-карты перед подписанием.</string>
+    <key>Your smart card is not recognized. Please insert a valid smart card.</key><string>Ваша смарт-карта не распознается. Пожалуйста, введите действительный смарт-карты.</string>
+    <key>KURL_ERROR_COULD_NOT_SET_OPENSSL_CERTIFICATE</key><string>Смарт-карты ошибка настройки SSL-сертификат.</string>
+    <key>KURL_ERROR_COULD_NOT_SET_OPENSSL_SMARTCARD_PRIVATE_KEY</key><string>Смарт-карты ошибка настройки SSL закрытый ключ.</string>
+    <key>KURL_REQUEST_CANCELLED</key><string>Смарт-карты запрос отменен.</string>
+    <key>KURL_ERROR_SSL_CONNECT_FAILURE</key><string>Ошибка соединения SSL смарт-карт.</string>
+    <key>KURL_REQUEST_CANCELLED_BY_USER</key><string>Смарт-карты запрос отменен пользователем.</string>
+    <key>KURL_STATUS_UNKNOWN</key><string>Ошибка запроса неизвестный смарт-карты.</string>
+    <key>This server requires a client certificate</key><string>Этот сервер требует сертификат клиента.</string>
+    <key>The server rejected the client certificate</key><string>Сервер отклонил сертификат клиента.</string>
+    <key>Server error: %@.</key><string>Ошибка сервера: %@.</string>
+    <key>New Feature! New Gestures!</key><string>Новая функция! Новые жесты!</string>
+    <key>App Switcher starts automatically when you open a second app.</key><string>App Switcher запускается автоматически при открытии второго приложения.</string>
+    <key>Shows one of your running apps</key><string>Показывает один из запущенных приложений</string>
+    <key>Shows all your running apps</key><string>Показывает все запущенные приложения</string>
+    <key>Closes an app</key><string>Закрывает приложение</string>
+    <key>Remind me next time</key><string>Напомните мне в следующий раз</string>
+    <key>Got it</key><string>Есть</string>
+    <key>UnavailableDesktop</key><string>Рабочий стол в настоящее время недоступна.</string>
+    <key>AppRemoved</key><string>Приложение не доступно.</string>
+    <key>NoMoreActiveSessions</key><string>Нет более активные сеансы.</string>
+    <key>NotLicensed</key><string>Не лицензирован.</string>
+    <key>CouldNotConnectToWorkstation</key><string>Не удалось подключиться к рабочей станции.</string>
+    <key>WorkstationInMaintenance</key><string>Рабочий стол временно недоступна из-за запланированного обслуживания.</string>
+    <key>ResourceError</key><string>Ошибка ресурса</string>
+    <key>GeneralAppLaunchError</key><string>Не могу запустить приложение</string>
+</dict></plist>

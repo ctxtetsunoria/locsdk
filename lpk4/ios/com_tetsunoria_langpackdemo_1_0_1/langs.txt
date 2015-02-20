@@ -1,0 +1,1 @@
+de,el,en-GB,es,fr,he,ja,ko,ru,sv,th,zh-Hans,zh-Hant

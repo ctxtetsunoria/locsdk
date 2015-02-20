@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>0 minutes before</key><string>0 minuter innan</string>
+    <key>1 day before</key><string>1 dag innan</string>
+    <key>1 Day</key><string>1 dag</string>
+    <key>1 hour before</key><string>1 timme före</string>
+    <key>1 Month</key><string>1 månad</string>
+    <key>1 Week</key><string>1 vecka</string>
+    <key>1.  Please join my meeting.\nhttps://www1.gotomeeting.com/join/%@\n</key><string>1. . Snälla gå mitt möte 
+https: //www1.gotomeeting.com/join/%@
+</string>
+    <key>15 minutes before</key><string>15 minuter innan</string>
+    <key>2 days before</key><string>2 dagar innan</string>
+    <key>2 hours before</key><string>2 timmar före</string>
+    <key>2 Weeks</key><string>2 veckor</string>
+    <key>2.  Use your microphone and speakers (VoIP) - a headset is recommended. Or, call in using your telephone.\n\n%@\nAudio PIN: Shown after joining the meeting\n</key><string>2. Använd din mikrofon och högtalare (VoIP) - ett headset rekommenderas. Eller, ring in med ditt telefon 
+ 
+%@ 
+Audio PIN:. Visas efter medlemskapet i mötet 
+</string>
+    <key>3 Days</key><string>3 dagar</string>
+    <key>30 minutes before</key><string>30 minuter innan</string>
+    <key>5 minutes before</key><string>5 minuter innan</string>
+    <key>%d h</key><string>%d h</string>
+    <key>%d min</key><string>%d min</string>
+    <key>%i recipients</key><string>%i-mottagare</string>
+    <key>%@ and %i more...</key><string>%@ och%i mer ...</string>
+    <key>%@ %@ to %@ %@</key><string>%@%@ till%@%@</string>
+    <key>%@ to %@</key><string>%@ till%@</string>
+    <key>%@ - %@</key><string>%@ -%@</string>
+    <key>&lt;No subject&gt;</key><string>&lt;Inget ämne&gt;</string>
+    <key>(No subject)</key><string>(Inget ämne)</string>
+    <key>(No recipient)</key><string>(Ingen mottagare)</string>
+    <key>About</key><string>Om</string>
+    <key>Accept</key><string>Accept</string>
+    <key>Account</key><string>Konto</string>
+    <key>Add %@</key><string>Lägg%@</string>
+    <key>Address(email or server)</key><string>Adress</string>
+    <key>Account</key><string>Konto</string>
+    <key>All Contacts</key><string>Alla kontakter</string>
+    <key>All Day Event</key><string>All Day</string>
+    <key>All Day</key><string>All Day</string>
+    <key>All-day</key><string>All Day</string>
+    <key>all-day</key><string>All Day</string>
+    <key>Please Enter an Event Title</key><string>Vänligen Ange ett Händelse Titel</string>
+    <key>and %i more...</key><string>och%i mer ...</string>
+    <key>Anniversary</key><string>Anniversary</string>
+    <key>Append Signature</key><string>Append Signatur</string>
+    <key>Ask Before Deleting</key><string>Fråga före borttagning</string>
+    <key>Assistant</key><string>Assistent</string>
+    <key>Assistant phone</key><string>assistent telefon</string>
+    <key>Attach Existing Photo</key><string>Bifoga befintligt foto</string>
+    <key>Attach from ShareFile</key><string>Fäst från delade filen</string>
+    <key>Attach</key><string>Fäst</string>
+    <key>Attachment</key><string>Attachment</string>
+    <key>Attachment (1)</key><string>Attachment (1)</string>
+    <key>Attachments</key><string>Bilagor</string>
+    <key>attendee</key><string>inbjudna</string>
+    <key>attendees</key><string>inbjudna</string>
+    <key>%d %@</key><string>%d%@</string>
+    <key>Attendees</key><string>Inbjudna</string>
+    <key>Authenticate</key><string>Autentisera</string>
+    <key>Autodiscover</key><string>automatisk upptäckt</string>
+    <key>Availability</key><string>Visa som</string>
+    <key>B</key><string>B</string>
+    <key>Back</key><string>Tillbaka</string>
+    <key>Bcc:</key><string>Bcc:</string>
+    <key>Birthday</key><string>Födelsedag</string>
+    <key>Business fax</key><string>Arbetsfax</string>
+    <key>Business phone</key><string>Telefon arbete</string>
+    <key>Business Phone</key><string>Telefon arbete</string>
+    <key>Web page</key><string>webbsida</string>
+    <key>Busy</key><string>Upptagen</string>
+    <key>Calendar Event</key><string>Kalenderpåminnelse</string>
+    <key>Calendar Notifications</key><string>Kalender Notifications</string>
+    <key>Calendar</key><string>Kalender</string>
+    <key>Cancel</key><string>Avbryt</string>
+    <key>Canceled:</key><string>Avbruten:</string>
+    <key>Cannot Get Mail</key><string>Can not Get Mail</string>
+    <key>Car phone</key><string>Biltelefon</string>
+    <key>Cc/Bcc:</key><string>kopia / hemlig kopia:</string>
+    <key>Cc:</key><string>Kopia:</string>
+    <key>Checking for Mail...</key><string>Kontroll för Mail ...</string>
+    <key>Child</key><string>Barn</string>
+    <key>Choose Photo</key><string>Välj Foto</string>
+    <key>Clear all</key><string>Rensa allt</string>
+    <key>Clear Flag</key><string>bort flagga</string>
+    <key>Company phone</key><string>Företag telefon</string>
+    <key>Company</key><string>Company</string>
+    <key>Contacts</key><string>Kontakter</string>
+    <key>Contacts exported successfully</key><string>Kontakter exporteras framgångsrikt</string>
+    <key>Day</key><string>Dag</string>
+    <key>De-Highlight</key><string>bort Markera</string>
+    <key>Declined</key><string>Declined</string>
+    <key>Delete Changes</key><string>Radera Förändringar</string>
+    <key>Delete Draft</key><string>Radera Utkast</string>
+    <key>Delete this message?</key><string>Ta bort meddelande?</string>
+    <key>Delete</key><string>Radera</string>
+    <key>Department</key><string>Avdelning</string>
+    <key>Details</key><string>Detaljer</string>
+    <key>Dial In</key><string>Dial In</string>
+    <key>Discovering...</key><string>Upptäcka ...</string>
+    <key>Do you want to delete this occurrence or the entire series?</key><string>Vill du ta bort denna förekomst eller hela serien?</string>
+    <key>Do you want to forward this occurrence or the entire series?</key><string>Vill du vidarebefordra denna förekomst eller hela serien?</string>
+    <key>ShareFileDomain</key><string>delade filen Domän</string>
+    <key>Domain</key><string>Domän</string>
+    <key>Don't Save</key><string>Spara inte</string>
+    <key>Done</key><string>Klar</string>
+    <key>Downloading folders...</key><string>Nedladdning mappar ...</string>
+    <key>Your mail could not be downloaded at this time. Please try again in a few minutes.</key><string>Din post inte kunde laddas ner på den här gången. Försök igen om några minuter.</string>
+    <key>Access to your company network is not currently available.</key><string>Tillgång till företagets nätverk är för närvarande inte tillgänglig.</string>
+    <key>Downloading</key><string>Nedladdning</string>
+    <key>Draft</key><string>Utkast</string>
+    <key>Drafts</key><string>Utkast</string>
+    <key>Edit</key><string>Redigera</string>
+    <key>Edit Event</key><string>Redigera Händelse</string>
+    <key>Edit series</key><string>Redigera Serie</string>
+    <key>Email Notifications</key><string>E-postmeddelanden</string>
+    <key>Email</key><string>E</string>
+    <key>Email or mail server</key><string>E-post eller e-postserver</string>
+    <key>Email All Invitees</key><string>Svara alla</string>
+    <key>Email Organizer</key><string>Svara</string>
+    <key>EmailBodyApplicationBuild</key><string>WorxMail Bygga Antal:%@</string>
+    <key>EmailBodyApplicationMemory</key><string>Ansökan Minne:%@</string>
+    <key>EmailBodyApplicationVersion</key><string>WorxMail Version:%@</string>
+    <key>EmailBodyDeviceModel</key><string>Device Modell:%@</string>
+    <key>EmailBodyFreeMemory</key><string>Gratis Minne:%@</string>
+    <key>EmailBodyIsJailBroken</key><string>Är Jailbroken:%@</string>
+    <key>EmailBodyOSVersion</key><string>iOS Version:%@</string>
+    <key>EmailBodyTotalMemory</key><string>Totalt minne:%@</string>
+    <key>End Repeat</key><string>Slut Upprepa</string>
+    <key>Ends</key><string>Ends</string>
+    <key>Enter at least one recipient.</key><string>Ange minst en mottagare.</string>
+    <key>Enter some feedback text</key><string>Ange feedback text</string>
+    <key>Enter your credentials</key><string>Ange dina referenser</string>
+    <key>Enter your domain</key><string>Ange din domän</string>
+    <key>Enter your email address</key><string>Fyll i din e-postadress</string>
+    <key>Enter your email or server address</key><string>Ange din e eller serveradress</string>
+    <key>Enter your feedback here to send it to Citrix.</key><string>Ange feedback här för att skicka den till Citrix.</string>
+    <key>Enter your password</key><string>Ange ditt lösenord</string>
+    <key>Enter your server address</key><string>Ange din serveradress</string>
+    <key>Enter your user name</key><string>Ange ditt användarnamn</string>
+    <key>Events</key><string>Händelser</string>
+    <key>Event Details</key><string>Händelsedetaljer</string>
+    <key>Every Day</key><string>Varje dag</string>
+    <key>Every Month</key><string>Varje månad</string>
+    <key>Every 2 Weeks</key><string>Varannan vecka</string>
+    <key>Every Week</key><string>Varje vecka</string>
+    <key>Every Year</key><string>Varje år</string>
+    <key>Exchange Account</key><string>Exchange-konto</string>
+    <key>Existing Photo</key><string>Befintligt Foto</string>
+    <key>Export to iPad</key><string>Exportera till iPad</string>
+    <key>Export to iPhone</key><string>Exportera till iPhone</string>
+    <key>Failed to save Out of Office settings</key><string>kunde inte rädda Av Office Inställningar</string>
+    <key>Feedback for Citrix WorxMail for iOS</key><string>Feedback för Citrix WorxMail för iOS</string>
+    <key>FileSize</key><string>Storlek</string>
+    <key>Flag</key><string>Flagga</string>
+    <key>Flagged</key><string>Flaggad</string>
+    <key>FMD_ClientAddressBookError_AccessDenied_Text</key><string>Du behöver tillstånd för att öppna adressboken</string>
+    <key>FMD_EmployeeAddressBookError_AccessDenied_Text</key><string>Du behöver tillstånd för att öppna adressboken</string>
+    <key>FMD_DeleteFileError_AccessDenied_Text</key><string>Du behöver tillstånd för att ta bort denna fil</string>
+    <key>FMD_DownloadError_AccessDenied_Text</key><string>Du behöver tillstånd för att ladda ner filer</string>
+    <key>FMD_DownloadError_NotEnoughSpace_Text</key><string>Kan inte ladda ner filen. Du kommer att överstiga 500 MB gräns för nedladdade filer.</string>
+    <key>FMD_DownloadError_ParentNotFound_Text</key><string>Kan inte öppna filen</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Text</key><string>din organisation har tagit bort dina Docs</string>
+    <key>FMD_GeneralError_InvalidCredentials_NonSSO_Text</key><string>Fel användarnamn eller lösenord</string>
+    <key>FMD_GeneralError_InvalidCredentials_SSO_Text</key><string>Kontrollera dina inloggningsuppgifter</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Text</key><string>Kontrollera din nätverksanslutning</string>
+    <key>FMD_GeneralError_NotLoggedIn_Text</key><string>Du måste logga in för att delade filen</string>
+    <key>FMD_GeneralError_UnrecognizedSFAPIError_Title</key><string>Problem Sharing Folder</string>
+    <key>FMD_MyDocs</key><string>%1$@%2$@ Docs</string>
+    <key>FMD_SyncError_ItemNotFound_Text</key><string>Filen hittades inte på enheten.</string>
+    <key>FMD_UploadError_AccessDenied_Text</key><string>Du behöver tillstånd för att ladda upp denna fil</string>
+    <key>FMD_UploadError_CannotReadFileAttributes_Text</key><string>Kan inte spara denna artikel</string>
+    <key>FMD_UploadError_FileNotFound_Text</key><string>Arkiv hittades inte</string>
+    <key>FMD_UploadError_ParentNotFound_Text</key><string>Kan inte spara denna artikel</string>
+    <key>File Box</key><string>Arkiv Box</string>
+    <key>Forward</key><string>Framåt</string>
+    <key>Forward Invite</key><string>Framåt</string>
+    <key>Free</key><string>Fri</string>
+    <key>From:</key><string>Från:</string>
+    <key>Fw:</key><string>Fw:</string>
+    <key>GoToMeeting</key><string>GoToMeeting</string>
+    <key>GoToMeeting®\nOnline Meetings Made Easy®\n\nNot at your computer? Click the link to join this meeting from your iPhone®, iPad® or Android® device via the GoToMeeting app.</key><string>GoToMeeting ツ ョ 
+Online Möten Made Easy ツ ョ 
+ \ Nnot vid datorn? Klicka på länken för att gå med i detta möte från din iPhone ツ ョ, iPad ツ ョ eller Android ツ ョ enhet via GoToMeeting app.</string>
+    <key>Hide</key><string>Göm</string>
+    <key>Highlight</key><string>Markera</string>
+    <key>Home</key><string>Hem</string>
+    <key>Home 2</key><string>Home 2</string>
+    <key>Home Phone</key><string>Hemtelefon</string>
+    <key>Home phone</key><string>Hemtelefon</string>
+    <key>I</key><string>I</string>
+    <key>I am running late for this meeting.</key><string>jag kör sent för detta möte.</string>
+    <key>IM Address 1</key><string>IM Adress 1</string>
+    <key>IM Address 2</key><string>IM Adress 2</string>
+    <key>IM Address 3</key><string>IM Adress 3</string>
+    <key>Inbox</key><string>Inbox</string>
+    <key>Inside My Organization</key><string>Inside My Organization</string>
+    <key>Invalid Certificate</key><string>Ogiltigt certifikat</string>
+    <key>Invalid email address</key><string>Ogiltig e-postadress</string>
+    <key>Invite</key><string>Bjud</string>
+    <key>Invitees</key><string>Inbjudna</string>
+    <key>Invitees:</key><string>Inbjudna:</string>
+    <key>Job title</key><string>Befattning</string>
+    <key>Join Meeting</key><string>Gå Meeting</string>
+    <key>Just this occurence</key><string>Detta möte</string>
+    <key>LastModified</key><string>Senast ändrad</string>
+    <key>Legal Notices</key><string>Juridisk information</string>
+    <key>Privacy Policy</key><string>Privacy Policy</string>
+    <key>Location</key><string>Läge</string>
+    <key>Mail</key><string>Mail</string>
+    <key>Manager</key><string>föreståndaren</string>
+    <key>Mark As Read</key><string>Mark som läst</string>
+    <key>Mark As Unread</key><string>Markera som oläst</string>
+    <key>Mark</key><string>Mark</string>
+    <key>Maybe</key><string>KANSKE</string>
+    <key>Meeting ID: %@-%@-%@\n</key><string>Meeting ID:%@ -%@ -%@ 
+</string>
+    <key>Meeting</key><string>Meeting</string>
+    <key>Mobile phone</key><string>Mobiltelefon</string>
+    <key>Month</key><string>Månad</string>
+    <key>more</key><string>mer</string>
+    <key>MoreEvents</key><string>%d Mer</string>
+    <key>Move Message</key><string>Flytta Meddelande</string>
+    <key>Move</key><string>Flytta</string>
+    <key>Multi Day</key><string>Multi Dag</string>
+    <key>Cannot Load Privacy Policy. Try Again Later.</key><string>Kan inte ladda sekretesspolicy. Försök igen senare.</string>
+    <key>Never</key><string>Aldrig</string>
+    <key>New Event</key><string>Ny händelse</string>
+    <key>New Meeting</key><string>Nytt möte</string>
+    <key>New Message</key><string>Nytt meddelande</string>
+    <key>New Photo</key><string>Nya Foto</string>
+    <key>Nickname</key><string>Nick</string>
+    <key>No Contacts</key><string>Inga kontakter</string>
+    <key>No Invitees</key><string>Lägg ett inbjuden</string>
+    <key>No Recipients</key><string>Ange mottagare</string>
+    <key>No Response</key><string>Inget svar</string>
+    <key>No title</key><string>Ange en titel</string>
+    <key>NoButtonText</key><string>Nej</string>
+    <key>None</key><string>Ingen</string>
+    <key>NoneReminder</key><string>Ingen</string>
+    <key>Notes</key><string>Anmärkningar</string>
+    <key>Notifications</key><string>Notifications</string>
+    <key>Notification</key><string>Anmälan</string>
+    <key>Off</key><string>Off</string>
+    <key>Office location</key><string>Kontorsläge</string>
+    <key>Offline</key><string>Offline</string>
+    <key>Other Conference</key><string>Andra konferensen</string>
+    <key>OK</key><string>OK</string>
+    <key>On</key><string>På</string>
+    <key>Optional</key><string>Valfritt</string>
+    <key>Optional:</key><string>Tillval:</string>
+    <key>Organize By Conversation</key><string>Organisera med Conversation</string>
+    <key>Organizer</key><string>Sorter</string>
+    <key>Other</key><string>Övrigt</string>
+    <key>Out of Office</key><string>Frånvarande</string>
+    <key>Pager</key><string>Pager</string>
+    <key>Password</key><string>Lösenord</string>
+    <key>Exchange Server Access Denied</key><string>Exchange Server Access Denied</string>
+    <key>Please try again in a few minutes.</key><string>Försök igen om några minuter.</string>
+    <key>Radio phone</key><string>Radio telefon</string>
+    <key>Re:</key><string>Re:</string>
+    <key>ReadWrite</key><string>Läs / Skriv</string>
+    <key>Reminder</key><string>Påminnelse</string>
+    <key>Repeat</key><string>Upprepa</string>
+    <key>Repeat Forever</key><string>Upprepa evigt</string>
+    <key>Reply All</key><string>Svara alla</string>
+    <key>Reply</key><string>Svara</string>
+    <key>Request Help from support</key><string>Begär Hjälp</string>
+    <key>RequestHelpFromSupportMailBodyTemplate</key><string>Jag har ett problem med Citrix WorxMail för iOS 
+ 
+Här 窶 冱 en beskrivning av problemet 
+ \ Nabout min enhet:.. \ N%@</string>
+    <key>Requesting help with Citrix WorxMail for iOS</key><string>Begära hjälp med Citrix WorxMail för iOS</string>
+    <key>Required</key><string>Obligatorisk</string>
+    <key>Required:</key><string>krävs:</string>
+    <key>Running Late</key><string>försenade</string>
+    <key>Running late</key><string>försenade</string>
+    <key>Save Draft</key><string>Spara utkast</string>
+    <key>Save</key><string>Spara</string>
+    <key>Search</key><string>Sök</string>
+    <key>Search Contacts</key><string>Sök Kontakter</string>
+    <key>Select a different date or time for the event occurrence</key><string>Kontrollera start- och slutdatum</string>
+    <key>Select a Start Date earlier than the End Date</key><string>Kontrollera start- och slutdatum</string>
+    <key>Select a meeting</key><string>Välj ett möte</string>
+    <key>Select all</key><string>Välj alla</string>
+    <key>Select an End Date later than the Start Date</key><string>Kontrollera start- och slutdatum</string>
+    <key>Select an End Date that is later than now</key><string>Kontrollera start- och slutdatum</string>
+    <key>Select Recipients</key><string>Välj mottagare</string>
+    <key>Please select recipients for your reply message (Inside My Organization or Outside My Organization).</key><string>Välj mottagare för svarsmeddelandet (Inside My organisationen eller utanför min organisation).</string>
+    <key>Send Feedback to Citrix</key><string>Skicka feedback till Citrix</string>
+    <key>Send Feedback</key><string>Skicka feedback</string>
+    <key>Send</key><string>Sänd</string>
+    <key>Sent from Citrix WorxMail for iPad</key><string>Skickat från Citrix WorxMail för iPad</string>
+    <key>Sent from Citrix WorxMail for iPhone</key><string>Skickat från Citrix WorxMail för iPhone</string>
+    <key>Server</key><string>Server</string>
+    <key>Settings</key><string>Inställningar</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>Oväntat fel autentisering.</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON Tolkningsfel.</string>
+    <key>SFAPIConnection_NilResponse</key><string>SFResponse objektet var noll. Är denna begäran stöds?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>En nätverksanslutning upptäcktes inte.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth misslyckades. Reauth info var noll.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth misslyckades. Fel okänd.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth misslyckades. Stöds inte typ SAML inloggning.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection fått autentisering utmaning.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Okänd svarsformat.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest ogiltig. Vänligen kontrollera erforderliga begäran params.</string>
+    <key>Share</key><string>Dela</string>
+    <key>ShareFile Browser</key><string>delade filen</string>
+    <key>Show Notifications</key><string>Show Notifications</string>
+    <key>Signature</key><string>Signatur</string>
+    <key>Sound</key><string>Ljud</string>
+    <key>Specify Days</key><string>Specificera Dagar</string>
+    <key>Spouse</key><string>Make</string>
+    <key>Start</key><string>Startar</string>
+    <key>Starts</key><string>Startar</string>
+    <key>Starts\nEnds</key><string>Startar 
+Ends</string>
+    <key>Starts &amp; Ends</key><string>Startar &amp; Ends</string>
+    <key>Subject:</key><string>Ämne:</string>
+    <key>Support</key><string>Support</string>
+    <key>Sync Mail Period</key><string>Sync Mail Period</string>
+    <key>Sync with Local Contacts</key><string>Synka med lokala kontakter</string>
+    <key>Take a Photo</key><string>ta foto</string>
+    <key>Tap \"+\" or search from \n directory to add.</key><string>Tryck \ "+ \" eller söka från 
+ katalog att lägga.</string>
+    <key>Tentative</key><string>Tentative</string>
+    <key>Time</key><string>Tid</string>
+    <key>Time Duration</key><string>Tid Tid</string>
+    <key>Title</key><string>Titel</string>
+    <key>%1$d of %2$d</key><string>%1$d av%2$d</string>
+    <key>To:</key><string>Till:</string>
+    <key>Try Again</key><string>Försök igen</string>
+    <key>U</key><string>U</string>
+    <key>Sorry, WorxMail Cannot Get Attendee Details</key><string>Tyvärr WorxMail Can not Get deltagare Detaljer</string>
+    <key>Sorry, WorxMail Cannot Get Organizer Details</key><string>Tyvärr WorxMail Can not Get Organizer Detaljer</string>
+    <key>Unavailable</key><string>Ej</string>
+    <key>Unread</key><string>olästa</string>
+    <key>Updated</key><string>Uppdaterad</string>
+    <key>Username</key><string>Användarnamn</string>
+    <key>Verifying...</key><string>Verifiera ...</string>
+    <key>Version</key><string>Version</string>
+    <key>When</key><string>När</string>
+    <key>Where</key><string>Där</string>
+    <key>Whole series</key><string>Hela serien</string>
+    <key>Work</key><string>Arbete</string>
+    <key>WorxMail</key><string>WorxMail</string>
+    <key>YesButtonText</key><string>Ja</string>
+    <key>Yesterday</key><string>Igår</string>
+    <key>Accept All Certificates</key><string>Acceptera alla certifikat</string>
+    <key>Accepted</key><string>Accepted</string>
+    <key>Access denied</key><string>Åtkomst nekad</string>
+    <key>You need a valid certificate to use this app.</key><string>Du behöver ett giltigt certifikat för att använda denna app.</string>
+    <key>WorxMail cannot safely connect to the server. The server is not trusted.</key><string>WorxMail kan inte säkert ansluta till servern. Servern är inte betrodd.</string>
+    <key>Untrusted SSL Certificate</key><string>betrodda SSL-certifikat</string>
+    <key>You and</key><string>Du och</string>
+    <key>Download complete message</key><string>Hämta hela meddelandet</string>
+    <key>Cannot download the complete message. Please try again later.</key><string>Kan inte hämta hela meddelandet. Försök igen senare.</string>
+    <key>Downloading...</key><string>Downloading ...</string>
+    <key>First Name</key><string>Förnamn</string>
+    <key>Middle name</key><string>Mellannamn</string>
+    <key>Last Name</key><string>Efternamn</string>
+    <key>Suffix</key><string>Suffix</string>
+    <key>City</key><string>Ort</string>
+    <key>State</key><string>stat</string>
+    <key>Postal Code</key><string>postnummer</string>
+    <key>Country</key><string>Land</string>
+    <key>Street</key><string>Street</string>
+    <key>Edit More</key><string>Redigera Mer</string>
+    <key>Edit Less</key><string>Redigera Mindre</string>
+    <key>Contact</key><string>Kontakt</string>
+    <key>First</key><string>Första</string>
+    <key>Middle</key><string>USA</string>
+    <key>Last</key><string>Sista</string>
+    <key>Name</key><string>Namn</string>
+    <key>Phone</key><string>Telefon</string>
+    <key>Email Address</key><string>E-postadress</string>
+    <key>Email Address 1</key><string>E-postadress 1</string>
+    <key>Email Address 2</key><string>E-postadress 2</string>
+    <key>Email Address 3</key><string>E-postadress 3</string>
+    <key>Address</key><string>Adress</string>
+    <key>Business Address</key><string>företag Adress</string>
+    <key>Home Address</key><string>Hemadress</string>
+    <key>Other Address</key><string>Annan adress</string>
+    <key>Add New</key><string>Lägg Nytt möte</string>
+    <key>Assistant Phone</key><string>Assistent Telefon</string>
+    <key>Car Phone</key><string>Car Phone</string>
+    <key>Company Phone</key><string>Företag Telefon</string>
+    <key>Conference</key><string>Webb &amp; Ljud</string>
+    <key>IM</key><string>IM</string>
+    <key>Meeting Id</key><string>Meeting ID</string>
+    <key>Meetings</key><string>Möten</string>
+    <key>No Events</key><string>Inga evenemang</string>
+    <key>Radio Phone</key><string>Radio Phone</string>
+    <key>WorxMail Custom Conference</key><string>WorxMail Custom Conference</string>
+    <key>WorxMail GTM</key><string>WorxMail GTM</string>
+    <key>Files</key><string>Filer</string>
+    <key>Clear All</key><string>Rensa alla</string>
+    <key>Preview</key><string>Preview</string>
+    <key>Upload</key><string>Ladda upp</string>
+    <key>Error</key><string>Fel</string>
+    <key>Time-out no response from server</key><string>Inget svar från servern 
+</string>
+    <key>Uploading...</key><string>Uppladdning ...</string>
+    <key>Attendee</key><string>Attendee</string>
+    <key>Save to Contacts</key><string>Spara i Kontakter</string>
+    <key>New Contact</key><string>Ny kontakt</string>
+    <key>Load Attachments on Wi-Fi</key><string>Ladda Bilagor på WiFi</string>
+    <key>Mobile</key><string>Mobil</string>
+    <key>Business</key><string>Arbete</string>
+    <key>Business 2</key><string>Arbete 2</string>
+    <key>Radio</key><string>Radio</string>
+    <key>Car</key><string>Bil</string>
+    <key>Fax</key><string>Fax</string>
+    <key>Office</key><string>Office</string>
+    <key>Contact exported successfully</key><string>Kontakt exporteras framgångsrikt</string>
+    <key>Contacts exported successfully</key><string>Kontakter exporteras framgångsrikt</string>
+    <key>Set Specific Time Duration</key><string>Ställ Specifik Tid Tid</string>
+    <key>Inside Organization</key><string>Inuti Organization</string>
+    <key>Outside Organization</key><string>Utanför Organisation</string>
+    <key>Please enter your reply message.</key><string>Ange din svarsmeddelande.</string>
+    <key>My Contacts Only</key><string>Endast  Mina kontakter</string>
+    <key>Send Automatic Replies</key><string>skicka automatiska svar</string>
+    <key>Outside My Organization</key><string>Utanför Min organisation</string>
+    <key>Anyone Outside My Organization</key><string>någon utanför Min organisation</string>
+    <key>Auto-Reply</key><string>Auto-svar</string>
+    <key>Type</key><string>Typ</string>
+    <key>Government</key><string>regeringen</string>
+    <key>Customer</key><string>Kund</string>
+    <key>Export Contacts</key><string>Exportera kontakter</string>
+    <key>Contact export failed.</key><string>Kontakta export misslyckades.</string>
+    <key>Auto refresh header for background fetch on</key><string>För att stänga Auto Refresh av, gå till iOS 
+Settings och välj Allmänt&gt; Bakgrund App 
+Refresh. \ N 
+SELECTED MAPPAR</string>
+    <key>Auto refresh header for background fetch on without line break</key><string>För att stänga Auto Refresh av, gå till iOS Inställningar och välj Allmänt&gt; Bakgrund App Uppdatera. \ N 
+SELECTED MAPPAR</string>
+    <key>Auto refresh header for background fetch off</key><string>För att slå Auto Refresh på, gå till iOS 
+Settings och välj Allmänt&gt; Bakgrund App 
+Refresh.</string>
+    <key>Auto refresh header for background fetch off without line break</key><string>För att slå Auto Refresh på, gå till iOS Inställningar och välj Allmänt&gt; Bakgrund App Uppdatera.</string>
+    <key>Selected Folders</key><string>valda mappar</string>
+    <key>Delete selected message?</key><string>Radera valt meddelande?</string>
+    <key>Move Messages</key><string>flytta meddelanden</string>
+    <key>Move conversation</key><string>Flytta Conversation</string>
+    <key>Move conversations</key><string>Flytta konversationer</string>
+    <key>Mark as unread</key><string>Markera som oläst</string>
+    <key>Meeting Password</key><string>Meeting Password</string>
+    <key>Recurring Meeting</key><string>återkommande möte</string>
+    <key>Recurrence</key><string>Återfall</string>
+    <key>Account Settings</key><string>Kontoinställningar</string>
+    <key>Account</key><string>Konto</string>
+    <key>Auto Refresh</key><string>Auto Refresh</string>
+    <key>Pull to refresh this folder.</key><string>Dra för att uppdatera den här mappen.</string>
+    <key>Checking for Contacts...</key><string>Söker efter kontakter ...</string>
+    <key>Cannot View Attachment</key><string>Kan inte Visa Attachment</string>
+    <key>Can't Open File Type \n Tap Share to open with another app.</key><string>Kan inte öppna filtyp 
+ Tryck på Dela för att öppna med en annan app.</string>
+    <key>WorxMail cannot find an app to view this attachment. Please try a local app or add an app in Worx Home to view this attachment.</key><string>WorxMail kan inte hitta en app för att se detta fäste. Försök en lokal app eller lägga till en app i Worx Hem för att se den här bilagan.</string>
+    <key>To view this attachment, try a local app or add an app in Worx Home.</key><string>För att denna bilaga, prova en lokal app eller lägga till en app i Worx Home.</string>
+    <key>ShareFile</key><string>delade filen</string>
+    <key>Cannot Join Meeting</key><string>Kan inte Gå Meeting</string>
+    <key>WorxMail cannot find an app to join this meeting. Please try adding the appropriate app in Worx Home.</key><string>WorxMail kan inte hitta en app för att gå med i detta möte. Försök rubriks app i Worx Home.</string>
+    <key>Name isn't available</key><string>Namn är inte tillgänglig</string>
+    <key>IM Address</key><string>IM Adress</string>
+    <key>http://www.citrix.com/about/legal/privacy/plain.html</key><string>http: //www.citrix.com/about/legal/privacy/plain.html</string>
+    <key>Repeat end date can not be before event start date.</key><string>Upprepa End måste infalla efter Händelse Startdatum</string>
+    <key>Select a message for this attachment</key><string>Välj ett meddelande för denna bilaga</string>
+    <key>Sorry, WorxMail Could Not Retrieve Your Meetings</key><string>Tyvärr WorxMail Kunde inte hämta dina möten</string>
+    <key>Sorry, WorxMail Could Not Create Your Meeting</key><string>Tyvärr WorxMail Kunde inte skapa Meeting</string>
+    <key>Sorry, WorxMail Could Not Delete Your Meeting</key><string>Tyvärr WorxMail Kunde inte radera ditt möte</string>
+    <key>Sorry, WorxMail Could Not Edit Your Meeting</key><string>Tyvärr WorxMail Kunde inte redigera dina Meeting</string>
+    <key>Your Internet access is not currently available.</key><string>Din Internet är inte tillgängligt</string>
+    <key>Email 1</key><string>E 1</string>
+    <key>Name 1</key><string>Namn 1</string>
+    <key>Name 2</key><string>Namn 2</string>
+    <key>Email 3</key><string>E 3</string>
+    <key>Name 3</key><string>Namn 3</string>
+    <key>Email 2</key><string>E 2</string>
+    <key>Business Street</key><string>Arbete Street</string>
+    <key>Home Street</key><string>Hem Street</string>
+    <key>Other Street</key><string>Övrigt Street</string>
+    <key>Delete Contact</key><string>Delete Kontakt</string>
+    <key>Delete Contacts</key><string>Radera Kontakter</string>
+    <key>Delete Message</key><string>Radera meddelande</string>
+    <key>Delete Messages</key><string>Radera meddelanden</string>
+    <key>Delete Conversations</key><string>Radera konversationer</string>
+    <key>Delete Conversation</key><string>bort konversation</string>
+    <key>Account Not Created</key><string>Konto Inte Skapad</string>
+    <key>Your account cannot be created at this time. This version of your Mail Server is not supported.</key><string>Ditt konto kan inte skapas vid denna tidpunkt. Denna version av din e-postserver stöds inte.</string>
+    <key>Your account could not be created. Check your email address and try again.</key><string>Ditt konto kunde inte skapas. Kontrollera din e-postadress och försök igen.</string>
+    <key>IM 1</key><string>IM 1</string>
+    <key>IM 2</key><string>IM 2</string>
+    <key>IM 3</key><string>IM 3</string>
+    <key>From</key><string>Från</string>
+    <key>Date</key><string>Datum</string>
+    <key>To</key><string>Till</string>
+    <key>Subject</key><string>Ämne</string>
+    <key>Cc</key><string>Cc</string>
+    <key>Please configure your email account before using WorxMail</key><string>Konfigurera ditt e-postkonto innan du använder WorxMail</string>
+    <key>Sorry, WorxMail Could Not Process Your Request</key><string>Tyvärr WorxMail Kunde inte behandla din begäran</string>
+    <key>Download</key><string>Hämta</string>
+    <key>Waiting...</key><string>Väntar ...</string>
+    <key>Sorry, WorxMail Could Not Open the Event</key><string>Tyvärr WorxMail Kunde ツ Inte Öppna Händelse</string>
+    <key>WorxMail could not attach your image. Please try again in a few minutes.</key><string>WorxMail kunde inte bifoga din bild. Försök igen om några minuter.</string>
+    <key>Send To All</key><string>Tipsa All</string>
+    <key>Send To Changed</key><string>Tipsa Ändrad</string>
+    <key>FaceTime</key><string>Facetime</string>
+    <key>Blocked by Admin Policy: Attach File</key><string>Blockerad av Admin Regler: Bifoga fil</string>
+    <key>Your WorxMail contacts will be exported to your local contacts.</key><string>Dina WorxMail kontakter kommer att exporteras till dina lokala kontakter.</string>
+    <key>Your WorxMail contacts will no longer be exported to your local contacts.</key><string>Dina WorxMail kontakter kommer inte längre att exporteras till dina lokala kontakter.</string>
+    <key>The attachment is not available to download.</key><string>Den bifogade filen är inte tillgänglig för nedladdning.</string>
+    <key>You do not have permission to download the attachment.</key><string>Du har inte tillåtelse att ladda ned bilagan.</string>
+    <key>Your company's policy doesn't allow attachments to be downloaded.</key><string>Ditt företags policy inte tillåter bilagor som ska hämtas.</string>
+    <key>A problem occurred with the download.</key><string>Ett problem uppstod med nedladdningen.</string>
+    <key>Invalid Event Duration</key><string>Ogiltig Händelse Varaktighet</string>
+    <key>The duration of the calendar event must be shorter than how frequently it occurs.</key><string>varaktighet kalenderhändelsen ska vara kortare än hur ofta det sker.</string>
+    <key>Send message with no subject?</key><string>Skicka meddelande utan ämne?</string>
+    <key>Custom</key><string>Anpassad</string>
+    <key>Move to CC</key><string>Flytta till Cc</string>
+    <key>Information</key><string>Information</string>
+    <key>Delete Conference</key><string>Delete konferensen</string>
+    <key>Your Company Network Is Not Currently Available</key><string>företagets nätverk finns för närvarande inte</string>
+    <key>Actions</key><string>Åtgärder</string>
+    <key>When:</key><string>När:</string>
+    <key>Respond</key><string>Respond</string>
+    <key>No Response</key><string>Inget svar</string>
+    <key>NO RESPONSE</key><string>INGEN REAKTION</string>
+    <key>MORE RESULTS</key><string>fler resultat</string>
+    <key>%d of %d</key><string>%d av%d</string>
+    <key>Continue search on server</key><string>Fortsätta att söka på servern</string>
+    <key>Folders</key><string>mappar</string>
+    <key>Show Less</key><string>Färre Alternativ</string>
+    <key>Show More</key><string>Fler alternativ</string>
+    <key>More</key><string>Mer</string>
+    <key>&amp; %i More</key><string>&amp;%i Mer</string>
+    <key>No scheduled meetings</key><string>Nej planerade möten</string>
+    <key>RECURRING MEETINGS</key><string>återkommande MÖTEN</string>
+    <key>SCHEDULED MEETINGS</key><string>planerade möten</string>
+    <key>MEETINGS</key><string>MÖTEN</string>
+    <key>All</key><string>Alla</string>
+    <key>Sort Order</key><string>sorteringsordning</string>
+    <key>Display Order</key><string>Display Order</string>
+    <key>First, Last</key><string>Först Senaste</string>
+    <key>Last, First</key><string>Senast, Första</string>
+    <key>Phonetic First Name</key><string>Fonetisk Förnamn</string>
+    <key>Phonetic Last Name</key><string>Fonetisk Efternamn</string>
+    <key>Mailboxes</key><string>Brevlådor</string>
+    <key>%d Selected</key><string>%d Selected</string>
+    <key>99+</key><string>99 +</string>
+    <key>Swipe Up</key><string>Svep upp</string>
+    <key>Swipe Down</key><string>Svep Down</string>
+    <key>Single Tap To Read</key><string>Single Tap att läsa</string>
+    <key>Double Tap To Flag</key><string>Double Tap Till Flag</string>
+    <key>Mark as Read</key><string>Markera som läst</string>
+    <key>Move to</key><string>Flytta till</string>
+    <key>Fast Sort</key><string>Snabb Sort</string>
+    <key>Move to %@</key><string>Flytta till%@</string>
+    <key>MAIL</key><string>MAIL</string>
+    <key>CONTACTS</key><string>KONTAKTER</string>
+    <key>CALENDAR</key><string>KALENDER</string>
+    <key>Conversation</key><string>Conversation</string>
+    <key>ITEMS</key><string>PUNKTER</string>
+    <key>Loading meetings...</key><string>Loading möten ...</string>
+    <key>Create note</key><string>Skapa anteckning</string>
+    <key>Checking for Events...</key><string>Kontroll för evenemang ...</string>
+    <key>Delete Photo</key><string>Delete foto</string>
+    <key>Display Name</key><string>Display Name</string>
+    <key>Phonetic FirstName</key><string>Fonetisk Förnamn</string>
+    <key>Business Fax</key><string>Arbetsfax</string>
+    <key>PHONE</key><string>TELEFON</string>
+    <key>Week</key><string>Vecka</string>
+    <key>Work Email</key><string>Arbete Email</string>
+    <key>Home Email</key><string>Hem E</string>
+    <key>INTERNET</key><string>INTERNET</string>
+    <key>BUSINESS</key><string>ARBETE</string>
+    <key>HOME</key><string>HOME</string>
+    <key>ALIAS</key><string>ALIAS</string>
+    <key>PERSONAL</key><string>PERSONLIG</string>
+    <key>NOTES</key><string>ANMÄRKNINGAR</string>
+    <key>Middle Name</key><string>Mellannamn</string>
+    <key>COMPANY INFO</key><string>FÖRETAG</string>
+    <key>Add to Existing Contact</key><string>Lägg till i befintlig kontakt</string>
+    <key>ADDRESS</key><string>ADRESS</string>
+    <key>Close</key><string>Stäng</string>
+    <key>COMPANY DIRECTORY</key><string>företag</string>
+    <key>Export</key><string>Export</string>
+    <key>General</key><string>Allmänt</string>
+    <key>Label</key><string>Etikett</string>
+    <key>No Data passed</key><string>Nej Data passerat</string>
+    <key>OTHER</key><string>ANNAN</string>
+    <key>Phonetic LastName</key><string>Fonetisk Efternamn</string>
+    <key>Please enter a reply message for Inside My Organization.</key><string>Ange ett svarsmeddelande för Inside My Organization.</string>
+    <key>Please enter your reply message for Outside My Organization.</key><string>Ange din svarsmeddelande för Outside My Organization.</string>
+    <key>Delete</key><string>Radera</string>
+    <key>Blocked by Admin Policy: Add Photo</key><string>Blockerad av Admin Regler: Lägg till foto</string>
+    <key>Select a phone number</key><string>Välj ett telefonnummer</string>
+    <key>New Meeting Invitation</key><string>Ny mötesinbjudan</string>
+    <key>Unlink</key><string>Ta bort länk</string>
+    <key>Next event</key><string>Nästa händelse</string>
+    <key>Next event at</key><string>Nästa evenemang på</string>
+    <key>Checking for Updates...</key><string>Söker efter uppdateringar ...</string>
+    <key>Incorrect Password</key><string>felaktigt lösenord</string>
+    <key>Enter password for</key><string>Ange lösenord för</string>
+    <key>Decline</key><string>Avböj</string>
+    <key>TentativelyAccept</key><string>Kanske</string>
+    <key>&amp; Comment</key><string>&amp; Kommentera</string>
+    <key>Login</key><string>Login</string>
+    <key>Please enter your password</key><string>Ange ditt lösenord</string>
+    <key>Checking Password...</key><string>Kontrollerar lösenord ...</string>
+    <key>Password validation failed.\nPlease try again later.</key><string>Lösenord validering misslyckades. \ NFörsök igen senare.</string>
+    <key>Retry</key><string>Försök igen</string>
+    <key>Tomorrow</key><string>morgon</string>
+    <key>Please resolve expired or locked passwords before continuing.</key><string>Vänligen lösa löpt ut eller låsta lösenord innan du fortsätter.</string>
+    <key>Please go to Settings &gt; Auto-Refresh and reduce the number of folders that you have selected.</key><string>Gå till Inställningar&gt; Auto-Refresh och minska antalet mappar som du har valt.</string>
+    <key>Please change your account password to continue using WorxMail.</key><string>Vänligen ändra ditt lösenord för att fortsätta använda WorxMail.</string>
+    <key>Please change your account password for</key><string>Vänligen ändra ditt lösenord för</string>
+    <key>to continue using WorxMail.</key><string>fortsätta använda WorxMail.</string>
+    <key>Your Mailbox Is Full</key><string>din brevlåda är full</string>
+    <key>Your message cannot be sent until you delete messages from your mailbox.\nWorxMail will send this message as soon as more space is available.</key><string>Ditt meddelande kan inte skickas förrän du raderar meddelanden från din brevlåda. \ NWorxMail skickar detta meddelande så snart mer utrymme är tillgängligt.</string>
+    <key>Your network is not available. Tap to retry.</key><string>Ditt nätverk är inte tillgängliga. Tryck här för att försöka igen.</string>
+    <key>GESTURE</key><string>ÅTBÖRD</string>
+    <key>Updating your mail. This may take a few minutes...</key><string>Uppdatera din mail. Detta kan ta några minuter ...</string>
+    <key>There was a problem.\nWait a few minutes and try again.</key><string>Det fanns ett problem. \ Nwait några minuter och försök igen.</string>
+    <key>All day tomorrow</key><string>Hela dagen imorgon</string>
+    <key>Phew! No new mail</key><string>Phew! Inga nya meddelanden</string>
+    <key>Move to Bcc</key><string>Flytta till Hemlig kopia</string>
+    <key>Move to Cc</key><string>Flytta till Cc</string>
+    <key>Move to To</key><string>Flytta till Till</string>
+    <key>Create New Contact</key><string>Skapa ny kontakt</string>
+    <key>Sign On</key><string>Sign On</string>
+    <key>Please verify your credentials and try again.</key><string>Kontrollera dina referenser och försök igen.</string>
+    <key>Add</key><string>Lägg</string>
+    <key>Too Many Devices</key><string>för många enheter</string>
+    <key>You have too many devices paired with Outlook.\nPlease remove unused devices and try again.</key><string>Du har för många enheter ihopkopplade med Outlook. Ta bort oanvända enheter och försök igen.</string>
+    <key>Account Disabled</key><string>Account Disabled</string>
+    <key>Your account is disabled.</key><string>Ditt konto är avaktiverat.</string>
+    <key>Sync Not Permitted</key><string>Sync Inte tillåtet</string>
+    <key>Your account doesn't have permission to sync with Outlook.</key><string>Ditt konto har inte behörighet att synkronisera med Outlook.</string>
+    <key>Your device doesn't have permission to sync with Outlook.</key><string>Enheten har inte behörighet att synkronisera med Outlook.</string>
+    <key>Account Not Created</key><string>Konto Inte Skapad</string>
+    <key>Your account cannot be created at this time.\nAccess to the Microsoft Exchange Server was denied.</key><string>Ditt konto kan inte skapas vid denna tidpunkt. \ NAccess till Microsoft Exchange Server nekades.</string>
+    <key>Choose a recipient</key><string>Välj en mottagare</string>
+    <key>Please Wait</key><string>Vänta</string>
+    <key>WorxMail is updating your contacts.</key><string>WorxMail uppdaterar dina kontakter.</string>
+    <key>Mail is already in %@</key><string>Mail är redan i%@</string>
+    <key>Attachments Were Not Sent</key><string>Bilagor sändes inte</string>
+    <key>Private</key><string>Privat</string>
+    <key>Show picture</key><string>Visa bild</string>
+    <key>Show pictures</key><string>Visa bilder</string>
+    <key>Always show pictures from this sender</key><string>Visa alltid bilder från denna avsändare</string>
+    <key>1 New Meeting Invitation</key><string>1 Ny mötesinbjudan</string>
+    <key>New Meeting Invitations</key><string>Nytt möte Inbjudningar</string>
+    <key>1 New Message</key><string>1 Nytt meddelande</string>
+    <key>New Messages</key><string>nya meddelanden</string>
+    <key>This mail is restricted.</key><string>Denna post är begränsad.</string>
+    <key>Restrictions</key><string>Begränsningar</string>
+    <key>Remove restrictions</key><string>Ta bort restriktioner</string>
+    <key>CONTENT OWNER</key><string>innehållsägare</string>
+    <key>CONTENT EXPIRATION</key><string>INNEHÅLL UTLÖPANDE</string>
+    <key>RESTRICTIONS</key><string>BEGRÄNSNINGAR</string>
+    <key>No expiration</key><string>Inget utgångs</string>
+    <key>Edit the Content</key><string>redigera innehållet</string>
+    <key>Modify recipients</key><string>Ändra mottagare</string>
+    <key>Copy content</key><string>Kopiera innehåll</string>
+    <key>Print</key><string>Tryck</string>
+    <key>Send to other apps</key><string>Tipsa andra appar</string>
+    <key>Enable Your Camera</key><string>Aktivera din kamera</string>
+    <key>Camera Is Blocked</key><string>kamera är täckt</string>
+    <key>Your admin has disabled the camera.</key><string>Din admin har avaktiverat kameran.</string>
+    <key>Change your camera privacy settings in iOS Settings &gt; Privacy &gt; Camera.</key><string>Ändra dina sekretessinställningar kamera i iOS Inställningar&gt; Sekretess&gt; Kamera.</string>
+    <key>Change your contact privacy settings in iOS Settings &gt; Privacy &gt; Contacts.</key><string>Ändra dina kontaktsekretessinställningar i iOS Inställningar&gt; Sekretess&gt; Kontakter.</string>
+    <key>Message not sent. Retry later</key><string>Meddelande skickas inte. Försök igen senare</string>
+    <key>High</key><string>Hög</string>
+    <key>Normal</key><string>Normal</string>
+    <key>Low</key><string>Låg</string>
+    <key>Outbox</key><string>Utkorg</string>
+    <key>Show Pictures</key><string>Visa bilder</string>
+    <key>Ok</key><string>Ok</string>
+    <key>Starts Ends</key><string>Startar Ends</string>
+    <key>Restriction Profiles</key><string>Restriktions Profiler</string>
+    <key>Info</key><string>info</string>
+    <key>None Template Description</key><string>Detta meddelande är inte skyddad. Om detta är ett svar på ett skyddat meddelande, är de begränsningar bort.</string>
+    <key>IRM content expiry message</key><string>Den behörighet att visa detta budskap har gått ut. Vänligen åter hämta meddelandet.</string>
+    <key>Due to admin policy on exporting contacts, only the name and phone number will be exported.</key><string>På grund av admin politik för att exportera kontakter, kommer bara namnet och telefonnumret exporteras.</string>
+    <key>Due to admin policy on exporting contacts, only the name, phone number and email will be exported.</key><string>På grund av admin politik för att exportera kontakter, kommer bara namnet, telefonnummer och e-exporteras.</string>
+    <key>Due to admin policy on exporting contacts, only the custom contact fields will be exported.</key><string>På grund av admin politik för att exportera kontakter kommer endast de egna kontaktfält exporteras.</string>
+    <key>Agenda</key><string>Agenda</string>
+    <key>Retry Send</key><string>Retry Sänd</string>
+    <key>Cannot Download Attachment</key><string>Kan inte ladda ner Attachment</string>
+    <key>TODAY</key><string>DAG</string>
+    <key>YESTERDAY</key><string>IGÅR</string>
+    <key>TOMORROW</key><string>MORGON</string>
+    <key>New</key><string>Ny</string>
+    <key>Add to existing</key><string>Lägg till befintlig</string>
+    <key>Delete Event</key><string>Ta bort händelse</string>
+    <key>Delete Series</key><string>Radera Serie</string>
+    <key>Send Update</key><string>Skicka Update</string>
+    <key>This folder is empty</key><string>Denna mapp är tom</string>
+    <key>Open Link</key><string>Öppna länk</string>
+    <key>Call %@</key><string>Ring%@</string>
+    <key>Open in Maps</key><string>Öppna i Kartor</string>
+    <key>Check the server address and try again.</key><string>Kontrollera serveradress och försök igen.</string>
+    <key>Send Anyway</key><string>Skicka ändå</string>
+    <key>You did not make changes to the event.</key><string>Du inte göra ändringar i händelsen.</string>
+    <key>Invalid Address</key><string>Ogiltig adress</string>
+    <key>%@ doesn't seem to be an actual address. Do you still want to send it?</key><string>%@ verkar inte vara en faktisk adress. Har du fortfarande vill skicka den?</string>
+    <key>This Option is Not Available</key><string>Detta alternativ är inte tillgängligt</string>
+    <key>An error occurred emptying your Deleted Items.</key><string>Ett fel uppstod tömma dina Borttaget.</string>
+    <key>Empty</key><string>Empty</string>
+    <key>Emptying Deleted Items folder</key><string>Tömning mappen Borttaget</string>
+    <key>Can't Empty Folder</key><string>Kan inte Töm mapp</string>
+    <key>An error occurred while emptying your Deleted Items folder.\nPlease try again later.</key><string>Ett fel uppstod när tömma mappen Borttaget. \ NFörsök igen senare.</string>
+    <key>FaceTime Audio</key><string>Face Audio</string>
+    <key>There was a problem sending this message. Try again later.</key><string>Det gick inte att skicka meddelandet. Försök igen senare.</string>
+    <key>Can't Send Mail</key><string>Kan inte Skicka Mail.</string>
+    <key>The server is not configured correctly.</key><string>Servern är inte korrekt konfigurerad.</string>
+    <key>A server error occurred. Please try again later.</key><string>Ett serverfel inträffade. Försök igen senare.</string>
+    <key>Your message is too large. Remove attachments or divide into smaller messages.</key><string>Ditt meddelande är för stort. Ta bort bilagor eller dela i mindre meddelanden.</string>
+    <key>Sorry, something went wrong. Please try again. If the problem persists, contact IT.</key><string>Tyvärr gick något fel. Försök igen. Om problemet kvarstår, kontakta IT.</string>
+    <key>A connection error occurred. Please try again later.</key><string>Ett anslutningsfel inträffade. Försök igen senare.</string>
+    <key>Leave in Outbox</key><string>Lämna i utkorgen</string>
+    <key>Availability</key><string>Tillgänglighet</string>
+    <key>You are available</key><string>Du är tillgängliga</string>
+    <key>This event is adjacent to another event</key><string>Denna händelse ligger i anslutning till en annan händelse</string>
+    <key>This event conflicts with another event</key><string>Denna händelse i konflikt med en annan händelse</string>
+    <key>Can't Access WorxMail</key><string>Kan inte Gå WorxMail</string>
+    <key>Failed to Fetch Client Certificate.</key><string>gick inte att hämta klientcertifikat.</string>
+    <key>This event has already been modified. Please close the current window and try again.</key><string>Denna händelse har redan ändrats. Stäng det aktuella fönstret och försök igen.</string>
+    <key>The attachment cannot be downloaded because it is empty.</key><string>Fästet kan inte hämtas eftersom den är tom.</string>
+    <key>Open</key><string>Öppen</string>
+    <key>Copy</key><string>Kopiera</string>
+    <key>Call</key><string>Ring</string>
+    <key>Copy Link</key><string>Kopiera länk</string>
+    <key>Send Message</key><string>Skicka meddelande</string>
+    <key>Done</key><string>Klar</string>
+    <key>Downloadable Resources</key><string>Nedladdnings Resources</string>
+    <key>Language</key><string>Språk</string>
+    <key>No Downloadable Resource</key><string>nr Nedladdnings Resource</string>
+    <key>Package Resources</key><string>Package Resources</string>
+    <key>Select Language</key><string>Välj språk</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection fått autentisering utmaning.</string>
+    <key>SFAPIConnection_NilResponse</key><string>SFResponse objektet var noll. Är denna begäran stöds?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>En nätverksanslutning upptäcktes inte.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest ogiltig. Vänligen kontrollera erforderliga begäran params.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest var noll.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Okänd svarsformat.</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON Tolkningsfel.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth misslyckades. Reauth info var noll.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth misslyckades. Stöds inte typ SAML inloggning.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth misslyckades. SSO info var noll.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth misslyckades. Fel okänd.</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>Oväntat fel autentisering.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>Ingen autentisering levererades.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>Försök inloggning var inte lyckat.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>authid identifieras men inaktuella. Vänligen verifierar igen innan du fortsätter.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>authid inte hittas / giltig.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>Subdomän är ogiltigt för aktuell begäran.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>Den aktuella verktyget / konto kombinationen nekas från att använda API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>Oväntat drift fel.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>Den begärda åtgärden inte matchar någon op stöds.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Denna op kräver parameter (s) som medföljer ej.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>Parameter (s) medföljer är ogiltiga (t.ex. sträng istället för int, val utanför området, etc).</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>Den begärda OP är inte kompatibel med den nuvarande mål-ID.</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>Op är inte tillåtet för nuvarande delade filen konto (har inaktiverat / inget tillstånd).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>Op är inte tillåtet för aktuell delade filen användare (användaren har inte lämpliga användar roll / behörighet att använda).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>Op är inte tillåtet för mål (användaren kan ha lämplig roll / tillstånd i andra fall, men inte för denna specifika ID).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>Oväntat mål fel.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>Begärd målet finns men inte av rätt typ (t.ex. försöker utföra mapp op på en fil).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>Target hittades inte.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>Oväntat skapar fel.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>Levereras förälder är inte giltigt för att skapa begärda objektet (t.ex. försöker skapa en mapp i roten på ett konto).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>Oväntat redigera fel.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>Objektet du försöker skapa finns redan.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>Objektet du försöker redigera finns redan.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>oväntat fel.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>Server genomgår underhåll.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>Betyggräns nåtts.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>Server är överkapacitet.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>oväntat fel (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>Server är överkapacitet (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>Ladda upp beredningen misslyckades (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>Ladda förberedelse misslyckades (SC).</string>
+</dict></plist>

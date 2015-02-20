@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>0 minutes before</key><string>0 דקות  לפני</string>
+    <key>1 day before</key><string>יום 1  לפני</string>
+    <key>1 Day</key><string>יום 1 </string>
+    <key>1 hour before</key><string>שעת  1 לפני</string>
+    <key>1 Month</key><string>חודש 1 </string>
+    <key>1 Week</key><string>שבוע 1 </string>
+    <key>1.  Please join my meeting.\nhttps://www1.gotomeeting.com/join/%@\n</key><string>1. . אנא הצטרף אל הפגישה שלי %@
+https: n \ //www1.gotomeeting.com/join/</string>
+    <key>15 minutes before</key><string>15 דקות לפני</string>
+    <key>2 days before</key><string>2 ימים לפני</string>
+    <key>2 hours before</key><string>2 שעות לפני</string>
+    <key>2 Weeks</key><string>2 שבועות</string>
+    <key>2.  Use your microphone and speakers (VoIP) - a headset is recommended. Or, call in using your telephone.\n\n%@\nAudio PIN: Shown after joining the meeting\n</key><string>2. השתמש במיקרופון והרמקולים (VoIP) - אוזניות מומלצת. או, קורא בשימוש בטלפון שלך 
+ 
+%@ 
+Audio PIN:. מוצג לאחר שהצטרף 
+ הפגישה</string>
+    <key>3 Days</key><string>3 ימים</string>
+    <key>30 minutes before</key><string>30 דקות לפני</string>
+    <key>5 minutes before</key><string>5 דקות  לפני</string>
+    <key>%d h</key><string>%d h ד</string>
+    <key>%d min</key><string>%d דק 'ד</string>
+    <key>%i recipients</key><string>נמעני %i</string>
+    <key>%@ and %i more...</key><string>%@ ו%i עוד ...</string>
+    <key>%@ %@ to %@ %@</key><string>%@%@ ל%@%@</string>
+    <key>%@ to %@</key><string>%@ ל%@</string>
+    <key>%@ - %@</key><string>%@ -%@</string>
+    <key>&lt;No subject&gt;</key><string>&lt;ללא נושא&gt;</string>
+    <key>(No subject)</key><string>(ללא נושא)</string>
+    <key>(No recipient)</key><string>(אין נמען)</string>
+    <key>About</key><string>אודות</string>
+    <key>Accept</key><string>קבל</string>
+    <key>Account</key><string>חשבון</string>
+    <key>Add %@</key><string>להוסיף%@</string>
+    <key>Address(email or server)</key><string>כתובת</string>
+    <key>Account</key><string>חשבון</string>
+    <key>All Contacts</key><string>כל מגעים</string>
+    <key>All Day Event</key><string>כל יום</string>
+    <key>All Day</key><string>כל יום</string>
+    <key>All-day</key><string>כל יום</string>
+    <key>all-day</key><string>כל יום</string>
+    <key>Please Enter an Event Title</key><string>אנא הזן כותרת אירוע</string>
+    <key>and %i more...</key><string>ו%i עוד ...</string>
+    <key>Anniversary</key><string>שנה</string>
+    <key>Append Signature</key><string>חתימה צרף</string>
+    <key>Ask Before Deleting</key><string>שאלו לפני מחיקה</string>
+    <key>Assistant</key><string>עוזר</string>
+    <key>Assistant phone</key><string>טלפון עוזר</string>
+    <key>Attach Existing Photo</key><string>צרף תמונה קיימת</string>
+    <key>Attach from ShareFile</key><string>צרף מShareFile</string>
+    <key>Attach</key><string>צרף</string>
+    <key>Attachment</key><string>קבצים מצורפים</string>
+    <key>Attachment (1)</key><string>קבצים מצורפים (1)</string>
+    <key>Attachments</key><string>קבצים מצורפים</string>
+    <key>attendee</key><string>מוזמן</string>
+    <key>attendees</key><string>מוזמנים</string>
+    <key>%d %@</key><string>%d%@</string>
+    <key>Attendees</key><string>מוזמנים</string>
+    <key>Authenticate</key><string>אימות</string>
+    <key>Autodiscover</key><string>גילוי אוטומטי</string>
+    <key>Availability</key><string>הצג כ</string>
+    <key>B</key><string>B</string>
+    <key>Back</key><string>חזרה</string>
+    <key>Bcc:</key><string>עותק מוסתר:</string>
+    <key>Birthday</key><string>יום הולדת</string>
+    <key>Business fax</key><string>פקס עבודה</string>
+    <key>Business phone</key><string>טלפון בעבודה</string>
+    <key>Business Phone</key><string>טלפון בעבודה</string>
+    <key>Web page</key><string>דף האינטרנט</string>
+    <key>Busy</key><string>עסוק</string>
+    <key>Calendar Event</key><string>תזכורת לוח שנה</string>
+    <key>Calendar Notifications</key><string>הודעות לוח שנה</string>
+    <key>Calendar</key><string>לוח שנה</string>
+    <key>Cancel</key><string>לבטל</string>
+    <key>Canceled:</key><string>בוטל:</string>
+    <key>Cannot Get Mail</key><string>לא יכול לקבל דואר</string>
+    <key>Car phone</key><string>טלפון רכב</string>
+    <key>Cc/Bcc:</key><string>עותקים / עותק מוסתר:</string>
+    <key>Cc:</key><string>עותק:</string>
+    <key>Checking for Mail...</key><string>בדיקה לדואר ...</string>
+    <key>Child</key><string>ילדים</string>
+    <key>Choose Photo</key><string>בחר תמונה</string>
+    <key>Clear all</key><string>נקה את כל</string>
+    <key>Clear Flag</key><string>נקה דגל</string>
+    <key>Company phone</key><string>טלפון חברה</string>
+    <key>Company</key><string>חברה</string>
+    <key>Contacts</key><string>מגעים</string>
+    <key>Contacts exported successfully</key><string>מגעים מיוצאים בהצלחה</string>
+    <key>Day</key><string>יום</string>
+    <key>De-Highlight</key><string>הדגש הסר</string>
+    <key>Declined</key><string>נדחה</string>
+    <key>Delete Changes</key><string>מחק שינויים</string>
+    <key>Delete Draft</key><string>מחק טיוטה</string>
+    <key>Delete this message?</key><string>למחוק הודעה זו?</string>
+    <key>Delete</key><string>מחק</string>
+    <key>Department</key><string>מחלקה</string>
+    <key>Details</key><string>פרטים</string>
+    <key>Dial In</key><string>חיוג ב</string>
+    <key>Discovering...</key><string>גילוי ...</string>
+    <key>Do you want to delete this occurrence or the entire series?</key><string>האם ברצונך למחוק מופע זה או את הסדרה כולה?</string>
+    <key>Do you want to forward this occurrence or the entire series?</key><string>האם ברצונך להעביר מופע זה או את הסדרה כולה?</string>
+    <key>ShareFileDomain</key><string>ShareFile דומיין</string>
+    <key>Domain</key><string>דומיין</string>
+    <key>Don't Save</key><string>אל תשמור</string>
+    <key>Done</key><string>בוצע</string>
+    <key>Downloading folders...</key><string>הורדת תיקיות ...</string>
+    <key>Your mail could not be downloaded at this time. Please try again in a few minutes.</key><string>המייל שלך לא יכול להיות שהורד בשלב זה. אנא נסה שוב בעוד מספר דקות.</string>
+    <key>Access to your company network is not currently available.</key><string>גישה לרשת החברה שלך אינה זמינה כעת.</string>
+    <key>Downloading</key><string>הורדה</string>
+    <key>Draft</key><string>טיוטה</string>
+    <key>Drafts</key><string>טיוטות</string>
+    <key>Edit</key><string>עריכה</string>
+    <key>Edit Event</key><string>עריכת אירוע</string>
+    <key>Edit series</key><string>סדרת עריכת </string>
+    <key>Email Notifications</key><string>הודעות דוא"ל</string>
+    <key>Email</key><string>דוא"ל</string>
+    <key>Email or mail server</key><string>שרת דוא"ל או בדואר</string>
+    <key>Email All Invitees</key><string>תגובה כל</string>
+    <key>Email Organizer</key><string>תגובה</string>
+    <key>EmailBodyApplicationBuild</key><string>WorxMail לבנות מספר:%@</string>
+    <key>EmailBodyApplicationMemory</key><string>זיכרון יישום:%@</string>
+    <key>EmailBodyApplicationVersion</key><string>WorxMail גרסה:%@</string>
+    <key>EmailBodyDeviceModel</key><string>דגם התקן:%@</string>
+    <key>EmailBodyFreeMemory</key><string>זיכרון חינם:%@</string>
+    <key>EmailBodyIsJailBroken</key><string>האם jailbroken:%@</string>
+    <key>EmailBodyOSVersion</key><string>iOS גרסה:%@</string>
+    <key>EmailBodyTotalMemory</key><string>זיכרון סה"כ:%@</string>
+    <key>End Repeat</key><string>חזור על קצה</string>
+    <key>Ends</key><string>מסתיים</string>
+    <key>Enter at least one recipient.</key><string>הזן נמען אחד לפחות.</string>
+    <key>Enter some feedback text</key><string>הזן הטקסט את המשוב שלך</string>
+    <key>Enter your credentials</key><string>הזן את אישורי שלך</string>
+    <key>Enter your domain</key><string>הזן את התחום שלך</string>
+    <key>Enter your email address</key><string>הזן את כתובת הדוא"ל שלך</string>
+    <key>Enter your email or server address</key><string>הזן את כתובת הדוא"ל שלך או שרת</string>
+    <key>Enter your feedback here to send it to Citrix.</key><string>הזן את המשוב שלך כאן כדי לשלוח אותו לCitrix.</string>
+    <key>Enter your password</key><string>הזן את הסיסמה שלך</string>
+    <key>Enter your server address</key><string>הזן את כתובת השרת שלך</string>
+    <key>Enter your user name</key><string>הזן את שם המשתמש שלך</string>
+    <key>Events</key><string>אירועים</string>
+    <key>Event Details</key><string>פרטי אירוע</string>
+    <key>Every Day</key><string>בכל יום</string>
+    <key>Every Month</key><string>כל חודש</string>
+    <key>Every 2 Weeks</key><string>כל שבועיים</string>
+    <key>Every Week</key><string>בכל שבוע</string>
+    <key>Every Year</key><string>בכל שנה</string>
+    <key>Exchange Account</key><string>חשבון Exchange</string>
+    <key>Existing Photo</key><string>תמונות קיימות</string>
+    <key>Export to iPad</key><string>יצוא לiPad</string>
+    <key>Export to iPhone</key><string>יצוא ל- iPhone</string>
+    <key>Failed to save Out of Office settings</key><string>לא הצליח להציל מתוך הגדרות משרד</string>
+    <key>Feedback for Citrix WorxMail for iOS</key><string>משוב לCitrix WorxMail עבור iOS</string>
+    <key>FileSize</key><string>גודל</string>
+    <key>Flag</key><string>דגל</string>
+    <key>Flagged</key><string>מסומן</string>
+    <key>FMD_ClientAddressBookError_AccessDenied_Text</key><string>דרושים לך הרשאה כדי לפתוח את פנקס הכתובות</string>
+    <key>FMD_EmployeeAddressBookError_AccessDenied_Text</key><string>דרושים לך הרשאה כדי לפתוח את פנקס הכתובות</string>
+    <key>FMD_DeleteFileError_AccessDenied_Text</key><string>דרושים לך הרשאה להסרת קובץ זה</string>
+    <key>FMD_DownloadError_AccessDenied_Text</key><string>דרושים לך הרשאה לקבצים להורדה</string>
+    <key>FMD_DownloadError_NotEnoughSpace_Text</key><string>לא ניתן להוריד את הקובץ. אתה עולה על מגבלת 500MB עבור קבצים שהורדו.</string>
+    <key>FMD_DownloadError_ParentNotFound_Text</key><string>יכול להגיש לא להרחיב</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Text</key><string>הארגון שלך הוסר Docs שלך</string>
+    <key>FMD_GeneralError_InvalidCredentials_NonSSO_Text</key><string>שם משתמש או סיסמא שגויים</string>
+    <key>FMD_GeneralError_InvalidCredentials_SSO_Text</key><string>אנא בדוק את האישורים שלך</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Text</key><string>בדקו את חיבור הרשת</string>
+    <key>FMD_GeneralError_NotLoggedIn_Text</key><string>אנא התחבר לShareFile</string>
+    <key>FMD_GeneralError_UnrecognizedSFAPIError_Title</key><string>בעיה שיתוף תיקיות</string>
+    <key>FMD_MyDocs</key><string>%1$@%2$@ Docs</string>
+    <key>FMD_SyncError_ItemNotFound_Text</key><string>קובץ לא נמצא על המכשיר שלך.</string>
+    <key>FMD_UploadError_AccessDenied_Text</key><string>דרושים לך הרשאה להעלות את הקובץ הזה</string>
+    <key>FMD_UploadError_CannotReadFileAttributes_Text</key><string>לא יכול לחסוך פריט זה</string>
+    <key>FMD_UploadError_FileNotFound_Text</key><string>קובץ לא נמצא</string>
+    <key>FMD_UploadError_ParentNotFound_Text</key><string>לא יכול לחסוך פריט זה</string>
+    <key>File Box</key><string>קובץ Box</string>
+    <key>Forward</key><string>קדימה</string>
+    <key>Forward Invite</key><string>קדימה</string>
+    <key>Free</key><string>חינם</string>
+    <key>From:</key><string>מ:</string>
+    <key>Fw:</key><string>Fw:</string>
+    <key>GoToMeeting</key><string>GoToMeeting</string>
+    <key>GoToMeeting®\nOnline Meetings Made Easy®\n\nNot at your computer? Click the link to join this meeting from your iPhone®, iPad® or Android® device via the GoToMeeting app.</key><string>GoToMeeting ツ ョ 
+Online מפגשים קל ツ ョ 
+ 
+ לא במחשב שלך? לחץ על הקישור כדי להצטרף לפגישה זו מツ iPhone ョ, iPad ツ ョ או Android ツ ョ המכשיר באמצעות האפליקציה GoToMeeting.</string>
+    <key>Hide</key><string>הסתר</string>
+    <key>Highlight</key><string>הדגש</string>
+    <key>Home</key><string>דף בית</string>
+    <key>Home 2</key><string>בית 2</string>
+    <key>Home Phone</key><string>טלפון בבית</string>
+    <key>Home phone</key><string>טלפון בבית</string>
+    <key>I</key><string>אני</string>
+    <key>I am running late for this meeting.</key><string>אני מאחרת לפגישה זו.</string>
+    <key>IM Address 1</key><string>כתובת IM 1</string>
+    <key>IM Address 2</key><string>IM כתובת 2</string>
+    <key>IM Address 3</key><string>כתובת IM 3</string>
+    <key>Inbox</key><string>תיבת הדואר הנכנס</string>
+    <key>Inside My Organization</key><string>בתוך ארגון שלי</string>
+    <key>Invalid Certificate</key><string>תעודה לא חוקית</string>
+    <key>Invalid email address</key><string>כתובת דוא"ל לא חוקית </string>
+    <key>Invite</key><string>הזמן</string>
+    <key>Invitees</key><string>מוזמנים</string>
+    <key>Invitees:</key><string>מוזמנים:</string>
+    <key>Job title</key><string>כותרת העבודה</string>
+    <key>Join Meeting</key><string>הצטרף לפגישה</string>
+    <key>Just this occurence</key><string>פגישה זו</string>
+    <key>LastModified</key><string>השתנה לאחרונה</string>
+    <key>Legal Notices</key><string>הודעות משפטיות</string>
+    <key>Privacy Policy</key><string>מדיניות פרטיות</string>
+    <key>Location</key><string>מיקום </string>
+    <key>Mail</key><string>מייל</string>
+    <key>Manager</key><string>מנהל</string>
+    <key>Mark As Read</key><string>סמן כנקרא</string>
+    <key>Mark As Unread</key><string>סמן כלא נקרא</string>
+    <key>Mark</key><string>מארק</string>
+    <key>Maybe</key><string>MAYBE</string>
+    <key>Meeting ID: %@-%@-%@\n</key><string>ישיבות ID:%@ - %@ -%@ 
+</string>
+    <key>Meeting</key><string>ישיבות</string>
+    <key>Mobile phone</key><string>טלפון נייד</string>
+    <key>Month</key><string>חודש</string>
+    <key>more</key><string>יותר</string>
+    <key>MoreEvents</key><string>%d נוסף</string>
+    <key>Move Message</key><string>מסר Move</string>
+    <key>Move</key><string>Move</string>
+    <key>Multi Day</key><string>Multi יום</string>
+    <key>Cannot Load Privacy Policy. Try Again Later.</key><string>לא ניתן לטעון מדיניות פרטיות. נסה שוב מאוחר יותר.</string>
+    <key>Never</key><string>לעולם</string>
+    <key>New Event</key><string>אירוע חדש</string>
+    <key>New Meeting</key><string>ישיבות חדשות</string>
+    <key>New Message</key><string>הודעה חדשה</string>
+    <key>New Photo</key><string>צילום חדש</string>
+    <key>Nickname</key><string>כינוי</string>
+    <key>No Contacts</key><string>אין מגעים</string>
+    <key>No Invitees</key><string>להוסיף מוזמן</string>
+    <key>No Recipients</key><string>הזן מקבלי</string>
+    <key>No Response</key><string>אין תגובה</string>
+    <key>No title</key><string>הזן כותרת</string>
+    <key>NoButtonText</key><string>לא</string>
+    <key>None</key><string>איש</string>
+    <key>NoneReminder</key><string>איש</string>
+    <key>Notes</key><string>הערות</string>
+    <key>Notifications</key><string>הודעות</string>
+    <key>Notification</key><string>הודעה</string>
+    <key>Off</key><string>כבוי</string>
+    <key>Office location</key><string>מיקום משרד</string>
+    <key>Offline</key><string>מנותק</string>
+    <key>Other Conference</key><string>כנס אחר</string>
+    <key>OK</key><string>אישור</string>
+    <key>On</key><string>ב</string>
+    <key>Optional</key><string>אופציונאלי</string>
+    <key>Optional:</key><string>אופציונאלי:</string>
+    <key>Organize By Conversation</key><string>ארגן על ידי שיחה</string>
+    <key>Organizer</key><string>ארגונית</string>
+    <key>Other</key><string>אחר</string>
+    <key>Out of Office</key><string>מחוץ למשרד</string>
+    <key>Pager</key><string>זימונית</string>
+    <key>Password</key><string>סיסמא</string>
+    <key>Exchange Server Access Denied</key><string>גישה של Exchange Server נדחה</string>
+    <key>Please try again in a few minutes.</key><string>אנא נסה שוב בעוד מספר דקות.</string>
+    <key>Radio phone</key><string>טלפון רדיו</string>
+    <key>Re:</key><string>Re:</string>
+    <key>ReadWrite</key><string>קריאה / כתיבה</string>
+    <key>Reminder</key><string>תזכורת</string>
+    <key>Repeat</key><string>חזור</string>
+    <key>Repeat Forever</key><string>חזור לנצח</string>
+    <key>Reply All</key><string>תגובה כל</string>
+    <key>Reply</key><string>תגובה</string>
+    <key>Request Help from support</key><string>עזרה בקשה</string>
+    <key>RequestHelpFromSupportMailBodyTemplate</key><string>אני נתקלתי בבעיה עם Citrix WorxMail עבור iOS 
+ \ NHere 窶 冱 תיאור הבעיה 
+ 
+ אודות המכשיר שלי:.. \ N%@</string>
+    <key>Requesting help with Citrix WorxMail for iOS</key><string>בקשת עזרה עם Citrix WorxMail עבור iOS</string>
+    <key>Required</key><string>הנדרש</string>
+    <key>Required:</key><string>דרוש:</string>
+    <key>Running Late</key><string>מאחרת</string>
+    <key>Running late</key><string>מאוחר  ריצה</string>
+    <key>Save Draft</key><string>טיוטה שמור</string>
+    <key>Save</key><string>שמור</string>
+    <key>Search</key><string>חיפוש </string>
+    <key>Search Contacts</key><string>מגעים חיפוש</string>
+    <key>Select a different date or time for the event occurrence</key><string>בדקו את תאריכי ההתחלה וסיום</string>
+    <key>Select a Start Date earlier than the End Date</key><string>בדקו את תאריכי ההתחלה וסיום</string>
+    <key>Select a meeting</key><string>בחר פגישה</string>
+    <key>Select all</key><string>בחר את כל</string>
+    <key>Select an End Date later than the Start Date</key><string>בדקו את תאריכי ההתחלה וסיום</string>
+    <key>Select an End Date that is later than now</key><string>בדקו את תאריכי ההתחלה וסיום</string>
+    <key>Select Recipients</key><string>מקבלי בחרו</string>
+    <key>Please select recipients for your reply message (Inside My Organization or Outside My Organization).</key><string>אנא בחר נמענים להודעת התשובה שלך (בתוך הארגון שלי או מחוץ לארגון שלי).</string>
+    <key>Send Feedback to Citrix</key><string>שלח משוב לCitrix</string>
+    <key>Send Feedback</key><string>שלח משוב</string>
+    <key>Send</key><string>שלח</string>
+    <key>Sent from Citrix WorxMail for iPad</key><string>נשלח מCitrix WorxMail עבור iPad</string>
+    <key>Sent from Citrix WorxMail for iPhone</key><string>נשלח מCitrix WorxMail לאייפון</string>
+    <key>Server</key><string>שרת</string>
+    <key>Settings</key><string>הגדרות</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>שגיאת אימות בלתי צפויה.</string>
+    <key>SFAPIConnection_JSONParseError</key><string>שגיאת JSON לנתח.</string>
+    <key>SFAPIConnection_NilResponse</key><string>אובייקט SFResponse היה אפסי. האם בקשה זו נתמכת?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>חיבור לרשת לא זוהתה.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth נכשל. מידע Reauth היה אפסי.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth נכשל. שגיאה לא ידועה.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth נכשל. סוג התחברות SAML שאינו נתמך.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection קיבל אתגר אימות.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>פורמט תגובה לא ידוע.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest לא חוקי. אנא קרא params בקשה הנדרש.</string>
+    <key>Share</key><string>שתף</string>
+    <key>ShareFile Browser</key><string>ShareFile</string>
+    <key>Show Notifications</key><string>הצג הודעות</string>
+    <key>Signature</key><string>חתימה</string>
+    <key>Sound</key><string>סאונד</string>
+    <key>Specify Days</key><string>ציינו ימים</string>
+    <key>Spouse</key><string>בן זוג</string>
+    <key>Start</key><string>התחלות</string>
+    <key>Starts</key><string>התחלות</string>
+    <key>Starts\nEnds</key><string>התחלות 
+Ends</string>
+    <key>Starts &amp; Ends</key><string>התחלות ומסתיים</string>
+    <key>Subject:</key><string>נושא:</string>
+    <key>Support</key><string>תמיכה</string>
+    <key>Sync Mail Period</key><string>Sync דואר התקופה</string>
+    <key>Sync with Local Contacts</key><string>Sync עם קשרים מקומיים</string>
+    <key>Take a Photo</key><string>תמונות קחו</string>
+    <key>Tap \"+\" or search from \n directory to add.</key><string>הקש \ "+ \" או לחפש מספריית 
+ כדי להוסיף.</string>
+    <key>Tentative</key><string>לא סופי</string>
+    <key>Time</key><string>זמן</string>
+    <key>Time Duration</key><string>משך זמן</string>
+    <key>Title</key><string>כותרת</string>
+    <key>%1$d of %2$d</key><string>%1$d של%2$d</string>
+    <key>To:</key><string>כדי:</string>
+    <key>Try Again</key><string>נסה שוב</string>
+    <key>U</key><string>U</string>
+    <key>Sorry, WorxMail Cannot Get Attendee Details</key><string>מצטער, WorxMail לא יכול קבל משתתפים 'פרטים</string>
+    <key>Sorry, WorxMail Cannot Get Organizer Details</key><string>מצטער, WorxMail לא יכול קבל ארגונית פרטים</string>
+    <key>Unavailable</key><string>לא זמין</string>
+    <key>Unread</key><string>שלא נקראו</string>
+    <key>Updated</key><string>עדכון</string>
+    <key>Username</key><string>שם משתמש</string>
+    <key>Verifying...</key><string>אימות ...</string>
+    <key>Version</key><string>גרסה</string>
+    <key>When</key><string>כאשר</string>
+    <key>Where</key><string>איפה</string>
+    <key>Whole series</key><string>סדרה שלמה </string>
+    <key>Work</key><string>עבודה </string>
+    <key>WorxMail</key><string>WorxMail</string>
+    <key>YesButtonText</key><string>כן</string>
+    <key>Yesterday</key><string>אתמול</string>
+    <key>Accept All Certificates</key><string>קבלו את כל האישורים</string>
+    <key>Accepted</key><string>מקובלים</string>
+    <key>Access denied</key><string>גישה  הכחיש</string>
+    <key>You need a valid certificate to use this app.</key><string>אתה צריך אישור חוקי לשימוש יישום זה.</string>
+    <key>WorxMail cannot safely connect to the server. The server is not trusted.</key><string>WorxMail לא יכול להתחבר בבטחה לשרת.השרת אינו מהימן.</string>
+    <key>Untrusted SSL Certificate</key><string>תעודת SSL שאינו אמינה</string>
+    <key>You and</key><string>אתה ו</string>
+    <key>Download complete message</key><string>הודעה מלאה להורדה</string>
+    <key>Cannot download the complete message. Please try again later.</key><string>לא יכול להוריד את ההודעה המלאה. אנא נסה שוב מאוחר יותר.</string>
+    <key>Downloading...</key><string>הורדה ...</string>
+    <key>First Name</key><string>שם פרטים</string>
+    <key>Middle name</key><string>שם התיכון</string>
+    <key>Last Name</key><string>שם משפחה</string>
+    <key>Suffix</key><string>סיומת</string>
+    <key>City</key><string>עיר</string>
+    <key>State</key><string>מדינה</string>
+    <key>Postal Code</key><string>מיקוד</string>
+    <key>Country</key><string>מדינה</string>
+    <key>Street</key><string>רחוב</string>
+    <key>Edit More</key><string>עריכה נוספות</string>
+    <key>Edit Less</key><string>עריכה פחות</string>
+    <key>Contact</key><string>לתקשר</string>
+    <key>First</key><string>ראשון</string>
+    <key>Middle</key><string>התיכון</string>
+    <key>Last</key><string>אחרון</string>
+    <key>Name</key><string>שם</string>
+    <key>Phone</key><string>טלפון</string>
+    <key>Email Address</key><string>כתובת דוא"ל</string>
+    <key>Email Address 1</key><string>כתובת דואר אלקטרוני 1</string>
+    <key>Email Address 2</key><string>דוא"ל כתובת 2</string>
+    <key>Email Address 3</key><string>כתובת דואר האלקטרונית של 3</string>
+    <key>Address</key><string>כתובת</string>
+    <key>Business Address</key><string>כתובת עסק</string>
+    <key>Home Address</key><string>כתובת בית</string>
+    <key>Other Address</key><string>כתובות אחרות</string>
+    <key>Add New</key><string>הוסף ישיבות</string>
+    <key>Assistant Phone</key><string>טלפון עוזר</string>
+    <key>Car Phone</key><string>טלפון רכב</string>
+    <key>Company Phone</key><string>טלפון חברה</string>
+    <key>Conference</key><string>אינטרנט ואודיו</string>
+    <key>IM</key><string>IM</string>
+    <key>Meeting Id</key><string>ישיבות ID</string>
+    <key>Meetings</key><string>מפגשים</string>
+    <key>No Events</key><string>אין אירועים</string>
+    <key>Radio Phone</key><string>טלפון רדיו</string>
+    <key>WorxMail Custom Conference</key><string>WorxMail מותאמת אישית ועידה</string>
+    <key>WorxMail GTM</key><string>GTM WorxMail</string>
+    <key>Files</key><string>קבצים</string>
+    <key>Clear All</key><string>נקה הכל</string>
+    <key>Preview</key><string>תצוגה מקדימה</string>
+    <key>Upload</key><string>העלאה</string>
+    <key>Error</key><string>שגיאה</string>
+    <key>Time-out no response from server</key><string>אין תגובה מn \ השרת</string>
+    <key>Uploading...</key><string>מעלה ...</string>
+    <key>Attendee</key><string>משתתפים '</string>
+    <key>Save to Contacts</key><string>שמירה לאנשי קשר</string>
+    <key>New Contact</key><string>איש קשר חדש</string>
+    <key>Load Attachments on Wi-Fi</key><string>קבצים מצורפים טען על WiFi</string>
+    <key>Mobile</key><string>נייד</string>
+    <key>Business</key><string>עבודה </string>
+    <key>Business 2</key><string>עבודה 2</string>
+    <key>Radio</key><string>רדיו</string>
+    <key>Car</key><string>מכוניות</string>
+    <key>Fax</key><string>פקס</string>
+    <key>Office</key><string>משרד </string>
+    <key>Contact exported successfully</key><string>לתקשר מיוצא בהצלחה</string>
+    <key>Contacts exported successfully</key><string>מגעים מיוצאים בהצלחה</string>
+    <key>Set Specific Time Duration</key><string>משך מועד ספציפי שייקבע</string>
+    <key>Inside Organization</key><string>ארגון בתוך</string>
+    <key>Outside Organization</key><string>ארגון חיצוני</string>
+    <key>Please enter your reply message.</key><string>נא להזין את הודעת המענה שלך.</string>
+    <key>My Contacts Only</key><string>אנשי הקשר שלי רק</string>
+    <key>Send Automatic Replies</key><string>תגובות שלח אוטומטיות</string>
+    <key>Outside My Organization</key><string>מחוץ לארגון שלי</string>
+    <key>Anyone Outside My Organization</key><string>איש מחוץ לארגון שלי</string>
+    <key>Auto-Reply</key><string>Auto-תגובה</string>
+    <key>Type</key><string>סוג</string>
+    <key>Government</key><string>ממשלת </string>
+    <key>Customer</key><string>לקוחות</string>
+    <key>Export Contacts</key><string>יצוא אנשי קשר</string>
+    <key>Contact export failed.</key><string>יצוא אנשי קשר נכשל.</string>
+    <key>Auto refresh header for background fetch on</key><string>כדי להפעיל את הרענון אוטומטי, ללכת לiOS 
+Settings ולבחור כללי&gt; אפליקציות ברקע 
+Refresh. \ N 
+SELECTED תיקיות</string>
+    <key>Auto refresh header for background fetch on without line break</key><string>כדי להפעיל את הרענון אוטומטי, ללכת להגדרות ולבחור iOS כללי&gt; רענון אפליקציות ברקע. \ N 
+SELECTED תיקיות</string>
+    <key>Auto refresh header for background fetch off</key><string>כדי להפעיל רענון אוטומטי ב, ללכת לiOS 
+Settings ולבחור כללי&gt; אפליקציות ברקע 
+Refresh.</string>
+    <key>Auto refresh header for background fetch off without line break</key><string>כדי להפעיל רענון אוטומטי ב, ללכת להגדרות ולבחור iOS כללי&gt; רענון אפליקציות ברקע.</string>
+    <key>Selected Folders</key><string>תיקיות נבחרות</string>
+    <key>Delete selected message?</key><string>מחיקת הודעה שנבחרה?</string>
+    <key>Move Messages</key><string>הודעות Move</string>
+    <key>Move conversation</key><string>שיחה Move</string>
+    <key>Move conversations</key><string>שיחות Move</string>
+    <key>Mark as unread</key><string>סמן כלא נקרא</string>
+    <key>Meeting Password</key><string>סיסמא ישיבות</string>
+    <key>Recurring Meeting</key><string>פגישה חוזרת</string>
+    <key>Recurrence</key><string>הישנות</string>
+    <key>Account Settings</key><string>הגדרות חשבון</string>
+    <key>Account</key><string>חשבון</string>
+    <key>Auto Refresh</key><string>רענן אוטומטי</string>
+    <key>Pull to refresh this folder.</key><string>משוך לרענון תיקייה זו.</string>
+    <key>Checking for Contacts...</key><string>בדיקה למגעים ...</string>
+    <key>Cannot View Attachment</key><string>אין אפשרות להציג קבצים מצורפים</string>
+    <key>Can't Open File Type \n Tap Share to open with another app.</key><string>לא יכול 
+ סוג הקובץ להרחיב הקש שתף לפתוח עם אפליקציה אחרת.</string>
+    <key>WorxMail cannot find an app to view this attachment. Please try a local app or add an app in Worx Home to view this attachment.</key><string>WorxMail לא יכול למצוא אפליקציה להציג קובץ מצורף זה. אנא נסה אפליקציה מקומית או להוסיף אפליקציה בWorx הבית כדי להציג קובץ מצורף זה.</string>
+    <key>To view this attachment, try a local app or add an app in Worx Home.</key><string>כדי להציג קובץ מצורף זה, לנסות אפליקציה מקומית או להוסיף אפליקציה בWorx הבית.</string>
+    <key>ShareFile</key><string>ShareFile</string>
+    <key>Cannot Join Meeting</key><string>לא יכול להצטרף לפגישה</string>
+    <key>WorxMail cannot find an app to join this meeting. Please try adding the appropriate app in Worx Home.</key><string>WorxMail לא יכול למצוא אפליקציה להצטרף לפגישה זו. אנא נסה להוסיף את היישום המתאים בWorx הבית.</string>
+    <key>Name isn't available</key><string>שם אינו זמין</string>
+    <key>IM Address</key><string>כתובת IM</string>
+    <key>http://www.citrix.com/about/legal/privacy/plain.html</key><string>http: //www.citrix.com/about/legal/privacy/plain.html</string>
+    <key>Repeat end date can not be before event start date.</key><string>תאריך הסיום חזור חייב להתרחש לאחר תאריך האירוע התחל</string>
+    <key>Select a message for this attachment</key><string>בחר הודעה לקובץ מצורף זה</string>
+    <key>Sorry, WorxMail Could Not Retrieve Your Meetings</key><string>מצטער, WorxMail לא יכל להחזיר את הפגישות שלך</string>
+    <key>Sorry, WorxMail Could Not Create Your Meeting</key><string>מצטער, WorxMail לא ניתן ליצור המפגש שלך</string>
+    <key>Sorry, WorxMail Could Not Delete Your Meeting</key><string>מצטערים, WorxMail לא ניתן למחוק ישיבות שלך</string>
+    <key>Sorry, WorxMail Could Not Edit Your Meeting</key><string>מצטער, WorxMail לא יכול לערוך ישיבות שלך</string>
+    <key>Your Internet access is not currently available.</key><string>הגישה לאינטרנט שלך אינה זמינה</string>
+    <key>Email 1</key><string>דוא"ל 1</string>
+    <key>Name 1</key><string>1 שם</string>
+    <key>Name 2</key><string>שם 2</string>
+    <key>Email 3</key><string>דוא"ל 3</string>
+    <key>Name 3</key><string>שם 3</string>
+    <key>Email 2</key><string>דוא"ל 2</string>
+    <key>Business Street</key><string>רחוב העבודה</string>
+    <key>Home Street</key><string>רחוב הבית</string>
+    <key>Other Street</key><string>רחוב אחר</string>
+    <key>Delete Contact</key><string>לתקשר Delete</string>
+    <key>Delete Contacts</key><string>מחק מגעים</string>
+    <key>Delete Message</key><string>מחק הודעה</string>
+    <key>Delete Messages</key><string>מחק הודעות</string>
+    <key>Delete Conversations</key><string>מחק שיחות</string>
+    <key>Delete Conversation</key><string>שיחה Delete</string>
+    <key>Account Not Created</key><string>חשבון לא נוצר</string>
+    <key>Your account cannot be created at this time. This version of your Mail Server is not supported.</key><string>החשבון שלך לא יכול להיות שנוצר בשלב זה. גרסה זו של שרת הדואר שלך אינה נתמכת.</string>
+    <key>Your account could not be created. Check your email address and try again.</key><string>לא ניתן ליצור חשבונך. בדוק את כתובת הדוא"ל שלך ונסה שוב.</string>
+    <key>IM 1</key><string>IM 1</string>
+    <key>IM 2</key><string>IM 2</string>
+    <key>IM 3</key><string>IM 3</string>
+    <key>From</key><string>מ</string>
+    <key>Date</key><string>תאריך</string>
+    <key>To</key><string>כדי</string>
+    <key>Subject</key><string>נושא</string>
+    <key>Cc</key><string>Cc</string>
+    <key>Please configure your email account before using WorxMail</key><string>אנא הגדר את חשבון הדוא"ל שלך לפני שימוש WorxMail</string>
+    <key>Sorry, WorxMail Could Not Process Your Request</key><string>מצטער, WorxMail לא יכל לעבד את בקשתך</string>
+    <key>Download</key><string>הורדת </string>
+    <key>Waiting...</key><string>ממתינים ...</string>
+    <key>Sorry, WorxMail Could Not Open the Event</key><string>מצטער, WorxMail יכול ツ לא פתח את האירוע</string>
+    <key>WorxMail could not attach your image. Please try again in a few minutes.</key><string>WorxMail לא יכול לצרף התמונה שלך. אנא נסה שוב בעוד מספר דקות.</string>
+    <key>Send To All</key><string>שלח לכל</string>
+    <key>Send To Changed</key><string>שלח להשתנה</string>
+    <key>FaceTime</key><string>FaceTime</string>
+    <key>Blocked by Admin Policy: Attach File</key><string>חסימה על ידי Admin מדיניות: צרף קובץ</string>
+    <key>Your WorxMail contacts will be exported to your local contacts.</key><string>אנשי הקשר שלך WorxMail ניתן לייצא לאנשי הקשר שלך מקומי.</string>
+    <key>Your WorxMail contacts will no longer be exported to your local contacts.</key><string>אנשי הקשר שלך WorxMail כבר לא יהיו מיוצא לאנשי הקשר שלך מקומי.</string>
+    <key>The attachment is not available to download.</key><string>הקובץ המצורף אינו זמין להורדה.</string>
+    <key>You do not have permission to download the attachment.</key><string>אין לך הרשאה להוריד את הקובץ המצורף.</string>
+    <key>Your company's policy doesn't allow attachments to be downloaded.</key><string>קבצים מצורפים  המדיניות של החברה שלך לא לאפשר להורדה.</string>
+    <key>A problem occurred with the download.</key><string>בעיה התרחשה עם ההורדה.</string>
+    <key>Invalid Event Duration</key><string>משך אירוע לא חוקי</string>
+    <key>The duration of the calendar event must be shorter than how frequently it occurs.</key><string>משך האירוע בלוח השנה חייב להיות קצר יותר מאשר באיזו תדירות היא מתרחשת.</string>
+    <key>Send message with no subject?</key><string>שלח הודעה ללא נושא?</string>
+    <key>Custom</key><string>מותאם אישית</string>
+    <key>Move to CC</key><string>העבר לעותק</string>
+    <key>Information</key><string>מידע </string>
+    <key>Delete Conference</key><string>כנס Delete</string>
+    <key>Your Company Network Is Not Currently Available</key><string>רשת החברה שלך אינה זמינה כרגע</string>
+    <key>Actions</key><string>פעולות</string>
+    <key>When:</key><string>כאשר:</string>
+    <key>Respond</key><string>הוסף תגובה</string>
+    <key>No Response</key><string>אין תגובה</string>
+    <key>NO RESPONSE</key><string>NO תגובה</string>
+    <key>MORE RESULTS</key><string>תוצאות נוספים</string>
+    <key>%d of %d</key><string>%d של%d</string>
+    <key>Continue search on server</key><string>המשך לחפש על שרת</string>
+    <key>Folders</key><string>תיקיות</string>
+    <key>Show Less</key><string>אפשרויות פחות</string>
+    <key>Show More</key><string>אפשרויות נוספות</string>
+    <key>More</key><string>נוסף</string>
+    <key>&amp; %i More</key><string>&amp; %i יותר</string>
+    <key>No scheduled meetings</key><string>פגישות לא מתוכננות</string>
+    <key>RECURRING MEETINGS</key><string>פגישות חוזרות</string>
+    <key>SCHEDULED MEETINGS</key><string>פגישות מתוכננות</string>
+    <key>MEETINGS</key><string>מפגשים</string>
+    <key>All</key><string>כל</string>
+    <key>Sort Order</key><string>סדר מיון</string>
+    <key>Display Order</key><string>סדר תצוגה</string>
+    <key>First, Last</key><string>ראשון, אחרון</string>
+    <key>Last, First</key><string>אחרון, ראשון</string>
+    <key>Phonetic First Name</key><string>שם פונטי הראשון</string>
+    <key>Phonetic Last Name</key><string>שם משפחת פונטי</string>
+    <key>Mailboxes</key><string>תיבות דואר</string>
+    <key>%d Selected</key><string>%d נבחרים</string>
+    <key>99+</key><string>99 +</string>
+    <key>Swipe Up</key><string>לסחוב עד</string>
+    <key>Swipe Down</key><string>לסחוב Down</string>
+    <key>Single Tap To Read</key><string>רז יחיד לקרוא</string>
+    <key>Double Tap To Flag</key><string>הקש פעמיים כדי הדגל</string>
+    <key>Mark as Read</key><string>סמן כנקרא</string>
+    <key>Move to</key><string>העבר ל</string>
+    <key>Fast Sort</key><string>מיון מהיר</string>
+    <key>Move to %@</key><string>העבר ל%@</string>
+    <key>MAIL</key><string>MAIL</string>
+    <key>CONTACTS</key><string>מוצרים</string>
+    <key>CALENDAR</key><string>לוח</string>
+    <key>Conversation</key><string>שיחה</string>
+    <key>ITEMS</key><string>פריטים</string>
+    <key>Loading meetings...</key><string>פגישות Loading ...</string>
+    <key>Create note</key><string>ליצור לב</string>
+    <key>Checking for Events...</key><string>בדיקה לאירועים ...</string>
+    <key>Delete Photo</key><string>תמונות Delete</string>
+    <key>Display Name</key><string>שם לתצוגה</string>
+    <key>Phonetic FirstName</key><string>פונטי FirstName</string>
+    <key>Business Fax</key><string>פקס עבודה</string>
+    <key>PHONE</key><string>טלפון</string>
+    <key>Week</key><string>שבוע</string>
+    <key>Work Email</key><string>דוא"ל עבודה</string>
+    <key>Home Email</key><string>דוא"ל בית</string>
+    <key>INTERNET</key><string>INTERNET</string>
+    <key>BUSINESS</key><string>עבודה</string>
+    <key>HOME</key><string>בית</string>
+    <key>ALIAS</key><string>ALIAS</string>
+    <key>PERSONAL</key><string>אישי</string>
+    <key>NOTES</key><string>אורים</string>
+    <key>Middle Name</key><string>שם התיכון</string>
+    <key>COMPANY INFO</key><string>מידע על חברה</string>
+    <key>Add to Existing Contact</key><string>הוסף לאיש קשר קיים</string>
+    <key>ADDRESS</key><string>כתובת</string>
+    <key>Close</key><string>לסגור</string>
+    <key>COMPANY DIRECTORY</key><string>DIRECTORY החברה</string>
+    <key>Export</key><string>יצוא</string>
+    <key>General</key><string>כללי</string>
+    <key>Label</key><string>Label</string>
+    <key>No Data passed</key><string>אין נתונים עברו</string>
+    <key>OTHER</key><string>אחר</string>
+    <key>Phonetic LastName</key><string>פונטי LastName</string>
+    <key>Please enter a reply message for Inside My Organization.</key><string>נא להזין את הודעת תשובה לארגון שלי בפנים.</string>
+    <key>Please enter your reply message for Outside My Organization.</key><string>נא להזין את הודעת המענה שלך למחוץ לארגון שלי.</string>
+    <key>Delete</key><string>מחק</string>
+    <key>Blocked by Admin Policy: Add Photo</key><string>חסימה על ידי Admin מדיניות: הוסף תמונה</string>
+    <key>Select a phone number</key><string>בחר מספר טלפון</string>
+    <key>New Meeting Invitation</key><string>הזמנת פגישה החדשה</string>
+    <key>Unlink</key><string>מבטל</string>
+    <key>Next event</key><string>האירוע הבא </string>
+    <key>Next event at</key><string>האירוע הבא  ב</string>
+    <key>Checking for Updates...</key><string>מחפשים עדכונים ...</string>
+    <key>Incorrect Password</key><string>סיסמא שגויה</string>
+    <key>Enter password for</key><string>הזינו את הסיסמה ל</string>
+    <key>Decline</key><string>ירידה</string>
+    <key>TentativelyAccept</key><string>אולי</string>
+    <key>&amp; Comment</key><string>&amp;  תגובה</string>
+    <key>Login</key><string>כניסה</string>
+    <key>Please enter your password</key><string>נא להזין את הסיסמה שלך</string>
+    <key>Checking Password...</key><string>בדיקת סיסמא ...</string>
+    <key>Password validation failed.\nPlease try again later.</key><string>אימות סיסמא נכשלה. \ N אנא נסה שוב מאוחר יותר.</string>
+    <key>Retry</key><string>נסה שנית</string>
+    <key>Tomorrow</key><string>מחר</string>
+    <key>Please resolve expired or locked passwords before continuing.</key><string>אנא לפתור פגו או נעול סיסמאות לפני שתמשיך.</string>
+    <key>Please go to Settings &gt; Auto-Refresh and reduce the number of folders that you have selected.</key><string>אנא ניגש להגדרות&gt; Auto-רענן ולצמצם את מספר התיקיות שבחרתם.</string>
+    <key>Please change your account password to continue using WorxMail.</key><string>אנא שנה את הסיסמה של החשבון שלך כדי להמשיך להשתמש WorxMail.</string>
+    <key>Please change your account password for</key><string>אנא שנה את סיסמת החשבון שלך ל</string>
+    <key>to continue using WorxMail.</key><string>להמשיך להשתמש WorxMail.</string>
+    <key>Your Mailbox Is Full</key><string>תיבת הדואר שלך מלאה</string>
+    <key>Your message cannot be sent until you delete messages from your mailbox.\nWorxMail will send this message as soon as more space is available.</key><string>ההודעה שלך לא ניתן לשלוח עד שתמחק את הודעות מתיבת הדואר שלך. \ NWorxMail ישלח הודעה זו בהקדם יותר מקום נגיש.</string>
+    <key>Your network is not available. Tap to retry.</key><string>הרשת שלך אינה זמינה. הקש כדי לנסות שוב.</string>
+    <key>GESTURE</key><string>מחווה</string>
+    <key>Updating your mail. This may take a few minutes...</key><string>עדכון האלקטרוני שלך. זה עלול לקחת כמה דקות ...</string>
+    <key>There was a problem.\nWait a few minutes and try again.</key><string>הייתה בעיה. \ NWait מספר דקות ונסה שוב.</string>
+    <key>All day tomorrow</key><string>כל היום מחר</string>
+    <key>Phew! No new mail</key><string>אוף! אין דואר חדש</string>
+    <key>Move to Bcc</key><string>העבר לעותק מוסתר</string>
+    <key>Move to Cc</key><string>העבר לעותק</string>
+    <key>Move to To</key><string>העבר לכדי</string>
+    <key>Create New Contact</key><string>צור קשר חדש</string>
+    <key>Sign On</key><string>Sign On</string>
+    <key>Please verify your credentials and try again.</key><string>ודא אישורי שלך ונסה שוב.</string>
+    <key>Add</key><string>להוסיף</string>
+    <key>Too Many Devices</key><string>התקנים רבים מדי</string>
+    <key>You have too many devices paired with Outlook.\nPlease remove unused devices and try again.</key><string>יש לך  מכשירים רבים מדי בשילוב עם Outlook. אנא הסר מכשירים שאינם בשימוש ונסה שוב.</string>
+    <key>Account Disabled</key><string>חשבון נכים</string>
+    <key>Your account is disabled.</key><string>החשבון שלך אינו זמינים.</string>
+    <key>Sync Not Permitted</key><string>Sync אינו מותר</string>
+    <key>Your account doesn't have permission to sync with Outlook.</key><string>החשבון שלך אין הרשאה לסנכרן עם Outlook.</string>
+    <key>Your device doesn't have permission to sync with Outlook.</key><string>המכשיר שלך אין הרשאה לסנכרן עם Outlook.</string>
+    <key>Account Not Created</key><string>חשבון לא נוצר</string>
+    <key>Your account cannot be created at this time.\nAccess to the Microsoft Exchange Server was denied.</key><string>החשבון שלך לא יכול להיות שנוצר בשלב זה. \ NAccess ל- Microsoft Exchange Server נדחה.</string>
+    <key>Choose a recipient</key><string>בחר נמען</string>
+    <key>Please Wait</key><string>אנא המתן</string>
+    <key>WorxMail is updating your contacts.</key><string>WorxMail מעדכן אנשי הקשר שלך.</string>
+    <key>Mail is already in %@</key><string>Mail כבר ב%@</string>
+    <key>Attachments Were Not Sent</key><string>קבצים מצורפים לא נשלחו</string>
+    <key>Private</key><string>פרטי</string>
+    <key>Show picture</key><string>תמונת הצג</string>
+    <key>Show pictures</key><string>הצג תמונות</string>
+    <key>Always show pictures from this sender</key><string>צג תמיד תמונות משולחות זה</string>
+    <key>1 New Meeting Invitation</key><string>הזמנה 1 הפגישה החדשה</string>
+    <key>New Meeting Invitations</key><string>ניו הזמנות לפגישה</string>
+    <key>1 New Message</key><string>1  הודעה חדשה</string>
+    <key>New Messages</key><string>הודעות חדשות</string>
+    <key>This mail is restricted.</key><string>דוא"ל זו מוגבל.</string>
+    <key>Restrictions</key><string>הגבלות</string>
+    <key>Remove restrictions</key><string>להסיר מגבלות</string>
+    <key>CONTENT OWNER</key><string>בעל תוכן</string>
+    <key>CONTENT EXPIRATION</key><string>תפוגת CONTENT</string>
+    <key>RESTRICTIONS</key><string>הגבלות</string>
+    <key>No expiration</key><string>אין תפוגה</string>
+    <key>Edit the Content</key><string>לערוך את התוכן</string>
+    <key>Modify recipients</key><string>נמעני שנה</string>
+    <key>Copy content</key><string>תוכן ההעתקה</string>
+    <key>Print</key><string>הדפסה</string>
+    <key>Send to other apps</key><string>שלח ליישומים אחרים</string>
+    <key>Enable Your Camera</key><string>אפשר המצלמה שלך</string>
+    <key>Camera Is Blocked</key><string>מצלמה חסומה</string>
+    <key>Your admin has disabled the camera.</key><string>מנהל המערכת שלך השביתה את המצלמה.</string>
+    <key>Change your camera privacy settings in iOS Settings &gt; Privacy &gt; Camera.</key><string>שנה את הגדרות הפרטיות של המצלמה שלך בiOS הגדרות&gt; פרטיות&gt; מצלמה.</string>
+    <key>Change your contact privacy settings in iOS Settings &gt; Privacy &gt; Contacts.</key><string>שנה את הגדרות הפרטיות של איש הקשר שלך בiOS הגדרות&gt; מגעים פרטיות&gt;.</string>
+    <key>Message not sent. Retry later</key><string>הודעה לא נשלחה. נסה שוב מאוחר יותר</string>
+    <key>High</key><string>גבוה</string>
+    <key>Normal</key><string>רגיל</string>
+    <key>Low</key><string>נמוך</string>
+    <key>Outbox</key><string>דואר יוצא</string>
+    <key>Show Pictures</key><string>הצג תמונות</string>
+    <key>Ok</key><string>אוקי</string>
+    <key>Starts Ends</key><string>התחלות מסתיימת</string>
+    <key>Restriction Profiles</key><string>פרופילי הגבלה</string>
+    <key>Info</key><string>מידע</string>
+    <key>None Template Description</key><string>הודעה זו אינה מוגנת. אם מדובר בתגובה להודעה מוגנת, ההגבלות יוסרו.</string>
+    <key>IRM content expiry message</key><string>ההרשאה להציג הודעה זו פגה. באדיבות מחדש להביא את ההודעה.</string>
+    <key>Due to admin policy on exporting contacts, only the name and phone number will be exported.</key><string>בשל מדיניות admin על יצוא אנשי קשר, רק שם ומספר הטלפון ייוצא.</string>
+    <key>Due to admin policy on exporting contacts, only the name, phone number and email will be exported.</key><string>בשל מדיניות admin על יצוא אנשי קשר, רק שם, מספר הטלפון והדואר האלקטרוני ניתן לייצא.</string>
+    <key>Due to admin policy on exporting contacts, only the custom contact fields will be exported.</key><string>בשל מדיניות admin על יצוא אנשי קשר, רק שדות המגע המותאם אישית ייוצאו.</string>
+    <key>Agenda</key><string>סדר היום</string>
+    <key>Retry Send</key><string>שלח נסה שנית</string>
+    <key>Cannot Download Attachment</key><string>לא ניתן להוריד את קובץ מצורף</string>
+    <key>TODAY</key><string>TODAY</string>
+    <key>YESTERDAY</key><string>אתמול</string>
+    <key>TOMORROW</key><string>מחר</string>
+    <key>New</key><string>חדש</string>
+    <key>Add to existing</key><string>הוסף לקיימת</string>
+    <key>Delete Event</key><string>אירוע Delete</string>
+    <key>Delete Series</key><string>מחק סדרה</string>
+    <key>Send Update</key><string>עדכון שלח</string>
+    <key>This folder is empty</key><string>תיקייה זו ריקה</string>
+    <key>Open Link</key><string>פתח קישור</string>
+    <key>Call %@</key><string>שיחות%@</string>
+    <key>Open in Maps</key><string>פתח במפות</string>
+    <key>Check the server address and try again.</key><string>בדקו את כתובת השרת ונסה שוב.</string>
+    <key>Send Anyway</key><string>שלח בכל מקרה</string>
+    <key>You did not make changes to the event.</key><string>אתה לא לבצע שינויים באירוע.</string>
+    <key>Invalid Address</key><string>כתובת לא חוקית</string>
+    <key>%@ doesn't seem to be an actual address. Do you still want to send it?</key><string>נראה %@ לא להיות כתובת אמיתית. האם אתה עדיין רוצה לשלוח אותו?</string>
+    <key>This Option is Not Available</key><string>אפשרות זו אינה זמינה</string>
+    <key>An error occurred emptying your Deleted Items.</key><string>אירעה שגיאה בריקון פריטים שנמחקו.</string>
+    <key>Empty</key><string>ריק</string>
+    <key>Emptying Deleted Items folder</key><string>ריקון תיקיית פריטים שנמחקו</string>
+    <key>Can't Empty Folder</key><string>יכול תיקייה לא ריקה</string>
+    <key>An error occurred while emptying your Deleted Items folder.\nPlease try again later.</key><string>אירעה שגיאה בעת ריקון תיקיית פריטים שנמחקה שלך. \ N אנא נסה שוב מאוחר יותר.</string>
+    <key>FaceTime Audio</key><string>FaceTime Audio</string>
+    <key>There was a problem sending this message. Try again later.</key><string>הייתה בעיה בשליחה הודעה זו. נסה שוב מאוחר יותר.</string>
+    <key>Can't Send Mail</key><string>לא יכול לשלוח דואר.</string>
+    <key>The server is not configured correctly.</key><string>השרת אינו מוגדר כראוי.</string>
+    <key>A server error occurred. Please try again later.</key><string>אירעה שגיאת שרת. אנא נסה שוב מאוחר יותר.</string>
+    <key>Your message is too large. Remove attachments or divide into smaller messages.</key><string>ההודעה שלך היא גדולה מדי. להסיר קבצים מצורפים או מתחלק להודעות קטנות יותר.</string>
+    <key>Sorry, something went wrong. Please try again. If the problem persists, contact IT.</key><string>מצטער, משהו השתבש. אנא נסה שוב. אם הבעיה נמשכת, פנה IT.</string>
+    <key>A connection error occurred. Please try again later.</key><string>שגיאת חיבור אירעה. אנא נסה שוב מאוחר יותר.</string>
+    <key>Leave in Outbox</key><string>השאירו בתיבת דואר יוצא</string>
+    <key>Availability</key><string>זמינים</string>
+    <key>You are available</key><string>אתה זמין</string>
+    <key>This event is adjacent to another event</key><string>אירוע זה נמצא בסמוך לאירוע אחר</string>
+    <key>This event conflicts with another event</key><string>סכסוכי אירוע זה באירוע אחר</string>
+    <key>Can't Access WorxMail</key><string>לא ניתן לגשת לWorxMail</string>
+    <key>Failed to Fetch Client Certificate.</key><string>נכשל בהבאת אישור לקוח.</string>
+    <key>This event has already been modified. Please close the current window and try again.</key><string>אירוע זה כבר שונה. אנא סגור את החלון הנוכחי ונסה שוב.</string>
+    <key>The attachment cannot be downloaded because it is empty.</key><string>הקובץ המצורף לא ניתן להוריד כי זה ריק.</string>
+    <key>Open</key><string>להרחיב</string>
+    <key>Copy</key><string>העתקה</string>
+    <key>Call</key><string>שיחת </string>
+    <key>Copy Link</key><string>קישור העתק</string>
+    <key>Send Message</key><string>שלח הודעה</string>
+    <key>Done</key><string>בוצע</string>
+    <key>Downloadable Resources</key><string>משאבים להורדה</string>
+    <key>Language</key><string>שפה</string>
+    <key>No Downloadable Resource</key><string>אין משאבים להורדה</string>
+    <key>Package Resources</key><string>משאבי חבילה</string>
+    <key>Select Language</key><string>בחר שפה</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection קיבל אתגר אימות.</string>
+    <key>SFAPIConnection_NilResponse</key><string>אובייקט SFResponse היה אפסי. האם בקשה זו נתמכת?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>חיבור לרשת לא זוהתה.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest לא חוקי. אנא קרא params בקשה הנדרש.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest היה אפסי.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>פורמט תגובה לא ידוע.</string>
+    <key>SFAPIConnection_JSONParseError</key><string>שגיאת JSON לנתח.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth נכשל. מידע Reauth היה אפסי.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth נכשל. סוג התחברות SAML שאינו נתמך.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth נכשל. מידע SSO היה אפסי.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth נכשל. שגיאה לא ידועה.</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>שגיאת אימות בלתי צפויה.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>אין אימות סופקה.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>התחברות  ניסיון לא הייתה מוצלחת.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID מוכר אבל מעופש. אנא לאמת מחדש לפני שתמשיך.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID לא נמצא / תקף.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>תחום המשנה אינו חוקי לבקשה נוכחית.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>שילוב כלי / חשבון השוטף הכחיש משימוש ב- API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>שגיאת פעולה בלתי צפויה.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>הפעולה המבוקשת אינה תואמת שום אופ נתמך.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>op זה דורש פרמטר (ים) שלא סופק.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>פרמטר (ים) שסופק אינו תקף (למשל מחרוזת במקום int, val מחוץ לטווח, וכו ').</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>OP המבוקש אינו תואם את קוד זיהוי היעד הנוכחי.</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>אופ אינו מותר לחשבון ShareFile הנוכחי (כוללים נכים / לא רשות).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>אופ אסור למשתמש ShareFile הנוכחי (משתמש אין תפקיד משתמש / הרשאות מתאימות לשימוש).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>אופ אינו מותר ליעד (משתמש עשוי להיות תפקיד / הרשאה מתאימה במקרים אחרים, אך לא לזיהוי הספציפי הזה).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>שגיאת יעד לא צפויה.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>יעד מבוקש קיים אך לא מסוג נכון (למשל מנסה לבצע op תיקייה בקובץ).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>יעד לא נמצא.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>בלתי צפוי ליצור שגיאה.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>הורה  מסופק אינו חוקי ליצירת פריט מבוקש (לדוגמא מנסה ליצור תיקייה בשורש של חשבון).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>שגיאה בלתי צפויה לערוך.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>הפריט שאתה מנסה ליצור כבר קיים.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>הפריט שאתה מנסה לערוך כבר קיים.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>שגיאה לא צפויה.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>השרת עובר תחזוקה.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>מגבלת קצב הגיע.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>Server הוא בעומס יתר.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>שגיאה לא צפויה (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>Server הוא בעומס היתר (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>הכנת העלאה נכשלה (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>הכנת הורדה נכשלה (SC).</string>
+</dict></plist>

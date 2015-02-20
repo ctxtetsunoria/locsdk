@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>0 minutes before</key><string>μηδέν λεπτά πριν</string>
+    <key>1 day before</key><string>1 ημέρα πριν</string>
+    <key>1 Day</key><string>1 ημέρα</string>
+    <key>1 hour before</key><string>1 ώρα πριν</string>
+    <key>1 Month</key><string>1 μήνα</string>
+    <key>1 Week</key><string>1 εβδομάδα</string>
+    <key>1.  Please join my meeting.\nhttps://www1.gotomeeting.com/join/%@\n</key><string>1. . Παρακαλείσθε να ενωθούν μαζί μου συνάντηση 
+https: //www1.gotomeeting.com/join/%@
+</string>
+    <key>15 minutes before</key><string>15 λεπτά πριν</string>
+    <key>2 days before</key><string>2 ημέρες πριν</string>
+    <key>2 hours before</key><string>2 ώρες πριν</string>
+    <key>2 Weeks</key><string>2 εβδομάδες</string>
+    <key>2.  Use your microphone and speakers (VoIP) - a headset is recommended. Or, call in using your telephone.\n\n%@\nAudio PIN: Shown after joining the meeting\n</key><string>2. Χρησιμοποιήστε το μικρόφωνο και ηχεία (VoIP) σας - ένα ακουστικό συνιστάται. Ή, καλούν σε χρήση του τηλεφώνου σας 
+ 
+%@ 
+Audio PIN:. Εμφανίζεται μετά την ένταξή της συνεδρίασης 
+</string>
+    <key>3 Days</key><string>3 ημέρες</string>
+    <key>30 minutes before</key><string>30 λεπτά πριν</string>
+    <key>5 minutes before</key><string>5 λεπτά πριν</string>
+    <key>%d h</key><string>%d ώρες</string>
+    <key>%d min</key><string>%d λεπτά</string>
+    <key>%i recipients</key><string>αποδέκτες%i</string>
+    <key>%@ and %i more...</key><string>%@ %i και θ περισσότερα ...</string>
+    <key>%@ %@ to %@ %@</key><string>%@%@%@ να%@</string>
+    <key>%@ to %@</key><string>%@%@ να</string>
+    <key>%@ - %@</key><string>%@ - %@</string>
+    <key>&lt;No subject&gt;</key><string>&lt;Κανένα θέμα&gt;</string>
+    <key>(No subject)</key><string>(Δεν υπάρχει θέμα)</string>
+    <key>(No recipient)</key><string>(αριθ παραλήπτη)</string>
+    <key>About</key><string>Σχετικά</string>
+    <key>Accept</key><string>Αποδοχή</string>
+    <key>Account</key><string>Λογαριασμού</string>
+    <key>Add %@</key><string>Προσθήκη%@</string>
+    <key>Address(email or server)</key><string>Διεύθυνση</string>
+    <key>Account</key><string>Λογαριασμού</string>
+    <key>All Contacts</key><string>Όλες οι επαφές</string>
+    <key>All Day Event</key><string>Ολοήμερο</string>
+    <key>All Day</key><string>Ολοήμερο</string>
+    <key>All-day</key><string>Ολοήμερο</string>
+    <key>all-day</key><string>Ολοήμερο</string>
+    <key>Please Enter an Event Title</key><string>Παρακαλώ εισάγετε έναν τίτλο Εκδήλωση</string>
+    <key>and %i more...</key><string>και%i περισσότερα ...</string>
+    <key>Anniversary</key><string>Επέτειος</string>
+    <key>Append Signature</key><string>Προσάρτηση υπογραφής</string>
+    <key>Ask Before Deleting</key><string>Ρωτήστε πριν από τη διαγραφή</string>
+    <key>Assistant</key><string>Βοηθός</string>
+    <key>Assistant phone</key><string>τηλέφωνο του βοηθού</string>
+    <key>Attach Existing Photo</key><string>Συνδέστε υπάρχουσα φωτογραφία</string>
+    <key>Attach from ShareFile</key><string>Επισύναψη από ShareFile</string>
+    <key>Attach</key><string>Επισυνάψτε</string>
+    <key>Attachment</key><string>Συνημμένο</string>
+    <key>Attachment (1)</key><string>Συνημμένο (1)</string>
+    <key>Attachments</key><string>Συνημμένα</string>
+    <key>attendee</key><string>προσκεκλημένος</string>
+    <key>attendees</key><string>προσκεκλημένοι</string>
+    <key>%d %@</key><string>%d%@</string>
+    <key>Attendees</key><string>Οι προσκεκλημένοι</string>
+    <key>Authenticate</key><string>ελέγχου ταυτότητας</string>
+    <key>Autodiscover</key><string>αυτόματου εντοπισμού</string>
+    <key>Availability</key><string>Εμφάνιση Ως</string>
+    <key>B</key><string>B</string>
+    <key>Back</key><string>Επιστροφή</string>
+    <key>Bcc:</key><string>Bcc:</string>
+    <key>Birthday</key><string>Γενέθλια</string>
+    <key>Business fax</key><string>Φαξ εργασίας</string>
+    <key>Business phone</key><string>Τηλέφωνο Εργασίας</string>
+    <key>Business Phone</key><string>Τηλέφωνο Εργασίας</string>
+    <key>Web page</key><string>Ιστοσελίδα</string>
+    <key>Busy</key><string>Busy</string>
+    <key>Calendar Event</key><string>υπενθύμιση ημερολογίου</string>
+    <key>Calendar Notifications</key><string>Ειδοποιήσεις Ημερολόγιο</string>
+    <key>Calendar</key><string>Ημερολόγιο</string>
+    <key>Cancel</key><string>Ακύρωση</string>
+    <key>Canceled:</key><string>Ακυρώθηκε:</string>
+    <key>Cannot Get Mail</key><string>δεν μπορεί να πάρει Mail</string>
+    <key>Car phone</key><string>τηλέφωνο αυτοκινήτου</string>
+    <key>Cc/Bcc:</key><string>διευθύνσεων CC / BCC:</string>
+    <key>Cc:</key><string>Κοιν:</string>
+    <key>Checking for Mail...</key><string>Έλεγχος για Mail ...</string>
+    <key>Child</key><string>Παιδί</string>
+    <key>Choose Photo</key><string>Επιλέξτε Φωτογραφία</string>
+    <key>Clear all</key><string>Διαγραφή όλων</string>
+    <key>Clear Flag</key><string>Απαλοιφή σημαίας</string>
+    <key>Company phone</key><string>τηλέφωνο Εταιρεία</string>
+    <key>Company</key><string>Εταιρία</string>
+    <key>Contacts</key><string>Επαφές</string>
+    <key>Contacts exported successfully</key><string>Επαφές εξάγονται με επιτυχία</string>
+    <key>Day</key><string>Ημέρα</string>
+    <key>De-Highlight</key><string>Αφαιρέστε Επισημάνετε</string>
+    <key>Declined</key><string>Απορρίφθηκε</string>
+    <key>Delete Changes</key><string>Διαγραφή Αλλαγές</string>
+    <key>Delete Draft</key><string>Διαγραφή Σχέδιο</string>
+    <key>Delete this message?</key><string>Διαγραφή αυτού του μηνύματος;</string>
+    <key>Delete</key><string>Διαγραφή</string>
+    <key>Department</key><string>Τμήμα</string>
+    <key>Details</key><string>Λεπτομέρειες</string>
+    <key>Dial In</key><string>Dial Σε</string>
+    <key>Discovering...</key><string>Ανακαλύπτοντας ...</string>
+    <key>Do you want to delete this occurrence or the entire series?</key><string>Θέλετε να διαγράψετε αυτό το συμβάν ή το σύνολο της σειράς;</string>
+    <key>Do you want to forward this occurrence or the entire series?</key><string>Θέλετε να διαβιβάσει το παρόν περιστατικό ή το σύνολο της σειράς;</string>
+    <key>ShareFileDomain</key><string>ShareFile Τομέα</string>
+    <key>Domain</key><string>Τομέα</string>
+    <key>Don't Save</key><string>Μην Αποθήκευση</string>
+    <key>Done</key><string>Έγινε</string>
+    <key>Downloading folders...</key><string>Λήψη φακέλους ...</string>
+    <key>Your mail could not be downloaded at this time. Please try again in a few minutes.</key><string>mail σας δεν θα μπορούσε να κατεβάσει αυτή τη στιγμή. Παρακαλώ δοκιμάστε ξανά σε μερικά λεπτά.</string>
+    <key>Access to your company network is not currently available.</key><string>Πρόσβαση στο δίκτυο της εταιρείας σας, δεν είναι προς το παρόν διαθέσιμο.</string>
+    <key>Downloading</key><string>Λήψη</string>
+    <key>Draft</key><string>Σχέδιο</string>
+    <key>Drafts</key><string>Πρόχειρα</string>
+    <key>Edit</key><string>Επεξεργασία</string>
+    <key>Edit Event</key><string>Επεξεργασία συμβάντος</string>
+    <key>Edit series</key><string>Επεξεργασία Σειρά</string>
+    <key>Email Notifications</key><string>Email Ειδοποιήσεις</string>
+    <key>Email</key><string>Email</string>
+    <key>Email or mail server</key><string>διακομιστή ηλεκτρονικού ταχυδρομείου ή e-mail</string>
+    <key>Email All Invitees</key><string>Απάντηση σε όλους</string>
+    <key>Email Organizer</key><string>Απάντηση</string>
+    <key>EmailBodyApplicationBuild</key><string>WorxMail Κατασκευάστηκε Αριθμός:%@</string>
+    <key>EmailBodyApplicationMemory</key><string>Μνήμη Εφαρμογή:%@</string>
+    <key>EmailBodyApplicationVersion</key><string>WorxMail Έκδοση:%@</string>
+    <key>EmailBodyDeviceModel</key><string>Μοντέλο συσκευής:%@</string>
+    <key>EmailBodyFreeMemory</key><string>Ελεύθερη μνήμη:%@</string>
+    <key>EmailBodyIsJailBroken</key><string>Είναι jailbroken:%@</string>
+    <key>EmailBodyOSVersion</key><string>iOS Έκδοση:%@</string>
+    <key>EmailBodyTotalMemory</key><string>Συνολική μνήμη:%@</string>
+    <key>End Repeat</key><string>Τέλος Επανάληψη</string>
+    <key>Ends</key><string>Άκρα</string>
+    <key>Enter at least one recipient.</key><string>Εισάγετε τουλάχιστον έναν παραλήπτη.</string>
+    <key>Enter some feedback text</key><string>Πληκτρολογήστε το κείμενο σχόλιά σας</string>
+    <key>Enter your credentials</key><string>Εισάγετε τα στοιχεία σας</string>
+    <key>Enter your domain</key><string>Πληκτρολογήστε το domain σας</string>
+    <key>Enter your email address</key><string>Εισάγετε τη διεύθυνση e-mail σας</string>
+    <key>Enter your email or server address</key><string>Συμπληρώστε το email ή τον server σας διεύθυνση</string>
+    <key>Enter your feedback here to send it to Citrix.</key><string>Συμπληρώστε τα σχόλιά σας εδώ για να το στείλετε με το Citrix.</string>
+    <key>Enter your password</key><string>Εισάγετε τον κωδικό σας</string>
+    <key>Enter your server address</key><string>Εισάγετε τη διεύθυνση του διακομιστή σας</string>
+    <key>Enter your user name</key><string>Πληκτρολογήστε το όνομα χρήστη σας</string>
+    <key>Events</key><string>Εκδηλώσεις</string>
+    <key>Event Details</key><string>Λεπτομέρειες Εκδήλωση</string>
+    <key>Every Day</key><string>Κάθε μέρα</string>
+    <key>Every Month</key><string>Κάθε μήνα</string>
+    <key>Every 2 Weeks</key><string>Κάθε δύο εβδομάδες</string>
+    <key>Every Week</key><string>Κάθε εβδομάδα</string>
+    <key>Every Year</key><string>Κάθε χρόνο</string>
+    <key>Exchange Account</key><string>Λογαριασμού Αξιών</string>
+    <key>Existing Photo</key><string>υπάρχουσα φωτογραφία</string>
+    <key>Export to iPad</key><string>Εξαγωγή στο iPad</string>
+    <key>Export to iPhone</key><string>Εξαγωγή στο iPhone</string>
+    <key>Failed to save Out of Office settings</key><string>Δεν θα μπορούσε να σώσει Εκτός του Office Ρυθμίσεις</string>
+    <key>Feedback for Citrix WorxMail for iOS</key><string>Σχόλια για Citrix WorxMail για iOS</string>
+    <key>FileSize</key><string>Μέγεθος</string>
+    <key>Flag</key><string>Σημαία</string>
+    <key>Flagged</key><string>Με σημαία</string>
+    <key>FMD_ClientAddressBookError_AccessDenied_Text</key><string>Χρειάζεσαι άδεια για να ανοίξετε το βιβλίο διευθύνσεων</string>
+    <key>FMD_EmployeeAddressBookError_AccessDenied_Text</key><string>Χρειάζεσαι άδεια για να ανοίξετε το βιβλίο διευθύνσεων</string>
+    <key>FMD_DeleteFileError_AccessDenied_Text</key><string>Χρειάζεσαι άδεια για να αφαιρέσετε αυτό το αρχείο</string>
+    <key>FMD_DownloadError_AccessDenied_Text</key><string>Χρειάζεσαι άδεια για να κατεβάσετε αρχεία</string>
+    <key>FMD_DownloadError_NotEnoughSpace_Text</key><string>δεν είναι δυνατή η λήψη του αρχείου. Θα υπερβεί το όριο 500MB για τα ληφθέντα αρχεία.</string>
+    <key>FMD_DownloadError_ParentNotFound_Text</key><string>δεν μπορεί να ανοίξει το αρχείο</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Text</key><string>Οργανισμός σας έχει αφαιρέσει τα έγγραφά σας</string>
+    <key>FMD_GeneralError_InvalidCredentials_NonSSO_Text</key><string>Λάθος όνομα χρήστη ή τον κωδικό πρόσβασης</string>
+    <key>FMD_GeneralError_InvalidCredentials_SSO_Text</key><string>Παρακαλούμε να ελέγξετε τα στοιχεία σας</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Text</key><string>Ελέγξτε τη σύνδεση δικτύου σας</string>
+    <key>FMD_GeneralError_NotLoggedIn_Text</key><string>Παρακαλούμε συνδεθείτε για να ShareFile</string>
+    <key>FMD_GeneralError_UnrecognizedSFAPIError_Title</key><string>Πρόβλημα κοινή χρήση φακέλων</string>
+    <key>FMD_MyDocs</key><string>%1$@%2$@ Έγγραφα</string>
+    <key>FMD_SyncError_ItemNotFound_Text</key><string>Το αρχείο δεν βρέθηκε στη συσκευή σας.</string>
+    <key>FMD_UploadError_AccessDenied_Text</key><string>Χρειάζεσαι άδεια για να φορτώσετε το αρχείο</string>
+    <key>FMD_UploadError_CannotReadFileAttributes_Text</key><string>δεν μπορεί να σώσει Αυτού του Είδους</string>
+    <key>FMD_UploadError_FileNotFound_Text</key><string>Δεν βρέθηκε το αρχείο</string>
+    <key>FMD_UploadError_ParentNotFound_Text</key><string>δεν μπορεί να σώσει Αυτού του Είδους</string>
+    <key>File Box</key><string>Αρχείο Box</string>
+    <key>Forward</key><string>Εμπρός</string>
+    <key>Forward Invite</key><string>Εμπρός</string>
+    <key>Free</key><string>Δωρεάν</string>
+    <key>From:</key><string>Από:</string>
+    <key>Fw:</key><string>Fw:</string>
+    <key>GoToMeeting</key><string>GoToMeeting</string>
+    <key>GoToMeeting®\nOnline Meetings Made Easy®\n\nNot at your computer? Click the link to join this meeting from your iPhone®, iPad® or Android® device via the GoToMeeting app.</key><string>GoToMeeting ツ ョ 
+Online Συναντήσεις Made Easy ツ ョ 
+ \ NNot στον υπολογιστή σας; Κάντε κλικ στο σύνδεσμο για να συμμετάσχετε σε αυτήν την συνεδρίαση από το iPhone σας ツ ョ, iPad ツ ョ ή το Android ツ ョ συσκευή μέσω του app GoToMeeting.</string>
+    <key>Hide</key><string>Απόκρυψη</string>
+    <key>Highlight</key><string>Επισημάνετε</string>
+    <key>Home</key><string>Αρχική</string>
+    <key>Home 2</key><string>Σπίτι 2</string>
+    <key>Home Phone</key><string>Τηλέφωνο Οικίας</string>
+    <key>Home phone</key><string>Τηλέφωνο Οικίας</string>
+    <key>I</key><string>I</string>
+    <key>I am running late for this meeting.</key><string>Τρέχω αργά για αυτή τη συνάντηση.</string>
+    <key>IM Address 1</key><string>IM Διεύθυνση 1</string>
+    <key>IM Address 2</key><string>IM Διεύθυνση 2</string>
+    <key>IM Address 3</key><string>IM Διεύθυνση 3</string>
+    <key>Inbox</key><string>Εισερχόμενα</string>
+    <key>Inside My Organization</key><string>εσωτερικό του οργανισμού μου</string>
+    <key>Invalid Certificate</key><string>Μη έγκυρο πιστοποιητικό</string>
+    <key>Invalid email address</key><string>έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου</string>
+    <key>Invite</key><string>Πρόσκληση</string>
+    <key>Invitees</key><string>Οι προσκεκλημένοι</string>
+    <key>Invitees:</key><string>Προσκεκλημένοι:</string>
+    <key>Job title</key><string>Τίτλος εργασίας</string>
+    <key>Join Meeting</key><string>Συμμετοχή σε συνάντηση</string>
+    <key>Just this occurence</key><string>Αυτή η Συνεδρίαση</string>
+    <key>LastModified</key><string>Τελευταία ενημέρωση:</string>
+    <key>Legal Notices</key><string>Νομικές Πληροφορίες</string>
+    <key>Privacy Policy</key><string>Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
+    <key>Location</key><string>Τοποθεσία</string>
+    <key>Mail</key><string>Ταχυδρομείο</string>
+    <key>Manager</key><string>Διευθυντής</string>
+    <key>Mark As Read</key><string>Σημείωσε ως διαβασμένο</string>
+    <key>Mark As Unread</key><string>Επισήμανση ως μη αναγνωσμένα</string>
+    <key>Mark</key><string>Mark</string>
+    <key>Maybe</key><string>ΙΣΩΣ</string>
+    <key>Meeting ID: %@-%@-%@\n</key><string>Συνάντηση ID:%@ - %@ -%@ 
+</string>
+    <key>Meeting</key><string>Συνάντηση</string>
+    <key>Mobile phone</key><string>Κινητό Τηλέφωνο</string>
+    <key>Month</key><string>Μήνας</string>
+    <key>more</key><string>περισσότερα</string>
+    <key>MoreEvents</key><string>%d Περισσότερα</string>
+    <key>Move Message</key><string>Μετακίνηση μηνύματος</string>
+    <key>Move</key><string>Μετακίνηση</string>
+    <key>Multi Day</key><string>πολυήμερη</string>
+    <key>Cannot Load Privacy Policy. Try Again Later.</key><string>δεν μπορεί να φορτώσει την πολιτική προστασίας προσωπικών δεδομένων. Προσπαθήστε ξανά αργότερα.</string>
+    <key>Never</key><string>Ποτέ</string>
+    <key>New Event</key><string>Νέα Εκδήλωση</string>
+    <key>New Meeting</key><string>Νέα σύσκεψη</string>
+    <key>New Message</key><string>Νέο μήνυμα</string>
+    <key>New Photo</key><string>νέα φωτογραφία</string>
+    <key>Nickname</key><string>Ψευδώνυμο</string>
+    <key>No Contacts</key><string>Δεν Επαφές</string>
+    <key>No Invitees</key><string>Προσθήκη Προσκεκλημένος</string>
+    <key>No Recipients</key><string>εισάγετε τους παραλήπτες</string>
+    <key>No Response</key><string>Καμία απάντηση</string>
+    <key>No title</key><string>Πληκτρολογήστε έναν τίτλο</string>
+    <key>NoButtonText</key><string>Όχι</string>
+    <key>None</key><string>Κανένα</string>
+    <key>NoneReminder</key><string>Κανένα</string>
+    <key>Notes</key><string>Σημειώσεις</string>
+    <key>Notifications</key><string>Ειδοποιήσεις</string>
+    <key>Notification</key><string>Κοινοποίηση</string>
+    <key>Off</key><string>Off</string>
+    <key>Office location</key><string>Τοποθεσία γραφείου</string>
+    <key>Offline</key><string>Αποσυνδεδεμένος</string>
+    <key>Other Conference</key><string>Συνεδριακό Χώρο</string>
+    <key>OK</key><string>ΟΚ</string>
+    <key>On</key><string>Από</string>
+    <key>Optional</key><string>Προαιρετικό</string>
+    <key>Optional:</key><string>Προαιρετικά:</string>
+    <key>Organize By Conversation</key><string>Οργανώστε με συνομιλία</string>
+    <key>Organizer</key><string>Organizer</string>
+    <key>Other</key><string>Άλλα</string>
+    <key>Out of Office</key><string>Εκτός γραφείου</string>
+    <key>Pager</key><string>Τηλεειδοποίηση</string>
+    <key>Password</key><string>Κωδικός</string>
+    <key>Exchange Server Access Denied</key><string>Πρόσβαση Exchange Server Denied</string>
+    <key>Please try again in a few minutes.</key><string>Παρακαλώ δοκιμάστε ξανά σε λίγα λεπτά.</string>
+    <key>Radio phone</key><string>τηλέφωνο Ραδιόφωνο</string>
+    <key>Re:</key><string>Re:</string>
+    <key>ReadWrite</key><string>ανάγνωσης / εγγραφής</string>
+    <key>Reminder</key><string>Υπενθύμιση</string>
+    <key>Repeat</key><string>Επανάληψη</string>
+    <key>Repeat Forever</key><string>Επανέλαβε για πάντα</string>
+    <key>Reply All</key><string>Απάντηση σε όλους</string>
+    <key>Reply</key><string>Απάντηση</string>
+    <key>Request Help from support</key><string>Αίτημα Βοήθεια</string>
+    <key>RequestHelpFromSupportMailBodyTemplate</key><string>Έχω ένα πρόβλημα με το Citrix WorxMail για iOS 
+ 
+Here 窶 冱 μια περιγραφή του προβλήματος 
+ 
+About συσκευή μου:.. \ N%@</string>
+    <key>Requesting help with Citrix WorxMail for iOS</key><string>Ζητώντας βοήθεια με Citrix WorxMail για iOS</string>
+    <key>Required</key><string>Υποχρεωτικά</string>
+    <key>Required:</key><string>Υποχρεωτικά:</string>
+    <key>Running Late</key><string>αργήσει</string>
+    <key>Running late</key><string>αργήσει</string>
+    <key>Save Draft</key><string>Αποθήκευση Σχέδιο</string>
+    <key>Save</key><string>Αποθήκευση</string>
+    <key>Search</key><string>Αναζήτηση</string>
+    <key>Search Contacts</key><string>Αναζήτηση Επικοινωνία</string>
+    <key>Select a different date or time for the event occurrence</key><string>Ελέγξτε το ημερομηνίες έναρξης και λήξης</string>
+    <key>Select a Start Date earlier than the End Date</key><string>Ελέγξτε το ημερομηνίες έναρξης και λήξης</string>
+    <key>Select a meeting</key><string>Επιλέξτε μια συνάντηση</string>
+    <key>Select all</key><string>Επιλογή όλων</string>
+    <key>Select an End Date later than the Start Date</key><string>Ελέγξτε το ημερομηνίες έναρξης και λήξης</string>
+    <key>Select an End Date that is later than now</key><string>Ελέγξτε το ημερομηνίες έναρξης και λήξης</string>
+    <key>Select Recipients</key><string>Επιλογή παραληπτών</string>
+    <key>Please select recipients for your reply message (Inside My Organization or Outside My Organization).</key><string>Επιλέξτε παραλήπτες για το μήνυμα απάντησης (εντός του οργανισμού μου ή εκτός του οργανισμού μου).</string>
+    <key>Send Feedback to Citrix</key><string>Αποστολή σχολίων με το Citrix</string>
+    <key>Send Feedback</key><string>Αποστολή σχολίων</string>
+    <key>Send</key><string>Αποστολή</string>
+    <key>Sent from Citrix WorxMail for iPad</key><string>Αποστέλλονται από την Citrix WorxMail για iPad</string>
+    <key>Sent from Citrix WorxMail for iPhone</key><string>Αποστέλλονται από την Citrix WorxMail για το iPhone</string>
+    <key>Server</key><string>διακομιστή</string>
+    <key>Settings</key><string>Ρυθμίσεις</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>αναμενόμενο σφάλμα ελέγχου ταυτότητας.</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON Σφάλμα ανάλυσης.</string>
+    <key>SFAPIConnection_NilResponse</key><string>αντικείμενο SFResponse ήταν μηδενική. Είναι αυτή η αίτηση υποστηρίζεται;</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>Μια σύνδεση δικτύου δεν εντοπίστηκε.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth απέτυχε. Reauth πληροφορίες ήταν μηδενική.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth απέτυχε. Σφάλμα άγνωστο.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth απέτυχε. Μη υποστηριζόμενος τύπος σύνδεσης SAML.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection έλαβε πρόκληση ελέγχου ταυτότητας.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Άγνωστη μορφή απάντησης.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest άκυρη. Παρακαλώ ελέγξτε απαιτείται params αίτημα.</string>
+    <key>Share</key><string>Share</string>
+    <key>ShareFile Browser</key><string>ShareFile</string>
+    <key>Show Notifications</key><string>Εμφάνιση Ειδοποιήσεις</string>
+    <key>Signature</key><string>Υπογραφή</string>
+    <key>Sound</key><string>Ήχος</string>
+    <key>Specify Days</key><string>Καθορίστε τις ημέρες</string>
+    <key>Spouse</key><string>Σύζυγος</string>
+    <key>Start</key><string>Ξεκινά</string>
+    <key>Starts</key><string>Ξεκινά</string>
+    <key>Starts\nEnds</key><string>Ξεκινά 
+Ends</string>
+    <key>Starts &amp; Ends</key><string>Ξεκινά &amp; Ends</string>
+    <key>Subject:</key><string>Θέμα:</string>
+    <key>Support</key><string>Υποστήριξη</string>
+    <key>Sync Mail Period</key><string>Sync Περίοδος Mail</string>
+    <key>Sync with Local Contacts</key><string>Συγχρονισμός με την Τοπική Επαφές</string>
+    <key>Take a Photo</key><string>πάρετε τη φωτογραφία</string>
+    <key>Tap \"+\" or search from \n directory to add.</key><string>Πατήστε \ "+ \" ή αναζήτηση από την 
+ κατάλογο για να προσθέσετε.</string>
+    <key>Tentative</key><string>Αβέβαιη</string>
+    <key>Time</key><string>Ώρα</string>
+    <key>Time Duration</key><string>χρονική διάρκεια</string>
+    <key>Title</key><string>Τίτλος</string>
+    <key>%1$d of %2$d</key><string>%1$d από%2$d</string>
+    <key>To:</key><string>Προς:</string>
+    <key>Try Again</key><string>Try Again</string>
+    <key>U</key><string>U</string>
+    <key>Sorry, WorxMail Cannot Get Attendee Details</key><string>Λυπούμαστε, WorxMail δεν μπορεί να πάρει λεπτομερειών συμμετέχοντος</string>
+    <key>Sorry, WorxMail Cannot Get Organizer Details</key><string>Λυπούμαστε, WorxMail δεν μπορεί να πάρει Organizer Λεπτομέρειες</string>
+    <key>Unavailable</key><string>Μη διαθέσιμο</string>
+    <key>Unread</key><string>μη αναγνωσμένων</string>
+    <key>Updated</key><string>Ενημερώθηκε</string>
+    <key>Username</key><string>Όνομα Χρήστη</string>
+    <key>Verifying...</key><string>Επαλήθευση ...</string>
+    <key>Version</key><string>Έκδοση</string>
+    <key>When</key><string>Πότε</string>
+    <key>Where</key><string>Πού</string>
+    <key>Whole series</key><string>ολόκληρη σειρά</string>
+    <key>Work</key><string>Εργασία</string>
+    <key>WorxMail</key><string>WorxMail</string>
+    <key>YesButtonText</key><string>Ναι</string>
+    <key>Yesterday</key><string>Χθες</string>
+    <key>Accept All Certificates</key><string>Αποδοχή όλων των πιστοποιητικών</string>
+    <key>Accepted</key><string>Δεκτές</string>
+    <key>Access denied</key><string>Δεν επιτρέπεται η πρόσβαση</string>
+    <key>You need a valid certificate to use this app.</key><string>Χρειάζεται ένα έγκυρο πιστοποιητικό για να χρησιμοποιήσετε αυτό το app.</string>
+    <key>WorxMail cannot safely connect to the server. The server is not trusted.</key><string>WorxMail δεν μπορεί να συνδεθεί με ασφάλεια στο διακομιστή. Ο διακομιστής δεν είναι αξιόπιστο.</string>
+    <key>Untrusted SSL Certificate</key><string>μη αξιόπιστο πιστοποιητικό SSL</string>
+    <key>You and</key><string>Εσείς και</string>
+    <key>Download complete message</key><string>Κατεβάστε το πλήρες μήνυμα</string>
+    <key>Cannot download the complete message. Please try again later.</key><string>Δεν είναι δυνατή η λήψη ολόκληρου του μηνύματος. Παρακαλώ δοκιμάστε ξανά αργότερα.</string>
+    <key>Downloading...</key><string>Downloading ...</string>
+    <key>First Name</key><string>Όνομα</string>
+    <key>Middle name</key><string>Πατρώνυμο</string>
+    <key>Last Name</key><string>Επώνυμο</string>
+    <key>Suffix</key><string>Κατάληξη</string>
+    <key>City</key><string>Πόλη</string>
+    <key>State</key><string>μέλος</string>
+    <key>Postal Code</key><string>Τ.Κ.</string>
+    <key>Country</key><string>Χώρα</string>
+    <key>Street</key><string>Οδός</string>
+    <key>Edit More</key><string>Επεξεργασία Περισσότερα</string>
+    <key>Edit Less</key><string>Επεξεργασία Λιγότερο</string>
+    <key>Contact</key><string>Επικοινωνία</string>
+    <key>First</key><string>Πρώτη</string>
+    <key>Middle</key><string>Μέσης</string>
+    <key>Last</key><string>Τελευταία</string>
+    <key>Name</key><string>Όνομα</string>
+    <key>Phone</key><string>Τηλέφωνο</string>
+    <key>Email Address</key><string>Διεύθυνση ηλεκτρονικού ταχυδρομείου</string>
+    <key>Email Address 1</key><string>Ηλεκτρονική Διεύθυνση 1</string>
+    <key>Email Address 2</key><string>Ηλεκτρονική Διεύθυνση 2</string>
+    <key>Email Address 3</key><string>Ηλεκτρονική Διεύθυνση 3</string>
+    <key>Address</key><string>Διεύθυνση</string>
+    <key>Business Address</key><string>Διεύθυνση Εργασίας</string>
+    <key>Home Address</key><string>Διεύθυνση Κατοικίας</string>
+    <key>Other Address</key><string>Άλλη διεύθυνση</string>
+    <key>Add New</key><string>Προσθήκη Νέα σύσκεψη</string>
+    <key>Assistant Phone</key><string>Βοηθός Τηλέφωνο</string>
+    <key>Car Phone</key><string>Τηλέφωνο αυτοκινήτου</string>
+    <key>Company Phone</key><string>Εταιρεία Phone</string>
+    <key>Conference</key><string>Web &amp; Ήχος</string>
+    <key>IM</key><string>IM</string>
+    <key>Meeting Id</key><string>Συνάντηση ID</string>
+    <key>Meetings</key><string>Συναντήσεις</string>
+    <key>No Events</key><string>Δεν υπάρχουν Εκδηλώσεις</string>
+    <key>Radio Phone</key><string>Ραδιόφωνο Τηλέφωνο</string>
+    <key>WorxMail Custom Conference</key><string>WorxMail Προσαρμοσμένη Συνέδριο</string>
+    <key>WorxMail GTM</key><string>WorxMail GTM</string>
+    <key>Files</key><string>Αρχεία</string>
+    <key>Clear All</key><string>Clear All</string>
+    <key>Preview</key><string>Προεπισκόπηση</string>
+    <key>Upload</key><string>Ανεβάστε</string>
+    <key>Error</key><string>Σφάλμα</string>
+    <key>Time-out no response from server</key><string>Δεν υπάρχει απόκριση από το διακομιστή 
+</string>
+    <key>Uploading...</key><string>Μεταφόρτωση ...</string>
+    <key>Attendee</key><string>συμμετέχοντα</string>
+    <key>Save to Contacts</key><string>Αποθήκευση στις Επαφές</string>
+    <key>New Contact</key><string>Νέα Επικοινωνία</string>
+    <key>Load Attachments on Wi-Fi</key><string>Συνημμένα Φορτίο σε WiFi</string>
+    <key>Mobile</key><string>Κινητό</string>
+    <key>Business</key><string>Εργασία</string>
+    <key>Business 2</key><string>Εργασία 2</string>
+    <key>Radio</key><string>Ραδιόφωνο</string>
+    <key>Car</key><string>Αυτοκίνητο</string>
+    <key>Fax</key><string>Fax</string>
+    <key>Office</key><string>Γραφείο</string>
+    <key>Contact exported successfully</key><string>Επικοινωνία εξάγονται με επιτυχία</string>
+    <key>Contacts exported successfully</key><string>Επαφές εξάγονται με επιτυχία</string>
+    <key>Set Specific Time Duration</key><string>θέσουν συγκεκριμένους χρονική διάρκεια</string>
+    <key>Inside Organization</key><string>εσωτερικό του οργανισμού</string>
+    <key>Outside Organization</key><string>εξωτερικό οργανισμό</string>
+    <key>Please enter your reply message.</key><string>Παρακαλούμε πληκτρολογήστε το μήνυμα απάντησής σας.</string>
+    <key>My Contacts Only</key><string>Επαφές μου Μόνο</string>
+    <key>Send Automatic Replies</key><string>στέλνετε αυτόματες απαντήσεις</string>
+    <key>Outside My Organization</key><string>έξω από την οργάνωσή μου</string>
+    <key>Anyone Outside My Organization</key><string>οποιονδήποτε εκτός του οργανισμού μου</string>
+    <key>Auto-Reply</key><string>Auto-Απάντηση</string>
+    <key>Type</key><string>Τύπος</string>
+    <key>Government</key><string>κυβέρνηση</string>
+    <key>Customer</key><string>Πελατών</string>
+    <key>Export Contacts</key><string>Εξαγωγή Επαφές</string>
+    <key>Contact export failed.</key><string>Επικοινωνία εξαγωγή απέτυχε.</string>
+    <key>Auto refresh header for background fetch on</key><string>Για να ενεργοποιήσετε τη λειτουργία αυτόματης ανανέωσης μακριά, πηγαίνετε στο iOS 
+Settings και επιλέξτε Γενικά&gt; Ιστορικό App 
+Refresh. \ N 
+SELECTED ΦΑΚΕΛΟΙ</string>
+    <key>Auto refresh header for background fetch on without line break</key><string>Για να ενεργοποιήσετε τη λειτουργία αυτόματης ανανέωσης μακριά, πηγαίνετε στο Ρυθμίσεις iOS και επιλέξτε Γενικά&gt; Ανανέωση εφαρμογών στο παρασκήνιο. \ N 
+SELECTED ΦΑΚΕΛΟΙ</string>
+    <key>Auto refresh header for background fetch off</key><string>Για να ενεργοποιήσετε τη λειτουργία αυτόματης ανανέωσης, μεταβείτε στο iOS 
+Settings και επιλέξτε Γενικά&gt; Ιστορικό App 
+Refresh.</string>
+    <key>Auto refresh header for background fetch off without line break</key><string>Για να ενεργοποιήσετε τη λειτουργία αυτόματης ανανέωσης, μεταβείτε στο Ρυθμίσεις iOS και επιλέξτε Γενικά&gt; Ανανέωση εφαρμογών στο παρασκήνιο.</string>
+    <key>Selected Folders</key><string>επιλεγμένους φακέλους</string>
+    <key>Delete selected message?</key><string>Διαγραφή επιλεγμένου μηνύματος;</string>
+    <key>Move Messages</key><string>Μετακίνηση μηνυμάτων</string>
+    <key>Move conversation</key><string>Μετακίνηση συνομιλίας</string>
+    <key>Move conversations</key><string>Συζητήσεις Μετακίνηση</string>
+    <key>Mark as unread</key><string>Σήμανση ως μη αναγνωσμένου</string>
+    <key>Meeting Password</key><string>Συνάντηση Κωδικός</string>
+    <key>Recurring Meeting</key><string>περιοδική σύσκεψη</string>
+    <key>Recurrence</key><string>Υποτροπή</string>
+    <key>Account Settings</key><string>Ρυθμίσεις Λογαριασμού</string>
+    <key>Account</key><string>Λογαριασμού</string>
+    <key>Auto Refresh</key><string>Αυτόματη Ανανέωση</string>
+    <key>Pull to refresh this folder.</key><string>Τραβήξτε για να ανανεώσετε αυτόν το φάκελο.</string>
+    <key>Checking for Contacts...</key><string>Έλεγχος για επαφές ...</string>
+    <key>Cannot View Attachment</key><string>δεν είναι δυνατή η προβολή Συνημμένο</string>
+    <key>Can't Open File Type \n Tap Share to open with another app.</key><string>δεν μπορεί να ανοίξει τύπου αρχείου 
+ Πατήστε Κοινή χρήση για να ανοίξει με μια άλλη εφαρμογή.</string>
+    <key>WorxMail cannot find an app to view this attachment. Please try a local app or add an app in Worx Home to view this attachment.</key><string>WorxMail δεν μπορείτε να βρείτε μια εφαρμογή για να δείτε αυτό το συνημμένο. Παρακαλώ δοκιμάστε μια τοπική εφαρμογή ή να προσθέσετε μια εφαρμογή στο Έργο Αρχική σελίδα για να δείτε αυτό το συνημμένο.</string>
+    <key>To view this attachment, try a local app or add an app in Worx Home.</key><string>Για να δείτε αυτό το συνημμένο, δοκιμάστε μια τοπική εφαρμογή ή να προσθέσετε μια εφαρμογή στο Έργο σπίτι.</string>
+    <key>ShareFile</key><string>ShareFile</string>
+    <key>Cannot Join Meeting</key><string>δεν μπορούν να ενταχθούν Συνάντηση</string>
+    <key>WorxMail cannot find an app to join this meeting. Please try adding the appropriate app in Worx Home.</key><string>WorxMail δεν μπορείτε να βρείτε μια εφαρμογή για να συμμετάσχουν σε αυτήν την συνεδρίαση. Παρακαλώ δοκιμάστε να προσθέσετε την κατάλληλη εφαρμογή στο Έργο σπίτι.</string>
+    <key>Name isn't available</key><string>Όνομα δεν είναι διαθέσιμη</string>
+    <key>IM Address</key><string>IM Διεύθυνση</string>
+    <key>http://www.citrix.com/about/legal/privacy/plain.html</key><string>http: //www.citrix.com/about/legal/privacy/plain.html</string>
+    <key>Repeat end date can not be before event start date.</key><string>Επαναλάβετε Ημερομηνία Λήξης πρέπει να γίνει μετά από συμβάν Ημερομηνία Έναρξης</string>
+    <key>Select a message for this attachment</key><string>Επιλέξτε ένα μήνυμα για αυτή την προσκόλληση</string>
+    <key>Sorry, WorxMail Could Not Retrieve Your Meetings</key><string>Λυπούμαστε, WorxMail Δεν ήταν δυνατή Ανάκτηση συναντήσεις σας</string>
+    <key>Sorry, WorxMail Could Not Create Your Meeting</key><string>Λυπούμαστε, WorxMail Αδυναμία δημιουργίας συνάντησή σας</string>
+    <key>Sorry, WorxMail Could Not Delete Your Meeting</key><string>Λυπούμαστε, WorxMail είναι δυνατή η διαγραφή συνάντησή σας</string>
+    <key>Sorry, WorxMail Could Not Edit Your Meeting</key><string>Λυπούμαστε, WorxMail είναι δυνατή η επεξεργασία συνάντησή σας</string>
+    <key>Your Internet access is not currently available.</key><string>πρόσβασή σας στο Internet δεν είναι διαθέσιμο</string>
+    <key>Email 1</key><string>Email 1</string>
+    <key>Name 1</key><string>1 Όνομα</string>
+    <key>Name 2</key><string>Όνομα 2</string>
+    <key>Email 3</key><string>Email 3</string>
+    <key>Name 3</key><string>Όνομα 3</string>
+    <key>Email 2</key><string>Email 2</string>
+    <key>Business Street</key><string>εργασία στο δρόμο</string>
+    <key>Home Street</key><string>Αρχική οδό</string>
+    <key>Other Street</key><string>άλλος δρόμος</string>
+    <key>Delete Contact</key><string>Διαγραφή Επικοινωνία</string>
+    <key>Delete Contacts</key><string>Διαγραφή Επαφές</string>
+    <key>Delete Message</key><string>Διαγραφή μηνύματος</string>
+    <key>Delete Messages</key><string>Διαγραφή Μηνύματα</string>
+    <key>Delete Conversations</key><string>Διαγραφή Συζητήσεις</string>
+    <key>Delete Conversation</key><string>Διαγραφή συζήτησης</string>
+    <key>Account Not Created</key><string>λογαριασμός δεν είναι δημιουργημένος</string>
+    <key>Your account cannot be created at this time. This version of your Mail Server is not supported.</key><string>Ο λογαριασμός σας δεν μπορεί να δημιουργηθεί αυτή τη στιγμή. Αυτή η έκδοση του Mail Server σας δεν υποστηρίζεται.</string>
+    <key>Your account could not be created. Check your email address and try again.</key><string>δεν θα μπορούσε να δημιουργήσει το λογαριασμό σας. Ελέγξτε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας και προσπαθήστε ξανά.</string>
+    <key>IM 1</key><string>IM 1</string>
+    <key>IM 2</key><string>IM 2</string>
+    <key>IM 3</key><string>IM 3</string>
+    <key>From</key><string>Από</string>
+    <key>Date</key><string>Ημερομηνία</string>
+    <key>To</key><string>Προς</string>
+    <key>Subject</key><string>Θέμα</string>
+    <key>Cc</key><string>Κοιν</string>
+    <key>Please configure your email account before using WorxMail</key><string>Παρακαλούμε να ρυθμίσετε το λογαριασμό email σας πριν από τη χρήση WorxMail</string>
+    <key>Sorry, WorxMail Could Not Process Your Request</key><string>Λυπούμαστε, WorxMail Δεν ήταν δυνατή η επεξεργασία του αιτήματός σας</string>
+    <key>Download</key><string>Λήψη</string>
+    <key>Waiting...</key><string>Αναμονή ...</string>
+    <key>Sorry, WorxMail Could Not Open the Event</key><string>Λυπούμαστε, WorxMail μπορούσε ツ Δεν Ανοίξτε το Event</string>
+    <key>WorxMail could not attach your image. Please try again in a few minutes.</key><string>WorxMail δεν θα μπορούσε να επισυνάψετε την εικόνα σας. Παρακαλώ δοκιμάστε ξανά σε μερικά λεπτά.</string>
+    <key>Send To All</key><string>Αποστολή Όλες</string>
+    <key>Send To Changed</key><string>Αποστολή Άλλαξε</string>
+    <key>FaceTime</key><string>FaceTime</string>
+    <key>Blocked by Admin Policy: Attach File</key><string>Αποκλεισμένοι από Admin Πολιτική: Επισύναψη αρχείου</string>
+    <key>Your WorxMail contacts will be exported to your local contacts.</key><string>επαφές WorxMail σας θα εξαχθεί προς τοπικές επαφές σας.</string>
+    <key>Your WorxMail contacts will no longer be exported to your local contacts.</key><string>επαφές WorxMail σας δεν θα είναι πλέον να εξάγονται σε τοπικές επαφές σας.</string>
+    <key>The attachment is not available to download.</key><string>Το συνημμένο δεν είναι διαθέσιμο για να κατεβάσετε.</string>
+    <key>You do not have permission to download the attachment.</key><string>Δεν έχετε άδεια για να κατεβάσετε το συνημμένο.</string>
+    <key>Your company's policy doesn't allow attachments to be downloaded.</key><string>πολιτική της εταιρίας σας δεν επιτρέπει τα συνημμένα για να κατεβάσετε.</string>
+    <key>A problem occurred with the download.</key><string>Ένα πρόβλημα προέκυψε με τη λήψη.</string>
+    <key>Invalid Event Duration</key><string>Άκυρα Διάρκεια παράστασης</string>
+    <key>The duration of the calendar event must be shorter than how frequently it occurs.</key><string>Η διάρκεια του συμβάντος ημερολογίου πρέπει να είναι μικρότερη από το πόσο συχνά συμβαίνει.</string>
+    <key>Send message with no subject?</key><string>Αποστολή μηνύματος χωρίς θέμα;</string>
+    <key>Custom</key><string>συνήθειας</string>
+    <key>Move to CC</key><string>Μετακίνηση στην Κοιν</string>
+    <key>Information</key><string>Πληροφορίες</string>
+    <key>Delete Conference</key><string>Διαγραφή Συνέδριο</string>
+    <key>Your Company Network Is Not Currently Available</key><string>δίκτυο της εταιρείας σας δεν είναι διαθέσιμη</string>
+    <key>Actions</key><string>Ενέργειες</string>
+    <key>When:</key><string>Πότε:</string>
+    <key>Respond</key><string>Ανταποκριθείτε</string>
+    <key>No Response</key><string>Δεν απάντησαν</string>
+    <key>NO RESPONSE</key><string>NO RESPONSE</string>
+    <key>MORE RESULTS</key><string>Περισσότερα αποτελέσματα</string>
+    <key>%d of %d</key><string>%d από%d</string>
+    <key>Continue search on server</key><string>Συνεχίστε να κάνετε αναζητήσεις στο διακομιστή</string>
+    <key>Folders</key><string>Φάκελοι</string>
+    <key>Show Less</key><string>λιγότερες επιλογές</string>
+    <key>Show More</key><string>Περισσότερες επιλογές</string>
+    <key>More</key><string>Περισσότερα</string>
+    <key>&amp; %i More</key><string>&amp;%i Περισσότερα</string>
+    <key>No scheduled meetings</key><string>Δεν προγραμματισμένες συναντήσεις</string>
+    <key>RECURRING MEETINGS</key><string>επαναλαμβανόμενες συσκέψεις</string>
+    <key>SCHEDULED MEETINGS</key><string>προγραμματισμένες συναντήσεις</string>
+    <key>MEETINGS</key><string>ΣΥΝΑΝΤΗΣΕΙΣ</string>
+    <key>All</key><string>Όλα</string>
+    <key>Sort Order</key><string>Ταξινόμησης</string>
+    <key>Display Order</key><string>Σειρά εμφάνισης</string>
+    <key>First, Last</key><string>Πρώτον, Τελευταία</string>
+    <key>Last, First</key><string>Επώνυμο, Όνομα</string>
+    <key>Phonetic First Name</key><string>Φωνητικό Όνομα</string>
+    <key>Phonetic Last Name</key><string>Φωνητικό Επώνυμο</string>
+    <key>Mailboxes</key><string>Γραμματοκιβώτια</string>
+    <key>%d Selected</key><string>%d Επιλεγμένα</string>
+    <key>99+</key><string>99 +</string>
+    <key>Swipe Up</key><string>Περάστε το Up</string>
+    <key>Swipe Down</key><string>σύρετε προς τα κάτω</string>
+    <key>Single Tap To Read</key><string>Ενιαία Πατήστε για να διαβάσετε</string>
+    <key>Double Tap To Flag</key><string>Πατήστε δύο φορές για Σημαία</string>
+    <key>Mark as Read</key><string>Σημείωσε ως διαβασμένο</string>
+    <key>Move to</key><string>Μετακίνηση σε</string>
+    <key>Fast Sort</key><string>Γρήγορη Ταξινόμηση</string>
+    <key>Move to %@</key><string>Μετακίνηση στο%@</string>
+    <key>MAIL</key><string>ταχυδρομείο</string>
+    <key>CONTACTS</key><string>ΕΠΙΚΟΙΝΩΝΙΑ</string>
+    <key>CALENDAR</key><string>ΗΜΕΡΟΛΟΓΙΟ</string>
+    <key>Conversation</key><string>Συνομιλία</string>
+    <key>ITEMS</key><string>ΣΗΜΕΙΑ</string>
+    <key>Loading meetings...</key><string>συναντήσεις Φόρτωση ...</string>
+    <key>Create note</key><string>Δημιουργία σημείωσης</string>
+    <key>Checking for Events...</key><string>Έλεγχος για εκδηλώσεις ...</string>
+    <key>Delete Photo</key><string>Διαγραφή Φωτογραφίας</string>
+    <key>Display Name</key><string>Display Name</string>
+    <key>Phonetic FirstName</key><string>Φωνητικό FirstName</string>
+    <key>Business Fax</key><string>Φαξ εργασίας</string>
+    <key>PHONE</key><string>ΤΗΛΕΦΩΝΟ</string>
+    <key>Week</key><string>Εβδομάδα</string>
+    <key>Work Email</key><string>Εργασία Email</string>
+    <key>Home Email</key><string>Αρχική Email</string>
+    <key>INTERNET</key><string>INTERNET</string>
+    <key>BUSINESS</key><string>ΕΡΓΑΣΙΑΣ</string>
+    <key>HOME</key><string>ΑΡΧΙΚΗ</string>
+    <key>ALIAS</key><string>ALIAS</string>
+    <key>PERSONAL</key><string>ΠΡΟΣΩΠΙΚΟΥ</string>
+    <key>NOTES</key><string>ΣΗΜΕΙΩΣΕΙΣ</string>
+    <key>Middle Name</key><string>Πατρώνυμο</string>
+    <key>COMPANY INFO</key><string>ΕΤΑΙΡΕΙΑ</string>
+    <key>Add to Existing Contact</key><string>Προσθήκη για τις σημερινές επαφές</string>
+    <key>ADDRESS</key><string>ΔΙΕΥΘΥΝΣΗ</string>
+    <key>Close</key><string>Κλείσιμο</string>
+    <key>COMPANY DIRECTORY</key><string>εταιρεία του καταλόγου</string>
+    <key>Export</key><string>Εξαγωγή</string>
+    <key>General</key><string>Γενικά</string>
+    <key>Label</key><string>Ετικέτα</string>
+    <key>No Data passed</key><string>Πέρασε  Δεν υπάρχουν Δεδομένα</string>
+    <key>OTHER</key><string>ΑΛΛΑ</string>
+    <key>Phonetic LastName</key><string>Φωνητικό Επώνυμο</string>
+    <key>Please enter a reply message for Inside My Organization.</key><string>Παρακαλώ εισάγετε ένα μήνυμα απάντησης για το εσωτερικό του οργανισμού μου.</string>
+    <key>Please enter your reply message for Outside My Organization.</key><string>Παρακαλούμε πληκτρολογήστε το μήνυμα απάντησής σας για εκτός του οργανισμού μου.</string>
+    <key>Delete</key><string>Διαγραφή</string>
+    <key>Blocked by Admin Policy: Add Photo</key><string>Αποκλεισμένοι από Admin Πολιτική: Προσθήκη φωτογραφίας</string>
+    <key>Select a phone number</key><string>Επιλέξτε έναν αριθμό τηλεφώνου</string>
+    <key>New Meeting Invitation</key><string>Νέα πρόσκληση συνάντησης</string>
+    <key>Unlink</key><string>Αποσύνδεση</string>
+    <key>Next event</key><string>Επόμενη εκδήλωση</string>
+    <key>Next event at</key><string>Επόμενη εκδήλωση στο</string>
+    <key>Checking for Updates...</key><string>Έλεγχος για ενημερώσεις ...</string>
+    <key>Incorrect Password</key><string>Λάθος Κωδικός</string>
+    <key>Enter password for</key><string>Εισάγετε τον κωδικό πρόσβασης για</string>
+    <key>Decline</key><string>Παρακμή</string>
+    <key>TentativelyAccept</key><string>Ίσως</string>
+    <key>&amp; Comment</key><string>&amp; Σχόλιο</string>
+    <key>Login</key><string>Είσοδος</string>
+    <key>Please enter your password</key><string>Παρακαλώ εισάγετε τον κωδικό πρόσβασής σας</string>
+    <key>Checking Password...</key><string>Έλεγχος κωδικού πρόσβασης ...</string>
+    <key>Password validation failed.\nPlease try again later.</key><string>επικύρωση κωδικού πρόσβασης απέτυχε. \ NΠαρακαλούμε να δοκιμάστε ξανά αργότερα.</string>
+    <key>Retry</key><string>Επανάληψη</string>
+    <key>Tomorrow</key><string>Αύριο</string>
+    <key>Please resolve expired or locked passwords before continuing.</key><string>Παρακαλούμε να επιλύσει λήξει ή κλειδωμένο κωδικούς πρόσβασης πριν συνεχίσετε.</string>
+    <key>Please go to Settings &gt; Auto-Refresh and reduce the number of folders that you have selected.</key><string>Παρακαλώ πηγαίνετε στις Ρυθμίσεις&gt; Αυτόματη Ανανέωση και να μειώσει τον αριθμό των φακέλων που έχετε επιλέξει.</string>
+    <key>Please change your account password to continue using WorxMail.</key><string>Παρακαλούμε να αλλάξετε τον κωδικό πρόσβασης του λογαριασμού σας για να συνεχίσετε να χρησιμοποιείτε WorxMail.</string>
+    <key>Please change your account password for</key><string>Παρακαλούμε να αλλάξετε τον κωδικό πρόσβασης του λογαριασμού σας για</string>
+    <key>to continue using WorxMail.</key><string>για να συνεχίσετε να χρησιμοποιείτε WorxMail.</string>
+    <key>Your Mailbox Is Full</key><string>γραμματοκιβώτιο είναι πλήρες</string>
+    <key>Your message cannot be sent until you delete messages from your mailbox.\nWorxMail will send this message as soon as more space is available.</key><string>Το μήνυμά σας δεν μπορεί να σταλεί μέχρι να διαγράψετε τα μηνύματα από το γραμματοκιβώτιό σας. \ NWorxMail θα στείλει αυτό το μήνυμα το συντομότερο περισσότερος χώρος είναι διαθέσιμος.</string>
+    <key>Your network is not available. Tap to retry.</key><string>δίκτυό σας δεν είναι διαθέσιμο. Πατήστε για επανάληψη.</string>
+    <key>GESTURE</key><string>γκριμάτσα</string>
+    <key>Updating your mail. This may take a few minutes...</key><string>Ενημέρωση e-mail σας. Αυτό μπορεί να διαρκέσει μερικά λεπτά ...</string>
+    <key>There was a problem.\nWait a few minutes and try again.</key><string>Υπήρχε ένα πρόβλημα. \ NWait λίγα λεπτά και δοκιμάστε ξανά.</string>
+    <key>All day tomorrow</key><string>Όλα αύριο ημέρα</string>
+    <key>Phew! No new mail</key><string>Φτου! Κανένα νέο μήνυμα</string>
+    <key>Move to Bcc</key><string>Μετακίνηση σε BCC</string>
+    <key>Move to Cc</key><string>Μετακίνηση στην Κοιν</string>
+    <key>Move to To</key><string>Μεταφορά Για να</string>
+    <key>Create New Contact</key><string>Δημιουργία νέας επαφής</string>
+    <key>Sign On</key><string>Είσοδος</string>
+    <key>Please verify your credentials and try again.</key><string>Παρακαλούμε επαλήθευση των διαπιστευτηρίων σας και δοκιμάστε ξανά.</string>
+    <key>Add</key><string>Προσθήκη</string>
+    <key>Too Many Devices</key><string>πάρα πολλές συσκευές</string>
+    <key>You have too many devices paired with Outlook.\nPlease remove unused devices and try again.</key><string>Έχετε πάρα πολλές συσκευές σε συνδυασμό με το Outlook. Παρακαλώ αφαιρέστε αχρησιμοποίητες συσκευές και δοκιμάστε ξανά.</string>
+    <key>Account Disabled</key><string>άτομα με ειδικές ανάγκες Λογαριασμού</string>
+    <key>Your account is disabled.</key><string>Ο λογαριασμός σας έχει απενεργοποιηθεί.</string>
+    <key>Sync Not Permitted</key><string>Sync δεν Επιτρεπόμενες</string>
+    <key>Your account doesn't have permission to sync with Outlook.</key><string>Ο λογαριασμός σας δεν έχει δικαίωμα να συγχρονίσετε με το Outlook.</string>
+    <key>Your device doesn't have permission to sync with Outlook.</key><string>συσκευή σας δεν έχει άδεια για να συγχρονίσετε με το Outlook.</string>
+    <key>Account Not Created</key><string>λογαριασμός δεν είναι δημιουργημένος</string>
+    <key>Your account cannot be created at this time.\nAccess to the Microsoft Exchange Server was denied.</key><string>Ο λογαριασμός σας δεν μπορεί να δημιουργηθεί αυτή τη στιγμή. \ NAccess για τον Microsoft Exchange Server δεν έγινε δεκτό.</string>
+    <key>Choose a recipient</key><string>Επιλέξτε έναν παραλήπτη</string>
+    <key>Please Wait</key><string>Παρακαλώ περιμένετε</string>
+    <key>WorxMail is updating your contacts.</key><string>WorxMail είναι ενημέρωση των επαφών σας.</string>
+    <key>Mail is already in %@</key><string>Mail είναι ήδη στο%@</string>
+    <key>Attachments Were Not Sent</key><string>Συνημμένα δεν κοινοποιήθηκαν</string>
+    <key>Private</key><string>Ιδιωτική</string>
+    <key>Show picture</key><string>Δείτε εικόνα</string>
+    <key>Show pictures</key><string>Δείτε φωτογραφίες</string>
+    <key>Always show pictures from this sender</key><string>δείχνουν πάντα εικόνες από αυτόν τον αποστολέα</string>
+    <key>1 New Meeting Invitation</key><string>1 Νέα πρόσκληση συνάντησης</string>
+    <key>New Meeting Invitations</key><string>Νέα σύσκεψη Προσκλήσεις</string>
+    <key>1 New Message</key><string>1 νέο μήνυμα</string>
+    <key>New Messages</key><string>Νέα Μηνύματα</string>
+    <key>This mail is restricted.</key><string>Αυτό το μήνυμα είναι περιορισμένη.</string>
+    <key>Restrictions</key><string>Περιορισμοί</string>
+    <key>Remove restrictions</key><string>Άρση των περιορισμών</string>
+    <key>CONTENT OWNER</key><string>κατόχου περιεχομένου</string>
+    <key>CONTENT EXPIRATION</key><string>λήξης περιεχομένου</string>
+    <key>RESTRICTIONS</key><string>ΠΕΡΙΟΡΙΣΜΟΙ</string>
+    <key>No expiration</key><string>Δεν λήξη</string>
+    <key>Edit the Content</key><string>επεξεργαστείτε το περιεχόμενο</string>
+    <key>Modify recipients</key><string>Τροποποίηση αποδέκτες</string>
+    <key>Copy content</key><string>Αντιγραφή περιεχομένου</string>
+    <key>Print</key><string>Εκτύπωση</string>
+    <key>Send to other apps</key><string>Αποστολή σε άλλες εφαρμογές</string>
+    <key>Enable Your Camera</key><string>Ενεργοποίηση φωτογραφικής μηχανής σας</string>
+    <key>Camera Is Blocked</key><string>κάμερα παρεμποδιστεί</string>
+    <key>Your admin has disabled the camera.</key><string>Ο διαχειριστής σας έχει απενεργοποιήσει τη φωτογραφική μηχανή.</string>
+    <key>Change your camera privacy settings in iOS Settings &gt; Privacy &gt; Camera.</key><string>αλλάξετε τις ρυθμίσεις απορρήτου σας φωτογραφική μηχανή σε iOS Ρυθμίσεις&gt; Απόρρητο&gt; Κάμερα.</string>
+    <key>Change your contact privacy settings in iOS Settings &gt; Privacy &gt; Contacts.</key><string>αλλάξετε τις ρυθμίσεις απορρήτου επαφών σας στο Ρυθμίσεις iOS&gt; Απόρρητο&gt; Επαφές.</string>
+    <key>Message not sent. Retry later</key><string>Το μήνυμα δεν εστάλη. Δοκιμάστε ξανά αργότερα</string>
+    <key>High</key><string>Υψηλή</string>
+    <key>Normal</key><string>Κανονική</string>
+    <key>Low</key><string>Χαμηλή</string>
+    <key>Outbox</key><string>Εξερχόμενα</string>
+    <key>Show Pictures</key><string>Δείτε Φωτογραφίες</string>
+    <key>Ok</key><string>Ok</string>
+    <key>Starts Ends</key><string>Ξεκινά τελειώνει</string>
+    <key>Restriction Profiles</key><string>Προφίλ Περιορισμός</string>
+    <key>Info</key><string>Πληροφορίες</string>
+    <key>None Template Description</key><string>Αυτό το μήνυμα δεν προστατεύεται. Εάν αυτό είναι μια απάντηση σε ένα μήνυμα με προστασία, οι περιορισμοί απομακρύνονται.</string>
+    <key>IRM content expiry message</key><string>Η άδεια για να δείτε αυτό το μήνυμα έχει λήξει. Ευγενικά εκ νέου φέρω το μήνυμα.</string>
+    <key>Due to admin policy on exporting contacts, only the name and phone number will be exported.</key><string>Λόγω διαχειριστή πολιτική για την εξαγωγή των επαφών, μόνο το όνομα και τον αριθμό τηλεφώνου θα πρέπει να εξαχθούν.</string>
+    <key>Due to admin policy on exporting contacts, only the name, phone number and email will be exported.</key><string>Λόγω διαχειριστή πολιτική για την εξαγωγή των επαφών, μόνο το όνομα, τον αριθμό τηλεφώνου και e-mail θα πρέπει να εξαχθούν.</string>
+    <key>Due to admin policy on exporting contacts, only the custom contact fields will be exported.</key><string>Λόγω διαχειριστή πολιτική για την εξαγωγή των επαφών, μόνο τα προσαρμοσμένα πεδία επαφών θα εξαχθούν.</string>
+    <key>Agenda</key><string>Ατζέντα</string>
+    <key>Retry Send</key><string>Επανάληψη αποστολής</string>
+    <key>Cannot Download Attachment</key><string>Δεν είναι δυνατή η λήψη του συνημμένου</string>
+    <key>TODAY</key><string>ΣΗΜΕΡΑ</string>
+    <key>YESTERDAY</key><string>ΧΘΕΣ</string>
+    <key>TOMORROW</key><string>ΑΥΡΙΟ</string>
+    <key>New</key><string>Νέα</string>
+    <key>Add to existing</key><string>Προσθήκη σε υπάρχουσα</string>
+    <key>Delete Event</key><string>Διαγραφή συμβάντος</string>
+    <key>Delete Series</key><string>Διαγραφή Σειρά</string>
+    <key>Send Update</key><string>Αποστολή Ενημέρωση</string>
+    <key>This folder is empty</key><string>Αυτός ο φάκελος είναι άδειο</string>
+    <key>Open Link</key><string>Άνοιγμα συνδέσμου</string>
+    <key>Call %@</key><string>Κλήση%@</string>
+    <key>Open in Maps</key><string>Άνοιγμα στους Χάρτες</string>
+    <key>Check the server address and try again.</key><string>Ελέγξτε τη διεύθυνση του διακομιστή και προσπαθήστε ξανά.</string>
+    <key>Send Anyway</key><string>Αποστολή Τέλος πάντων</string>
+    <key>You did not make changes to the event.</key><string>δεν έχετε κάνει αλλαγές στην εκδήλωση.</string>
+    <key>Invalid Address</key><string>έγκυρη διεύθυνση</string>
+    <key>%@ doesn't seem to be an actual address. Do you still want to send it?</key><string>%@ δεν φαίνεται να είναι μια πραγματική διεύθυνση. Θέλετε ακόμα να το στείλετε;</string>
+    <key>This Option is Not Available</key><string>Αυτή η επιλογή δεν είναι διαθέσιμη</string>
+    <key>An error occurred emptying your Deleted Items.</key><string>Παρουσιάστηκε σφάλμα κατά την εκκένωση Διαγραμμένα σας.</string>
+    <key>Empty</key><string>Κενό</string>
+    <key>Emptying Deleted Items folder</key><string>Άδειασμα φάκελο Διαγραμμένα</string>
+    <key>Can't Empty Folder</key><string>Μπορεί να μην Άδειασμα του φακέλου</string>
+    <key>An error occurred while emptying your Deleted Items folder.\nPlease try again later.</key><string>Παρουσιάστηκε σφάλμα κατά την εκκένωση φάκελο Διαγραμμένα. \ NΠαρακαλούμε να δοκιμάστε ξανά αργότερα.</string>
+    <key>FaceTime Audio</key><string>FaceTime ήχου</string>
+    <key>There was a problem sending this message. Try again later.</key><string>Υπήρξε ένα πρόβλημα με την αποστολή αυτού του μηνύματος. Προσπαθήστε ξανά αργότερα.</string>
+    <key>Can't Send Mail</key><string>Δεν μπορείτε να στείλετε αλληλογραφία.</string>
+    <key>The server is not configured correctly.</key><string>Ο διακομιστής δεν έχει ρυθμιστεί σωστά.</string>
+    <key>A server error occurred. Please try again later.</key><string>Παρουσιάστηκε σφάλμα διακομιστή. Παρακαλώ δοκιμάστε ξανά αργότερα.</string>
+    <key>Your message is too large. Remove attachments or divide into smaller messages.</key><string>Το μήνυμά σας είναι πολύ μεγάλο. Αφαιρέστε τα συνημμένα ή χωρίζουν σε μικρότερα μηνύματα.</string>
+    <key>Sorry, something went wrong. Please try again. If the problem persists, contact IT.</key><string>Συγνώμη, κάτι δεν πήγε καλά. Παρακαλώ δοκιμάστε ξανά. Εάν το πρόβλημα παραμένει, επικοινωνήστε με το IT.</string>
+    <key>A connection error occurred. Please try again later.</key><string>Ένα σφάλμα συνέβη σύνδεση. Παρακαλώ δοκιμάστε ξανά αργότερα.</string>
+    <key>Leave in Outbox</key><string>Αφήστε στα Εξερχόμενα</string>
+    <key>Availability</key><string>Διαθεσιμότητα</string>
+    <key>You are available</key><string>Είστε διαθέσιμος</string>
+    <key>This event is adjacent to another event</key><string>Αυτή η εκδήλωση είναι δίπλα στο άλλο συμβάν</string>
+    <key>This event conflicts with another event</key><string>Αυτό το γεγονός έρχεται σε σύγκρουση με ένα άλλο γεγονός</string>
+    <key>Can't Access WorxMail</key><string>δεν είναι δυνατή η πρόσβαση WorxMail</string>
+    <key>Failed to Fetch Client Certificate.</key><string>Αποτυχία ανάκτησης πιστοποιητικού πελάτη.</string>
+    <key>This event has already been modified. Please close the current window and try again.</key><string>Η εκδήλωση αυτή έχει ήδη τροποποιηθεί. Κλείστε το τρέχον παράθυρο και δοκιμάστε ξανά.</string>
+    <key>The attachment cannot be downloaded because it is empty.</key><string>Η κατάσχεση δεν μπορεί να ληφθεί, επειδή είναι άδειο.</string>
+    <key>Open</key><string>Ανοικτό</string>
+    <key>Copy</key><string>Αντιγραφή</string>
+    <key>Call</key><string>Κλήση</string>
+    <key>Copy Link</key><string>Copy Link</string>
+    <key>Send Message</key><string>Αποστολή Μηνύματος</string>
+    <key>Done</key><string>Έγινε</string>
+    <key>Downloadable Resources</key><string>λήψη Πόρων</string>
+    <key>Language</key><string>Γλώσσα</string>
+    <key>No Downloadable Resource</key><string>Δεν Καινούριο Πόρων</string>
+    <key>Package Resources</key><string>Πακέτο Πόρων</string>
+    <key>Select Language</key><string>Επιλέξτε Γλώσσα</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection έλαβε πρόκληση ελέγχου ταυτότητας.</string>
+    <key>SFAPIConnection_NilResponse</key><string>αντικείμενο SFResponse ήταν μηδενική. Είναι αυτή η αίτηση υποστηρίζεται;</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>Μια σύνδεση δικτύου δεν εντοπίστηκε.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest άκυρη. Παρακαλώ ελέγξτε απαιτείται params αίτημα.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest ήταν μηδενική.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Άγνωστη μορφή απάντησης.</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON Σφάλμα ανάλυσης.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth απέτυχε. Reauth πληροφορίες ήταν μηδενική.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth απέτυχε. Μη υποστηριζόμενος τύπος σύνδεσης SAML.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth απέτυχε. SSO πληροφορίες ήταν μηδενική.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth απέτυχε. Σφάλμα άγνωστο.</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>αναμενόμενο σφάλμα ελέγχου ταυτότητας.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>Δεν ταυτότητας δόθηκαν.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>Απόπειρα σύνδεσης δεν ήταν επιτυχής.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID αναγνωρίζεται αλλά μπαγιάτικο. Παρακαλούμε νέου έλεγχο ταυτότητας πριν συνεχίσετε.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID δεν βρεθεί / έγκυρη.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>Υποκατηγορία δεν είναι έγκυρη για την τρέχουσα αίτηση.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>Ο συνδυασμός εργαλείων / του ισοζυγίου τρεχουσών συναλλαγών δεν γίνεται δεκτό από τη χρήση API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>αναμενόμενο σφάλμα λειτουργίας.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>Η λειτουργία που ζητήθηκε δεν ταιριάζει με κανένα υποστηρίζεται op.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Αυτή op απαιτεί η παράμετρος (ες) που δεν παρασχέθηκαν.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>Παράμετρος (ες) που παρέχονται δεν είναι έγκυρες (π.χ. κορδόνι αντί int, Val εκτός περιοχής, κλπ).</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>Η ζητούμενη ΕΠ δεν είναι συμβατή με την τρέχουσα ταυτότητα στόχο.</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>Op δεν επιτρέπεται για τρέχοντα λογαριασμό ShareFile (διαθέτουν άτομα με ειδικές ανάγκες / καμία άδεια).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>Op δεν επιτρέπεται για την τρέχουσα χρήστη ShareFile (χρήστης δεν έχει τα κατάλληλα ρόλο του χρήστη / άδειες χρήσης).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>Op δεν επιτρέπεται για τον στόχο (ο χρήστης μπορεί να έχει κατάλληλο ρόλο / άδεια σε άλλες περιπτώσεις, αλλά όχι για το συγκεκριμένο ID).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>αναμενόμενο σφάλμα στόχου.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>Αιτήματα υπάρχει στόχος, αλλά όχι του σωστού τύπου (π.χ. προσπαθεί να εκτελέσει op φάκελο σε ένα αρχείο).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>στόχος δεν βρέθηκε.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>Απροσδόκητη δημιουργήσει σφάλμα.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>Παρέχεται γονέας δεν είναι έγκυρη για τη δημιουργία ζήτησαν αυτού του είδους (π.χ. προσπαθεί να δημιουργήσει ένα φάκελο στη ρίζα του λογαριασμού).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>αναμενόμενο σφάλμα επεξεργασίας.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>Το αντικείμενο που προσπαθείτε να δημιουργήσετε ήδη υπάρχει.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>Το αντικείμενο που προσπαθείτε να επεξεργαστείτε υπάρχει ήδη.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>αναμενόμενο σφάλμα.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>διακομιστή εργασίες συντήρησης.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>όριο ρυθμού επιτευχθεί.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>Server είναι πλεονάζουσα παραγωγική ικανότητα.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>αναμενόμενο σφάλμα (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>Server είναι πλεονάζουσα παραγωγική ικανότητα (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>Ανεβάστε προετοιμασία απέτυχε (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>προετοιμασία λήψη απέτυχε (SC).</string>
+</dict></plist>

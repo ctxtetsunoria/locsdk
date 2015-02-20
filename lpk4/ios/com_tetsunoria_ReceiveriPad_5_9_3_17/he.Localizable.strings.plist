@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CTXDAY</key><string>היום</string>
+    <key>CTXDAYS</key><string>ימים</string>
+    <key>CTXHOUR</key><string>שעה</string>
+    <key>CTXHOURS</key><string>שעות</string>
+    <key>CTXMINUTE</key><string>דקה</string>
+    <key>CTXMINUTES</key><string>דקות</string>
+    <key>CTXSECOND</key><string>שנייה</string>
+    <key>CTXSECONDS</key><string>שניות</string>
+    <key>AlertButtonDISMISS</key><string>בטל</string>
+    <key>AlertButtonLATER</key><string>מאוחר יותר</string>
+    <key>AlertButtonLOGON</key><string>כניסה למערכת</string>
+    <key>AlertButtonEXIT</key><string>יציאה</string>
+    <key>AlertButtonQUIT</key><string>. תפסיק</string>
+    <key>AlertButtonOK</key><string>אוקיי</string>
+    <key>AlertButtonUPDATENOW</key><string>תעדכן עכשיו</string>
+    <key>AlertButtonSETTINGS</key><string>הגדרות</string>
+    <key>AlertButtonINSTALL</key><string>להתקין</string>
+    <key>AlertButtonOPENRECEIVER</key><string>לאשר</string>
+    <key>AlertButtonSTARTRECEIVER</key><string>הפעלת מקלט</string>
+    <key>AlertButtonCONTINUE</key><string>המשך</string>
+    <key>ReceiverNotInstalledAlertTitle</key><string>אין אפשרות למצוא מקלט</string>
+    <key>ReceiverNotInstalledAlertMsg</key><string>בבקשה להתקין מקלט Citrix שלך %@ לשימוש יישום זה.</string>
+    <key>LogonRequiredAlertTitle</key><string>כניסה חובה</string>
+    <key>LogonRequiredAlertMsg</key><string>היכנס למקלט Citrix לשימוש בצורה מאובטחת יישום זה.</string>
+    <key>LogonMaybeRequiredAlertTitle</key><string></string>
+    <key>LogonMaybeRequiredAlertMsg</key><string>Citrix המקבל צריך לאשר את יישום זה.</string>
+    <key>LogonFailedAlertTitle</key><string>אין כניסה</string>
+    <key>LogonFailedAlertMsg</key><string>לאמת את האישורים שלך ונסה שוב.</string>
+    <key>AppRemovedAlertTitle</key><string>האפליקציה לא זמין</string>
+    <key>AppRemovedAlertMsg</key><string>יישום זה הוסר מן המקלט Citrix. באפשרותך להסיר אותה שלך %@ או להתקינו בתוך מקלט.</string>
+    <key>JailBrokenAlertTitle</key><string></string>
+    <key>JailBrokenAlertMsg</key><string>הארגון שלך אינו מאפשר יישום זה להפעיל על %@ jailbroken .</string>
+    <key>PasscodeRequiredAlertTitle</key><string>נדרש קוד גישה</string>
+    <key>PasscodeRequiredAlertMsg</key><string>הגדר סיסמה על המכשיר לשימוש יישום זה.</string>
+    <key>RequireInternalNetworkAlertTitle</key><string>הרשת הפנימית הנדרש</string>
+    <key>RequireInternalNetworkAlertMsg</key><string>להתחבר אל הרשת הפנימית לשימוש יישום זה.</string>
+    <key>WifiRequiredAlertTitle</key><string>WiFi נדרש</string>
+    <key>WifiRequiredAlertMsg</key><string>להתחבר לרשת WiFi לשימוש יישום זה.</string>
+    <key>InternalWifiRequiredAlertTitle</key><string>WiFi מורשה נדרש</string>
+    <key>InternalWifiRequiredAlertMsg</key><string>התחברות לרשת אלחוטית מורשים לשימוש הזה app:%@</string>
+    <key>OfflineLeaseWarningAlertTitle</key><string>כניסה חובה</string>
+    <key>OfflineLeaseWarningAlertMsg</key><string>היכנס למקלט Citrix בתוך %@ %@ כדי להמשיך להשתמש יישום זה. לאחר תקופה זו, היישום נעול.</string>
+    <key>AppUpdateDeferAlertTitle</key><string>עדכון זמין</string>
+    <key>AppUpdateDeferAlertMsg</key><string>עליך לעדכן את יישום זה בתוך %@ %@.</string>
+    <key>AppUpdateGracePeriodExpiredAlertTitle</key><string>עדכון נדרש</string>
+    <key>AppUpdateGracePeriodExpiredAlertMsg</key><string>אינך יכול להשתמש יישום זה עד להחלת העדכון.</string>
+    <key>AppUpdateGracePeriodWarningAlertTitle</key><string>עדכון נדרש</string>
+    <key>AppUpdateGracePeriodWarningAlertMsg</key><string>יש לך %@ %@ יותר  לשימוש יישום זה. אנא שמור את העבודה שלך ולהחיל את העדכון.</string>
+    <key>DontShowThisMsgAgainOption</key><string>אל תציג הודעה זו שוב</string>
+    <key>AGSessionExpiredAlertTitle</key><string>החיבור פג</string>
+    <key>AGSessionExpiredAlertMsg</key><string>היכנס למקלט Citrix כדי להמשיך להשתמש יישום זה.</string>
+    <key>LogonRequiredForSTATicketExpiredAlertTitle</key><string>כניסה חובה</string>
+    <key>LogonRequiredForSTATicketExpiredAlertMsg</key><string>היכנס למקלט Citrix כדי לאפשר גישה לרשת. העיתונות להמשיך להשתמש app ללא גישה לרשת.</string>
+    <key>LogonRequiredForNetworkAccessAlertTitle</key><string>כניסה חובה</string>
+    <key>LogonRequiredForNetworkAccessAlertMsg</key><string>היכנס למקלט Citrix כדי לאפשר גישה לרשת. העיתונות להמשיך להשתמש app ללא גישה לרשת.</string>
+    <key>IPC_InvalidAppAlertTitle</key><string></string>
+    <key>IPC_InvalidAppAlertMsg</key><string>יישום זה אינה תואמת ל- Citrix מקלט. נסה להסיר אותו ולהתקין מחדש את זה.</string>
+    <key>IPC_NoStoreFoundAlertTitle</key><string>לא יכול למצוא את האפליקציה</string>
+    <key>IPC_NoStoreFoundAlertMsg</key><string>נא להוסיף לחשבון שלך ב- Citrix מקלט לפני תחילת יישום זה.</string>
+    <key>IPC_QuitRequestAlertTitle</key><string></string>
+    <key>IPC_QuitRequestAlertMsg</key><string>Citrix מקלט אין אפשרות לתקשר עם יישום זה.</string>
+    <key>IPC_WakeReceiverAlertTitle</key><string></string>
+    <key>IPC_WakeReceiverAlertMsg</key><string>האפליקציה שלך יהפוך לפעיל שוב פעם Citrix מקלט מתחיל.</string>
+    <key>AppContainmentAlertTitle</key><string>מוגבלת על-ידי מדיניות admin</string>
+    <key>AppContainment_DISABLECOPYAlertMsg</key><string>\"Cut, copy\" ייחסמו עבור יישום זה.</string>
+    <key>AppContainment_DISABLEPASTEAlertMsg</key><string>\"Paste\" נחסמת עבור יישום זה</string>
+    <key>AppContainment_DISABLECAMERAAlertMsg</key><string>\"Camera\" נחסמת עבור יישום זה</string>
+    <key>AppContainment_DISABLEMICAlertMsg</key><string>\"Mic record\" נחסמת עבור יישום זה</string>
+    <key>AppContainment_DISABLELOCATIONAlertMsg</key><string>\"Location\" שירותי חסום עבור יישום זה</string>
+    <key>AppContainment_DISABLESMSAlertMsg</key><string>\"SMS\" להלחין נחסמת עבור יישום זה.</string>
+    <key>AppContainment_DISABLEEMAILAlertMsg</key><string>\"Email\" להלחין נחסמת עבור יישום זה</string>
+    <key>AppContainment_DISABLEICLOUDAlertMsg</key><string>\"iCloud\" נחסמת עבור יישום זה</string>
+    <key>AppContainment_DISABLEPRINTINGAlertMsg</key><string>\"AirPrint\" נחסמת עבור יישום זה</string>
+    <key>AppContainment_DISABLEOPENINAlertMsg</key><string>\"Opening files\" נחסמת עבור יישום זה</string>
+    <key>AppContainment_AlertMsg</key><string>%@ הוא מוגבל על-ידי מנהל מדיניות.</string>
+    <key>AppContainment_CommonAlertMsg</key><string>אחוז מנהל החסומים שלך %@.</string>
+    <key>CTXCamera</key><string>מצלמה</string>
+    <key>CTXCutCopy</key><string>עותק חיתוך &amp;</string>
+    <key>CTXPaste</key><string>הדבק</string>
+    <key>CTXDocumentExchange</key><string>המרת המסמך (Open In)</string>
+    <key>CTXMicrophoneRecording</key><string>הקלטה ממיקרופון</string>
+    <key>CTXLocationServicesGPS</key><string>שירותי המיקום (GPS)</string>
+    <key>CTXSMS</key><string>SMS</string>
+    <key>CTXEmail</key><string>דוא</string>
+    <key>CTXPrinting</key><string>הדפסה</string>
+    <key>CTXNetworkAccess</key><string>גישה לרשת</string>
+    <key>CTXICloud</key><string>iCloud</string>
+    <key>CTXand</key><string>ו</string>
+    <key>DataProtection_KeyFailureAlertTitle</key><string>לא ניתן לגשת לנתונים App</string>
+    <key>DataProtection_KeyFailureAlertMsg</key><string>נא ודא כי אתה יכול לגשת לרשת ולנסות בהתחברות ל Citrix מקלט שוב.</string>
+    <key>DataProtection_PolicyChangeAlertTitle</key><string></string>
+    <key>DataProtection_PolicyChangeAlertMsg</key><string>מדיניות יישום הנתונים access השתנה. למחוק ולהתקין מחדש יישום זה כדי להמשיך להשתמש</string>
+    <key>AppDisabledTitle</key><string>האפליקציה לא זמין</string>
+    <key>AppDisabledMsg</key><string>יישום זה אינו זמין באופן זמני.</string>
+    <key>Done</key><string>עשיתי</string>
+    <key>Downloadable Resources</key><string>משאבים להורדה</string>
+    <key>Language</key><string>שפה</string>
+    <key>No Downloadable Resource</key><string>אין משאבים להורדה</string>
+    <key>Package Resources</key><string>חבילת משאבים</string>
+    <key>Select Language</key><string>בחר שפה</string>
+    <key>SettingsAutoSendCrash</key><string>דוח אוטומטי</string>
+    <key>SettingsAutoSendCrashDescription</key><string>אם מופיע קריסה, הנתונים תועבר אל המפתח באופן אוטומטי מבלי לשאול את המשתמשים.</string>
+    <key>SettingsAllowContact</key><string>לאפשר קשר</string>
+    <key>SettingsContactEmail</key><string>כתובת הדוא ל שלך</string>
+    <key>SettingsContactDescription</key><string>כתובת המייל רק אפשר היה ליצור קשר עם המשתמש אם אולי יש עוד הבהרות הדרוש על הבעיה</string>
+    <key>SettingsCrashTitle</key><string>באג ח</string>
+    <key>Return</key><string>החזרה</string>
+    <key>Enter</key><string>הזן</string>
+    <key>Tab</key><string>טאב</string>
+    <key>Space</key><string>שטח</string>
+    <key>Delete</key><string>מחק</string>
+    <key>Clear</key><string>ברור</string>
+    <key>Esc</key><string>Esc</string>
+    <key>Home</key><string>הבית</string>
+    <key>Page Up</key><string>Page Up</string>
+    <key>End</key><string>סוף</string>
+    <key>Page Down</key><string>Page Down</string>
+    <key>Help</key><string>עזרה</string>
+    <key>Keypad .</key><string>םישקמ חול.</string>
+    <key>Keypad *</key><string>םישקמ חול *</string>
+    <key>Keypad +</key><string>םישקמ חול +</string>
+    <key>Keypad /</key><string>םישקמ חול /</string>
+    <key>Keypad -</key><string>םישקמ חול-</string>
+    <key>Keypad =</key><string>םישקמ חול =</string>
+    <key>Keypad 0</key><string>םישקמ חול 0</string>
+    <key>Keypad 1</key><string>םישקמ חול 1</string>
+    <key>Keypad 2</key><string>םישקמ חול 2</string>
+    <key>Keypad 3</key><string>םישקמ חול 3</string>
+    <key>Keypad 4</key><string>םישקמ חול 4</string>
+    <key>Keypad 5</key><string>םישקמ חול 5</string>
+    <key>Keypad 6</key><string>םישקמ חול 6</string>
+    <key>Keypad 7</key><string>םישקמ חול 7</string>
+    <key>Keypad 8</key><string>םישקמ חול 8</string>
+    <key>Keypad 9</key><string>םישקמ חול 9</string>
+    <key>F1</key><string>F1</string>
+    <key>F2</key><string>F2</string>
+    <key>F3</key><string>F3</string>
+    <key>F4</key><string>F4</string>
+    <key>F5</key><string>F5</string>
+    <key>F6</key><string>F6</string>
+    <key>F7</key><string>F7</string>
+    <key>F8</key><string>F8</string>
+    <key>F9</key><string>F9</string>
+    <key>F10</key><string>F10</string>
+    <key>F11</key><string>F11</string>
+    <key>F12</key><string>F12</string>
+    <key>F13</key><string>F13</string>
+    <key>F14</key><string>F14</string>
+    <key>F15</key><string>F15</string>
+    <key>F16</key><string>F16</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>שגיאת אימות לא צפוי.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>ללא אימות סופקו.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>ניסיון כניסה היה לא מוצלח.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID הוא מוכר אך מיושן. בבקשה שיש לבצע אישור מחדש לפני שתמשיך.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID אינה חוקית/נמצאו.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>AuthID הנוכחית אינה חוקית עבור תחום משנה של הבקשה.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>השילוב הכלי/חשבון הנוכחית נדחית באמצעות ה-API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>פעולה לא צפויה אירעה שגיאה.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>הפעולה המבוקשת אינה תואמת לכל המבצע נתמך.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>המבצע הזה דורש פרמטרים אשר לא סופקו.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>פרמטרים שסופקו אינם חוקיים (למשל מחרוזת במקום int, ואל מחוץ לטווח, וכו ').</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>המבצע המבוקש אינו תואם מזהה היעד הנוכחי</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>המבצע אינו מותר עבור חשבון ShareFile הנוכחי (תכונה לא זמין/לא רשות).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>המבצע אינו מותר עבור המשתמש הנוכחי ShareFile (אין למשתמש תפקיד/הרשאות המשתמש המתאימה לשימוש).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>המבצע אינו מותר עבור היעד (ייתכן שתהיה למשתמש תפקיד/ההרשאה המתאימה במקרים אחרים, אך לא עבור מזהה ספציפי זה).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>היעד לא צפויה אירעה שגיאה.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>המבוקש אך לא קיים יעד מסוג המתאים (למשל מנסה לבצע תיקיה אופ על קובץ).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>היעד לא נמצא.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>. לא צפוי ליצור שגיאה.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>האב שסופק אינו חוקי עבור יצירת הפריט המבוקש (למשל מנסה ליצור תיקיה בספריית הבסיס של חשבון).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>שגיאה בעת עריכה לא צפוי.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>הפריט שאתה מנסה ליצור כבר קיימת.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>הפריט שאתה מנסה לערוך כבר קיימת.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>שגיאה לא צפויה.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>השרת עובר כעת תהליך תחזוקה.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>המערכת הגיעה למגבלת קצב.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>שרת הוא מעבר לקיבולת.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>שגיאה בלתי צפויה (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>שרת הוא מעבר לקיבולת (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>להעלות הכנה נכשל (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>הורד הכנה נכשל (SC).</string>
+    <key>SFAPIConnection_JSONParseError</key><string>שגיאת ניתוח JSON.</string>
+    <key>SFAPIConnection_NilResponse</key><string>האובייקט SFResponse היה אפס. בקשה זו נתמכת?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>חיבור רשת לא זוהה.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth נכשל. Reauth פרטי היה אפס.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth נכשל. SSO פרטי היה אפס.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth נכשל. שגיאה לא ידועה.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth נכשל. סוג כניסה SAML לא נתמך.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection קיבל אימות אתגר.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>תבנית התגובה לא ידוע.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest היה אפס.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest לא חוקית. אנא בדוק params בקשה הנדרש.</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>שגיאת אימות לא צפוי.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>ללא אימות סופקו.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>ניסיון כניסה היה לא מוצלח.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID הוא מוכר אך מיושן. בבקשה שיש לבצע אישור מחדש לפני שתמשיך.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID אינה חוקית/נמצאו.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>AuthID הנוכחית אינה חוקית עבור תחום משנה של הבקשה.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>השילוב הכלי/חשבון הנוכחית נדחית באמצעות ה-API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>פעולה לא צפויה אירעה שגיאה.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>הפעולה המבוקשת אינה תואמת לכל המבצע נתמך.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>המבצע הזה דורש פרמטרים אשר לא סופקו.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>פרמטרים שסופקו אינם חוקיים (למשל מחרוזת במקום int, ואל מחוץ לטווח, וכו ').</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>המבצע המבוקש אינו תואם מזהה היעד הנוכחי</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>המבצע אינו מותר עבור חשבון ShareFile הנוכחי (תכונה לא זמין/לא רשות).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>המבצע אינו מותר עבור המשתמש הנוכחי ShareFile (אין למשתמש תפקיד/הרשאות המשתמש המתאימה לשימוש).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>המבצע אינו מותר עבור היעד (ייתכן שתהיה למשתמש תפקיד/ההרשאה המתאימה במקרים אחרים, אך לא עבור מזהה ספציפי זה).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>היעד לא צפויה אירעה שגיאה.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>המבוקש אך לא קיים יעד מסוג המתאים (למשל מנסה לבצע תיקיה אופ על קובץ).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>היעד לא נמצא.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>. לא צפוי ליצור שגיאה.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>האב שסופק אינו חוקי עבור יצירת הפריט המבוקש (למשל מנסה ליצור תיקיה בספריית הבסיס של חשבון).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>שגיאה בעת עריכה לא צפוי.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>הפריט שאתה מנסה ליצור כבר קיימת.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>הפריט שאתה מנסה לערוך כבר קיימת.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>שגיאה לא צפויה.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>השרת עובר כעת תהליך תחזוקה.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>המערכת הגיעה למגבלת קצב.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>שרת הוא מעבר לקיבולת.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>שגיאה בלתי צפויה (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>שרת הוא מעבר לקיבולת (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>להעלות הכנה נכשל (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>הורד הכנה נכשל (SC).</string>
+    <key>SFAPIConnection_JSONParseError</key><string>שגיאת ניתוח JSON.</string>
+    <key>SFAPIConnection_NilResponse</key><string>האובייקט SFResponse היה אפס. בקשה זו נתמכת?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>חיבור רשת לא זוהה.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth נכשל. Reauth פרטי היה אפס.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth נכשל. SSO פרטי היה אפס.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth נכשל. שגיאה לא ידועה.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth נכשל. סוג כניסה SAML לא נתמך.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection קיבל אימות אתגר.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>תבנית התגובה לא ידוע.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest היה אפס.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest לא חוקית. אנא בדוק params בקשה הנדרש.</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>שגיאת אימות לא צפוי.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>ללא אימות סופקו.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>ניסיון כניסה היה לא מוצלח.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID הוא מוכר אך מיושן. בבקשה שיש לבצע אישור מחדש לפני שתמשיך.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID אינה חוקית/נמצאו.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>AuthID הנוכחית אינה חוקית עבור תחום משנה של הבקשה.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>השילוב הכלי/חשבון הנוכחית נדחית באמצעות ה-API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>פעולה לא צפויה אירעה שגיאה.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>הפעולה המבוקשת אינה תואמת לכל המבצע נתמך.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>המבצע הזה דורש פרמטרים אשר לא סופקו.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>פרמטרים שסופקו אינם חוקיים (למשל מחרוזת במקום int, ואל מחוץ לטווח, וכו ').</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>המבצע המבוקש אינו תואם מזהה היעד הנוכחי</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>המבצע אינו מותר עבור חשבון ShareFile הנוכחי (תכונה לא זמין/לא רשות).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>המבצע אינו מותר עבור המשתמש הנוכחי ShareFile (אין למשתמש תפקיד/הרשאות המשתמש המתאימה לשימוש).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>המבצע אינו מותר עבור היעד (ייתכן שתהיה למשתמש תפקיד/ההרשאה המתאימה במקרים אחרים, אך לא עבור מזהה ספציפי זה).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>היעד לא צפויה אירעה שגיאה.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>המבוקש אך לא קיים יעד מסוג המתאים (למשל מנסה לבצע תיקיה אופ על קובץ).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>היעד לא נמצא.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>. לא צפוי ליצור שגיאה.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>האב שסופק אינו חוקי עבור יצירת הפריט המבוקש (למשל מנסה ליצור תיקיה בספריית הבסיס של חשבון).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>שגיאה בעת עריכה לא צפוי.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>הפריט שאתה מנסה ליצור כבר קיימת.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>הפריט שאתה מנסה לערוך כבר קיימת.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>שגיאה לא צפויה.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>השרת עובר כעת תהליך תחזוקה.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>המערכת הגיעה למגבלת קצב.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>שרת הוא מעבר לקיבולת.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>שגיאה בלתי צפויה (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>שרת הוא מעבר לקיבולת (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>להעלות הכנה נכשל (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>הורד הכנה נכשל (SC).</string>
+    <key>SFAPIConnection_JSONParseError</key><string>שגיאת ניתוח JSON.</string>
+    <key>SFAPIConnection_NilResponse</key><string>האובייקט SFResponse היה אפס. בקשה זו נתמכת?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>חיבור רשת לא זוהה.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth נכשל. Reauth פרטי היה אפס.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth נכשל. SSO פרטי היה אפס.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth נכשל. שגיאה לא ידועה.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth נכשל. סוג כניסה SAML לא נתמך.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection קיבל אימות אתגר.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>תבנית התגובה לא ידוע.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest היה אפס.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest לא חוקית. אנא בדוק params בקשה הנדרש.</string>
+    <key>14.normalTitle</key><string>עשיתי</string>
+    <key>139.normalTitle</key><string>◀</string>
+    <key>140.normalTitle</key><string>▲</string>
+    <key>141.normalTitle</key><string>▶</string>
+    <key>143.normalTitle</key><string>▼</string>
+    <key>177.text</key><string>זוג</string>
+    <key>178.text</key><string>הבית</string>
+    <key>179.text</key><string>מקשי החצים</string>
+    <key>180.text</key><string>מקלדת</string>
+    <key>181.text</key><string>מצביע</string>
+    <key>182.text</key><string>מתג</string>
+    <key>299.text</key><string>זכוכית מגדלת</string>
+    <key>301.text</key><string>העכבר</string>
+    <key>316.text</key><string>מדריך המחווה</string>
+    <key>329.text</key><string>הברז באצבע אחת:</string>
+    <key>330.text</key><string>לחיצה בודדת</string>
+    <key>331.text</key><string>מגע-החזק-שחרור:</string>
+    <key>332.text</key><string>לחץ לחיצה ימנית</string>
+    <key>333.text</key><string>הברז שלוש אצבעות:</string>
+    <key>334.text</key><string>מקלדת</string>
+    <key>335.text</key><string>לצבוט שם:</string>
+    <key>336.text</key><string>זום</string>
+    <key>337.text</key><string>מגע-החזק-שקופית:</string>
+    <key>338.text</key><string>גרירה</string>
+    <key>339.text</key><string>הברז בשתי אצבעות:</string>
+    <key>340.text</key><string>Alt + Tab</string>
+    <key>40.text</key><string>© 2014 Citrix Systems, inc כל הזכויות שמורות.</string>
+    <key>58.text</key><string>זכויות יוצרים-פרטים נוספים</string>
+    <key>8.normalTitle</key><string>הוסף פריט מועדף</string>
+    <key>4.placeholder</key><string>http://citrix.mycompany.com</string>
+    <key>5.text</key><string>הזינו את הכתובת של אתר האינטרנט של החברה שלך Citrix.</string>
+    <key>26.title</key><string>טעינה</string>
+    <key>97.title</key><string>חנויות</string>
+    <key>4.text</key><string>שם תיקיה</string>
+    <key>5.text</key><string>עודכן פברואר 29,2012 2:21 PM</string>
+    <key>6.text</key><string>(קריאה &amp; -כתיבה)</string>
+    <key>8.text</key><string>MB גודל 134.2</string>
+    <key>10.normalTitle</key><string>שתף תיקייה</string>
+    <key>26.normalTitle</key><string>לשלוח תיקיה</string>
+    <key>39.text</key><string>הבעלים</string>
+    <key>5.segmentTitles[0]</key><string>מזמינים</string>
+    <key>5.segmentTitles[1]</key><string>הרשאות</string>
+    <key>14.segmentTitles[0]</key><string>קריאה</string>
+    <key>14.segmentTitles[1]</key><string>קריאה/כתיבה</string>
+    <key>15.text</key><string>גישה</string>
+    <key>24.text</key><string>על:</string>
+    <key>38.segmentTitles[0]</key><string>קריאה</string>
+    <key>38.segmentTitles[1]</key><string>כתיבה</string>
+    <key>38.segmentTitles[2]</key><string>קריאה כתיבה &amp;</string>
+    <key>39.normalTitle</key><string>X</string>
+    <key>52.title</key><string>סגור</string>
+    <key>58.text</key><string>שתף תיקייה</string>
+    <key>69.text</key><string>תווית</string>
+    <key>9.text</key><string>ג'ק בלאק</string>
+    <key>10.text</key><string>גודל 12.4 מגה-בתים</string>
+    <key>19.text</key><string>גודל:</string>
+    <key>20.text</key><string>פברואר 29.2012</string>
+    <key>7.title</key><string>סגור</string>
+    <key>16.text</key><string>תווית</string>
+    <key>22.text</key><string>כדי</string>
+    <key>28.text</key><string>הורדות</string>
+    <key>31.text</key><string>מעקב אחר מי הורדות</string>
+    <key>33.text</key><string>לי עותק</string>
+    <key>35.text</key><string>נא להודיע לי להורדה</string>
+    <key>40.segmentTitles[0]</key><string>ללא הגבלה</string>
+    <key>40.segmentTitles[1]</key><string>היום</string>
+    <key>40.segmentTitles[2]</key><string>השבוע</string>
+    <key>40.segmentTitles[3]</key><string>חודש</string>
+    <key>48.segmentTitles[0]</key><string>לשלוח קובץ</string>
+    <key>48.segmentTitles[1]</key><string>העתק קישור</string>
+    <key>14.segmentTitles[0]</key><string>הורד GoToMeeting</string>
+    <key>20.placeholder</key><string>123-456-789</string>
+    <key>21.text</key><string>GoToMeeting מקל עליך להשתתף בפגישות מקוונות באייפד שלך. פשוט הזן את הפגישה מזהה את המספר והשם שלך ולאחר מכן לחץ על \"Join\ את" כפתור.</string>
+    <key>22.segmentTitles[0]</key><string>לפגישה</string>
+    <key>30.text</key><string>מזהה הפגישה לא חוקי</string>
+    <key>32.text</key><string>להצטרף לפגישה</string>
+    <key>33.text</key><string>מזהה הפגישה:</string>
+    <key>34.placeholder</key><string>האחרון הראשון</string>
+    <key>36.text</key><string>שם:</string>
+    <key>37.text</key><string>כדי ללמוד איך אתה יכול לארח פגישות שלך, אנא בקר באתר:</string>
+    <key>38.text</key><string>לקבלת תמיכה, אנא בקר באתר:</string>
+    <key>40.normalTitle</key><string>GoToMeeting.com</string>
+    <key>41.normalTitle</key><string>מרכז התמיכה</string>
+    <key>179.normalTitle</key><string>סגור</string>
+    <key>14.text</key><string>חכה בבקשה...</string>
+    <key>24.text</key><string>תווית</string>
+    <key>13.title</key><string>לחתוך</string>
+    <key>14.title</key><string>העתק</string>
+    <key>15.title</key><string>הדבק</string>
+    <key>16.title</key><string>בטל</string>
+    <key>45.title</key><string>F1</string>
+    <key>47.title</key><string>F2</string>
+    <key>48.title</key><string>F3</string>
+    <key>49.title</key><string>F4</string>
+    <key>50.title</key><string>F5</string>
+    <key>51.title</key><string>F6</string>
+    <key>52.title</key><string>F7</string>
+    <key>53.title</key><string>F8</string>
+    <key>54.title</key><string>F9</string>
+    <key>55.title</key><string>F10</string>
+    <key>56.title</key><string>F11</string>
+    <key>57.title</key><string>F12</string>
+    <key>9.title</key><string>Esc</string>
+    <key>26.title</key><string>Ctrl</string>
+    <key>27.title</key><string>Fn</string>
+    <key>28.title</key><string>דף</string>
+    <key>29.title</key><string>דל</string>
+    <key>111.title</key><string>Alt</string>
+    <key>113.title</key><string>טאב</string>
+    <key>120.segmentTitles[1]</key><string>T</string>
+    <key>17.title</key><string>הבית</string>
+    <key>18.title</key><string>סוף</string>
+    <key>57.title</key><string>עשיתי</string>
+    <key>62.placeholder</key><string>חיפוש</string>
+    <key>101.text</key><string>עדכון רשימת יישומים</string>
+    <key>103.text</key><string>חכה בבקשה...</string>
+    <key>45.title</key><string>התנתק</string>
+    <key>7.text</key><string>שם פרטי:</string>
+    <key>8.text</key><string>שם משפחה:</string>
+    <key>9.text</key><string>כתובת דוא:</string>
+    <key>37.text</key><string>. תודה עבור רישום בלה בלה בלה </string>
+    <key>38.normalTitle</key><string>המשך</string>
+    <key>16.text</key><string>למד עוד...</string>
+    <key>5.text</key><string>קולנוע אינטראקטיבי</string>
+    <key>4.text</key><string>בחר \"pair\" ב- iPad ברצונך להתחבר.</string>
+    <key>23.normalTitle</key><string>הוסף חשבון</string>
+    <key>24.normalTitle</key><string>לקבל הדגמה</string>
+    <key>25.text</key><string>למד עוד...</string>
+    <key>WelcomeScreenTitleKey</key><string>ברוך הבא</string>
+    <key>WelcomeScreenDemoAccountPageTitle</key><string>הירשם לקבלת Citrix הדגמה ענן</string>
+    <key>WelcomeScreenSetupWorkspaceTitleKey</key><string>הגדרת סביבת העבודה שלי</string>
+    <key>WelcomeScreenDemoAccountiPhonePageTitle</key><string>ענן הדגמה</string>
+    <key>CRDemoRegistrationRegisterButtonLabelKey</key><string>הקופה</string>
+    <key>CRDemoRegistrationWarningTitleKey</key><string>אזהרה</string>
+    <key>CRDemoRegistrationWarningMessageKey</key><string>נא להזין אישורים חוקיים לפני שתמשיך</string>
+    <key>CRDemoRegistrationFailedErrorTitleKey</key><string>ההרשמה נכשלה</string>
+    <key>CRDemoRegistrationFirstName</key><string>שם פרטי:</string>
+    <key>CRDemoRegistrationLastName</key><string>שם משפחה:</string>
+    <key>CRDemoRegistrationEmail</key><string>דוא:</string>
+    <key>CRDemoRegistrationRegistering</key><string>רישום...</string>
+    <key>CRDemoRegistrationTitle</key><string>מקלט הדגמה רישום</string>
+    <key>WebAddressTitle</key><string>כתובת האינטרנט</string>
+    <key>WebAddressOpenButtonLabel</key><string>פתוח</string>
+    <key>WebAddressInvalidURLTitle</key><string>כתובת URL לא חוקית</string>
+    <key>WebAddressInvalidURLMessage</key><string>זה לא נראה כמו כתובת URL חוקית. נא לבדוק את הכניסה שלך ונסה שוב.</string>
+    <key>WebViewTitleLoading</key><string>טוען...</string>
+    <key>WebViewTitleUntitled</key><string>ללא כותרת</string>
+    <key>WebViewCannotOpenPageTitle</key><string>אין אפשרות לפתוח דף</string>
+    <key>WebViewTitleVPNLogin</key><string>כניסה VPN</string>
+    <key>WebViewStartingVPNConnectionTitle</key><string>החל חיבור VPN</string>
+    <key>WebViewConnectingTitle</key><string>טוען...</string>
+    <key>WebViewUpdateStoreAlertTitle</key><string>Access Gateway</string>
+    <key>WebViewUpdateStoreAlertButtonLabel</key><string>עדכון חשבון</string>
+    <key>WebViewUpdateStoreAlertMessage</key><string>יכולות של שירות עצמי זוהה. עדכון חשבון עם האישורים שלך.</string>
+    <key>BrowserButtonLabel</key><string>דפדפן</string>
+    <key>WebViewAuthTitle</key><string>אימות הנדרש</string>
+    <key>SelfServiceScreenHomeButtonKey</key><string>הבית</string>
+    <key>SelfServiceScreenExploreButtonKey</key><string>לחקור</string>
+    <key>StoreToolbarCategoriesButtonDefaultTitle</key><string>קטגוריות</string>
+    <key>StoreToolbarCategoriesButtonTitlePrefix</key><string>קטגוריה: %@</string>
+    <key>StoreToolbarStoresButtonTitle</key><string>חשבונות</string>
+    <key>StoreToolbarCategoriesAll</key><string>כל</string>
+    <key>StoreToolbarCategoriesFeatured</key><string>בהשתתפות</string>
+    <key>StoreToolbarDefaultTitle</key><string>לחקור</string>
+    <key>StoreToolbarSearchBarPlaceholder</key><string>חיפוש</string>
+    <key>StoreGlobalSearchWithMatchCount</key><string>חיפוש (%i התאמות)</string>
+    <key>AccountListTitle</key><string>הגדרות חשבון</string>
+    <key>AccountListFooter</key><string>\n בחירת החשבון.</string>
+    <key>StoreLaunchErrorAlertMessageKey</key><string>אירעה שגיאה בעת ביצוע החיבור המבוקש.</string>
+    <key>StoreNoApplicationsAlertTitleKey</key><string>יישומים לא זמינים</string>
+    <key>StoreNoApplicationsAlertMessageKey</key><string>יש יישומים לא זמינים עבור החשבון ' %@'.</string>
+    <key>StoreEnterCredentialsTitleKey</key><string>היכנס Citrix מקלט</string>
+    <key>StoreStartingConnectionKey</key><string>מתחיל חיבור...</string>
+    <key>StoreRequestingConnectionKey</key><string>מבקש החיבור...</string>
+    <key>StoreRequestingCredentialsKey</key><string>לבקש את אישורי...</string>
+    <key>StoreNumberOfDesktops</key><string>%d מחשבים שולחניים</string>
+    <key>StoreOneDesktop</key><string>%d שולחן העבודה</string>
+    <key>StoreNumberOfApplications</key><string>%d apps</string>
+    <key>StoreOneApplication</key><string>%d app</string>
+    <key>StoreAddStore</key><string>הוסף חשבון</string>
+    <key>StoreDuplicateStore</key><string>חשבון כפול</string>
+    <key>StoreDeleteStore</key><string>למחוק את החשבון</string>
+    <key>StoreEditStore</key><string>עריכת חשבון</string>
+    <key>StoreShareSettings</key><string>הגדרות חשבון משותף</string>
+    <key>StoreUpdateStore</key><string>עדכון חשבון</string>
+    <key>StoreMyStoresTitleFormatKey</key><string>החשבונות שלי (%1% 2)</string>
+    <key>StoreDeleteStoreWarningTitleKey</key><string>אזהרה</string>
+    <key>StoreDeleteStoreWarningMessageKey</key><string>אתה עומד למחוק את החשבון היחיד שלך! האם אתה בטוח שאתה רוצה להמשיך?</string>
+    <key>StoreDeleteStoreDeleteButtonLabelKey</key><string>מחק</string>
+    <key>StoreItemLogOnLabel</key><string>כניסה למערכת</string>
+    <key>StoreItemActionsLabel</key><string>פעולות</string>
+    <key>StoreItemPleaseWait</key><string>חכה בבקשה...</string>
+    <key>LoginLabel</key><string>כניסה למערכת</string>
+    <key>RecentsTitle</key><string>מועדפים</string>
+    <key>NoRecentsMessage</key><string>להפעיל את היישומים המועדפים שלך.</string>
+    <key>ConfirmDeleteTokenTitle</key><string>מחיקת RSA אסימון</string>
+    <key>ConfirmDeleteToken</key><string>האם אתה בטוח שברצונך למחוק אסימון זה?</string>
+    <key>GetPasscodeTitle</key><string>לקבל את קוד הגישה</string>
+    <key>EnterPinTitle</key><string>נא הזן את מספר הזיהוי האישי.</string>
+    <key>StoreServerConnectionErrorTitleKey</key><string>אין אפשרות להתחבר אל שרת</string>
+    <key>StoreServerConnectionErrorMessageKey</key><string>אנא נסה שוב בעוד כמה דקות.</string>
+    <key>AccountLabelTitle</key><string>חשבון:</string>
+    <key>FavoritesTrackpadButtonLabelKey</key><string>Trackpad</string>
+    <key>FavoritesLaunchErrorAlertTitleKey</key><string>שגיאה</string>
+    <key>FavoritesLaunchErrorAlertMessageKey</key><string>חשבון עבור יישום קיים עוד.  האם ברצונך להסיר את הפריט המועדף?</string>
+    <key>FavoritesLaunchErrorAlertMessage2Key</key><string>אירעה שגיאה בעת ביצוע החיבור המבוקש. האם ברצונך להסיר יישום זה?</string>
+    <key>FavoritesMobileAppDownloadPausedKey</key><string>הקש כדי להתקין</string>
+    <key>FavoritesMobileAppDownloadQueuedKey</key><string>מחכה להורדה...</string>
+    <key>FavoritesMobileAppDownloadingKey</key><string>הורדת...</string>
+    <key>FavoritesMobileAppDownloadedKey</key><string>הורדת...</string>
+    <key>FavoritesMobileAppInstallPausedKey</key><string>הקש כדי להתקין</string>
+    <key>FavoritesMobileAppInstallSetupKey</key><string>הכנת...</string>
+    <key>FavoritesMobileAppInstallingKey</key><string>התקנת...</string>
+    <key>FavoritesMobileAppInstalledKey</key><string>התקנת...</string>
+    <key>EditStoreErrorTitleKey</key><string>שגיאה</string>
+    <key>EditStoreErrorURLForbidden</key><string>%@ אסורה. קוד שגיאה: %d</string>
+    <key>EditStoreErrorURLNotFound</key><string>%@ לא נמצאה. קוד שגיאה: %d</string>
+    <key>EditStoreErrorCouldNotValidateURL</key><string>לא היתה אפשרות לאמת את כתובת URL. קוד שגיאה: %d</string>
+    <key>EditStoreErrorCouldNotValidateServer</key><string>אין אפשרות לאמת כתובת שרת.</string>
+    <key>EditStoreErrorCouldNotVerifyServer</key><string>לא היתה אפשרות לאמת את כתובת שרת: </string>
+    <key>EditStoreErrorManualModeButtonKey</key><string>התקנה ידנית</string>
+    <key>EditStoreErrorRetryButtonKey</key><string>נסה שנית</string>
+    <key>EditStoreErrorOpenInSafariButtonKey</key><string>פתוח ב- Safari</string>
+    <key>EditStoreEnterValidWebAddressTitleKey</key><string>כתובת</string>
+    <key>EditStoreEnterValidWebAddressMessageKey</key><string>אנא הזן כתובת דוא ל תקינה או כתובת שרת.</string>
+    <key>EditStoreErrorInvalidURLMessageKey</key><string>נא להוסיף קידומת http:// או https:// בכתובת שלך.</string>
+    <key>EditStoreActivityVerifying</key><string>אימות...</string>
+    <key>EditStoreServerTypeXenApp</key><string>אפליקציות וירטואליות</string>
+    <key>EditStoreServerTypeXenDesktop</key><string>שולחן העבודה הווירטואלי שלי</string>
+    <key>EditStoreStoreVerifiedTitleKey</key><string>אומת</string>
+    <key>EditStoreNewStoreTitleKey</key><string>חשבון חדש</string>
+    <key>EditStoreVerifyStoreTitleKey</key><string>לאמת את החשבון</string>
+    <key>EditStoreWebStoreLabelKey</key><string>חשבון האינטרנט</string>
+    <key>EditStoreEmailSupportLabelKey</key><string>דוא ל תמיכה</string>
+    <key>EditStoreAppStoreNameFormatKey</key><string>%@ אפליקציות וירטואליות</string>
+    <key>EditStoreAppStoreDefaultNameKey</key><string>שלי Apps וירטואלי</string>
+    <key>EditStoreDemoStoreNameKey</key><string>חשבון דמו</string>
+    <key>EditStoreSerurityTokenTitleKey</key><string>אסימון האבטחה</string>
+    <key>EditStoreDuplicateStoreSuffixKey</key><string>(עותק)</string>
+    <key>EditStoreLoadingStoreKey</key><string>טוען...</string>
+    <key>EditStoreCertificateNotSelectedKey</key><string>אין בחירה</string>
+    <key>EditStoreCellAddressTitleKey</key><string>כתובת</string>
+    <key>EditStoreCellAddressPlaceholderKey</key><string>דוא ל- URL או עבודה</string>
+    <key>EditStoreCellDescriptionTitleKey</key><string>תיאור</string>
+    <key>EditStoreCellDescriptionPlaceholderKey</key><string>תיאור חשבון</string>
+    <key>EditStoreCellWebInterfaceCheckTitleKey</key><string>ממשק אינטרנט</string>
+    <key>EditStoreCellXenAppServicesCheckTitleKey</key><string>שירותי XenApp</string>
+    <key>EditStoreCellAccessGatewayCheckTitleKey</key><string>Access Gateway</string>
+    <key>EditStoreCellAutoConfigureCheckTitleKey</key><string>קבע תצורה אוטומטית</string>
+    <key>EditStoreCellAGTypeStandardCheckTitleKey</key><string>המהדורה התקנית</string>
+    <key>EditStoreCellAGTypeAdvancedCheckTitleKey</key><string>מהדורה מתקדמת</string>
+    <key>EditStoreCellAGTypeEnterpriseCheckTitleKey</key><string>Enterprise Edition</string>
+    <key>EditStoreCellDeliveryServicesCheckTitleKey</key><string>הסטוראפרונט</string>
+    <key>EditStoreCellDomainTitleKey</key><string>תחום</string>
+    <key>EditStoreCellDomainPlaceholderKey</key><string>תחום</string>
+    <key>EditStoreCellUsernameTitleKey</key><string>שם משתמש</string>
+    <key>EditStoreCellUsernamePlaceholderKey</key><string>שם משתמש</string>
+    <key>EditStoreCellPasswordTitleKey</key><string>סיסמה</string>
+    <key>EditStoreCellPasswordPlaceholderKey</key><string>אופציונלי</string>
+    <key>EditStoreCellSecurityTokenSwitchTitleKey</key><string>אסימון האבטחה</string>
+    <key>EditStoreCellSecurityTokenOnlyCheckTitleKey</key><string>אסימון האבטחה בלבד</string>
+    <key>EditStoreCellIdentifierDomainAndSecurityTokenCheck</key><string>תחום + אסימון האבטחה</string>
+    <key>EditStoreCellSecuritySoftTokenCheck</key><string>אסימון</string>
+    <key>EditStoreCellIdentifierWebAppsCheck</key><string>Web Apps</string>
+    <key>EditStoreCellIdentifierIgnoreCertErrorsCheck</key><string>התעלם מאזהרות אישור</string>
+    <key>EditStoreWebAppsMessage</key><string>מאפשר לאבטח גישה Web Apps. (ניסיוני)</string>
+    <key>EditStoreCellIdentifierCertificate</key><string>אישור</string>
+    <key>EditStoreServiceRecordGatewaysSectionTitle</key><string>בחר מיקום</string>
+    <key>EditStoreCellIdentifierUseSmartCard</key><string>השתמש כרטיס חכם</string>
+    <key>ProfilesScreenTitleKey</key><string>סביבות עבודה</string>
+    <key>AddProfileScreenTitleKey</key><string>חשבון חדש</string>
+    <key>AddProfileContactAdminMessageKey</key><string>דוא ל מנהל IT שלך לקבלת הוראות התקנה.</string>
+    <key>AddProfileEmailMessageBodyKey</key><string>מנהל יקר, &lt; br / &gt; &lt; br / &gt; ברצוני לגשת ליישומים שלי באמצעות מקלט Citrix עבור iOS. &lt; br / &gt; אתה יכול בבקשה לעזור לי הגדרת סביבת העבודה שלי?</string>
+    <key>AddProfileEmailMessageFooterKey</key><string>&lt; br / &gt; &lt; br / &gt; למידע נוסף, דרישות, לבקר: &lt; br / &gt; %@ &lt; br / &gt; &lt; br / &gt; בברכה, &lt; br / &gt;.</string>
+    <key>AddProfileEmailSubjectKey</key><string>Citrix מקלט עבור iOS</string>
+    <key>AddProfileEmailNotAvailableTitleKey</key><string>דואר אלקטרוני אינו זמין</string>
+    <key>AddProfileEmailNotAvailableMessageKey</key><string>IPad שלך אין על הגדרת חשבון דואר אלקטרוני.</string>
+    <key>AddProfileEmailNotAvailableiPhoneMessageKey</key><string>IPhone או iPod Touch שלך אין על הגדרת חשבון דואר אלקטרוני.</string>
+    <key>ShareSettingsEmailMessageBodyKey</key><string>. היי, &lt; br / &gt; &lt; br / &gt; אנא הקש על הקישור הבא כדי להתקין את מקלט Citrix: &lt; br / &gt; &lt; br / &gt;</string>
+    <key>ShareSettingsEmailSubjectKey</key><string>הגדרות Citrix מקלט</string>
+    <key>OldProfileNameKey</key><string>גירסה 1.0 פרופיל</string>
+    <key>GeneralSettingsGroupTitleKey</key><string>הגדרות כלליות</string>
+    <key>ProfilenameFieldTitleKey</key><string>תיאור</string>
+    <key>ProfilenameFieldPlaceholderKey</key><string>תיאור חשבון</string>
+    <key>ProfilenameFieldDefaultKey</key><string>חדש</string>
+    <key>ProfilenameErrorTitleKey</key><string>שגיאה</string>
+    <key>ProfilenameErrorMessageKey</key><string>סביבת עבודה בשם זה כבר קיים</string>
+    <key>ProfilenameErrorButtonTitleKey</key><string>בטל</string>
+    <key>UsernameFieldTitleKey</key><string>שם משתמש</string>
+    <key>UsernameFieldPlaceholderKey</key><string>שם משתמש</string>
+    <key>DomainFieldTitleKey</key><string>תחום</string>
+    <key>DomainFieldPlaceholderKey</key><string>תחום</string>
+    <key>PasswordAlertTitleKey</key><string>סיסמה</string>
+    <key>PasswordAlertMessageKey</key><string>הזן את שם המשתמש והסיסמה שלך</string>
+    <key>AddressFieldTitleKey</key><string>כתובת</string>
+    <key>AddressFieldPlaceholderKey</key><string>דוא ל- URL או עבודה</string>
+    <key>RememberPasswordFieldTitleKey</key><string>כניסה אוטומטית</string>
+    <key>UseRSAFieldTitleKey</key><string>Citrix Access Gateway ™</string>
+    <key>InvalidProtocolErrorTitleKey</key><string>כתובת שגויה</string>
+    <key>InvalidProtocolErrorMessageKey</key><string>נא לאמת את הכתובת ונסה שוב.</string>
+    <key>InvalidProtocolErrorButtonTitleKey</key><string>שינוי</string>
+    <key>HostUnreachableErrorTitleKey</key><string>כתובת בלתי ניתן להשגה</string>
+    <key>HostUnreachableErrorMessageKey</key><string>לא ניתן להשיג את הכתובת הזו. נא בדוק את הכתובת השער הגדרות, חיבור הרשת שלך.</string>
+    <key>HostUnreachableErrorButtonTitleKey</key><string>אוקיי</string>
+    <key>SetupScreenHelpLinkTitleKey</key><string>למד עוד...</string>
+    <key>SetupScreenHelpLinkKey</key><string>http://m.iphone.citrix.com/</string>
+    <key>SetupScreenButtonTitleKey</key><string>הבא</string>
+    <key>InvalidCitrixXMLFromSuccessfulHTTPConnectionErrorMessageKey</key><string>הכתובת לא סיפקו רשימה יישום חוקי. נא בדוק את הכתובת השער הגדרות, חיבור הרשת שלך.</string>
+    <key>RSAPromptTitleKey</key><string>RSA SecurID ®</string>
+    <key>SMSPassCodePromptTitleKey</key><string>אימות ב- SMS</string>
+    <key>PasscodePromptMessageKey</key><string>הזן את שם המשתמש שלך ואת קוד גישה</string>
+    <key>PromptCancelButtonTitleKey</key><string>ביטול</string>
+    <key>PromptLoginButtonTitleKey</key><string>אוקיי</string>
+    <key>LoginFailedLabelKey</key><string>נא נסה שוב.</string>
+    <key>loginFailedTitleKey</key><string>לא יכולת כניסה</string>
+    <key>LoginFailedTryAgainTitleKey</key><string>נסה שוב</string>
+    <key>PasscodePromptUserNameKey</key><string>שם משתמש</string>
+    <key>PasscodePromptPassCodeKey</key><string>קוד הגישה</string>
+    <key>GatewayEnableGatewayKey</key><string>Access Gateway</string>
+    <key>AuthenticationMethodGroupTitleKey</key><string>שער אימות</string>
+    <key>AuthenticationMethodNoneKey</key><string>ללא אימות</string>
+    <key>AuthenticationMethodDomainKey</key><string>תחום בלבד</string>
+    <key>AuthenticationMethodTokenKey</key><string>אסימון בלבד</string>
+    <key>AuthenticationMethodDomainAndTokenKey</key><string>תחום + אסימון</string>
+    <key>RequiredFieldErrorTitleKey</key><string>מידע</string>
+    <key>RequiredFieldErrorMessageKey</key><string>אנא מלא את כל השדות הנדרשים לפני שמירת חשבון זה.</string>
+    <key>RequiredFieldAlertMessageKey</key><string>אנא הזן את כל פרטי לפני התחברות</string>
+    <key>RequiredFieldErrorButtonTitleKey</key><string>בטל</string>
+    <key>DisabledSavePasswordTextFieldKey</key><string>נכה על ידי admin</string>
+    <key>AccountSelectionTitleKey</key><string>הבחירה</string>
+    <key>AccountSelectionNewWorkspaceLabelKey</key><string>חשבון חדש</string>
+    <key>AccountSelectionPCConnectionLabelKey</key><string>חיבור PC</string>
+    <key>AddDesktopScreenTitleKey</key><string>הוספת חיבור</string>
+    <key>DesktopNameFieldTitleKey</key><string>תיאור</string>
+    <key>DesktopNameFieldPlaceholderKey</key><string>. שמי בשולחן העבודה</string>
+    <key>DesktopAddressFieldPlaceholderKey</key><string>כתובת IP או שם המחשב</string>
+    <key>DesktopConnectionsTitleKey</key><string>בחיבורים PC</string>
+    <key>DesktopConnectButtonLabelKey</key><string>התחבר</string>
+    <key>RSAImportTitle</key><string>ייבוא אסימון</string>
+    <key>RSAImportTokenFailed</key><string>RSA ייבוא אסימון נכשל.</string>
+    <key>RSAImportTokenSuccessTitle</key><string>אסימון יובאו בהצלחה </string>
+    <key>HaveAPinTitle</key><string>כבר יש לך סיכה?</string>
+    <key>RSAImportTokenPasswordTitle</key><string>נא הזן את הסיסמה שסופקה על-ידי הטכנית.</string>
+    <key>RSAPinSetupTitle</key><string>הגדרת ה-PIN</string>
+    <key>RSAPasscodeSetupInstructions</key><string>בצע את ההוראות מ הטכנית באמצעות הקוד החד-פעמי המוצג כאן.</string>
+    <key>RSACancelTitle</key><string>בטל ייבוא אסימון</string>
+    <key>RSASecsRemaining</key><string>%@ שניות שנותרו</string>
+    <key>RSACancelConfirmTitle</key><string>האם אתה בטוח שברצונך לבטל את הייבוא אסימון RSA?</string>
+    <key>RSATokenImportPasswordError</key><string>סיסמה שהוזנה אינה נכונה.</string>
+    <key>RSATokenExpired</key><string>RSA האסימון פג.</string>
+    <key>RSATokenImportGeneralFailure</key><string>אירעה שגיאה פנימית בעת ייבוא ה-token RSA.</string>
+    <key>RSASerialIncorrectError</key><string>המספר הסידורי RSA היתה שגויה.</string>
+    <key>RSAPinIncorrectError</key><string>RSA pin היתה שגויה.</string>
+    <key>RSAOtpParamIncorrectError</key><string>RSA OTP פרמטר היתה שגויה.</string>
+    <key>RSASecondsRemainingError</key><string>RSA מספר השניות שנותרו שגוי.</string>
+    <key>RSATokenNotFoundError</key><string>אסימון RSA לא נמצא.</string>
+    <key>RSAPasscodeRetrievalError</key><string>אירעה שגיאה בעת קבלת קוד הגישה RSA.</string>
+    <key>RSAPasscodeKey</key><string>קוד הגישה RSA</string>
+    <key>RSATokenDeletionSuccess</key><string>RSA האסימון %@ נמחקה.</string>
+    <key>RSATokenDeletionSerialIncorrectError</key><string>RSA מחיקת אסימונים נכשלה. המספר הסידורי %@ שגוי.</string>
+    <key>RSATokenDeletionNotFoundError</key><string>RSA מחיקת אסימונים נכשלה. אסימון שנמצאו עבור המספר הסידורי %@.</string>
+    <key>RSATokenDeletionFailedError</key><string>טוקן מחיקה נכשלה עבור RSA האסימון %@.</string>
+    <key>RSATokenReuseTitle</key><string>שגיאה מספר הזיהוי האישי שלך</string>
+    <key>RSASoftTokenReUseMessage</key><string>. חכה 60 שניות ולאחר מכן נסה שוב.</string>
+    <key>RSATokenReUseMessage</key><string>. חכה 60 שניות, ולאחר מכן נסה שוב</string>
+    <key>RSATokenImportContinue</key><string>המשך</string>
+    <key>RSATokenImportDuplicateError</key><string>אסימון זה כבר יובא.</string>
+    <key>AuthenticatingKey</key><string>אימות...</string>
+    <key>ConnectingKey</key><string>מתחבר...</string>
+    <key>LaunchingKey</key><string>השקת...</string>
+    <key>StartingKey</key><string>החל %@...</string>
+    <key>StartingApplicationKey</key><string>מפעיל יישום...</string>
+    <key>SecuringCommunicationKey</key><string>אבטחת תקשורת...</string>
+    <key>SyncingAppsTitleKey</key><string>עדכון אפליקציות...</string>
+    <key>LoadingProfileButtonCancelTitleKey</key><string>ביטול</string>
+    <key>LoadingProfileButtonDismissTitleKey</key><string>בטל</string>
+    <key>PublishedItemsScreenTitleKey</key><string>אפליקציות</string>
+    <key>PublishedItemsTipMessage</key><string>\n עצה: באפשרותך להוסיף או להסיר יישום לסביבת העבודה שלך על-ידי הקשה על זה. \n</string>
+    <key>SearchAppsDesktopsPlaceholderKey</key><string>לחפש יישומים ומחשבים שולחניים</string>
+    <key>FavoritesEditButtonTitleKey</key><string>עריכה</string>
+    <key>FavoritesDoneButtonTitleKey</key><string>עשיתי</string>
+    <key>EditFavoritesCancelButtonTitleKey</key><string>ביטול</string>
+    <key>AddFavoriteButtonTitleKey</key><string>הוסף פריט מועדף</string>
+    <key>AddFavoriteScreenTitleKey</key><string>הוסף פריט מועדף</string>
+    <key>AppDetailScreenTitleKey</key><string>פרטים</string>
+    <key>AppDetailInfoNoDescriptionKey</key><string>אין תיאור מספק.</string>
+    <key>AppDetailRemoveFavoriteButtonLabelKey</key><string>הסר פריט מועדף</string>
+    <key>AppDetailAddToFavoritesButtonLabelKey</key><string>הוסף למועדפים</string>
+    <key>AppCellFavoriteLabelKey</key><string>מועדף</string>
+    <key>AppViewNewApp</key><string>האפליקציה החדשה</string>
+    <key>AppBrowserAllFolders</key><string>כל התיקיות</string>
+    <key>RefreshApplistLabelKey</key><string>רענון Apps</string>
+    <key>UnableToUpdateApplistTitleKey</key><string>אין אפשרות לעדכן את Applist</string>
+    <key>UnableToUpdateApplistMessageKey</key><string>הייתה בעיה בעת עדכון של applist הנוכחית.</string>
+    <key>FeaturedNoFeaturedAppsKey</key><string>אין יישומים נבחרים הוגדרו עבורך על-ידי המנהל.</string>
+    <key>DesktopItemsUpdatingKey</key><string>עדכון...</string>
+    <key>DesktopItemsUpdatedKey</key><string>עודכן </string>
+    <key>DesktopItemsUpdatedDateFormatKey</key><string>MM/dd/yyyy h:mm</string>
+    <key>DesktopOrganizeWorkspaceKey</key><string>לארגן מועדפים</string>
+    <key>DesktopSnapToGridTitleKey</key><string>הצמד לרשת</string>
+    <key>FeaturedCategoryKey</key><string>בהשתתפות</string>
+    <key>AppListErrorButtonTitleKey</key><string>בטל</string>
+    <key>ZeroPublishedItemsErrorKey</key><string>יש יישומים לא זמינים בכתובת הזו.</string>
+    <key>FailedToExtractListErrorKey</key><string>הכתובת לא סיפקו רשימה יישום חוקי. נא בדוק את הכתובת השער הגדרות, חיבור הרשת שלך.</string>
+    <key>BadAddressErrorTitleKey</key><string>לא נמצאה כתובת</string>
+    <key>BadAddressErrorMessageKey</key><string>אין אפשרות למצוא את הכתובת. נא בדוק את הכתובת השער הגדרות, חיבור הרשת שלך.</string>
+    <key>BadAddressErrorButtonTitleKey</key><string>אוקיי</string>
+    <key>BadCredentialsErrorTitleKey</key><string>באישורים שגויים</string>
+    <key>BadCredentialsErrorMessageKey</key><string>את האישורים שלך נדחו.</string>
+    <key>BadCredentialsErrorButtonTitleKey</key><string>אוקיי</string>
+    <key>CharlotteErrorBadCredentialsMessageKey</key><string>לאמת את שם המשתמש והסיסמה שלך ונסה שוב.</string>
+    <key>NoConfigurationFileTitleKey</key><string>אין קובץ תצורה</string>
+    <key>NoConfigurationFileMessageKey</key><string>לא יכול היה להגיע שרת קובץ תצורה.</string>
+    <key>ResourceUnavailableTitleKey</key><string>משאב לא זמין</string>
+    <key>ResourceUnavailableMessageKey</key><string>השרת אינו זמין כעת.</string>
+    <key>AppRemovedTitleKey</key><string>היישום הוסר</string>
+    <key>AppRemovedMessageKey</key><string>היישום המבוקשת יש הוסרו או לא זמין. בבקשה לרענן את רשימת היישומים שלך.</string>
+    <key>CharlotteErrorAccountDisabledTitleKey</key><string>החשבון נוטרל</string>
+    <key>CharlotteErrorAccountDisabledMessageKey</key><string>החשבון שלך בוטל.</string>
+    <key>CharlotteErrorAccountLockedOutTitleKey</key><string>חשבון נעול</string>
+    <key>CharlotteErrorAccountLockedOutMessageKey</key><string>החשבון שלך ננעל זמנית.</string>
+    <key>CharlotteErrorCredentialsMustChangeTitleKey</key><string>את האישורים יש לשנות</string>
+    <key>CharlotteErrorCredentialsMustChangeMessageKey</key><string>את האישורים שלך פגה ויש לשנות.</string>
+    <key>CharlotteErrorCredentialsExpiredTitleKey</key><string>אישורים שפג תוקפם</string>
+    <key>CharlotteErrorCredentialsExpiredMessageKey</key><string>את האישורים שלך פגה.</string>
+    <key>CharlotteErrorInvalidLogonHoursTitleKey</key><string>שעות כניסה לא חוקית</string>
+    <key>CharlotteErrorInvalidLogonHoursMessageKey</key><string>מנהל המערכת שלך מנע ממך כניסה בשלב זה.</string>
+    <key>InternalServerErrorKey</key><string>יש יישומים לא זמינים בשלב זה.</string>
+    <key>UnableToLaunchApplicationTitleKey</key><string>החל App</string>
+    <key>UnableToLaunchApplicationMessageKey</key><string>אין אפשרות להפעיל את \"More Info\ App. בחר המבוקשת" לפרטים נוספים.</string>
+    <key>UnableToLaunchApplicationDueToNetWorkKey</key><string>יישום זה הפך ללא זמין על-ידי המנהל, או השרת אינה מקבלת חיבורים.</string>
+    <key>UnableToLaunchApplicationButtonKey</key><string>אוקיי</string>
+    <key>HTTP404ErrorMessageKey</key><string>הכתובת לא סיפקו רשימה יישום חוקי. נא בדוק את הכתובת השער הגדרות, חיבור הרשת שלך.</string>
+    <key>AppListFailedGatewayAuthErrorKey</key><string>לאמת את האישורים ואת קישוריות רשת.</string>
+    <key>AppListFailedGatewayPreAuthScanNotSupportedErrorKey</key><string>נקודת קצה של אימות מקדים ניתוח סריקה אינה נתמכת בהתקן זה.</string>
+    <key>AppListFailedGatewayNextTokenErrorKey</key><string>המכשיר נמצא במצב הבא אסימון.</string>
+    <key>AppListFailedErrorTitleKey</key><string>אין אפשרות לטעון את רשימת App</string>
+    <key>AppListFailedErrorButtonTitleKey</key><string>אוקיי</string>
+    <key>UnknownErrorMessageKey</key><string>יש יישומים לא זמינים בשלב זה.</string>
+    <key>AccountLockedOutErrorMessageKey</key><string>מנהל המערכת שלך נעולה לחשבון שלך.</string>
+    <key>ChangeAccountSettingsButtonTitleKey</key><string>הגדרות</string>
+    <key>GatewaySessionExpiredErrorMessageKey</key><string>את שער גישה ההפעלה פגה, בבקשה היכנס שוב.</string>
+    <key>SessionTicketInvalidErrorMessageKey</key><string>כרטיס ההפעלה שלך אינה חוקית, אנא התחבר שוב.</string>
+    <key>AuthenticationErrorTitleKey</key><string>לשגיאת אימות</string>
+    <key>UnableToLaunchAppDetailsTitleKey</key><string>פרטי שגיאה</string>
+    <key>LoginErrorMessageNull</key><string>Null</string>
+    <key>LoginErrorMessageSuccess</key><string>הצלחה</string>
+    <key>LoginErrorMessageInvalidAddress</key><string>כתובת לא חוקית</string>
+    <key>LoginErrorMessageSSLError</key><string>שגיאת SSL</string>
+    <key>LoginErrorMessageIoException</key><string>חריגת קלט/פלט</string>
+    <key>LoginErrorMessageProtocolException</key><string>פרוטוקול חריג</string>
+    <key>LoginErrorMessageEpaEnabled</key><string>המשרד לאיכות הסביבה מופעלת</string>
+    <key>LoginErrorMessageConfigXmlPathNotDetermined</key><string>ConfigXml נתיב לא נקבע</string>
+    <key>LoginErrorMessageUserCancelled</key><string>המשתמש ביטל</string>
+    <key>LoginErrorMessageUnexpectedResponse</key><string>תגובה בלתי צפויה</string>
+    <key>LoginErrorMessagePreAuthEnabled</key><string>PreAuth פעילה</string>
+    <key>LoginErrorMessageNewPinRequired</key><string>Required.\n\nPlease PIN חדש ליצור PIN חדש באמצעות דפדפן אינטרנט.</string>
+    <key>LoginErrorMessageNextTokencodeRequired</key><string>ה-token הנוכחי אינו synchronized.\n\nPlease לסנכרן מחדש את האסימון שלך באמצעות דפדפן אינטרנט.</string>
+    <key>LoginErrorMessageChangePasswordRequired</key><string>הסיסמה עבור חשבון זה יש expired.\n\nPlease לשנות את הסיסמה באמצעות דפדפן אינטרנט.</string>
+    <key>LoginErrorMessagePinSetupFailed</key><string>PIN שגוי.</string>
+    <key>NoAvailableWorkstationTitleKey</key><string>תחנות עבודה אין שרת זמין</string>
+    <key>NoAvailableWorkstationMessageKey</key><string>ישנן תחנות שרת זמין אין בו להפעיל יישום זה.</string>
+    <key>ServerErrorKey</key><string>שגיאת שרת.</string>
+    <key>TheServerDisconnectedTheSessionKey</key><string>השרת לנתק את ההפעלה.</string>
+    <key>WaitForICASessionKey</key><string>חכה בבקשה...</string>
+    <key>SessionExitActionSheetTitleKey</key><string></string>
+    <key>SessionExitActionSheetBackButtonTitleKey_XA</key><string>חזרה אל אפליקציות</string>
+    <key>SessionExitActionSheetExitButtonTitleKey_XA</key><string>סגור את יישום</string>
+    <key>SessionExitActionSheetBackButtonTitleKey_XD</key><string>חזרה אל מחשבים שולחניים</string>
+    <key>SessionExitActionSheetExitButtonTitleKey_XD</key><string>שלח Crtl + Alt + Del</string>
+    <key>SessionExitActionSheetGesturesButtonTitleKey</key><string>מדריך תנועות</string>
+    <key>SessionExitActionSheetCancelButtonTitleKey</key><string>ביטול</string>
+    <key>SessionStatePanningMode</key><string>פאנינג מצב</string>
+    <key>SessionStateScrollingMode</key><string>מצב גלילה</string>
+    <key>SegmentedControlTitleDisconnect</key><string>נתק</string>
+    <key>SegmentedControlTitleLogoff</key><string>התנתק</string>
+    <key>SegmentedControlTitleResetZoom</key><string>איפוס זום</string>
+    <key>SegmentedControlTitleChangeResolution</key><string>שינוי רזולוציה</string>
+    <key>SegmentedControlTitleGesturesGuide</key><string>מדריך תנועות</string>
+    <key>SegmentedControlTitleDismiss</key><string>בטל</string>
+    <key>SwitchingWindowTitleKey</key><string>החלפת חלון</string>
+    <key>SessionStateScrollingOn</key><string>גלילה-</string>
+    <key>SessionStateScrollingOff</key><string>גלילה.</string>
+    <key>SessionStateScrollingOnSmall</key><string>גלילה-</string>
+    <key>SessionStateScrollingOffSmall</key><string>גלילה.</string>
+    <key>SessionWarningTitleKey</key><string>הפעלת אזהרה</string>
+    <key>SessionReadyTitleKey</key><string>התראה app מוכן</string>
+    <key>SessionReadyMessageKey</key><string>האפליקציה שלך מוכן עכשיו.</string>
+    <key>SessionReadyCancelButtonTitleKey</key><string>ביטול</string>
+    <key>SessionReadyOkButtonTitleKey</key><string>הצג האפליקציה</string>
+    <key>CurrentSessionTerminatedKey</key><string>ההפעלה הנוכחית שלך הופסקה, עשוי לפתוח מקלט להתחיל פגישה חדשה.</string>
+    <key>GuesturesGuidePortraitFileKey</key><string>gestures_portrait.png</string>
+    <key>GuesturesGuideLandscapeLeftFileKey</key><string>gestures_landscape_left.png</string>
+    <key>GuesturesGuideLandscapeRightFileKey</key><string>gestures_landscape_right.png</string>
+    <key>SettingsTabTitleKey</key><string>הגדרות</string>
+    <key>SettingsSessionTitleKey</key><string>הגדרות הפעלה</string>
+    <key>SettingsWorkspaceTitleKey</key><string>הגדרות סביבת עבודה</string>
+    <key>SettingsAccountTitleKey</key><string>הגדרות חשבון</string>
+    <key>SettingsWallpaperLabelKey</key><string>טפטים</string>
+    <key>SettingsWallpaperTitleKey</key><string>טפטים</string>
+    <key>SettingsAppearanceLabelKey</key><string>התצוגה</string>
+    <key>SettingsSessionLabelKey</key><string>הפעלה</string>
+    <key>SettingsKeyboardLabelKey</key><string>מקלדת</string>
+    <key>SettingsAudioLabelKey</key><string>אודיו</string>
+    <key>SettingsMultimediaLabelKey</key><string>ניתוב מחדש של המדיה לנצח</string>
+    <key>SettingsDefaultProfileLabelKey</key><string>חשבון ברירת המחדל</string>
+    <key>SettingsCaffeineLabelKey</key><string>קפאין</string>
+    <key>SettingsHelpLabelKey</key><string>עזרה</string>
+    <key>SettingsFeedbackLabelKey</key><string>שלח משוב</string>
+    <key>SettingsFeedbackMailComposerMailBodyKey</key><string>&lt; br / &gt; משוב: </string>
+    <key>SettingsFeedbackMailAppMailBodyKey</key><string>&amp; הגוף = &lt; br / &gt; משוב: </string>
+    <key>SettingsTellaFriendMailComposerMailBodyKey</key><string>&lt;p&gt;לבדוק את יישום זה:&lt;/p&gt;</string>
+    <key>SettingsTellaFriendMailAppMailBodyKey</key><string>&amp; הגוף = &lt;p&gt;לבדוק את יישום זה:&lt;/p&gt;</string>
+    <key>SettingsReceiverAppStoreAddress</key><string>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=363501921&amp;mt=8</string>
+    <key>SettingsAboutLabelKey</key><string>אודות</string>
+    <key>SettingsAppearanceTitleKey</key><string>אפשרויות תצוגה</string>
+    <key>SettingsKeyboardTitleKey</key><string>אפשרויות מקלדת</string>
+    <key>SettingsDefaultProfileTitleKey</key><string>חשבון ברירת המחדל</string>
+    <key>SettingsCaffeineTitleKey</key><string>קפאין</string>
+    <key>SettingsAboutScreenTitleKey</key><string>אודות</string>
+    <key>SettingsResolutionLabelKey</key><string>מפגש פתרון</string>
+    <key>SettingsZoomLabelKey</key><string>זום הראשונית</string>
+    <key>SettingsHideStatusBarLabelKey</key><string>הסתר שורת מצב</string>
+    <key>SettingsResolutionTitleKey</key><string>מפגש פתרון</string>
+    <key>SettingsZoomTitleKey</key><string>זום</string>
+    <key>SettingsProfilesFooterOnTitleKey</key><string>כאשר כבוי, אחרונה בשימוש בחשבון תהיה טעינה עצמית \n בפעם הבאה נפתח Citrix מקלט.</string>
+    <key>SettingsProfilesFooterOffTitleKey</key><string>מתי בחשבון, שנבחר יטען עצמית \n בכל פעם Citrix מקלט נפתח.</string>
+    <key>SettingsResolutionDefaultLabelKey</key><string>רזולוציית ברירת המחדל</string>
+    <key>SettingsResolutionAutofitLabelKey</key><string>התאמה אוטומטית מסך</string>
+    <key>SettingsResolutionFitScreenLabelKey</key><string>דיוקן בכושר</string>
+    <key>SettingsResolutionFitWideScreenLabelKey</key><string>נוף מתאים</string>
+    <key>SettingsResolutionLargeLabelKey</key><string>גדול</string>
+    <key>SettingsResolutionMediumLabelKey</key><string>בינוני</string>
+    <key>SettingsResolutionSmallLabelKey</key><string>קטן</string>
+    <key>SettingsStayAwakeLabelKey</key><string>להישאר ער</string>
+    <key>SettingsStayAwakeFooterTitleKey</key><string>מונע את המסך iPad שלך הולך \n לישון, אבל עשויה להקטין את חיי הסוללה.</string>
+    <key>SettingsStayAwakeFooteriPhoneTitleKey</key><string>מונע שלך iPhone או iPod Touch מללכת לישון, אבל עשויה להקטין את חיי הסוללה.</string>
+    <key>SettingsZoomActualSizeLabelKey</key><string>גודל ממשי</string>
+    <key>SettingsZoomZoomedInLabelKey</key><string>הגדלה</string>
+    <key>SettingsZoomZoomedOutLabelKey</key><string>שהתצוגה מוקטנת</string>
+    <key>SettingsShareLabelKey</key><string>שיתוף</string>
+    <key>SettingsTellAFriendLabelKey</key><string>ספר לחבר</string>
+    <key>SettingsHelpTitleKey</key><string>עזרה</string>
+    <key>DismissHelpTitleKey</key><string>עשיתי</string>
+    <key>SettingsStartSessionCenterLabelKey</key><string>להתחיל ממורכז</string>
+    <key>SettingsZoomViewFooterTitleKey</key><string>אם זום הראשונית שונה מאשר \"Actual Size\" \n \"Start Centered\" אפשרות תתעלם</string>
+    <key>SettingsExitSessionLabelKey</key><string>לשאול לפני היציאה</string>
+    <key>SettingsGesturesLabelKey</key><string>מדריך תנועות</string>
+    <key>SettingsStartInScrollModeLabelKey</key><string>הפעל במצב גלילה</string>
+    <key>SettingsExternalDisplayLabelKey</key><string>צג חיצוני</string>
+    <key>SettingsUseDeviceStorageLabelKey</key><string>שימוש %@ אחסון</string>
+    <key>SettingsLogOutLabelKey</key><string>התנתק</string>
+    <key>SettingsLogOutMessageKey</key><string>התנתק %@?</string>
+    <key>SettingsLearnAskShareLabelKey</key><string>ללמוד, לשאול ולשתף</string>
+    <key>SettingsApplicationSettingsLabelKey</key><string>הגדרות יישום</string>
+    <key>SettingsLaunchTrackpadLabelKey</key><string>Trackpad אלחוטית</string>
+    <key>SettingsTrackpadModeLabelKey</key><string>מצביע</string>
+    <key>SettingsAdvancedLabelKey</key><string>מתקדם</string>
+    <key>SettingsLogOffLabelKey</key><string>התנתק</string>
+    <key>SettingsSessionSharingLabelKey</key><string>הפעלת שיתוף</string>
+    <key>SettingsSessionSharingAutoAddFavoritesLabelKey</key><string>Auto-הוסף למועדפים</string>
+    <key>SettingsSessionSharingAutoAddFavoritesMessageKey</key><string>מוסיף באופן אוטומטי השיקה אפליקציות למועדפים לגישה מהירה להפעלת תכונות שיתוף.</string>
+    <key>SettingsReconnectLogon</key><string>חבר מחדש במהלך כניסה לחשבון</string>
+    <key>SettingsReconnectRefresh</key><string>חבר מחדש במהלך רענון</string>
+    <key>SettingsWorkspaceControlLabelKey</key><string>סביבת הבקרה</string>
+    <key>SettingFullscreenWindowKey</key><string>חלון במסך מלא</string>
+    <key>SettingsReconnectMessageKey</key><string>חבר מחדש באופן אוטומטי להפעלה השיקה מכשיר אחר, להוסיף חשבון או לרענן את היישומים, אם יש מושב אחד בלבד זמין.</string>
+    <key>SettingsAutomaticKeyboardLabelKey</key><string>לוח מקשים אוטומטית</string>
+    <key>SettingsCustomKeysLabelKey</key><string>מפתחות מורחב</string>
+    <key>SettingsNativeComboBoxLabelKey</key><string>השתמש בתיבה משולבת מקורי</string>
+    <key>SettingsAllowKeyboardExtensionsLabelKey</key><string>להשתמש קלידים מותאם אישית</string>
+    <key>SettingsDontAllowKeyboardExtensionsLabelKey</key><string>בטל מקשים מותאמים אישית</string>
+    <key>SettingsAllowKeyboardExtensionsMessageKey</key><string>המאפשר קלידים מותאם אישית, תקשורת עם גורמים חיצוניים, עלול להוות סיכון אבטחה.  השבתת אותם היא האפשרות הבטוחה ביותר בעולם. לוחות מקשים מותאמים אישית \n\nAllowing ידרוש מקלט לצאת. באפשרותך להפעיל מחדש ואז מקלט</string>
+    <key>SettingsTokenManagementLabelKey</key><string>אסימון האבטחה</string>
+    <key>SettingsTokensLabelKey</key><string>אסימון</string>
+    <key>SettingsOptionsLabelKey</key><string>אפשרויות</string>
+    <key>SettingsRequestHelpFromSupportLabelKey</key><string>לבקש עזרה מתמיכה</string>
+    <key>SettingsMutlitouchModeLabelKey</key><string>לאפשר מגע</string>
+    <key>RequestHelpFromSupportMailBodyTemplate</key><string>&lt;b&gt; &lt; &lt;/b&gt;שם העובד &lt;b&gt;^&lt;/b&gt; יש בעיות עם Citrix מקלט על iOS. &lt; br / &gt; &lt; br / &gt; הנה תיאור של הבעיה שלי &lt; br / &gt; &lt; br / &gt; על המכשיר:</string>
+    <key>SendFeatureIdeasToCitrixMailBodyTemplate</key><string>הנה שלי רעיונות לשיפור Citrix מקלט ב- iOS: &lt; br / &gt; &lt; br / &gt; &lt; br / &gt; על המכשיר שלי:</string>
+    <key>EmailBodyDeviceModel</key><string>דגם המכשיר: %@</string>
+    <key>EmailBodyOSVersion</key><string>iOS גירסה: %@</string>
+    <key>EmailBodyReceiverVersion</key><string>גירסת מקלט: %@</string>
+    <key>EmailBodyIsJailBroken</key><string>הוא Jailbroken: %@</string>
+    <key>EmailBodyApplicationMemory</key><string>יישום זיכרון: %@</string>
+    <key>EmailBodyFreeMemory</key><string>זיכרון פנוי: %@</string>
+    <key>EmailBodyTotalMemory</key><string>סה כ זיכרון: %@</string>
+    <key>EmailBodyMemoryFormat</key><string>בנק דיסקונט למשכנתאות %d</string>
+    <key>TokenManagementSerialNumber</key><string>מספר סידורי</string>
+    <key>TokenManagementExpirationDate</key><string>תאריך תפוגה</string>
+    <key>TokenManagementGetPasscode</key><string>לקבל את קוד הגישה</string>
+    <key>TokenManagementDeleteToken</key><string>מחיקת אסימון</string>
+    <key>SettingsSupportKey</key><string>תמיכה</string>
+    <key>SettingsSupportVisit</key><string>בקר support.citrix.com</string>
+    <key>SettingsIdeasKey</key><string>לשלוח רעיונות תכונה Citrix</string>
+    <key>SettingsLogOptionsTitleKey</key><string>אפשרויות יומן</string>
+    <key>SettingsLogs_LogLevel_Critical_Key</key><string>רמה 1 קריטי</string>
+    <key>SettingsLogs_LogLevel_Error_Key</key><string>שגיאה רמה 2</string>
+    <key>SettingsLogs_LogLevel_Warning_Key</key><string>אזהרה רמה 3</string>
+    <key>SettingsLogs_LogLevel_Info_Key</key><string>רמה ד' אינפורמטיבי</string>
+    <key>SettingsLogs_LogLevel_Detail_Key</key><string>רמה 5 מפורט</string>
+    <key>SettingsLogs_LogLevel_Debug_Key</key><string>איתור באגים ברמה 6</string>
+    <key>SettingsLogs_LogDestination_File_Key</key><string>קובץ</string>
+    <key>SettingsLogs_LogDestination_Console_Key</key><string>המסוף</string>
+    <key>SettingsLogs_LogDestination_FileAndConsole_Key</key><string>המסוף של קבצים</string>
+    <key>SettingsLogs_MaxLogFiles_Key</key><string>המספר המרבי של קבצי יומן רישום:</string>
+    <key>SettingsLogs_MaxLogFileSize_Key</key><string>הגודל המרבי של קובץ יומן רישום:</string>
+    <key>SettingsLogs_LogLevel_Options_Key</key><string>רמת יומן</string>
+    <key>SettingsLogs_LogDestination_Options_Key</key><string>יומן יעד</string>
+    <key>SettingsLogs_ResetToDefaults_Key</key><string>איפוס</string>
+    <key>SettingsLogDestinationOptionsTitleKey</key><string>יומן יעד</string>
+    <key>SettingsLogOptionsResetToDefaultValuesTitleKey</key><string>איפוס לברירות המחדל</string>
+    <key>SettingsLogOptionsResetToDefaultValuesMessageKey</key><string>אפשרויות יומן יאופסו לערכי ברירת המחדל שלהן.</string>
+    <key>SettingsLogDetailWarningTitle</key><string>אזהרה!</string>
+    <key>SettingsLogDetailWarningMessage</key><string>בחירת רמה זו עלולה להאט את הביצועים של המקבל.  האם ברצונך להמשיך?</string>
+    <key>AltKeyTitleKey</key><string>Alt</string>
+    <key>AltTabKeyTitleKey</key><string>Alt + Tab</string>
+    <key>ControlCKeyTitleKey</key><string>העתק</string>
+    <key>ControlAltDeleteKeyTitleKey</key><string>Ctrl + Alt + Del</string>
+    <key>ControlEscapeKeyTitleKey</key><string>Ctrl + Esc</string>
+    <key>ControlXKeyTitleKey</key><string>לחתוך</string>
+    <key>ControlZKeyTitleKey</key><string>בטל</string>
+    <key>DeleteKeyTitleKey</key><string>דל</string>
+    <key>EndKeyTitleKey</key><string>סוף</string>
+    <key>EscapeKeyTitleKey</key><string>Esc</string>
+    <key>F1KeyTitleKey</key><string>F1</string>
+    <key>F2KeyTitleKey</key><string>F2</string>
+    <key>F3KeyTitleKey</key><string>F3</string>
+    <key>F4KeyTitleKey</key><string>F4</string>
+    <key>F5KeyTitleKey</key><string>F5</string>
+    <key>F6KeyTitleKey</key><string>F6</string>
+    <key>F7KeyTitleKey</key><string>F7</string>
+    <key>F8KeyTitleKey</key><string>F8</string>
+    <key>F9KeyTitleKey</key><string>F9</string>
+    <key>F10KeyTitleKey</key><string>F10</string>
+    <key>F11KeyTitleKey</key><string>F11</string>
+    <key>F12KeyTitleKey</key><string>F12</string>
+    <key>HomeKeyTitleKey</key><string>הבית</string>
+    <key>IMEKey</key><string>IME</string>
+    <key>WinKeyTitleKey</key><string>לנצח</string>
+    <key>ControlKeyTitleKey</key><string>Ctrl</string>
+    <key>PageDownKeyTitleKey</key><string>Page Down</string>
+    <key>PageUpKeyTitleKey</key><string>Page Up</string>
+    <key>ControlVKeyTitleKey</key><string>הדבק</string>
+    <key>RefreshKeyTitleKey</key><string>רענון</string>
+    <key>ControlSKeyTitleKey</key><string>שמור</string>
+    <key>SlideshowKeyTitleKey</key><string>הצגת שקופיות</string>
+    <key>TabKeyTitleKey</key><string>טאב</string>
+    <key>AltF4TitileKey</key><string>סגור חלון</string>
+    <key>ShiftKeyTitleKey</key><string>Shift</string>
+    <key>StartMenuKeyTitleKey</key><string>תפריט התחל</string>
+    <key>SendKeyTitleKey</key><string>שלח</string>
+    <key>CopyKeyTitleKey</key><string>העתק</string>
+    <key>DoneKeyTitleKey</key><string>עשיתי</string>
+    <key>VirtualTextViewMargin</key><string>140</string>
+    <key>UseUnicodeKeyboardKey</key><string>שימוש בלוח מקשים ב- Unicode</string>
+    <key>PinKeyboardToolbar</key><string>סיכת למקלדת הכלים</string>
+    <key>CitrixDocFinderAppNameKey</key><string>Finder Citrix דוק</string>
+    <key>SMSMsgTitle</key><string>קוד מצב</string>
+    <key>SMSMsgButtonTitle</key><string>אוקיי</string>
+    <key>SMSPassCodeRequestSuccessMsg</key><string>אתה תקבל את שלך אחד זמן קוד בהודעת טקסט תוך זמן קצר. נא הקש על תגובה ולאחר מכן הקש על הקישור בתוך הודעת הטקסט כדי להמשיך.</string>
+    <key>AddProfileFromUrlWarningMsg</key><string>אתה עומד להוסיף חשבון חדש. נא סקור את המידע על המסך הבא, ורק לשמור את זה. אם זה מגיע ממקור מהימן.</string>
+    <key>AddProfileFromUrlWarningTitle</key><string>הוסף חשבון</string>
+    <key>PasswordSaveStatusChangeTitleKey</key><string>שינוי סטטוס</string>
+    <key>PasswordSavingHasBeenDisabledMessageKey</key><string>מנהל המערכת ביטל שמירת סיסמאות בשרת זה</string>
+    <key>PasswordSavingHasBeenEnabledMessageKey</key><string>מנהל המערכת איפשר שמירת סיסמאות בשרת זה.</string>
+    <key>ChangePasswordErrorTitleKey</key><string>שגיאה סיסמה</string>
+    <key>ChangePasswordErrorFailedConsistencyCheck</key><string>אירעה שגיאה בעת ניסיון לשנות את הסיסמה password.\n\nYour לא השתנתה.</string>
+    <key>ChangePasswordErrorNewPasswordInvalid</key><string>הסיסמה החדשה שהזנת לא היה חוקי.</string>
+    <key>ChangePasswordErrorOldPasswordInvalid</key><string>הסיסמה הישנה שהזנת לא היה חוקי.</string>
+    <key>ChangePasswordErrorNewPasswordMismatch</key><string>הסיסמאות החדשות שהזנת לא תאמו.</string>
+    <key>ChangePasswordErrorOldPasswordMismatch</key><string>הסיסמה הישנה שהזנת לא תאמו.</string>
+    <key>ChangePasswordErrorOperationFailed</key><string>אירעה שגיאה בעת ניסיון לשנות את הסיסמה password.\n\nYour לא השתנתה.</string>
+    <key>ChangePasswordOldPasswordPlaceholderKey</key><string>הסיסמה הישנה</string>
+    <key>ChangePasswordNewPasswordPlaceholderKey</key><string>סיסמה חדשה</string>
+    <key>ChangePasswordConfirmPasswordPlaceholderKey</key><string>אשר את הסיסמה</string>
+    <key>ChangePasswordPasswordExpiredTitleKey</key><string>הסיסמה פג</string>
+    <key>ChangePasswordPasswordExpiredMessageKey</key><string>שינוי סיסמה הדרושה</string>
+    <key>ChangePasswordPasswordExpiredContactAdminMessageKey</key><string>נא לשנות את הסיסמה שלך ונסה שוב.</string>
+    <key>ChangePasswordPasswordExpiredContactAdminMessageKey2</key><string>נא לשנות את הסיסמה שלך ונסה שוב.</string>
+    <key>ChangePasswordPasswordsNotMatch</key><string>הסיסמאות עשה לא התאמה. \nThe סיסמה עבור חשבון זה יש expired.\n\nWould שברצונך לשנות את הסיסמה כעת?</string>
+    <key>ChangePasswordPasswordExpiredPromptKey</key><string>הסיסמה פג תוקף, אנא הזן סיסמא חדשה</string>
+    <key>ChangePasswordPleaseLoginAgain</key><string>הסיסמה שעודכנה. \nPlease התחבר שוב.</string>
+    <key>NextTokenTitleKey</key><string>האסימון הבא</string>
+    <key>NextTokenPlaceholderKey</key><string>האסימון הבא</string>
+    <key>NextTokenMessageKey</key><string>לחכות הקוד אסימון כדי לשנות, לאחר מכן הזן את code.\n\n token חדש</string>
+    <key>NextTokenInvalidTokenKey</key><string>אסימון אינה חוקית</string>
+    <key>NextTokenOperationFailedMessageKey</key><string>סינכרון אסימון איננה אפשרית. נא נסה שוב מאוחר יותר</string>
+    <key>NextTokenLoginAgainMessageKey</key><string>ה-token עודכנה. \nPlease לחכות הקוד אסימון כדי לשנות ולאחר מכן התחבר שוב.</string>
+    <key>NextTokenEnterPasscodeKey</key><string>הזן את הסיסמא שלך</string>
+    <key>NextTokenNewPINKey</key><string>ה-PIN החדש</string>
+    <key>NextTokenConfirmNewPINKey</key><string>לאשר את ה-PIN החדש</string>
+    <key>NextTokenEnterNewPINTitleKey</key><string>הזן את מספר הזיהוי האישי החדש</string>
+    <key>NextTokenEnterNewPINMessageKey</key><string>הזן PIN חדש בין 4 ו- 8 תווים.</string>
+    <key>NextTokenPINsNotMatch</key><string>הפינים עשה לא התאמה. \nEnter PIN חדש בין 4 ו- 8 תווים.</string>
+    <key>NextTokenPINChangedMessageKey</key><string>הצמד שונה בהצלחה. חכה \nPlease tokencode לשנות ולאחר מכן הזן את מספר הזיהוי האישי שלך ואת tokencode הבא.</string>
+    <key>TokenPlaceholderKey</key><string>אסימון</string>
+    <key>PinPlaceholderKey</key><string>סיכה</string>
+    <key>PinTokenPlaceholderKey</key><string>PIN + אסימון</string>
+    <key>ASyncHTTPCannotVerifyServerIdentityWithManualSetupOption</key><string>אין אפשרות לאמת את האישור של שרת זה: \ "%@\". לא ייתכן שהשרת מאובטח. המשך גישה \nTo, הקש על ההתקנה ולבדוק מאזהרות אישור \"Ignore. \"</string>
+    <key>ASyncHTTPCannotVerifyServerIdentityWithContactHelpdesk</key><string>שרת זה לא יהיה מאובטח: \ "%@\". בקשו הטכנית אישור תקף.</string>
+    <key>ASyncHTTPInvalidSSLCert</key><string>אישורים לא מהימנים</string>
+    <key>ASyncHTTPAllowButtonLabelKey</key><string>לאפשר</string>
+    <key>ASyncHTTPSetupButtonLabelKey</key><string>תוכנית ההתקנה</string>
+    <key>ASyncHTTPGetDataError</key><string>לא היתה אפשרות לקבל את הנתונים. \nStatus: %d, %@.</string>
+    <key>AsyncHTTPLearnMoreButtonLabelKey</key><string>למד עוד</string>
+    <key>BluetoothAlertTitleKey</key><string>חיבור</string>
+    <key>BluetoothSessionEstablishedMessageKey</key><string>הפעלה אלחוטיים כבר נוצר.</string>
+    <key>BluetoothWaitingConnectionMessageKey</key><string>מחכה מהתקן מרוחק להתחבר...</string>
+    <key>OkButtonText</key><string>אוקיי</string>
+    <key>YesButtonText</key><string>כן</string>
+    <key>NoButtonText</key><string>לא</string>
+    <key>DismissButtonText</key><string>בטל</string>
+    <key>CancelButtonText</key><string>ביטול</string>
+    <key>MoreInfoButtonText</key><string>מידע נוסף</string>
+    <key>NextButtonText</key><string>הבא</string>
+    <key>SaveButtonText</key><string>שמור</string>
+    <key>ConfirmButtonText</key><string>לאשר</string>
+    <key>BackButtonText</key><string>בחזרה</string>
+    <key>AllowButtonText</key><string>לאפשר</string>
+    <key>DontAllowButtonText</key><string>לא מרשים.</string>
+    <key>ConnectionErrorText</key><string>אירעה שגיאה בעת ההתחברות. בדוק את כתובת השרת שלך חיבור רשת.</string>
+    <key>LoginButtonText</key><string>כנס</string>
+    <key>ExitingTitle</key><string>יציאה</string>
+    <key>ExitingText</key><string>מקלט מסיים.</string>
+    <key>RestartWarningText</key><string>שינוי זה מחייב מקלט לצאת. באפשרותך להפעיל מחדש ואז מקלט</string>
+    <key>ExitButtonText</key><string>יציאה</string>
+    <key>DontExitButtonText</key><string>לא לצאת</string>
+    <key>HelpButtonText</key><string>עזרה</string>
+    <key>HelpURL</key><string>http://support.citrix.com/help/receiver/58/ios/en/index.html</string>
+    <key>SettingsPrivacyKey</key><string>מדיניות פרטיות</string>
+    <key>PrivacyURL</key><string>http://www.citrix.com/about/legal/privacy/plain.html</string>
+    <key>SettingsLicensesKey</key><string>הודעות של ספקים חיצוניים</string>
+    <key>3rdParthNoticesURL</key><string>https://www.citrix.com/buy/licensing/open-source.html</string>
+    <key>GesturesTitleKey</key><string>מחוות</string>
+    <key>GestureTapLabelKey</key><string>לחץ על ברז</string>
+    <key>GestureTapHoldReleaseLabelKey</key><string>הקש, להחזיק בכל רגע, ואז לשחרר לחץ לחיצה ימנית</string>
+    <key>GestureTapHoldMoveLabelKey</key><string>הקש, להחזיק בכל רגע, ואז לעבור גרור</string>
+    <key>GesturePanLabelKey</key><string>להזיז אצבע לשם גלילת מסך</string>
+    <key>GestureVerticalSwipeLabelKey</key><string>נשמטים אנכית לגלילה</string>
+    <key>GestureHorizontalSwipeLabelKey</key><string>נשמטים אופקי כדי החץ שמאלה/ימינה</string>
+    <key>GesturePinchLabelKey</key><string>לצבוט כדי להגדיל</string>
+    <key>GestureTwoFingerTapLabelKey</key><string>הקש עם שתי אצבעות כדי להתקרב וצ'ק אאוט</string>
+    <key>GestureTwoFingerSwipeLabelKey</key><string>שתי אצבעות נשמטים לנוע תצוגה</string>
+    <key>GestureRightClickLabelKey</key><string>לחץ לחיצה ימנית</string>
+    <key>GestureAltTabLabelKey</key><string>Alt + Tab</string>
+    <key>GestureToggleKeyboardLabelKey</key><string>מקשים דו-מצביים</string>
+    <key>GestureLeftArrowLabelKey</key><string>מקש החץ שמאלה</string>
+    <key>GestureRightArrowLabelKey</key><string>מקש חץ ימינה</string>
+    <key>GestureUpArrowLabelKey</key><string>מקש החץ למעלה</string>
+    <key>GestureDownArrowLabelKey</key><string>חץ למטה</string>
+    <key>GestureMouseWheelUpLabelKey</key><string>גלגל העכבר.</string>
+    <key>GestureMouseWheelDownLabelKey</key><string>גלגל העכבר למטה</string>
+    <key>GestureTapAndHoldKey</key><string>הקש והחזק</string>
+    <key>GestureTwoFingerTapKey</key><string>ברז שתי אצבעות</string>
+    <key>GestureThreeFingerTapKey</key><string>האצבע שלושה ברז</string>
+    <key>GestureSwipeLeftKey</key><string>לסחוב שמאלה</string>
+    <key>GestureSwipeRightKey</key><string>זכות לסחוב</string>
+    <key>GestureSwipeUpKey</key><string>נשמטים.</string>
+    <key>GestureSwipeDownKey</key><string>נשמטים למטה</string>
+    <key>GestureTwoFingerSwipeLeftKey</key><string>. ונדי לסחוב שמאלה</string>
+    <key>GestureTwoFingerSwipeRightKey</key><string>. ונדי לסחוב נכון</string>
+    <key>GestureTwoFingerSwipeUpKey</key><string>שתי אצבעות לסחוב למעלה</string>
+    <key>GestureTwoFingerSwipeDownKey</key><string>שתי אצבעות נשמטים למטה</string>
+    <key>GestureThreeFingerSwipeLeftKey</key><string>3. אצבע לסחוב שמאלה</string>
+    <key>GestureThreeFingerSwipeRightKey</key><string>3. אצבע לסחוב נכון</string>
+    <key>GestureThreeFingerSwipeUpKey</key><string>3. אצבע לסחוב למעלה</string>
+    <key>GestureThreeFingerSwipeDownKey</key><string>3. אצבע לסחוב למטה</string>
+    <key>GestureDisableGesture</key><string>בטל את המחווה</string>
+    <key>GestureResetToDefaultLabelKey</key><string>איפוס לברירת מחדל</string>
+    <key>GestureResetToDefaultMessageKey</key><string>האם אתה בטוח שברצונך לאפס את המחוות להגדרות ברירת המחדל שלהן?</string>
+    <key>SecurityAlertTitleKey</key><string>התראת אבטחה</string>
+    <key>SecurityAlertJailbreakMessageKey</key><string>מקלט Citrix זוהה התקן זה כבר jailbroken, לא יכול להיות אמון על-כדי להפעיל יישום זה בצורה מאובטחת.</string>
+    <key>SecurityAlertExitButtonLabelKey</key><string>יציאה</string>
+    <key>IgnoreCertificateErrorsKey</key><string>התעלם מאזהרות אישור</string>
+    <key>IgnoreCertificateErrorsMessage</key><string>האם אתה בטוח שברצונך לעקוף את אבטחת אישורים? אנא בקש הטכנית אם אתה לא בטוח.</string>
+    <key>DataSaveAlertTitleKey</key><string>נתונים לא שמורים התראה</string>
+    <key>DataSaveAlertMessageKey</key><string>ליישום יש כמה נתונים לא שמורים אשר ניתן לשמור. על הדלפק לשימוש בעתיד, האם ברצונך לשמור אותו עכשיו?</string>
+    <key>DataSaveAlertCancelButtonLabelKey</key><string>ביטול</string>
+    <key>DataSaveAlertOKButtonLabelKey</key><string>שמור</string>
+    <key>TrackpadReadyToConnectTitleKey</key><string>מוכן להתחבר</string>
+    <key>TrackpadAcceptConnectionFromLabelKey</key><string>קבל החיבור מ: \n</string>
+    <key>TrackpadConfirmConnectionLabelKey</key><string>לאשר את החיבור</string>
+    <key>TrackpadConnectionErrorLabelKey</key><string>שגיאת חיבור</string>
+    <key>TrackpadWirelessTrackpadActiveAlertMessageKey</key><string>Trackpad אלחוטית פעילה. . בבקשה נתק לפני שתנסה להשתמש trackpad מקורית.</string>
+    <key>TrackpadNativeTrackpadActiveAlertMessageKey</key><string>יליד trackpad פעילה. אנא כבה לפני שתנסה להשתמש trackpad אלחוטית.</string>
+    <key>TrackpadConnectedTitleKey</key><string>מחובר</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey1</key><string>פתוח</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey2</key><string>חלון חדש</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey3</key><string>נתק</string>
+    <key>DisambiguateReconnectOpen</key><string>פתוח</string>
+    <key>DisambiguateReconnectNewWindow</key><string>חלון חדש</string>
+    <key>DisambiguateReconnectCancel</key><string>ביטול</string>
+    <key>DisambiguateReconnectTitleFormat</key><string>%@ כבר פועל.</string>
+    <key>DisambiguateReconnectMessage</key><string>באפשרותך להתחבר מחדש יישום זה או פתח חלון נוסף.</string>
+    <key>AppSwitchMenuTitleKey</key><string>מתג Apps</string>
+    <key>AppSwitchMenuTitleKeyNoWindows</key><string>השרת המחובר ייתכן שאינו תומך App מיתוג...</string>
+    <key>PullRefreshDateFormatKey</key><string>Hh: MM/dd/yyyy mm:</string>
+    <key>PullRefreshDateAMSymbolKey</key><string>AM</string>
+    <key>PullRefreshDatePMSymbolKey</key><string>PM</string>
+    <key>PullRefreshLastUpdatedFormatKey</key><string>עדכון אחרון: %@</string>
+    <key>PullRefreshPullingLabelKey</key><string>שחרור כדי לרענן...</string>
+    <key>PullRefreshNormalLabelKey</key><string>למשוך למטה כדי לרענן...</string>
+    <key>PullRefreshLoadingLabelKey</key><string>טוען...</string>
+    <key>ConnectionErrorAlertTitleKey</key><string>שגיאת חיבור</string>
+    <key>ConnectionErrorAlertMessageKey</key><string>יישום נתקלה בשגיאה חמורה, תיסגר. אנא תקן מעל שגיאה, הפעילו את התוכנה.</string>
+    <key>ConnectionErrorAlertMessage2Key</key><string>לא היתה אפשרות להתחבר לשרת.</string>
+    <key>RestoringDataConnection</key><string>שחזור חיבור נתונים...</string>
+    <key>DataConnectionRestored</key><string>חיבור נתונים משוחזר.</string>
+    <key>StoreLogoutMessageTitleKey</key><string>התנתקות או להתנתק?</string>
+    <key>StoreLogoutMessageKey</key><string>אם תתנתק, ונתונים שלא נשמרו ביישומים פתוחים זמין בפעם הבאה שתתחבר. אם אתה מתנתק, ונתונים שלא נשמרו יאבדו.</string>
+    <key>LogoutButtonText</key><string>התנתק</string>
+    <key>DisconnectButtonText</key><string>נתק</string>
+    <key>StoreLoggedOffMessageKey</key><string>. ביצעת מכל הבחינות.</string>
+    <key>ConnectionsButtonTitleKey</key><string>חיבורים</string>
+    <key>ConnectionsActionSheetTitleKey</key><string>מרכז קשר</string>
+    <key>LogoutAlertTitleKey</key><string>אישור יציאה</string>
+    <key>LogoutAlertMessageKey</key><string>האם אתה בטוח שברצונך להתנתק? כל הנתונים שלא נשמרו יאבדו.</string>
+    <key>DISMISS_BUTTON_TITLE</key><string>אוקיי</string>
+    <key>PLACE_HOLDER_CRED_ID</key><string>A12345678</string>
+    <key>CONNECTING_LABEL</key><string>מתחבר...</string>
+    <key>CANCEL_BUTTON_TITLE</key><string>ביטול</string>
+    <key>TIMEOUT_MESSAGE_FORMAT</key><string>%d שניות נותרו</string>
+    <key>LocationServicesAllowAccessKey</key><string>\ "%@\" רוצה לנצל את המיקום הנוכחי שלך</string>
+    <key>LocationServicesChangeGeneralSettingsKey</key><string>להפעיל את שירותי המיקום כדי לאפשר \ "%@\" כדי לקבוע את המיקום שלך</string>
+    <key>LocationServicesSecureConnectionWarning</key><string>חיבור מאובטח %@\n\nA מומלץ בעת שימוש בשירותי מיקום</string>
+    <key>ImportCertificateKey</key><string>אישור ייבוא</string>
+    <key>ImportNewCertificateKey</key><string>ייבוא האישור החדש</string>
+    <key>SelectCertificateKey</key><string>בחר באישור</string>
+    <key>CertificatesKey</key><string>אישורים</string>
+    <key>CertificateKey</key><string>אישור</string>
+    <key>CertificateNameKey</key><string>שם</string>
+    <key>CertificateNamePlaceHolderKey</key><string>שם האישור</string>
+    <key>CertificateURLKey</key><string>כתובת</string>
+    <key>CertificateURLPlaceHolderKey</key><string>אישור כתובת URL</string>
+    <key>IssuedToKey</key><string>. להנפיק:</string>
+    <key>PasswordAlertMessageForImportCertificateKey</key><string>הזן את הסיסמה עבור אישור זה.</string>
+    <key>ImportCertificateFailedTitle</key><string>אין אפשרות לייבא אישור</string>
+    <key>ImportCertificateFailedMessage</key><string>לייבא מחזיק מפתחות נכשל.</string>
+    <key>WrongPasswordErrorKey</key><string>לייבא מחזיק מפתחות נכשל עקב סיסמה לא נכונה.</string>
+    <key>CertificateExistsErrorKey</key><string>לייבא מחזיק מפתחות נכשלה מאחר האישור כבר קיים.</string>
+    <key>CertificateFormatNotSupportedErrorKey</key><string>לייבא מחזיק מפתחות נכשלה מאחר האישור אינו בתבנית P12.</string>
+    <key>AddCertificateErrorTitleKey</key><string>אישור כבר מיובא</string>
+    <key>AddCertificateErrorButtonText</key><string>אוקיי</string>
+    <key>DeleteCertificateWarningTitleKey</key><string>אזהרה</string>
+    <key>DeleteCertificateWarningMessageKey</key><string>אישור זה נמצא בשימוש על ידי חנות! האם אתה בטוח שאתה רוצה להמשיך?</string>
+    <key>DeleteButtonText</key><string>מחק</string>
+    <key>ImportCertificateFailedNoDataMessage</key><string>תעודת ריק או בעלת מבנה פגום ב- URL זו.</string>
+    <key>SRConfigurationError</key><string>לא היתה אפשרות להוסיף את חשבון.</string>
+    <key>SRParseError</key><string>לא היתה אפשרות להוסיף את חשבון.</string>
+    <key>SSLChainNotEvaluated</key><string>אין אפשרות לאמת את האישור של שרת. כדי להוסיף חשבון זה, הפעל 'התעלם מאזהרות אישור'.</string>
+    <key>SRStoreLogin</key><string>חשבון חדש זמין. נא בצע כניסה כדי לגשת לחשבון החדש שלך.</string>
+    <key>SRStorePersistError</key><string>לא היתה אפשרות להוסיף את חשבון.</string>
+    <key>SROverwriteStore</key><string>האם להחליף את החשבון?</string>
+    <key>SRConfirmOverwriteStore</key><string>האם ברצונך להחליף את %@?</string>
+    <key>SelectAccountDiscoveryStore</key><string>בחרו חנות</string>
+    <key>AccountDiscoveryDocumentNoStore</key><string>לא היתה אפשרות להוסיף את חשבון.</string>
+    <key>AccountDiscoveryDocumentNoNewStores</key><string>כל החנויות מסמך גילוי שנטענו.</string>
+    <key>AccountDiscoveryDocumentError</key><string>לא היתה אפשרות להוסיף את חשבון.</string>
+    <key>AccountDiscoveryIgnoreCertificateDescription</key><string>גילוי חשבון</string>
+    <key>AccountDiscoveryAddAccountErrorTitle</key><string>אין אפשרות להוסיף את חשבון</string>
+    <key>AccountDiscoveryNoURLForEmail</key><string>מקלט אין אפשרות למצוא את השרת עבור תחום זה. אם קיבלת כתובת URL ממנו, באפשרותך להזין את זה במקום הדוא ל שלך.</string>
+    <key>AccountDiscoveryEmailErrorTitle</key><string>דואר אלקטרוני שגויים</string>
+    <key>AccountDiscoveryInvalidEmail</key><string>הזן את הדוא ל שלך name@domain.com התבנית.</string>
+    <key>AccountDiscoveryInvalidGatewaySetting</key><string>הגדרת שער אינו חוקי.</string>
+    <key>AppsTabTitleKey</key><string>אפליקציות</string>
+    <key>DocsTabTitleKey</key><string>Docs</string>
+    <key>FilePreviewKey</key><string>תצוגה מקדימה</string>
+    <key>OpenWithXenappKey</key><string>יישום פתוח</string>
+    <key>SendFileKey</key><string>לשלוח קובץ</string>
+    <key>SaveOfflineKey</key><string>להורדה</string>
+    <key>RemoveOfflineKey</key><string>הסר</string>
+    <key>NoMatchKey</key><string>. אין התאמות נמצאו</string>
+    <key>EnableSharedDocuments</key><string>אנא הפעל מסמכים משותפים של הגדרות מתקדמות</string>
+    <key>SessionSharingWarning</key><string>אזהרה!</string>
+    <key>RemoveDocFromOffline_Title</key><string>האם להסיר את דוק?</string>
+    <key>RemoveDocFromOffline_Text</key><string>באפשרותך עדיין להציג את זה דוק כשאתה מחובר לאינטרנט.</string>
+    <key>FMDBlade_Title</key><string>שיתף אותי</string>
+    <key>FMDSendDefaultSubjectFile</key><string>קובץ נשלח לך באמצעות Sharefile</string>
+    <key>FMDSendDefaultSubjectFolder</key><string>תיקיה נשלחה אליך באמצעות Sharefile</string>
+    <key>FMDSendHintText</key><string>הזן טקסט מותאם אישית כאן.</string>
+    <key>OK</key><string>אוקיי</string>
+    <key>Cancel</key><string>ביטול</string>
+    <key>DeleteUser</key><string>האם להסיר את המשתמש?</string>
+    <key>Read</key><string>קריאה</string>
+    <key>ReadOnlyKey</key><string>לקריאה בלבד</string>
+    <key>ReadWrite</key><string>קריאה/כתיבה</string>
+    <key>RemoveButtonText</key><string>הסר</string>
+    <key>CopyFileURLKey</key><string>העתק קישור</string>
+    <key>LastModifiedBy</key><string>הבעלים</string>
+    <key>LastModified</key><string>עודכן לאחרונה</string>
+    <key>FileSize</key><string>גודל</string>
+    <key>FMD_PermanentDeleteTitle</key><string>האם למחוק לצמיתות דוק?</string>
+    <key>FMD_CannotBeUnDone</key><string>פעולה זו לא ניתן לבטל.</string>
+    <key>UserNotInAddressBook</key><string>אדם זה אינו נמצא הרשת של החברה שלך. באפשרותך לשתף תיקיות רק עם אנשים שנמצאים הרשת של החברה שלך.</string>
+    <key>NotBeingShared</key><string>תיקיה זו לא משותפת עם מישהו</string>
+    <key>SendFolderTitle</key><string>לשלוח תיקיה</string>
+    <key>SendFileTitle</key><string>לשלוח קובץ</string>
+    <key>FMD_MyDocs</key><string>%1$@ $%2@ docs</string>
+    <key>FMD_RemoveFavorite_Title</key><string>האם להסיר את התיקיה?</string>
+    <key>FMD_RemoveFavorite_Text</key><string>%@ כבר לא יסתנכרנו עם המכשירים שלכם.</string>
+    <key>Unlimited</key><string>ללא הגבלה</string>
+    <key>Downloads</key><string>הורדות</string>
+    <key>FMD_GeneralError_NotLoggedIn_Title</key><string>כניסה שגוי</string>
+    <key>FMD_GeneralError_NotLoggedIn_Text</key><string>עליך להיות מחובר כדי ShareFile כדי לבצע פעולה זו.</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Title</key><string>אין אפשרות להתחבר</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Text</key><string>בדוק את חיבור הרשת ונסה שוב.</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Title</key><string>הרופאים מחה</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Text</key><string>המנהל הסיר docs מהמכשיר שלך.</string>
+    <key>FMD_GeneralError_InvalidCredentials_Title</key><string>כניסה שגוי</string>
+    <key>FMD_GeneralError_InvalidCredentials_NonSSO_Text</key><string>שם המשתמש שגויים או סיסמה.</string>
+    <key>FMD_GeneralError_InvalidCredentials_SSO_Text</key><string>היכנס למקלט Citrix כדי להמשיך.</string>
+    <key>FMD_GeneralError_UnrecognizedSFAPIError_Title</key><string>תיקיית שיתוף הבעיה</string>
+    <key>FMD_SyncError_ItemNotFound_Title</key><string>הקובץ לא נמצא</string>
+    <key>FMD_SyncError_ItemNotFound_Text</key><string>הקובץ לא נמצא על המכשיר.</string>
+    <key>FMD_DownloadError_Title</key><string>הורדת הקובץ הבעייתי</string>
+    <key>FMD_DownloadError_ParentNotFound_Text</key><string>אין אפשרות לאחזר את הפריט הזה מתוך ענן הצמתים כי אין אפשרות לקבוע את תיקיית האב שלה.</string>
+    <key>FMD_DownloadError_AccessDenied_Text</key><string>אין לך הרשאה להוריד קבצים להתקן זה.</string>
+    <key>FMD_DownloadError_NotEnoughSpace_Text</key><string>אין אפשרות להוריד את הקובץ. יעלה לך את מגבלת 500 מגה עבור קבצים שהורדו.</string>
+    <key>FMD_UploadError_Title</key><string>בעיית העלאת קובץ</string>
+    <key>FMD_UploadError_ParentNotFound_Text</key><string>לא ניתן לשמור פריט זה אל ענן הצמתים, כי אין אפשרות לקבוע את תיקיית האב שלה.</string>
+    <key>FMD_UploadError_FileNotFound_Text</key><string>הקובץ לא נמצא על המכשיר.</string>
+    <key>FMD_UploadError_CannotReadFileAttributes_Text</key><string>לא ניתן לשמור פריט זה אל ענן הצמתים, כי לא ניתן לקבוע את גודלו על המכשיר. ייתכן שהקובץ נפגם.</string>
+    <key>FMD_UploadError_AccessDenied_Text</key><string>אין לך הרשאה להעלות קובץ זה.</string>
+    <key>FMD_AddressBookError_Title</key><string>שגיאה בספר הכתובות</string>
+    <key>FMD_EmployeeAddressBookError_AccessDenied_Text</key><string>אין אפשרות לאחזר את פנקס הכתובות של העובד מתוך ענן הצמתים כי לא ניתנה לך את הזכות accesss זה.</string>
+    <key>FMD_ClientAddressBookError_AccessDenied_Text</key><string>אין אפשרות לאחזר את פנקס הכתובות של לקוח מתוך ענן הצמתים כי לא ניתנה לך את הזכות accesss זה.</string>
+    <key>FMD_DeleteFileError_Title</key><string>לא ניתן להסיר קובץ</string>
+    <key>FMD_DeleteFileError_AccessDenied_Text</key><string>אין לך הרשאה כדי להסיר קובץ זה.</string>
+    <key>FMD_DocsSettingsLabelKey</key><string>ShareFile</string>
+    <key>FMD_DocsUsernameLabelKey</key><string>שם משתמש</string>
+    <key>FMD_DocsPasswordLabelKey</key><string>סיסמה</string>
+    <key>FMD_DocsAccountsTitleKey</key><string>הגדרות ShareFile</string>
+    <key>FMD_SaveButtonKey</key><string>שמור</string>
+    <key>FMDLoginFailedUsernamePasswdText</key><string>שם המשתמש שגויים או סיסמה.</string>
+    <key>FMDSendFileFailedTitle</key><string>בעיית שליחת קובץ</string>
+    <key>FMDShareFolderFailedTitle</key><string>תיקיית שיתוף הבעיה</string>
+    <key>FMDShareFolderFailedInvalidEmailText</key><string>הזן כתובות דוא ל name@domain.com עיצוב</string>
+    <key>FMDDownloadFailedConnectionText</key><string>אין אפשרות להתחבר. בדוק את חיבור הרשת ונסה שוב.</string>
+    <key>FMDDownloadFailedPermissionText</key><string>אין לך הרשאה להוריד קבצים להתקן זה.</string>
+    <key>FMDChooseSubDomainMessageFormatKey</key><string>משתמש זה תחום משנה? - %@</string>
+    <key>FMDUseTitleKey</key><string>שימוש</string>
+    <key>FMDNotUseTitleKey</key><string>אל תשתמש</string>
+    <key>TryDemoLabel</key><string>נסה הדגמה</string>
+    <key>FirstTimeAddYour</key><string>להוסיף שלך</string>
+    <key>FirstTimeFavoriteApps</key><string>את היישומים המועדפים</string>
+    <key>FMDErrorAddAccountFailedGeneral</key><string>בדוק את הגדרות החשבון שלך ונסה שוב</string>
+    <key>FMDErrorSubDomain</key><string>הזן את תחום משנה תבנית myaccount.sharefile.com</string>
+    <key>FMDErrorCantFindAddressBook_Title</key><string>בעיה במציאת פנקס הכתובות</string>
+    <key>FMDErrorSendingFolder_Title</key><string>בעיה לשלוח תיקיה</string>
+    <key>FMDErrorProblemCopyingLink</key><string>בעיה בהעתקת קישור</string>
+    <key>FMDErrorSaveQuota</key><string>לא היתה אפשרות לשמור את הקובץ. הגעתם את המכסה ShareFile שלך</string>
+    <key>FMDErrorNoPermissionToDownload</key><string>אין לך הרשאה להוריד קבצים להתקן זה</string>
+    <key>FMDErrorCouldNotUpload1</key><string>לא יכול להעלות את הקובץ. הגעתם את המכסה ShareFile שלך</string>
+    <key>FMDErrorCouldNotUpload2</key><string>לא יכולתי להעלות את הקובץ</string>
+    <key>FMDErrorFileNotAvailable</key><string>קובץ זה אינו זמין עוד.</string>
+    <key>FMDErrorNoDocs</key><string>המסמכים שלך אינם זמינים כעת</string>
+    <key>FMDErrorNoSharedFolders</key><string>תיקיות משותפות שלכם אינם זמינים כעת</string>
+    <key>FMDErrorFatal</key><string>אירעה שגיאה בלתי צפויה. [אם מחדש האפשר] האם ברצונך להפעיל מחדש את המקלט Citrix עכשיו? כן/לא</string>
+    <key>DeleteFileKey</key><string>מחק</string>
+    <key>ErrorKey</key><string>שגיאה</string>
+    <key>Write</key><string>כתיבה</string>
+    <key>FMD_DocsAccountsLabelKey</key><string>חשבונות</string>
+    <key>FMDLoginFailedTitle</key><string>כניסה שגוי</string>
+    <key>FMDLoginFailedGeneralText</key><string>בדוק את פרטי החשבון שלך ונסה שוב.</string>
+    <key>FMDLoginFailedURLText</key><string>הזן כתובת ה-URL myaccount.sharefile.com עיצוב</string>
+    <key>FMDLoginFailedSofttokenText</key><string>הזן קוד אסימון בתוקף.</string>
+    <key>FMDAddAccountFailedTitle</key><string>לא היתה אפשרות להוסיף חשבון</string>
+    <key>FMDLoginFailedUsernameRequiredText</key><string>הזן את שם המשתמש שלך.</string>
+    <key>FMDLoginFailedPasswordRequiredText</key><string>הזן את סיסמתך.</string>
+    <key>FMDLoginFailedInvalidEmailText</key><string>הזן את הדוא ל שלך תבנית name@domain.com</string>
+    <key>FMDLoginFailedNoAccountText</key><string>חשבון זה ShareFile לא נמצאה.</string>
+    <key>FMDSendFileFailedInvalidEmailText</key><string>הזן כתובות דוא ל name@domain.com תבנית.</string>
+    <key>FMDShareFolderFailedShare</key><string>נסה שוב בעוד כמה דקות.</string>
+    <key>FMDShareFolderFailedPersonNotFound</key><string>האנשים האלה אינם הרשת של החברה שלך. באפשרותך לשתף תיקיות רק עם אנשים שנמצאים הרשת של החברה שלך.</string>
+    <key>FMDShareFolderFailedAddressbookAccess</key><string>אין לך הרשאה לגשת לפנקס הכתובות.</string>
+    <key>FMDDownloadFailedTitle</key><string>הורדת הקובץ הבעייתי</string>
+    <key>FMDDownloadFailedSpaceText</key><string>אין מספיק מקום על המכשיר לשמור קובץ זה.</string>
+    <key>FMDDownloadFailedQuotaText</key><string>אין אפשרות להוריד את הקובץ. יעלה לך את מגבלת 500 מגה עבור קבצים שהורדו.</string>
+    <key>FMDDownloadFailedFileText</key><string>אין אפשרות למצוא קובץ זה.</string>
+    <key>FMDDownloadFailedFileSizeText</key><string>אין אפשרות לקבוע את גודל הקובץ. ייתכן שהקובץ פגום.</string>
+    <key>FMDDownloadFailedFileRemovedText</key><string>קובץ זה הוסר מהמכשיר שלך.</string>
+    <key>FMDSaveFileFailedTitle</key><string>אין אפשרות לשמור קובץ</string>
+    <key>FMDSaveFileFailedSpaceText</key><string>אין די מקום לשמירת קובץ זה. </string>
+    <key>FMDSaveFileFailedPermissionText</key><string>אין לך הרשאה לשמירת קבצים.</string>
+    <key>FMDReplaceFileTitle</key><string>האם להחליף את הקובץ?</string>
+    <key>FMDReplaceFileText</key><string>הקובץ כבר קיים, האם ברצונך להחליפו?</string>
+    <key>FMDOpenFileFailedTitle</key><string>אין אפשרות לפתוח קובץ</string>
+    <key>FMDOpenFileFailedNoAppText</key><string>לא היתה אפשרות למצוא אפליקציה עבור סוג קובץ זה. בדוק אם האפליקציה זמינה במקלט קודם.</string>
+    <key>FMDRemoveFileFailedTitle</key><string>לא ניתן להסיר קובץ</string>
+    <key>FMDRemoveFileFailedPermisisonText</key><string>אין לך הרשאה כדי להסיר קובץ זה.</string>
+    <key>FMDFileNotFoundFailedTitle</key><string>הקובץ לא נמצא</string>
+    <key>FMDFileNotFoundFailedNotAvailableText</key><string>קובץ זה אינו זמין כעת. נסה שוב בעוד כמה דקות.</string>
+    <key>FMDFileNotFoundFailedNotSyncedText</key><string>קובץ זה כולל שלא סונכרן עם המכשיר הזה עדיין.</string>
+    <key>FMDFileNotFoundFailedWipedText</key><string>המנהל הסיר docs שלך מהמכשיר שלך</string>
+    <key>FMDFileNotFoundFailedRemovedText</key><string>קובץ זה הוסר מהמכשיר שלך.</string>
+    <key>MobileAppConfirmUnsubscribeTitleKey</key><string>הסר \ "%@\"? </string>
+    <key>MobileAppConfirmUnsubscribeDescriptionKey</key><string>הסרת יישום זה מבטל את זה על כל המכשירים.</string>
+    <key>MobileAppConfirmDownloadTitleKey</key><string>לאשר להורדה</string>
+    <key>MobileAppConfirmDownloadDescriptionKey</key><string>האפליקצייה הזאת קודם להורידו למכשיר שלך כדי לפתוח אותה. האם ברצונך להוריד יישום זה?</string>
+    <key>AppPendingTitleKey</key><string>App בקשה ממתינה</string>
+    <key>AppPendingDescriptionKey</key><string>יישום זה טעונה אישור.</string>
+    <key>AppDeniedTitleKey</key><string>App הבקשה נדחית</string>
+    <key>AppDeniedDescriptionKey</key><string>הגישה ל- app זו נדחתה.</string>
+    <key>MaintenenceModeTitleKey</key><string>App נכים</string>
+    <key>MaintenenceModeAppDisabled</key><string>יישום זה אינו זמין כעת</string>
+    <key>AppNotFoundTitleKey</key><string>האפליקציה לא זמינה</string>
+    <key>AppNotFoundDescriptionKey</key><string>יישום זה אינו זמין כעת.</string>
+    <key>SelectFeedbackTitleKey</key><string>שלח משוב</string>
+    <key>SelectFeedbackCancelKey</key><string>ביטול</string>
+    <key>GeneralFeedback</key><string>משוב כללי</string>
+    <key>ReportIssue</key><string>דוח בעיה</string>
+    <key>EmailSubjectForIOSLogs</key><string>עבור יומני רישום של iOS</string>
+    <key>EmailSubjectForIOSFeedback</key><string>למשוב iOS</string>
+    <key>EmailSubjectForFeatureIdeasToCitrix</key><string>לשלוח רעיונות תכונה Citrix</string>
+    <key>JailBrokenAlertTitle</key><string>התקן אינו מאובטח</string>
+    <key>JailBrokenAlertMsg</key><string>החברה שלך אינו מאפשר יישום זה להפעיל במכשיר jailbroken.</string>
+    <key>WifiRequiredAlertMsg</key><string>להתחבר לרשת אלחוטית לשימוש יישום זה.</string>
+    <key>AccountLockedTitle</key><string>אפליקציות נעול</string>
+    <key>AccountLockedMessage</key><string>הארגון שלך נעל את היישומים Citrix המקלט שלך. פנה אל מנהל המערכת שלך לקבלת מידע נוסף.</string>
+    <key>DeviceNameLabel</key><string>שם ההתקן</string>
+    <key>WebcamPermissionDialogTitle</key><string>שולחן העבודה הווירטואלי שלך מנסה להשתמש המיקרופון או מצלמת אינטרנט.</string>
+    <key>WebcamPermissionDialogMsg</key><string>אתה רוצה את שולחן העבודה הווירטואלי להשתמש המכשירים הללו?</string>
+    <key>MouseViewFTUGuide</key><string>הקש פעמיים כדי זום</string>
+    <key>BAIPairingTitleKey</key><string>זיווג</string>
+    <key>BAIBeginPairingKey</key><string>לשים את הקורא \"Continue\ לגילוי מצב והקש" כדי להתחיל זיווג.</string>
+    <key>BAIAttachAdapterKey</key><string>לצרף את baiMobile מתאם Bluetooth למכשיר שלך</string>
+    <key>BAICancelKey</key><string>ביטול</string>
+    <key>BAISearchDiscoverableDevicesKey</key><string>מחפש התקנים ניתנים לגילוי</string>
+    <key>BAISelectDeviceKey</key><string>בחר התקן</string>
+    <key>BAISearchAgainKey</key><string>חפשו שוב</string>
+    <key>BAIPairingPINMatchKey</key><string>האם הקוד המוצג על הקורא באי שלך תואם את הקוד המוצג להלן?</string>
+    <key>BAIOneMomentKey</key><string>רגע אחד...</string>
+    <key>BAIPairingCompleteKey</key><string>זה טלפון מזווג עכשיו לקורא baiMobile</string>
+    <key>BAIUnableToPairKey</key><string>אין אפשרות לשייך לקורא. נסה מחדש חיבור האביזר וקבלת קורא הכרטיס החכם שלך במצב לגילוי לפני מנסה לזווג שוב.</string>
+    <key>BAIContinueKey</key><string>המשך</string>
+    <key>BAIRetryKey</key><string>נסה שוב.</string>
+    <key>BAIPairingMatchButtonKey</key><string>. כן, הקוד תואם.</string>
+    <key>BAIPairingNoMatchButtonKey</key><string>. לא, הקוד אינו תואם.</string>
+    <key>BAIPairingDismissButtonKey</key><string>בטל</string>
+    <key>%d attempts remaining.</key><string>%d ניסיונות הנותרים.</string>
+    <key>1 attempt remaining.</key><string>1 ניסיון הנותרים.</string>
+    <key>Ask the card issuer to unblock your smart card before signing on.</key><string>בקש מנפיק הכרטיס לבטל את חסימת הכרטיס החכם שלך לפני החתימה.</string>
+    <key>Connect Smart Card</key><string>חיבור כרטיס חכם</string>
+    <key>Enter Smart Card PIN</key><string>להיכנס הכרטיס החכם PIN</string>
+    <key>Identity</key><string>זהות</string>
+    <key>Insert Smart Card</key><string>הכנס את הכרטיס החכם</string>
+    <key>Please connect your smart card reader to continue.</key><string>בבקשה לחבר שלך קורא כרטיס חכם כדי להמשיך.</string>
+    <key>Please connect your smart card reader to sign on.</key><string>בבקשה לחבר שלך קורא כרטיסים חכמים לחתום.</string>
+    <key>Please insert your smart card to continue.</key><string>נא הכנס את הכרטיס החכם שלך כדי להמשיך.</string>
+    <key>Please insert your smart card to sign on.</key><string>נא הכנס את הכרטיס החכם שלך לחתום.</string>
+    <key>Please wait...</key><string>חכה בבקשה...</string>
+    <key>Smart card PIN</key><string>כרטיס חכם PIN</string>
+    <key>You have exceeded the maximum sign on attempts.\n\n</key><string>חרגת השלט המרבי על attempts.\n\n</string>
+    <key>Your PIN is incorrect. Please try again.</key><string>את מספר הזיהוי האישי אינה נכונה. נא נסה שוב.</string>
+    <key>Your smart card does not have a valid certificate.</key><string>הכרטיס החכם שלך אין אישור חוקי.</string>
+    <key>Your smart card is blocked.</key><string>הכרטיס החכם שלך חסומה.</string>
+    <key>Your smart card is blocked.\n\nAsk the card issuer to unblock your smart card before signing on.</key><string>הכרטיס החכם שלך הוא blocked.\n\nAsk מנפיק הכרטיס לבטל את חסימת הכרטיס החכם שלך לפני החתימה.</string>
+    <key>Your smart card is not recognized. Please insert a valid smart card.</key><string>הכרטיס החכם שלך אינו מזוהה. נא הכנס כרטיס חכם בתוקף.</string>
+    <key>KURL_ERROR_COULD_NOT_SET_OPENSSL_CERTIFICATE</key><string>אישור SSL של הגדרת השגיאה כרטיס חכם.</string>
+    <key>KURL_ERROR_COULD_NOT_SET_OPENSSL_SMARTCARD_PRIVATE_KEY</key><string>כרטיס חכם שגיאה הגדרת SSL פרטי מפתח.</string>
+    <key>KURL_REQUEST_CANCELLED</key><string>בקשת כרטיס חכם ביטל.</string>
+    <key>KURL_ERROR_SSL_CONNECT_FAILURE</key><string>שגיאת חיבור SSL של כרטיס חכם.</string>
+    <key>KURL_REQUEST_CANCELLED_BY_USER</key><string>בקשת כרטיס חכם בוטלה על ידי המשתמש.</string>
+    <key>KURL_STATUS_UNKNOWN</key><string>שגיאה בקשת כרטיס חכם לא ידוע.</string>
+    <key>This server requires a client certificate</key><string>שרת זה מחייב אישור לקוח.</string>
+    <key>The server rejected the client certificate</key><string>השרת דחה את אישור הלקוח.</string>
+    <key>Server error: %@.</key><string>שגיאת שרת: %@.</string>
+    <key>New Feature! New Gestures!</key><string>תכונה חדשה! מחוות חדשות!</string>
+    <key>App Switcher starts automatically when you open a second app.</key><string>App Switcher מופעל באופן אוטומטי בעת פתיחת יישום השני.</string>
+    <key>Shows one of your running apps</key><string>מראה אחד מהיישומים שלך פועל</string>
+    <key>Shows all your running apps</key><string>מציג את כל היישומים שלך פועל</string>
+    <key>Closes an app</key><string>סגירת יישום</string>
+    <key>Remind me next time</key><string>. תזכיר לי בפעם הבאה</string>
+    <key>Got it</key><string>הבנתי</string>
+    <key>UnavailableDesktop</key><string>שולחן העבודה אינו זמין כעת.</string>
+    <key>AppRemoved</key><string>האפליקציה לא זמין.</string>
+    <key>NoMoreActiveSessions</key><string>לא עוד הפעלות.</string>
+    <key>NotLicensed</key><string>לא מורשה.</string>
+    <key>CouldNotConnectToWorkstation</key><string>לא היתה אפשרות להתחבר לתחנת העבודה.</string>
+    <key>WorkstationInMaintenance</key><string>שולחן העבודה אינו זמין באופן זמני עקב תחזוקה מתוכננת.</string>
+    <key>ResourceError</key><string>משאב שגיאה</string>
+    <key>GeneralAppLaunchError</key><string>באפשרותך להפעיל את היישום</string>
+</dict></plist>

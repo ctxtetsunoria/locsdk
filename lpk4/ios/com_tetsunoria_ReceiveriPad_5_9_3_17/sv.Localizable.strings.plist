@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CTXDAY</key><string>dag</string>
+    <key>CTXDAYS</key><string>dagar</string>
+    <key>CTXHOUR</key><string>timme</string>
+    <key>CTXHOURS</key><string>timmar</string>
+    <key>CTXMINUTE</key><string>minut</string>
+    <key>CTXMINUTES</key><string>minuter</string>
+    <key>CTXSECOND</key><string>andra</string>
+    <key>CTXSECONDS</key><string>sekunder</string>
+    <key>AlertButtonDISMISS</key><string>Avfärda</string>
+    <key>AlertButtonLATER</key><string>Senare</string>
+    <key>AlertButtonLOGON</key><string>Logga in på</string>
+    <key>AlertButtonEXIT</key><string>Exit</string>
+    <key>AlertButtonQUIT</key><string>Sluta</string>
+    <key>AlertButtonOK</key><string>Okej</string>
+    <key>AlertButtonUPDATENOW</key><string>Uppdatera nu</string>
+    <key>AlertButtonSETTINGS</key><string>Inställningar</string>
+    <key>AlertButtonINSTALL</key><string>Installera</string>
+    <key>AlertButtonOPENRECEIVER</key><string>Auktorisera</string>
+    <key>AlertButtonSTARTRECEIVER</key><string>Starta mottagaren</string>
+    <key>AlertButtonCONTINUE</key><string>Fortsätta</string>
+    <key>ReceiverNotInstalledAlertTitle</key><string>Kan inte hitta mottagare</string>
+    <key>ReceiverNotInstalledAlertMsg</key><string>Installera Citrix Receiver på din %@ för att använda denna app.</string>
+    <key>LogonRequiredAlertTitle</key><string>Inloggning krävs</string>
+    <key>LogonRequiredAlertMsg</key><string>Logga in på Citrix Receiver säkert använda denna app.</string>
+    <key>LogonMaybeRequiredAlertTitle</key><string></string>
+    <key>LogonMaybeRequiredAlertMsg</key><string>Citrix Receiver måste tillåta denna app.</string>
+    <key>LogonFailedAlertTitle</key><string>Kan inte logga in</string>
+    <key>LogonFailedAlertMsg</key><string>Verifiera dina autentiseringsuppgifter och försök igen.</string>
+    <key>AppRemovedAlertTitle</key><string>App inte tillgänglig</string>
+    <key>AppRemovedAlertMsg</key><string>Denna app har tagits bort från Citrix Receiver. Du kan ta bort det från din %@ eller installera om det i mottagaren.</string>
+    <key>JailBrokenAlertTitle</key><string></string>
+    <key>JailBrokenAlertMsg</key><string>Organisationen tillåter inte denna app att köra på en jailbreakad %@.</string>
+    <key>PasscodeRequiredAlertTitle</key><string>Lösenord krävs</string>
+    <key>PasscodeRequiredAlertMsg</key><string>Ange ett lösenord på din enhet att använda denna app.</string>
+    <key>RequireInternalNetworkAlertTitle</key><string>Interna nätverk krävs</string>
+    <key>RequireInternalNetworkAlertMsg</key><string>Ansluta till det interna nätverket att använda denna app.</string>
+    <key>WifiRequiredAlertTitle</key><string>WiFi krävs</string>
+    <key>WifiRequiredAlertMsg</key><string>Anslut till WiFi-nätverk att använda denna app.</string>
+    <key>InternalWifiRequiredAlertTitle</key><string>Auktoriserad WiFi krävs</string>
+    <key>InternalWifiRequiredAlertMsg</key><string>Ansluta till en auktoriserad trådlöst nätverk att använda denna app:%@</string>
+    <key>OfflineLeaseWarningAlertTitle</key><string>Inloggning krävs</string>
+    <key>OfflineLeaseWarningAlertMsg</key><string>Logga in på Citrix Receiver inom %@ %@ för att fortsätta använda denna app. Efter denna tid, är app låst.</string>
+    <key>AppUpdateDeferAlertTitle</key><string>Uppdatering tillgänglig</string>
+    <key>AppUpdateDeferAlertMsg</key><string>Du måste uppdatera denna app inom %@ %@.</string>
+    <key>AppUpdateGracePeriodExpiredAlertTitle</key><string>Uppdatering krävs</string>
+    <key>AppUpdateGracePeriodExpiredAlertMsg</key><string>Du kan inte använda denna app tills uppdateringen.</string>
+    <key>AppUpdateGracePeriodWarningAlertTitle</key><string>Uppdatering krävs</string>
+    <key>AppUpdateGracePeriodWarningAlertMsg</key><string>Du har %@ mer %@ att använda denna app. Vänligen spara ditt arbete och uppdateringen.</string>
+    <key>DontShowThisMsgAgainOption</key><string>Visa inte detta meddelande igen</string>
+    <key>AGSessionExpiredAlertTitle</key><string>Anslutning löpt ut</string>
+    <key>AGSessionExpiredAlertMsg</key><string>Logga in på Citrix Receiver att fortsätta använda denna app.</string>
+    <key>LogonRequiredForSTATicketExpiredAlertTitle</key><string>Inloggning krävs</string>
+    <key>LogonRequiredForSTATicketExpiredAlertMsg</key><string>Logga in på Citrix Receiver att aktivera nätverksåtkomst. Pressen fortsätter att använda app utan tillgång till nätverket.</string>
+    <key>LogonRequiredForNetworkAccessAlertTitle</key><string>Inloggning krävs</string>
+    <key>LogonRequiredForNetworkAccessAlertMsg</key><string>Logga in på Citrix Receiver att aktivera nätverksåtkomst. Pressen fortsätter att använda app utan tillgång till nätverket.</string>
+    <key>IPC_InvalidAppAlertTitle</key><string></string>
+    <key>IPC_InvalidAppAlertMsg</key><string>Denna app är inte kompatibel med Citrix Receiver. Prova att ta bort den och installera om den.</string>
+    <key>IPC_NoStoreFoundAlertTitle</key><string>Kan inte hitta App</string>
+    <key>IPC_NoStoreFoundAlertMsg</key><string>Vänligen ange ditt konto i Citrix Receiver innan du startar denna app.</string>
+    <key>IPC_QuitRequestAlertTitle</key><string></string>
+    <key>IPC_QuitRequestAlertMsg</key><string>Citrix Receiver kan inte kommunicera med denna app.</string>
+    <key>IPC_WakeReceiverAlertTitle</key><string></string>
+    <key>IPC_WakeReceiverAlertMsg</key><string>Appen kommer bli aktiv igen när Citrix Receiver börjar.</string>
+    <key>AppContainmentAlertTitle</key><string>Begränsad av admin politik</string>
+    <key>AppContainment_DISABLECOPYAlertMsg</key><string>\"Cut och copy\" blockeras för denna app.</string>
+    <key>AppContainment_DISABLEPASTEAlertMsg</key><string>\"Paste\" är spärrad för denna app</string>
+    <key>AppContainment_DISABLECAMERAAlertMsg</key><string>\"Camera\" är spärrad för denna app</string>
+    <key>AppContainment_DISABLEMICAlertMsg</key><string>\"Mic record\" är spärrad för denna app</string>
+    <key>AppContainment_DISABLELOCATIONAlertMsg</key><string>\"Location\" tjänster blockeras för denna app</string>
+    <key>AppContainment_DISABLESMSAlertMsg</key><string>\"SMS\" komponera är spärrad för denna app.</string>
+    <key>AppContainment_DISABLEEMAILAlertMsg</key><string>\"Email\" komponera är spärrad för denna app</string>
+    <key>AppContainment_DISABLEICLOUDAlertMsg</key><string>\"iCloud\" är spärrad för denna app</string>
+    <key>AppContainment_DISABLEPRINTINGAlertMsg</key><string>\"AirPrint\" är spärrad för denna app</string>
+    <key>AppContainment_DISABLEOPENINAlertMsg</key><string>\"Opening Files\" är spärrad för denna app</string>
+    <key>AppContainment_AlertMsg</key><string>%@ begränsas av administratör politik.</string>
+    <key>AppContainment_CommonAlertMsg</key><string>Din administratör blockerade %@.</string>
+    <key>CTXCamera</key><string>Kamera</string>
+    <key>CTXCutCopy</key><string>Klipp ut &amp; kopiera</string>
+    <key>CTXPaste</key><string>Klistra in</string>
+    <key>CTXDocumentExchange</key><string>Utväxling av dokument (öppna i)</string>
+    <key>CTXMicrophoneRecording</key><string>Mikrofoninspelning</string>
+    <key>CTXLocationServicesGPS</key><string>Platstjänster (GPS)</string>
+    <key>CTXSMS</key><string>SMS</string>
+    <key>CTXEmail</key><string>E-post</string>
+    <key>CTXPrinting</key><string>Utskrift</string>
+    <key>CTXNetworkAccess</key><string>Network Access</string>
+    <key>CTXICloud</key><string>iCloud</string>
+    <key>CTXand</key><string>och</string>
+    <key>DataProtection_KeyFailureAlertTitle</key><string>Kan inte komma åt App Data</string>
+    <key>DataProtection_KeyFailureAlertMsg</key><string>Kontrollera att du kan ansluta till nätverket och försök logga in Citrix mottagaren igen.</string>
+    <key>DataProtection_PolicyChangeAlertTitle</key><string></string>
+    <key>DataProtection_PolicyChangeAlertMsg</key><string>Ansökan data tillgång politik har ändrats. Ta bort och installera denna app för att fortsätta använda</string>
+    <key>AppDisabledTitle</key><string>App inte tillgänglig</string>
+    <key>AppDisabledMsg</key><string>Denna app är tillfälligt inaktiverad.</string>
+    <key>Done</key><string>Gjort</string>
+    <key>Downloadable Resources</key><string>Nedladdningsbara resurser</string>
+    <key>Language</key><string>Språk</string>
+    <key>No Downloadable Resource</key><string>Ingen nedladdningsbara resurs</string>
+    <key>Package Resources</key><string>Paketet resurser</string>
+    <key>Select Language</key><string>Välj språk</string>
+    <key>SettingsAutoSendCrash</key><string>Automatisk rapport</string>
+    <key>SettingsAutoSendCrashDescription</key><string>Om en krasch visas skulle data skickas till byggherren automatiskt utan att fråga användarna.</string>
+    <key>SettingsAllowContact</key><string>Tillåt kontakt</string>
+    <key>SettingsContactEmail</key><string>E-postadress</string>
+    <key>SettingsContactDescription</key><string>Den e-postadressen endast användas för att kontakta användaren om det kan finnas fler förtydliganden behövs om problemet</string>
+    <key>SettingsCrashTitle</key><string>Felrapport</string>
+    <key>Return</key><string>Avkastning</string>
+    <key>Enter</key><string>Ange</string>
+    <key>Tab</key><string>Fliken</string>
+    <key>Space</key><string>Utrymme</string>
+    <key>Delete</key><string>Ta bort</string>
+    <key>Clear</key><string>Klart</string>
+    <key>Esc</key><string>ESC</string>
+    <key>Home</key><string>Hem</string>
+    <key>Page Up</key><string>Sida upp</string>
+    <key>End</key><string>Slutet</string>
+    <key>Page Down</key><string>Sida ned</string>
+    <key>Help</key><string>Hjälp</string>
+    <key>Keypad .</key><string>Knappsatsen.</string>
+    <key>Keypad *</key><string>Knappsatsen *</string>
+    <key>Keypad +</key><string>Knappsats +</string>
+    <key>Keypad /</key><string>Knappsats /</string>
+    <key>Keypad -</key><string>Knappsats-</string>
+    <key>Keypad =</key><string>Knappsatsen =</string>
+    <key>Keypad 0</key><string>Knappsats 0</string>
+    <key>Keypad 1</key><string>Knappsats 1</string>
+    <key>Keypad 2</key><string>Knappsatsen 2</string>
+    <key>Keypad 3</key><string>Knappsatsen 3</string>
+    <key>Keypad 4</key><string>Knappsatsen 4</string>
+    <key>Keypad 5</key><string>Knappsatsen 5</string>
+    <key>Keypad 6</key><string>Knappsatsen 6</string>
+    <key>Keypad 7</key><string>Knappsatsen 7</string>
+    <key>Keypad 8</key><string>Knappsats 8</string>
+    <key>Keypad 9</key><string>Knapparna 9</string>
+    <key>F1</key><string>F1</string>
+    <key>F2</key><string>F2</string>
+    <key>F3</key><string>F3</string>
+    <key>F4</key><string>F4</string>
+    <key>F5</key><string>F5</string>
+    <key>F6</key><string>F6</string>
+    <key>F7</key><string>F7</string>
+    <key>F8</key><string>F8</string>
+    <key>F9</key><string>F9</string>
+    <key>F10</key><string>F10</string>
+    <key>F11</key><string>F11</string>
+    <key>F12</key><string>F12</string>
+    <key>F13</key><string>F13</string>
+    <key>F14</key><string>F14</string>
+    <key>F15</key><string>F15</string>
+    <key>F16</key><string>F16</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>Oväntade autentiseringsfel.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>Ingen autentisering levererades.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>Försök logga in var inte lyckat.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID är erkänd utan inaktuella. Vänligen autentiseras igen innan du fortsätter.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID gäller inte hittade /.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>Den nuvarande AuthID är inte giltig för begäran underdomänen.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>Den nuvarande verktyg/konto kombinationen nekas från använder API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>Oväntade drift fel.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>Den begärda åtgärden matchar inte någon stöds op.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Denna op kräver eller parametrar som inte levererades.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>Parametrar som levereras är inte giltiga (e.g. sträng i stället för int, val av sortiment, etc).</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>Önskade OP är inte kompatibel med den aktuella mål-ID.</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>OP är inte tillåtet för nuvarande ShareFile konto (funktionen funktionshindrade/ingen tillåtelse).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>OP tillåts inte för den aktuella ShareFile användaren (användaren har inte lämpliga användare roll/behörigheter att använda).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>OP är inte tillåtet för mål (användaren kan ha rätt roll/behörighet i övriga fall, men inte för detta specifika ID).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>Oväntade mål fel.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>Efterfrågades målet finns men inte av rätt typ (t.ex. försöker utföra mapp op på en fil).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>Mål hittades inte.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>Oväntade skapa fel.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>Medföljande förälder är inte giltig för att skapa önskade objekt (t.ex. försöker skapa en mapp i roten på ett konto).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>Oväntade redigera fel.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>Artikeln du försöker skapa redan finns.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>Artikeln du försöker redigera redan finns.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>Ett oväntat fel.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>Server genomgår underhåll.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>Gränsen för nått.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>Servern är över kapacitet.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>Ett oväntat fel (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>Servern är över kapacitet (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>Ladda upp förberedelse misslyckades (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>Hämta förberedelse misslyckades (SC).</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON tolka fel.</string>
+    <key>SFAPIConnection_NilResponse</key><string>SFResponse objekt var noll. Stöds denna begäran?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>En nätverksanslutning upptäcktes inte.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth misslyckades. Reauth information var noll.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth misslyckades. SSO information var noll.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth misslyckades. Ett okänt fel.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth misslyckades. SAML login-typen som stöds inte.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection fick autentisering utmaning.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Okänd svarsformat.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest var noll.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest ogiltigt. Kontrollera krävs begäran params.</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>Oväntade autentiseringsfel.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>Ingen autentisering levererades.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>Försök logga in var inte lyckat.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID är erkänd utan inaktuella. Vänligen autentiseras igen innan du fortsätter.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID gäller inte hittade /.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>Den nuvarande AuthID är inte giltig för begäran underdomänen.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>Den nuvarande verktyg/konto kombinationen nekas från använder API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>Oväntade drift fel.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>Den begärda åtgärden matchar inte någon stöds op.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Denna op kräver eller parametrar som inte levererades.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>Parametrar som levereras är inte giltiga (e.g. sträng i stället för int, val av sortiment, etc).</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>Önskade OP är inte kompatibel med den aktuella mål-ID.</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>OP är inte tillåtet för nuvarande ShareFile konto (funktionen funktionshindrade/ingen tillåtelse).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>OP tillåts inte för den aktuella ShareFile användaren (användaren har inte lämpliga användare roll/behörigheter att använda).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>OP är inte tillåtet för mål (användaren kan ha rätt roll/behörighet i övriga fall, men inte för detta specifika ID).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>Oväntade mål fel.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>Efterfrågades målet finns men inte av rätt typ (t.ex. försöker utföra mapp op på en fil).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>Mål hittades inte.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>Oväntade skapa fel.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>Medföljande förälder är inte giltig för att skapa önskade objekt (t.ex. försöker skapa en mapp i roten på ett konto).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>Oväntade redigera fel.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>Artikeln du försöker skapa redan finns.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>Artikeln du försöker redigera redan finns.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>Ett oväntat fel.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>Server genomgår underhåll.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>Gränsen för nått.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>Servern är över kapacitet.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>Ett oväntat fel (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>Servern är över kapacitet (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>Ladda upp förberedelse misslyckades (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>Hämta förberedelse misslyckades (SC).</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON tolka fel.</string>
+    <key>SFAPIConnection_NilResponse</key><string>SFResponse objekt var noll. Stöds denna begäran?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>En nätverksanslutning upptäcktes inte.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth misslyckades. Reauth information var noll.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth misslyckades. SSO information var noll.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth misslyckades. Ett okänt fel.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth misslyckades. SAML login-typen som stöds inte.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection fick autentisering utmaning.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Okänd svarsformat.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest var noll.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest ogiltigt. Kontrollera krävs begäran params.</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>Oväntade autentiseringsfel.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>Ingen autentisering levererades.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>Försök logga in var inte lyckat.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID är erkänd utan inaktuella. Vänligen autentiseras igen innan du fortsätter.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID gäller inte hittade /.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>Den nuvarande AuthID är inte giltig för begäran underdomänen.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>Den nuvarande verktyg/konto kombinationen nekas från använder API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>Oväntade drift fel.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>Den begärda åtgärden matchar inte någon stöds op.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Denna op kräver eller parametrar som inte levererades.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>Parametrar som levereras är inte giltiga (e.g. sträng i stället för int, val av sortiment, etc).</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>Önskade OP är inte kompatibel med den aktuella mål-ID.</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>OP är inte tillåtet för nuvarande ShareFile konto (funktionen funktionshindrade/ingen tillåtelse).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>OP tillåts inte för den aktuella ShareFile användaren (användaren har inte lämpliga användare roll/behörigheter att använda).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>OP är inte tillåtet för mål (användaren kan ha rätt roll/behörighet i övriga fall, men inte för detta specifika ID).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>Oväntade mål fel.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>Efterfrågades målet finns men inte av rätt typ (t.ex. försöker utföra mapp op på en fil).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>Mål hittades inte.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>Oväntade skapa fel.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>Medföljande förälder är inte giltig för att skapa önskade objekt (t.ex. försöker skapa en mapp i roten på ett konto).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>Oväntade redigera fel.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>Artikeln du försöker skapa redan finns.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>Artikeln du försöker redigera redan finns.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>Ett oväntat fel.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>Server genomgår underhåll.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>Gränsen för nått.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>Servern är över kapacitet.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>Ett oväntat fel (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>Servern är över kapacitet (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>Ladda upp förberedelse misslyckades (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>Hämta förberedelse misslyckades (SC).</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON tolka fel.</string>
+    <key>SFAPIConnection_NilResponse</key><string>SFResponse objekt var noll. Stöds denna begäran?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>En nätverksanslutning upptäcktes inte.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth misslyckades. Reauth information var noll.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth misslyckades. SSO information var noll.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth misslyckades. Ett okänt fel.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth misslyckades. SAML login-typen som stöds inte.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection fick autentisering utmaning.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Okänd svarsformat.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest var noll.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest ogiltigt. Kontrollera krävs begäran params.</string>
+    <key>14.normalTitle</key><string>Gjort</string>
+    <key>139.normalTitle</key><string>◀</string>
+    <key>140.normalTitle</key><string>▲</string>
+    <key>141.normalTitle</key><string>▶</string>
+    <key>143.normalTitle</key><string>▼</string>
+    <key>177.text</key><string>Par</string>
+    <key>178.text</key><string>Hem</string>
+    <key>179.text</key><string>Piltangenterna</string>
+    <key>180.text</key><string>Tangentbord</string>
+    <key>181.text</key><string>Pekaren</string>
+    <key>182.text</key><string>Switch</string>
+    <key>299.text</key><string>Förstoringsglas</string>
+    <key>301.text</key><string>Mus</string>
+    <key>316.text</key><string>Gest Guide</string>
+    <key>329.text</key><string>Ett finger Tap:</string>
+    <key>330.text</key><string>Enda klick</string>
+    <key>331.text</key><string>Touch-håll-Release:</string>
+    <key>332.text</key><string>Högerklicka på</string>
+    <key>333.text</key><string>Tre fingrar:</string>
+    <key>334.text</key><string>Tangentbord</string>
+    <key>335.text</key><string>Nyp in och ut:</string>
+    <key>336.text</key><string>Zoom</string>
+    <key>337.text</key><string>Touch-håll-bild:</string>
+    <key>338.text</key><string>Dra</string>
+    <key>339.text</key><string>Två fingrar:</string>
+    <key>340.text</key><string>Alt + Tab</string>
+    <key>40.text</key><string>© 2014 Citrix Systems, Inc. Alla rättigheter reserverade.</string>
+    <key>58.text</key><string>Ytterligare Copyright-Information</string>
+    <key>8.normalTitle</key><string>Lägg till favorit</string>
+    <key>4.placeholder</key><string>http://Citrix.mycompany.com</string>
+    <key>5.text</key><string>Skriv in adressen till företagets Citrix hemsida.</string>
+    <key>26.title</key><string>Lastning</string>
+    <key>97.title</key><string>Butiker</string>
+    <key>4.text</key><string>Mappnamn</string>
+    <key>5.text</key><string>Senast ändrad februari 29,2012 2:21 PM</string>
+    <key>6.text</key><string>(Läs &amp; skriv)</string>
+    <key>8.text</key><string>Storlek 134.2 MB</string>
+    <key>10.normalTitle</key><string>Dela mapp</string>
+    <key>26.normalTitle</key><string>Skicka mapp</string>
+    <key>39.text</key><string>Ägare</string>
+    <key>5.segmentTitles[0]</key><string>Inbjuder</string>
+    <key>5.segmentTitles[1]</key><string>Behörigheter</string>
+    <key>14.segmentTitles[0]</key><string>Läs</string>
+    <key>14.segmentTitles[1]</key><string>Läs/skriv</string>
+    <key>15.text</key><string>Tillgång</string>
+    <key>24.text</key><string>Till:</string>
+    <key>38.segmentTitles[0]</key><string>Läs</string>
+    <key>38.segmentTitles[1]</key><string>Skriva</string>
+    <key>38.segmentTitles[2]</key><string>Läs &amp; skriv</string>
+    <key>39.normalTitle</key><string>X</string>
+    <key>52.title</key><string>Stäng</string>
+    <key>58.text</key><string>Dela mapp</string>
+    <key>69.text</key><string>Etikett</string>
+    <key>9.text</key><string>Jack Black</string>
+    <key>10.text</key><string>Storlek 12,4 MB</string>
+    <key>19.text</key><string>Storlek:</string>
+    <key>20.text</key><string>Februari 29.2012</string>
+    <key>7.title</key><string>Stäng</string>
+    <key>16.text</key><string>Etikett</string>
+    <key>22.text</key><string>Till</string>
+    <key>28.text</key><string>Nedladdningar</string>
+    <key>31.text</key><string>Spår som nedladdningar</string>
+    <key>33.text</key><string>Kopiera mig</string>
+    <key>35.text</key><string>Meddela mig på nedladdning</string>
+    <key>40.segmentTitles[0]</key><string>Obegränsad</string>
+    <key>40.segmentTitles[1]</key><string>Dag</string>
+    <key>40.segmentTitles[2]</key><string>Vecka</string>
+    <key>40.segmentTitles[3]</key><string>Månad</string>
+    <key>48.segmentTitles[0]</key><string>Skicka fil</string>
+    <key>48.segmentTitles[1]</key><string>Kopiera länk</string>
+    <key>14.segmentTitles[0]</key><string>Hämta GoToMeeting</string>
+    <key>20.placeholder</key><string>123-456-789</string>
+    <key>21.text</key><string>GoToMeeting gör det lättare att delta i online-möten på din iPad. Skriv bara in mötet ID nummer och ditt namn och klicka på \"Join\" knappen.</string>
+    <key>22.segmentTitles[0]</key><string>Gå med möte</string>
+    <key>30.text</key><string>Ogiltig mötes ID</string>
+    <key>32.text</key><string>Ansluta till ett möte</string>
+    <key>33.text</key><string>Mötes ID:</string>
+    <key>34.placeholder</key><string>Förnamn efternamn</string>
+    <key>36.text</key><string>Namn:</string>
+    <key>37.text</key><string>Vill veta hur du kan vara värd dina egna möten, besök:</string>
+    <key>38.text</key><string>För support, vänligen besök:</string>
+    <key>40.normalTitle</key><string>GoToMeeting.com</string>
+    <key>41.normalTitle</key><string>Support Center</string>
+    <key>179.normalTitle</key><string>Stäng</string>
+    <key>14.text</key><string>Snälla vänta...</string>
+    <key>24.text</key><string>Etikett</string>
+    <key>13.title</key><string>Skär</string>
+    <key>14.title</key><string>Kopia</string>
+    <key>15.title</key><string>Klistra in</string>
+    <key>16.title</key><string>Ångra</string>
+    <key>45.title</key><string>F1</string>
+    <key>47.title</key><string>F2</string>
+    <key>48.title</key><string>F3</string>
+    <key>49.title</key><string>F4</string>
+    <key>50.title</key><string>F5</string>
+    <key>51.title</key><string>F6</string>
+    <key>52.title</key><string>F7</string>
+    <key>53.title</key><string>F8</string>
+    <key>54.title</key><string>F9</string>
+    <key>55.title</key><string>F10</string>
+    <key>56.title</key><string>F11</string>
+    <key>57.title</key><string>F12</string>
+    <key>9.title</key><string>ESC</string>
+    <key>26.title</key><string>CTRL</string>
+    <key>27.title</key><string>FN</string>
+    <key>28.title</key><string>Sida</string>
+    <key>29.title</key><string>Del</string>
+    <key>111.title</key><string>Alt</string>
+    <key>113.title</key><string>Fliken</string>
+    <key>120.segmentTitles[1]</key><string>T</string>
+    <key>17.title</key><string>Hem</string>
+    <key>18.title</key><string>Slutet</string>
+    <key>57.title</key><string>Gjort</string>
+    <key>62.placeholder</key><string>Sök</string>
+    <key>101.text</key><string>Uppdatera programlistan</string>
+    <key>103.text</key><string>Snälla vänta...</string>
+    <key>45.title</key><string>Logga ut</string>
+    <key>7.text</key><string>Förnamn:</string>
+    <key>8.text</key><string>Efternamn:</string>
+    <key>9.text</key><string>E-postadress:</string>
+    <key>37.text</key><string>Tack för din bla bla bla </string>
+    <key>38.normalTitle</key><string>Fortsätta</string>
+    <key>16.text</key><string>Lära sig mer...</string>
+    <key>5.text</key><string>Interaktiv film</string>
+    <key>4.text</key><string>Välj \"pair\" på iPad du vill ansluta.</string>
+    <key>23.normalTitle</key><string>Lägg till konto</string>
+    <key>24.normalTitle</key><string>Få Demo</string>
+    <key>25.text</key><string>Lära sig mer...</string>
+    <key>WelcomeScreenTitleKey</key><string>Välkommen</string>
+    <key>WelcomeScreenDemoAccountPageTitle</key><string>Registrera dig för Citrix Demo moln</string>
+    <key>WelcomeScreenSetupWorkspaceTitleKey</key><string>Min arbetsyta</string>
+    <key>WelcomeScreenDemoAccountiPhonePageTitle</key><string>Demo moln</string>
+    <key>CRDemoRegistrationRegisterButtonLabelKey</key><string>Registrera dig</string>
+    <key>CRDemoRegistrationWarningTitleKey</key><string>Varning</string>
+    <key>CRDemoRegistrationWarningMessageKey</key><string>Ange giltiga referenser innan du fortsätter</string>
+    <key>CRDemoRegistrationFailedErrorTitleKey</key><string>Registreringen misslyckades</string>
+    <key>CRDemoRegistrationFirstName</key><string>Förnamn:</string>
+    <key>CRDemoRegistrationLastName</key><string>Efternamn:</string>
+    <key>CRDemoRegistrationEmail</key><string>E-post:</string>
+    <key>CRDemoRegistrationRegistering</key><string>Registrerar...</string>
+    <key>CRDemoRegistrationTitle</key><string>Mottagaren Demo registrering</string>
+    <key>WebAddressTitle</key><string>Webbadress</string>
+    <key>WebAddressOpenButtonLabel</key><string>Öppna</string>
+    <key>WebAddressInvalidURLTitle</key><string>Ogiltig URL</string>
+    <key>WebAddressInvalidURLMessage</key><string>Det verkar inte som en giltig URL. Kontrollera din post och försök igen.</string>
+    <key>WebViewTitleLoading</key><string>Laddar...</string>
+    <key>WebViewTitleUntitled</key><string>Untitled</string>
+    <key>WebViewCannotOpenPageTitle</key><string>Kan inte öppna sidan</string>
+    <key>WebViewTitleVPNLogin</key><string>VPN-inloggning</string>
+    <key>WebViewStartingVPNConnectionTitle</key><string>Starta VPN-anslutning</string>
+    <key>WebViewConnectingTitle</key><string>Laddar...</string>
+    <key>WebViewUpdateStoreAlertTitle</key><string>Access Gateway</string>
+    <key>WebViewUpdateStoreAlertButtonLabel</key><string>Uppdatera konto</string>
+    <key>WebViewUpdateStoreAlertMessage</key><string>Självbetjäning kapacitet identifieras. Uppdatera konto med dina autentiseringsuppgifter.</string>
+    <key>BrowserButtonLabel</key><string>Webbläsare</string>
+    <key>WebViewAuthTitle</key><string>Autentisering krävs</string>
+    <key>SelfServiceScreenHomeButtonKey</key><string>Hem</string>
+    <key>SelfServiceScreenExploreButtonKey</key><string>Utforska</string>
+    <key>StoreToolbarCategoriesButtonDefaultTitle</key><string>Kategorier</string>
+    <key>StoreToolbarCategoriesButtonTitlePrefix</key><string>Kategori: %@</string>
+    <key>StoreToolbarStoresButtonTitle</key><string>Konton</string>
+    <key>StoreToolbarCategoriesAll</key><string>Alla</string>
+    <key>StoreToolbarCategoriesFeatured</key><string>Dagens</string>
+    <key>StoreToolbarDefaultTitle</key><string>Utforska</string>
+    <key>StoreToolbarSearchBarPlaceholder</key><string>Sök</string>
+    <key>StoreGlobalSearchWithMatchCount</key><string>Sök (%i matcher)</string>
+    <key>AccountListTitle</key><string>Kontoinställningar</string>
+    <key>AccountListFooter</key><string>\n väljer du konto att logga in.</string>
+    <key>StoreLaunchErrorAlertMessageKey</key><string>Ett fel uppstod när den önskade anslutningen.</string>
+    <key>StoreNoApplicationsAlertTitleKey</key><string>Inget program som är tillgängliga</string>
+    <key>StoreNoApplicationsAlertMessageKey</key><string>Det finns inga program tillgängliga för konto ' %@ ".</string>
+    <key>StoreEnterCredentialsTitleKey</key><string>Logga in på Citrix Receiver</string>
+    <key>StoreStartingConnectionKey</key><string>Starta anslutning...</string>
+    <key>StoreRequestingConnectionKey</key><string>Begär anslutning...</string>
+    <key>StoreRequestingCredentialsKey</key><string>Begär referenser...</string>
+    <key>StoreNumberOfDesktops</key><string>%d stationära datorer</string>
+    <key>StoreOneDesktop</key><string>%d desktop</string>
+    <key>StoreNumberOfApplications</key><string>%d apps</string>
+    <key>StoreOneApplication</key><string>%d app</string>
+    <key>StoreAddStore</key><string>Lägg till konto</string>
+    <key>StoreDuplicateStore</key><string>Dubblettkonto</string>
+    <key>StoreDeleteStore</key><string>Ta bort konto</string>
+    <key>StoreEditStore</key><string>Redigera konto</string>
+    <key>StoreShareSettings</key><string>Andel Kontoinställningar</string>
+    <key>StoreUpdateStore</key><string>Uppdatera konto</string>
+    <key>StoreMyStoresTitleFormatKey</key><string>Mina konton (%1 av %2)</string>
+    <key>StoreDeleteStoreWarningTitleKey</key><string>Varning</string>
+    <key>StoreDeleteStoreWarningMessageKey</key><string>Du tar bort kontot bara! Är du säker på att du vill fortsätta?</string>
+    <key>StoreDeleteStoreDeleteButtonLabelKey</key><string>Ta bort</string>
+    <key>StoreItemLogOnLabel</key><string>Logga in på</string>
+    <key>StoreItemActionsLabel</key><string>Åtgärder</string>
+    <key>StoreItemPleaseWait</key><string>Snälla vänta...</string>
+    <key>LoginLabel</key><string>Logga in på</string>
+    <key>RecentsTitle</key><string>Favoriter</string>
+    <key>NoRecentsMessage</key><string>Börja dina favoritprogram.</string>
+    <key>ConfirmDeleteTokenTitle</key><string>Ta bort RSA-Token</string>
+    <key>ConfirmDeleteToken</key><string>Är du säker du vill ta bort denna token?</string>
+    <key>GetPasscodeTitle</key><string>Få lösenord</string>
+    <key>EnterPinTitle</key><string>Ange din PIN-kod.</string>
+    <key>StoreServerConnectionErrorTitleKey</key><string>Kan inte ansluta till servern</string>
+    <key>StoreServerConnectionErrorMessageKey</key><string>Försök igen i några minuter.</string>
+    <key>AccountLabelTitle</key><string>Konto:</string>
+    <key>FavoritesTrackpadButtonLabelKey</key><string>Styrplatta</string>
+    <key>FavoritesLaunchErrorAlertTitleKey</key><string>Fel</string>
+    <key>FavoritesLaunchErrorAlertMessageKey</key><string>Konto för app finns inte längre.  Vill du ta bort favorit?</string>
+    <key>FavoritesLaunchErrorAlertMessage2Key</key><string>Ett fel uppstod när den önskade anslutningen. Vill du ta bort denna app?</string>
+    <key>FavoritesMobileAppDownloadPausedKey</key><string>Knacka för att installera</string>
+    <key>FavoritesMobileAppDownloadQueuedKey</key><string>Väntar på att ladda ner...</string>
+    <key>FavoritesMobileAppDownloadingKey</key><string>Ladda ner...</string>
+    <key>FavoritesMobileAppDownloadedKey</key><string>Ladda ner...</string>
+    <key>FavoritesMobileAppInstallPausedKey</key><string>Knacka för att installera</string>
+    <key>FavoritesMobileAppInstallSetupKey</key><string>Förbereder...</string>
+    <key>FavoritesMobileAppInstallingKey</key><string>Installerar...</string>
+    <key>FavoritesMobileAppInstalledKey</key><string>Installerar...</string>
+    <key>EditStoreErrorTitleKey</key><string>Fel</string>
+    <key>EditStoreErrorURLForbidden</key><string>%@ är förbjudet. Felkod: %d</string>
+    <key>EditStoreErrorURLNotFound</key><string>%@ hittades inte. Felkod: %d</string>
+    <key>EditStoreErrorCouldNotValidateURL</key><string>Kunde inte verifiera URL. Felkod: %d</string>
+    <key>EditStoreErrorCouldNotValidateServer</key><string>Serveradress kunde inte verifieras.</string>
+    <key>EditStoreErrorCouldNotVerifyServer</key><string>Kunde inte verifiera serveradress: </string>
+    <key>EditStoreErrorManualModeButtonKey</key><string>Manuell inställning</string>
+    <key>EditStoreErrorRetryButtonKey</key><string>Försök igen</string>
+    <key>EditStoreErrorOpenInSafariButtonKey</key><string>Öppen i Safari</string>
+    <key>EditStoreEnterValidWebAddressTitleKey</key><string>Adress</string>
+    <key>EditStoreEnterValidWebAddressMessageKey</key><string>Ange en giltig e-postadress eller server-adress.</string>
+    <key>EditStoreErrorInvalidURLMessageKey</key><string>Lägg till http:// eller https:// prefix till din adress.</string>
+    <key>EditStoreActivityVerifying</key><string>Verifierar...</string>
+    <key>EditStoreServerTypeXenApp</key><string>Virtuella Apps</string>
+    <key>EditStoreServerTypeXenDesktop</key><string>Min virtuella skrivbordet</string>
+    <key>EditStoreStoreVerifiedTitleKey</key><string>Kontrollerade</string>
+    <key>EditStoreNewStoreTitleKey</key><string>Nytt konto</string>
+    <key>EditStoreVerifyStoreTitleKey</key><string>Verifiera konto</string>
+    <key>EditStoreWebStoreLabelKey</key><string>Webbkonto</string>
+    <key>EditStoreEmailSupportLabelKey</key><string>E-stöd</string>
+    <key>EditStoreAppStoreNameFormatKey</key><string>%@ Virtuella Apps</string>
+    <key>EditStoreAppStoreDefaultNameKey</key><string>Min virtuella Apps</string>
+    <key>EditStoreDemoStoreNameKey</key><string>Demo-konto</string>
+    <key>EditStoreSerurityTokenTitleKey</key><string>Säkerhetstoken</string>
+    <key>EditStoreDuplicateStoreSuffixKey</key><string>(kopia)</string>
+    <key>EditStoreLoadingStoreKey</key><string>Laddar...</string>
+    <key>EditStoreCertificateNotSelectedKey</key><string>Inget val</string>
+    <key>EditStoreCellAddressTitleKey</key><string>Adress</string>
+    <key>EditStoreCellAddressPlaceholderKey</key><string>E-post URL eller arbete</string>
+    <key>EditStoreCellDescriptionTitleKey</key><string>Beskrivning</string>
+    <key>EditStoreCellDescriptionPlaceholderKey</key><string>Konto Beskrivning</string>
+    <key>EditStoreCellWebInterfaceCheckTitleKey</key><string>Webbgränssnitt</string>
+    <key>EditStoreCellXenAppServicesCheckTitleKey</key><string>XenApp tjänster</string>
+    <key>EditStoreCellAccessGatewayCheckTitleKey</key><string>Access Gateway</string>
+    <key>EditStoreCellAutoConfigureCheckTitleKey</key><string>Konfigurera</string>
+    <key>EditStoreCellAGTypeStandardCheckTitleKey</key><string>Standard Edition</string>
+    <key>EditStoreCellAGTypeAdvancedCheckTitleKey</key><string>Advanced Edition</string>
+    <key>EditStoreCellAGTypeEnterpriseCheckTitleKey</key><string>Enterprise Edition</string>
+    <key>EditStoreCellDeliveryServicesCheckTitleKey</key><string>Skyltfönster</string>
+    <key>EditStoreCellDomainTitleKey</key><string>Domän</string>
+    <key>EditStoreCellDomainPlaceholderKey</key><string>Domän</string>
+    <key>EditStoreCellUsernameTitleKey</key><string>Användarnamn</string>
+    <key>EditStoreCellUsernamePlaceholderKey</key><string>Användarnamn</string>
+    <key>EditStoreCellPasswordTitleKey</key><string>Lösenord</string>
+    <key>EditStoreCellPasswordPlaceholderKey</key><string>Tillval</string>
+    <key>EditStoreCellSecurityTokenSwitchTitleKey</key><string>Säkerhetstoken</string>
+    <key>EditStoreCellSecurityTokenOnlyCheckTitleKey</key><string>Säkerhetstoken endast</string>
+    <key>EditStoreCellIdentifierDomainAndSecurityTokenCheck</key><string>Domän + säkerhetstoken</string>
+    <key>EditStoreCellSecuritySoftTokenCheck</key><string>Soft Token</string>
+    <key>EditStoreCellIdentifierWebAppsCheck</key><string>Web Apps</string>
+    <key>EditStoreCellIdentifierIgnoreCertErrorsCheck</key><string>Ignorera certifikat varningar</string>
+    <key>EditStoreWebAppsMessage</key><string>Möjliggör säker tillgång till Web Apps. (Experimentell)</string>
+    <key>EditStoreCellIdentifierCertificate</key><string>Certifikat</string>
+    <key>EditStoreServiceRecordGatewaysSectionTitle</key><string>Välj plats</string>
+    <key>EditStoreCellIdentifierUseSmartCard</key><string>Använda programkort</string>
+    <key>ProfilesScreenTitleKey</key><string>Arbetsytor</string>
+    <key>AddProfileScreenTitleKey</key><string>Nytt konto</string>
+    <key>AddProfileContactAdminMessageKey</key><string>Maila din IT-administratör för installationsanvisningar.</string>
+    <key>AddProfileEmailMessageBodyKey</key><string>Kära Admin, &lt; br / &gt; &lt; br / &gt; vill jag komma åt min program som använder Citrix Receiver för iOS. &lt; br / &gt; kunde du behag hjälpa mig setup min arbetsyta?</string>
+    <key>AddProfileEmailMessageFooterKey</key><string>&lt; br / &gt; &lt; br / &gt; för mer information och krav, besök: &lt; br / &gt; %@ &lt; br / &gt; &lt; br / &gt; bästa hälsningar, &lt; br / &gt; Me.</string>
+    <key>AddProfileEmailSubjectKey</key><string>Citrix Receiver för iOS</string>
+    <key>AddProfileEmailNotAvailableTitleKey</key><string>E-post inte tillgänglig</string>
+    <key>AddProfileEmailNotAvailableMessageKey</key><string>Din iPad har inte en e-post konto setup.</string>
+    <key>AddProfileEmailNotAvailableiPhoneMessageKey</key><string>Din iPhone eller iPod Touch har inte en e-post konto setup.</string>
+    <key>ShareSettingsEmailMessageBodyKey</key><string>Hej, &lt; br / &gt; &lt; br / &gt; vänligen klicka på följande länk för att installera din Citrix Receiver: &lt; br / &gt; &lt; br / &gt;</string>
+    <key>ShareSettingsEmailSubjectKey</key><string>Citrix Receiver inställningar</string>
+    <key>OldProfileNameKey</key><string>Version 1.0 profil</string>
+    <key>GeneralSettingsGroupTitleKey</key><string>Allmänna inställningar</string>
+    <key>ProfilenameFieldTitleKey</key><string>Beskrivning</string>
+    <key>ProfilenameFieldPlaceholderKey</key><string>Konto Beskrivning</string>
+    <key>ProfilenameFieldDefaultKey</key><string>Nya</string>
+    <key>ProfilenameErrorTitleKey</key><string>Fel</string>
+    <key>ProfilenameErrorMessageKey</key><string>En arbetsyta med det namnet finns redan</string>
+    <key>ProfilenameErrorButtonTitleKey</key><string>Avfärda</string>
+    <key>UsernameFieldTitleKey</key><string>Användarnamn</string>
+    <key>UsernameFieldPlaceholderKey</key><string>Användarnamn</string>
+    <key>DomainFieldTitleKey</key><string>Domän</string>
+    <key>DomainFieldPlaceholderKey</key><string>Domän</string>
+    <key>PasswordAlertTitleKey</key><string>Lösenord</string>
+    <key>PasswordAlertMessageKey</key><string>Ange ditt användarnamn och lösenord</string>
+    <key>AddressFieldTitleKey</key><string>Adress</string>
+    <key>AddressFieldPlaceholderKey</key><string>E-post URL eller arbete</string>
+    <key>RememberPasswordFieldTitleKey</key><string>Logga In automatiskt</string>
+    <key>UseRSAFieldTitleKey</key><string>Citrix Access Gateway ™</string>
+    <key>InvalidProtocolErrorTitleKey</key><string>Felaktig adress</string>
+    <key>InvalidProtocolErrorMessageKey</key><string>Kontrollera adressen och försök igen.</string>
+    <key>InvalidProtocolErrorButtonTitleKey</key><string>Ändra</string>
+    <key>HostUnreachableErrorTitleKey</key><string>Adress onåbar</string>
+    <key>HostUnreachableErrorMessageKey</key><string>Denna adress kan inte nås. Kontrollera adress, gateway-inställningar och din nätverksanslutning.</string>
+    <key>HostUnreachableErrorButtonTitleKey</key><string>Okej</string>
+    <key>SetupScreenHelpLinkTitleKey</key><string>Lära sig mer...</string>
+    <key>SetupScreenHelpLinkKey</key><string>http://m.iPhone.Citrix.com/</string>
+    <key>SetupScreenButtonTitleKey</key><string>Nästa</string>
+    <key>InvalidCitrixXMLFromSuccessfulHTTPConnectionErrorMessageKey</key><string>Adressen gav inte en giltig App lista. Kontrollera adress, gateway-inställningar och din nätverksanslutning.</string>
+    <key>RSAPromptTitleKey</key><string>RSA SecurID ®</string>
+    <key>SMSPassCodePromptTitleKey</key><string>SMS-autentisering</string>
+    <key>PasscodePromptMessageKey</key><string>Ange ditt användarnamn och lösenord</string>
+    <key>PromptCancelButtonTitleKey</key><string>Avbryt</string>
+    <key>PromptLoginButtonTitleKey</key><string>Okej</string>
+    <key>LoginFailedLabelKey</key><string>Försök igen.</string>
+    <key>loginFailedTitleKey</key><string>Kunde inte logga in</string>
+    <key>LoginFailedTryAgainTitleKey</key><string>Försök igen</string>
+    <key>PasscodePromptUserNameKey</key><string>Användarnamn</string>
+    <key>PasscodePromptPassCodeKey</key><string>Lösenordet</string>
+    <key>GatewayEnableGatewayKey</key><string>Access Gateway</string>
+    <key>AuthenticationMethodGroupTitleKey</key><string>Gateway-autentisering</string>
+    <key>AuthenticationMethodNoneKey</key><string>Ingen autentisering</string>
+    <key>AuthenticationMethodDomainKey</key><string>Endast domän</string>
+    <key>AuthenticationMethodTokenKey</key><string>Token endast</string>
+    <key>AuthenticationMethodDomainAndTokenKey</key><string>Domän + Token</string>
+    <key>RequiredFieldErrorTitleKey</key><string>Information</string>
+    <key>RequiredFieldErrorMessageKey</key><string>Fyll i alla obligatoriska fält innan du sparar detta konto.</string>
+    <key>RequiredFieldAlertMessageKey</key><string>Vänligen ange all information innan du ansluter</string>
+    <key>RequiredFieldErrorButtonTitleKey</key><string>Avfärda</string>
+    <key>DisabledSavePasswordTextFieldKey</key><string>inaktiverad av admin</string>
+    <key>AccountSelectionTitleKey</key><string>Urval</string>
+    <key>AccountSelectionNewWorkspaceLabelKey</key><string>Nytt konto</string>
+    <key>AccountSelectionPCConnectionLabelKey</key><string>PC-anslutning</string>
+    <key>AddDesktopScreenTitleKey</key><string>Lägg till anslutning</string>
+    <key>DesktopNameFieldTitleKey</key><string>Beskrivning</string>
+    <key>DesktopNameFieldPlaceholderKey</key><string>Mitt skrivbord namn</string>
+    <key>DesktopAddressFieldPlaceholderKey</key><string>IP-adress eller datornamn</string>
+    <key>DesktopConnectionsTitleKey</key><string>PC-anslutningar</string>
+    <key>DesktopConnectButtonLabelKey</key><string>Ansluta</string>
+    <key>RSAImportTitle</key><string>Importera Token</string>
+    <key>RSAImportTokenFailed</key><string>RSA import token har misslyckats.</string>
+    <key>RSAImportTokenSuccessTitle</key><string>Token har importerats </string>
+    <key>HaveAPinTitle</key><string>Har du redan en PIN-kod?</string>
+    <key>RSAImportTokenPasswordTitle</key><string>Ange det lösenord som tillhandahålls av din helpdesk.</string>
+    <key>RSAPinSetupTitle</key><string>PIN Setup</string>
+    <key>RSAPasscodeSetupInstructions</key><string>Följ instruktionerna från din helpdesk med engångs-lösenord som visas här.</string>
+    <key>RSACancelTitle</key><string>Avbryt Token Import</string>
+    <key>RSASecsRemaining</key><string>%@ SEK kvar</string>
+    <key>RSACancelConfirmTitle</key><string>Är du säker på att du vill avbryta RSA token import?</string>
+    <key>RSATokenImportPasswordError</key><string>Lösenord som anges är felaktig.</string>
+    <key>RSATokenExpired</key><string>RSA Token har löpt ut.</string>
+    <key>RSATokenImportGeneralFailure</key><string>Ett internt fel uppstod när du importerar RSA token.</string>
+    <key>RSASerialIncorrectError</key><string>RSA serienummer var felaktig.</string>
+    <key>RSAPinIncorrectError</key><string>RSA pin var felaktig.</string>
+    <key>RSAOtpParamIncorrectError</key><string>RSA OTP parametern var felaktig.</string>
+    <key>RSASecondsRemainingError</key><string>RSA antal sekunder kvar felaktig.</string>
+    <key>RSATokenNotFoundError</key><string>RSA token hittades inte.</string>
+    <key>RSAPasscodeRetrievalError</key><string>Ett fel uppstod när RSA-lösenord.</string>
+    <key>RSAPasscodeKey</key><string>RSA-lösenord</string>
+    <key>RSATokenDeletionSuccess</key><string>RSA token %@ har tagits bort.</string>
+    <key>RSATokenDeletionSerialIncorrectError</key><string>RSA token borttagning misslyckades. Serienummer %@ felaktig.</string>
+    <key>RSATokenDeletionNotFoundError</key><string>RSA token borttagning misslyckades. Ingen token hittades för serienummer %@.</string>
+    <key>RSATokenDeletionFailedError</key><string>Token borttagning misslyckades för RSA token %@.</string>
+    <key>RSATokenReuseTitle</key><string>PIN-kod fel</string>
+    <key>RSASoftTokenReUseMessage</key><string>Vänta i 60 sekunder, sedan försöka igen.</string>
+    <key>RSATokenReUseMessage</key><string>Vänta i 60 sekunder, sedan försöka igen</string>
+    <key>RSATokenImportContinue</key><string>Fortsätta</string>
+    <key>RSATokenImportDuplicateError</key><string>Denna token har redan importerats.</string>
+    <key>AuthenticatingKey</key><string>Autentisera...</string>
+    <key>ConnectingKey</key><string>Ansluter...</string>
+    <key>LaunchingKey</key><string>Lansera...</string>
+    <key>StartingKey</key><string>Start %@...</string>
+    <key>StartingApplicationKey</key><string>Start ansökan...</string>
+    <key>SecuringCommunicationKey</key><string>Säkra kommunikation...</string>
+    <key>SyncingAppsTitleKey</key><string>Uppdaterar Apps...</string>
+    <key>LoadingProfileButtonCancelTitleKey</key><string>Avbryt</string>
+    <key>LoadingProfileButtonDismissTitleKey</key><string>Avfärda</string>
+    <key>PublishedItemsScreenTitleKey</key><string>Apps</string>
+    <key>PublishedItemsTipMessage</key><string>\n tips: du kan lägga till eller ta bort en app till din arbetsyta genom att trycka och hålla den. \n</string>
+    <key>SearchAppsDesktopsPlaceholderKey</key><string>Sök Apps och stationära datorer</string>
+    <key>FavoritesEditButtonTitleKey</key><string>Redigera</string>
+    <key>FavoritesDoneButtonTitleKey</key><string>Gjort</string>
+    <key>EditFavoritesCancelButtonTitleKey</key><string>Avbryt</string>
+    <key>AddFavoriteButtonTitleKey</key><string>Lägg till favorit</string>
+    <key>AddFavoriteScreenTitleKey</key><string>Lägg till favorit</string>
+    <key>AppDetailScreenTitleKey</key><string>Detaljer</string>
+    <key>AppDetailInfoNoDescriptionKey</key><string>Ingen beskrivning tillhandahålls.</string>
+    <key>AppDetailRemoveFavoriteButtonLabelKey</key><string>Ta bort favorit</string>
+    <key>AppDetailAddToFavoritesButtonLabelKey</key><string>Lägg till favoriter</string>
+    <key>AppCellFavoriteLabelKey</key><string>Favorit</string>
+    <key>AppViewNewApp</key><string>Ny App</string>
+    <key>AppBrowserAllFolders</key><string>Alla mappar</string>
+    <key>RefreshApplistLabelKey</key><string>Uppdatera Apps</string>
+    <key>UnableToUpdateApplistTitleKey</key><string>Det gick inte att uppdatera Applist</string>
+    <key>UnableToUpdateApplistMessageKey</key><string>Det fanns ett problem med att uppdatera den nuvarande applist.</string>
+    <key>FeaturedNoFeaturedAppsKey</key><string>Inga dagens program har definierats för du av din administratör.</string>
+    <key>DesktopItemsUpdatingKey</key><string>Uppdaterar...</string>
+    <key>DesktopItemsUpdatedKey</key><string>Uppdaterad </string>
+    <key>DesktopItemsUpdatedDateFormatKey</key><string>MM/dd/åååå h en</string>
+    <key>DesktopOrganizeWorkspaceKey</key><string>Ordna Favoriter</string>
+    <key>DesktopSnapToGridTitleKey</key><string>Fäst mot rutnät</string>
+    <key>FeaturedCategoryKey</key><string>Dagens</string>
+    <key>AppListErrorButtonTitleKey</key><string>Avfärda</string>
+    <key>ZeroPublishedItemsErrorKey</key><string>Det finns inga Apps tillgänglig på denna adress.</string>
+    <key>FailedToExtractListErrorKey</key><string>Adressen gav inte en giltig App lista. Kontrollera adress, gateway-inställningar och din nätverksanslutning.</string>
+    <key>BadAddressErrorTitleKey</key><string>Adress hittades inte</string>
+    <key>BadAddressErrorMessageKey</key><string>Adressen inte kan hittas. Kontrollera adress, gateway-inställningar och din nätverksanslutning.</string>
+    <key>BadAddressErrorButtonTitleKey</key><string>Okej</string>
+    <key>BadCredentialsErrorTitleKey</key><string>Felaktiga referenser</string>
+    <key>BadCredentialsErrorMessageKey</key><string>Dina referenser avvisades.</string>
+    <key>BadCredentialsErrorButtonTitleKey</key><string>Okej</string>
+    <key>CharlotteErrorBadCredentialsMessageKey</key><string>Kontrollera ditt användarnamn och lösenord och försök igen.</string>
+    <key>NoConfigurationFileTitleKey</key><string>Ingen konfigurationsfil</string>
+    <key>NoConfigurationFileMessageKey</key><string>Kunde inte nå servern konfigurationsfil.</string>
+    <key>ResourceUnavailableTitleKey</key><string>Resursen inte tillgänglig</string>
+    <key>ResourceUnavailableMessageKey</key><string>Servern är inte tillgänglig.</string>
+    <key>AppRemovedTitleKey</key><string>App bort</string>
+    <key>AppRemovedMessageKey</key><string>Det önskade programmet har tagits bort eller inaktiverats. Vänligen uppdatera din ansökan listan.</string>
+    <key>CharlotteErrorAccountDisabledTitleKey</key><string>Konto avaktiverat</string>
+    <key>CharlotteErrorAccountDisabledMessageKey</key><string>Ditt konto har inaktiverats.</string>
+    <key>CharlotteErrorAccountLockedOutTitleKey</key><string>Konto spärrat</string>
+    <key>CharlotteErrorAccountLockedOutMessageKey</key><string>Ditt konto har låsts tillfälligt ute.</string>
+    <key>CharlotteErrorCredentialsMustChangeTitleKey</key><string>Autentiseringsuppgifterna måste ändra</string>
+    <key>CharlotteErrorCredentialsMustChangeMessageKey</key><string>Inloggningsuppgifterna har löpt ut och måste ändras.</string>
+    <key>CharlotteErrorCredentialsExpiredTitleKey</key><string>Referenser löpt ut</string>
+    <key>CharlotteErrorCredentialsExpiredMessageKey</key><string>Inloggningsuppgifterna har löpt ut.</string>
+    <key>CharlotteErrorInvalidLogonHoursTitleKey</key><string>Ogiltig inloggningstider</string>
+    <key>CharlotteErrorInvalidLogonHoursMessageKey</key><string>Systemadministratören har hindrat dig från att logga in på denna tid.</string>
+    <key>InternalServerErrorKey</key><string>Det finns inga Apps vid denna tid.</string>
+    <key>UnableToLaunchApplicationTitleKey</key><string>Starta App</string>
+    <key>UnableToLaunchApplicationMessageKey</key><string>Kan inte starta den önskade App. Välj \"More Info\" för ytterligare detaljer.</string>
+    <key>UnableToLaunchApplicationDueToNetWorkKey</key><string>Denna ansökan har inaktiverats av administratören eller servern acceptera inte anslutningar.</string>
+    <key>UnableToLaunchApplicationButtonKey</key><string>Okej</string>
+    <key>HTTP404ErrorMessageKey</key><string>Adressen gav inte en giltig App lista. Kontrollera adress, gateway-inställningar och din nätverksanslutning.</string>
+    <key>AppListFailedGatewayAuthErrorKey</key><string>Kontrollera dina referenser och nätverksanslutning.</string>
+    <key>AppListFailedGatewayPreAuthScanNotSupportedErrorKey</key><string>Förautentisering slutpunkten analys skanning stöds inte på den här enheten.</string>
+    <key>AppListFailedGatewayNextTokenErrorKey</key><string>Enheten är i nästa Token tillstånd.</string>
+    <key>AppListFailedErrorTitleKey</key><string>Det gick inte att läsa listan med appar</string>
+    <key>AppListFailedErrorButtonTitleKey</key><string>Okej</string>
+    <key>UnknownErrorMessageKey</key><string>Det finns inga Apps vid denna tid.</string>
+    <key>AccountLockedOutErrorMessageKey</key><string>Din administratör har låst ditt konto.</string>
+    <key>ChangeAccountSettingsButtonTitleKey</key><string>Inställningar</string>
+    <key>GatewaySessionExpiredErrorMessageKey</key><string>Din Access Gateway session har upphört att gälla, logga in på igen.</string>
+    <key>SessionTicketInvalidErrorMessageKey</key><string>Din sessionsbiljett är ogiltig, logga vänligen in igen.</string>
+    <key>AuthenticationErrorTitleKey</key><string>Autentiseringsfel</string>
+    <key>UnableToLaunchAppDetailsTitleKey</key><string>Felinformation</string>
+    <key>LoginErrorMessageNull</key><string>Null</string>
+    <key>LoginErrorMessageSuccess</key><string>Framgång</string>
+    <key>LoginErrorMessageInvalidAddress</key><string>Ogiltig adress</string>
+    <key>LoginErrorMessageSSLError</key><string>SSL-fel</string>
+    <key>LoginErrorMessageIoException</key><string>IO undantag</string>
+    <key>LoginErrorMessageProtocolException</key><string>Protokoll undantaget</string>
+    <key>LoginErrorMessageEpaEnabled</key><string>EPA aktiverat</string>
+    <key>LoginErrorMessageConfigXmlPathNotDetermined</key><string>ConfigXml väg ej fastställt</string>
+    <key>LoginErrorMessageUserCancelled</key><string>Användaren inställd</string>
+    <key>LoginErrorMessageUnexpectedResponse</key><string>Oväntade svar</string>
+    <key>LoginErrorMessagePreAuthEnabled</key><string>Förautentisering aktiveras</string>
+    <key>LoginErrorMessageNewPinRequired</key><string>En ny PIN Required.\n\nPlease upprätta en ny PIN-kod med hjälp av en webbläsare.</string>
+    <key>LoginErrorMessageNextTokencodeRequired</key><string>Den aktuella token är inte synchronized.\n\nPlease re-sync din token med en webbläsare.</string>
+    <key>LoginErrorMessageChangePasswordRequired</key><string>Lösenord för detta konto har expired.\n\nPlease ändra lösenordet med hjälp av en webbläsare.</string>
+    <key>LoginErrorMessagePinSetupFailed</key><string>Felaktig PIN-kod.</string>
+    <key>NoAvailableWorkstationTitleKey</key><string>Ingen tillgänglig Server arbetsstationer</string>
+    <key>NoAvailableWorkstationMessageKey</key><string>Det finns ingen tillgänglig server arbetsstationer som denna app.</string>
+    <key>ServerErrorKey</key><string>Serverfel.</string>
+    <key>TheServerDisconnectedTheSessionKey</key><string>Servern kopplas från sessionen.</string>
+    <key>WaitForICASessionKey</key><string>Snälla vänta...</string>
+    <key>SessionExitActionSheetTitleKey</key><string></string>
+    <key>SessionExitActionSheetBackButtonTitleKey_XA</key><string>Tillbaka till Apps</string>
+    <key>SessionExitActionSheetExitButtonTitleKey_XA</key><string>Stänga App</string>
+    <key>SessionExitActionSheetBackButtonTitleKey_XD</key><string>Tillbaka till stationära datorer</string>
+    <key>SessionExitActionSheetExitButtonTitleKey_XD</key><string>Skicka Ctrl + Alt + Del</string>
+    <key>SessionExitActionSheetGesturesButtonTitleKey</key><string>Gester Guide</string>
+    <key>SessionExitActionSheetCancelButtonTitleKey</key><string>Avbryt</string>
+    <key>SessionStatePanningMode</key><string>Panoreringsläget</string>
+    <key>SessionStateScrollingMode</key><string>Rullning läge</string>
+    <key>SegmentedControlTitleDisconnect</key><string>Koppla från</string>
+    <key>SegmentedControlTitleLogoff</key><string>Logga ut</string>
+    <key>SegmentedControlTitleResetZoom</key><string>Reset Zoom</string>
+    <key>SegmentedControlTitleChangeResolution</key><string>Ändra upplösning</string>
+    <key>SegmentedControlTitleGesturesGuide</key><string>Gester Guide</string>
+    <key>SegmentedControlTitleDismiss</key><string>Avfärda</string>
+    <key>SwitchingWindowTitleKey</key><string>Byta fönster</string>
+    <key>SessionStateScrollingOn</key><string>Rullning på</string>
+    <key>SessionStateScrollingOff</key><string>Rullning av</string>
+    <key>SessionStateScrollingOnSmall</key><string>rullning på</string>
+    <key>SessionStateScrollingOffSmall</key><string>rullning av</string>
+    <key>SessionWarningTitleKey</key><string>Session varning</string>
+    <key>SessionReadyTitleKey</key><string>App redo Alert</string>
+    <key>SessionReadyMessageKey</key><string>Appen är nu klar.</string>
+    <key>SessionReadyCancelButtonTitleKey</key><string>Avbryt</string>
+    <key>SessionReadyOkButtonTitleKey</key><string>Visa App</string>
+    <key>CurrentSessionTerminatedKey</key><string>Den aktuella sessionen har avslutats, kan du öppna mottagaren för att starta en ny session.</string>
+    <key>GuesturesGuidePortraitFileKey</key><string>gestures_portrait.png</string>
+    <key>GuesturesGuideLandscapeLeftFileKey</key><string>gestures_landscape_left.png</string>
+    <key>GuesturesGuideLandscapeRightFileKey</key><string>gestures_landscape_right.png</string>
+    <key>SettingsTabTitleKey</key><string>Inställningar</string>
+    <key>SettingsSessionTitleKey</key><string>Sessionsinställningar</string>
+    <key>SettingsWorkspaceTitleKey</key><string>Inställningar för arbetsyta</string>
+    <key>SettingsAccountTitleKey</key><string>Kontoinställningar</string>
+    <key>SettingsWallpaperLabelKey</key><string>Bakgrundsbilder</string>
+    <key>SettingsWallpaperTitleKey</key><string>Bakgrundsbilder</string>
+    <key>SettingsAppearanceLabelKey</key><string>Display</string>
+    <key>SettingsSessionLabelKey</key><string>Session</string>
+    <key>SettingsKeyboardLabelKey</key><string>Tangentbord</string>
+    <key>SettingsAudioLabelKey</key><string>Ljud</string>
+    <key>SettingsMultimediaLabelKey</key><string>Win Media omdirigera</string>
+    <key>SettingsDefaultProfileLabelKey</key><string>Standardkontot</string>
+    <key>SettingsCaffeineLabelKey</key><string>Koffein</string>
+    <key>SettingsHelpLabelKey</key><string>Hjälp</string>
+    <key>SettingsFeedbackLabelKey</key><string>Skicka Feedback</string>
+    <key>SettingsFeedbackMailComposerMailBodyKey</key><string>&lt; br / &gt; Feedback: </string>
+    <key>SettingsFeedbackMailAppMailBodyKey</key><string>&amp; kropp = &lt; br / &gt; Feedback: </string>
+    <key>SettingsTellaFriendMailComposerMailBodyKey</key><string>&lt;p&gt;Kolla in denna ansökan:&lt;/p&gt;</string>
+    <key>SettingsTellaFriendMailAppMailBodyKey</key><string>&amp; kropp = &lt;p&gt;kolla in denna ansökan:&lt;/p&gt;</string>
+    <key>SettingsReceiverAppStoreAddress</key><string>http://iTunes.Apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=363501921&amp;mt=8</string>
+    <key>SettingsAboutLabelKey</key><string>Om</string>
+    <key>SettingsAppearanceTitleKey</key><string>Visningsalternativ</string>
+    <key>SettingsKeyboardTitleKey</key><string>Tangentbordsalternativ</string>
+    <key>SettingsDefaultProfileTitleKey</key><string>Standardkontot</string>
+    <key>SettingsCaffeineTitleKey</key><string>Koffein</string>
+    <key>SettingsAboutScreenTitleKey</key><string>Om</string>
+    <key>SettingsResolutionLabelKey</key><string>Session upplösning</string>
+    <key>SettingsZoomLabelKey</key><string>Inledande Zoom</string>
+    <key>SettingsHideStatusBarLabelKey</key><string>Dölj statusfältet</string>
+    <key>SettingsResolutionTitleKey</key><string>Session upplösning</string>
+    <key>SettingsZoomTitleKey</key><string>Zoom</string>
+    <key>SettingsProfilesFooterOnTitleKey</key><string>När off, senast använda konto kommer att själv ladda \n nästa gång Citrix Receiver öppnas.</string>
+    <key>SettingsProfilesFooterOffTitleKey</key><string>När på valda kontot själv laddar \n varje gång Citrix Receiver öppnas.</string>
+    <key>SettingsResolutionDefaultLabelKey</key><string>Standardupplösning</string>
+    <key>SettingsResolutionAutofitLabelKey</key><string>Autopassa skärm</string>
+    <key>SettingsResolutionFitScreenLabelKey</key><string>Passar porträtt</string>
+    <key>SettingsResolutionFitWideScreenLabelKey</key><string>Passar landskapet</string>
+    <key>SettingsResolutionLargeLabelKey</key><string>Stora</string>
+    <key>SettingsResolutionMediumLabelKey</key><string>Medium</string>
+    <key>SettingsResolutionSmallLabelKey</key><string>Små</string>
+    <key>SettingsStayAwakeLabelKey</key><string>Hålla sig vaken</string>
+    <key>SettingsStayAwakeFooterTitleKey</key><string>Förhindrar att din iPad-skärm kommer \n att sova, men kan minska batteritiden.</string>
+    <key>SettingsStayAwakeFooteriPhoneTitleKey</key><string>Förhindrar att din iPhone eller iPod Touch från ska sova, men kan minska batteritiden.</string>
+    <key>SettingsZoomActualSizeLabelKey</key><string>Verklig storlek</string>
+    <key>SettingsZoomZoomedInLabelKey</key><string>Inzoomad</string>
+    <key>SettingsZoomZoomedOutLabelKey</key><string>Zoomat ut</string>
+    <key>SettingsShareLabelKey</key><string>Andel</string>
+    <key>SettingsTellAFriendLabelKey</key><string>Tipsa en vän</string>
+    <key>SettingsHelpTitleKey</key><string>Hjälp</string>
+    <key>DismissHelpTitleKey</key><string>Gjort</string>
+    <key>SettingsStartSessionCenterLabelKey</key><string>Starta centrerad</string>
+    <key>SettingsZoomViewFooterTitleKey</key><string>Om första Zoom är annorlunda än \"Actual Size\" \n \"Start Centered\" alternativet kommer att ignoreras</string>
+    <key>SettingsExitSessionLabelKey</key><string>Fråga innan du avslutar</string>
+    <key>SettingsGesturesLabelKey</key><string>Gester Guide</string>
+    <key>SettingsStartInScrollModeLabelKey</key><string>Starta i bläddra läge</string>
+    <key>SettingsExternalDisplayLabelKey</key><string>Extern bildskärm</string>
+    <key>SettingsUseDeviceStorageLabelKey</key><string>Använd %@ lagring</string>
+    <key>SettingsLogOutLabelKey</key><string>Logga ut</string>
+    <key>SettingsLogOutMessageKey</key><string>Logga ut från %@?</string>
+    <key>SettingsLearnAskShareLabelKey</key><string>Lära, fråga och dela</string>
+    <key>SettingsApplicationSettingsLabelKey</key><string>Programinställningar</string>
+    <key>SettingsLaunchTrackpadLabelKey</key><string>Trådlös styrplatta</string>
+    <key>SettingsTrackpadModeLabelKey</key><string>Pekaren</string>
+    <key>SettingsAdvancedLabelKey</key><string>Avancerad</string>
+    <key>SettingsLogOffLabelKey</key><string>Logga ut</string>
+    <key>SettingsSessionSharingLabelKey</key><string>Session dela</string>
+    <key>SettingsSessionSharingAutoAddFavoritesLabelKey</key><string>Auto-Lägg till favoriter</string>
+    <key>SettingsSessionSharingAutoAddFavoritesMessageKey</key><string>Lägger automatiskt till sjösätta apps till favoriter för snabb åtkomst till session dela funktioner.</string>
+    <key>SettingsReconnectLogon</key><string>Återansluta för under kontoinloggningen</string>
+    <key>SettingsReconnectRefresh</key><string>Återansluta under uppdatering</string>
+    <key>SettingsWorkspaceControlLabelKey</key><string>Arbetsytan kontroll</string>
+    <key>SettingFullscreenWindowKey</key><string>Fullscreen Window</string>
+    <key>SettingsReconnectMessageKey</key><string>Automatiskt återansluta till sessionen som lanseras från en annan enhet när jag lägger till ett konto eller uppdatera program, om det finns endast en session.</string>
+    <key>SettingsAutomaticKeyboardLabelKey</key><string>Automatisk tangentbord</string>
+    <key>SettingsCustomKeysLabelKey</key><string>Utökade tangenter</string>
+    <key>SettingsNativeComboBoxLabelKey</key><string>Använda infödda kombinationsruta</string>
+    <key>SettingsAllowKeyboardExtensionsLabelKey</key><string>Använda anpassade tangentbord</string>
+    <key>SettingsDontAllowKeyboardExtensionsLabelKey</key><string>Inaktivera anpassade tangentbord</string>
+    <key>SettingsAllowKeyboardExtensionsMessageKey</key><string>Så att anpassade tangentbord, som kommunicerar med externa källor, kan utgöra en säkerhetsrisk.  Stänga av dem är det säkraste alternativet. \n\nAllowing anpassade tangentbord kräver mottagaren att lämna. Du kan starta om mottagaren</string>
+    <key>SettingsTokenManagementLabelKey</key><string>Säkerhetstoken</string>
+    <key>SettingsTokensLabelKey</key><string>Token</string>
+    <key>SettingsOptionsLabelKey</key><string>Alternativ</string>
+    <key>SettingsRequestHelpFromSupportLabelKey</key><string>Be om hjälp från stöd</string>
+    <key>SettingsMutlitouchModeLabelKey</key><string>Touch aktivera</string>
+    <key>RequestHelpFromSupportMailBodyTemplate</key><string>&lt;b&gt; &lt; &lt;/b&gt;Anställdes namn &lt;b&gt;&amp;gt;&lt;/b&gt; har problem med Citrix Receiver på iOS. &lt; br / &gt; &lt; br / &gt; här är en beskrivning av mitt problem &lt; br / &gt; &lt; br / &gt; om din enhet:</string>
+    <key>SendFeatureIdeasToCitrixMailBodyTemplate</key><string>Här är mina idéer för att förbättra Citrix Receiver på iOS: &lt; br / &gt; &lt; br / &gt; &lt; br / &gt; om min enhet:</string>
+    <key>EmailBodyDeviceModel</key><string>Modell: %@</string>
+    <key>EmailBodyOSVersion</key><string>iOS Version: %@</string>
+    <key>EmailBodyReceiverVersion</key><string>Mottagare Version: %@</string>
+    <key>EmailBodyIsJailBroken</key><string>Är Jailbroken: %@</string>
+    <key>EmailBodyApplicationMemory</key><string>Ansökan minne: %@</string>
+    <key>EmailBodyFreeMemory</key><string>Ledigt minne: %@</string>
+    <key>EmailBodyTotalMemory</key><string>Totalt minne: %@</string>
+    <key>EmailBodyMemoryFormat</key><string>%dMB</string>
+    <key>TokenManagementSerialNumber</key><string>Serienummer</string>
+    <key>TokenManagementExpirationDate</key><string>Utgångsdatum</string>
+    <key>TokenManagementGetPasscode</key><string>Få lösenord</string>
+    <key>TokenManagementDeleteToken</key><string>Ta bort Token</string>
+    <key>SettingsSupportKey</key><string>Stöd</string>
+    <key>SettingsSupportVisit</key><string>Besök support.citrix.com</string>
+    <key>SettingsIdeasKey</key><string>Skicka funktionen idéer till Citrix</string>
+    <key>SettingsLogOptionsTitleKey</key><string>Loggalternativ</string>
+    <key>SettingsLogs_LogLevel_Critical_Key</key><string>Nivå 1 kritiska</string>
+    <key>SettingsLogs_LogLevel_Error_Key</key><string>Nivå 2 fel</string>
+    <key>SettingsLogs_LogLevel_Warning_Key</key><string>Nivå 3 varning</string>
+    <key>SettingsLogs_LogLevel_Info_Key</key><string>Nivå 4 informativt</string>
+    <key>SettingsLogs_LogLevel_Detail_Key</key><string>Nivå 5 detaljerade</string>
+    <key>SettingsLogs_LogLevel_Debug_Key</key><string>Nivå 6 Debug</string>
+    <key>SettingsLogs_LogDestination_File_Key</key><string>Fil</string>
+    <key>SettingsLogs_LogDestination_Console_Key</key><string>Konsolen</string>
+    <key>SettingsLogs_LogDestination_FileAndConsole_Key</key><string>Fil och konsol</string>
+    <key>SettingsLogs_MaxLogFiles_Key</key><string>Maximalt antal loggfiler:</string>
+    <key>SettingsLogs_MaxLogFileSize_Key</key><string>Maximala storleken på en loggfil:</string>
+    <key>SettingsLogs_LogLevel_Options_Key</key><string>Loggnivå</string>
+    <key>SettingsLogs_LogDestination_Options_Key</key><string>Log Destination</string>
+    <key>SettingsLogs_ResetToDefaults_Key</key><string>Återställa</string>
+    <key>SettingsLogDestinationOptionsTitleKey</key><string>Log Destination</string>
+    <key>SettingsLogOptionsResetToDefaultValuesTitleKey</key><string>Återställ till standard</string>
+    <key>SettingsLogOptionsResetToDefaultValuesMessageKey</key><string>Loggalternativ har återställts till deras standardvärden.</string>
+    <key>SettingsLogDetailWarningTitle</key><string>Varning!</string>
+    <key>SettingsLogDetailWarningMessage</key><string>Att välja denna nivå kan sakta ner mottagarens prestanda.  Vill du fortsätta?</string>
+    <key>AltKeyTitleKey</key><string>Alt</string>
+    <key>AltTabKeyTitleKey</key><string>Alt + Tab</string>
+    <key>ControlCKeyTitleKey</key><string>Kopia</string>
+    <key>ControlAltDeleteKeyTitleKey</key><string>Ctrl + Alt + Del</string>
+    <key>ControlEscapeKeyTitleKey</key><string>Ctrl + Esc</string>
+    <key>ControlXKeyTitleKey</key><string>Skär</string>
+    <key>ControlZKeyTitleKey</key><string>Ångra</string>
+    <key>DeleteKeyTitleKey</key><string>Del</string>
+    <key>EndKeyTitleKey</key><string>Slutet</string>
+    <key>EscapeKeyTitleKey</key><string>ESC</string>
+    <key>F1KeyTitleKey</key><string>F1</string>
+    <key>F2KeyTitleKey</key><string>F2</string>
+    <key>F3KeyTitleKey</key><string>F3</string>
+    <key>F4KeyTitleKey</key><string>F4</string>
+    <key>F5KeyTitleKey</key><string>F5</string>
+    <key>F6KeyTitleKey</key><string>F6</string>
+    <key>F7KeyTitleKey</key><string>F7</string>
+    <key>F8KeyTitleKey</key><string>F8</string>
+    <key>F9KeyTitleKey</key><string>F9</string>
+    <key>F10KeyTitleKey</key><string>F10</string>
+    <key>F11KeyTitleKey</key><string>F11</string>
+    <key>F12KeyTitleKey</key><string>F12</string>
+    <key>HomeKeyTitleKey</key><string>Hem</string>
+    <key>IMEKey</key><string>IME</string>
+    <key>WinKeyTitleKey</key><string>Vinna</string>
+    <key>ControlKeyTitleKey</key><string>CTRL</string>
+    <key>PageDownKeyTitleKey</key><string>Sida ned</string>
+    <key>PageUpKeyTitleKey</key><string>Sida upp</string>
+    <key>ControlVKeyTitleKey</key><string>Klistra in</string>
+    <key>RefreshKeyTitleKey</key><string>Uppdatera</string>
+    <key>ControlSKeyTitleKey</key><string>Spara</string>
+    <key>SlideshowKeyTitleKey</key><string>Bildspel</string>
+    <key>TabKeyTitleKey</key><string>Fliken</string>
+    <key>AltF4TitileKey</key><string>Stäng fönstret</string>
+    <key>ShiftKeyTitleKey</key><string>Skift</string>
+    <key>StartMenuKeyTitleKey</key><string>Start-menyn</string>
+    <key>SendKeyTitleKey</key><string>Skicka</string>
+    <key>CopyKeyTitleKey</key><string>Kopia</string>
+    <key>DoneKeyTitleKey</key><string>Gjort</string>
+    <key>VirtualTextViewMargin</key><string>140</string>
+    <key>UseUnicodeKeyboardKey</key><string>Använda Unicode-tangentbord</string>
+    <key>PinKeyboardToolbar</key><string>PIN-tangentbord verktygsfält</string>
+    <key>CitrixDocFinderAppNameKey</key><string>Citrix Doc Finder</string>
+    <key>SMSMsgTitle</key><string>Lösenordet Status</string>
+    <key>SMSMsgButtonTitle</key><string>Okej</string>
+    <key>SMSPassCodeRequestSuccessMsg</key><string>Du får du en tid lösenordet i ett textmeddelande inom kort. Vänligen knacka svar och sedan på länken inuti textmeddelande att fortsätta.</string>
+    <key>AddProfileFromUrlWarningMsg</key><string>Du kommer att lägga till ett nytt konto. Läs igenom informationen på nästa skärm och bara spara den om det kommer från en betrodd källa.</string>
+    <key>AddProfileFromUrlWarningTitle</key><string>Lägg till konto</string>
+    <key>PasswordSaveStatusChangeTitleKey</key><string>Statusändring</string>
+    <key>PasswordSavingHasBeenDisabledMessageKey</key><string>Administratören har inaktiverat spara lösenord på den här servern</string>
+    <key>PasswordSavingHasBeenEnabledMessageKey</key><string>Administratören har aktiverat spara lösenord på den här servern.</string>
+    <key>ChangePasswordErrorTitleKey</key><string>Lösenord fel</string>
+    <key>ChangePasswordErrorFailedConsistencyCheck</key><string>Ett fel inträffade vid försök att ändra lösenordet password.\n\nYour inte har ändrats.</string>
+    <key>ChangePasswordErrorNewPasswordInvalid</key><string>Det nya lösenordet som du angav är ogiltig.</string>
+    <key>ChangePasswordErrorOldPasswordInvalid</key><string>Det gamla lösenordet som du angav är ogiltig.</string>
+    <key>ChangePasswordErrorNewPasswordMismatch</key><string>Den nya lösenord du angett matchar inte.</string>
+    <key>ChangePasswordErrorOldPasswordMismatch</key><string>Det gamla lösenordet som du angav matchar inte.</string>
+    <key>ChangePasswordErrorOperationFailed</key><string>Ett fel inträffade vid försök att ändra lösenordet password.\n\nYour inte har ändrats.</string>
+    <key>ChangePasswordOldPasswordPlaceholderKey</key><string>Gamla lösenord</string>
+    <key>ChangePasswordNewPasswordPlaceholderKey</key><string>Nytt lösenord</string>
+    <key>ChangePasswordConfirmPasswordPlaceholderKey</key><string>Bekräfta lösenord</string>
+    <key>ChangePasswordPasswordExpiredTitleKey</key><string>Lösenord upphört</string>
+    <key>ChangePasswordPasswordExpiredMessageKey</key><string>Ändring av lösenord krävs</string>
+    <key>ChangePasswordPasswordExpiredContactAdminMessageKey</key><string>Du ändra ditt lösenord och försök igen.</string>
+    <key>ChangePasswordPasswordExpiredContactAdminMessageKey2</key><string>Du ändra ditt lösenord och försök igen.</string>
+    <key>ChangePasswordPasswordsNotMatch</key><string>Lösenorden gjorde inte match. \nThe lösenord för detta konto har expired.\n\nWould du vill ändra lösenordet nu?</string>
+    <key>ChangePasswordPasswordExpiredPromptKey</key><string>Lösenord Expired, ange ett nytt lösenord</string>
+    <key>ChangePasswordPleaseLoginAgain</key><string>Lösenordet har uppdaterats. \nPlease logga in igen.</string>
+    <key>NextTokenTitleKey</key><string>Nästa Token</string>
+    <key>NextTokenPlaceholderKey</key><string>Nästa Token</string>
+    <key>NextTokenMessageKey</key><string>Vänta på token koden för att ändra, då ange den nya token code.\n\n</string>
+    <key>NextTokenInvalidTokenKey</key><string>Token är ogiltig</string>
+    <key>NextTokenOperationFailedMessageKey</key><string>Token sync var inte möjligt. Försök igen senare</string>
+    <key>NextTokenLoginAgainMessageKey</key><string>Token har uppdaterats. \nPlease vänta för token koden för att ändra, sedan logga in igen.</string>
+    <key>NextTokenEnterPasscodeKey</key><string>Ange ditt lösenord</string>
+    <key>NextTokenNewPINKey</key><string>Ny PIN-kod</string>
+    <key>NextTokenConfirmNewPINKey</key><string>Bekräfta ny PIN</string>
+    <key>NextTokenEnterNewPINTitleKey</key><string>Ange ny PIN-kod</string>
+    <key>NextTokenEnterNewPINMessageKey</key><string>Ange en ny PIN-kod mellan 4 och 8 tecken.</string>
+    <key>NextTokenPINsNotMatch</key><string>Stiften gjorde inte match. \nEnter en ny PIN-kod mellan 4 och 8 tecken.</string>
+    <key>NextTokenPINChangedMessageKey</key><string>PIN ändrade framgångsrikt. \nPlease vänta på tokencode att ändra och ange din PIN-kod och nästa tokencode.</string>
+    <key>TokenPlaceholderKey</key><string>Token</string>
+    <key>PinPlaceholderKey</key><string>PIN</string>
+    <key>PinTokenPlaceholderKey</key><string>PIN-kod + Token</string>
+    <key>ASyncHTTPCannotVerifyServerIdentityWithManualSetupOption</key><string>Inte att verifiera serverns certifikat: \ "%@\". Servern kanske inte är säkert. \nTo fortsätta tillgång, peka på inställningar och kontrollera \"Ignore certifikat varningar. \"</string>
+    <key>ASyncHTTPCannotVerifyServerIdentityWithContactHelpdesk</key><string>Servern kanske inte är säkert: \ "%@\". Be din helpdesk för ett giltigt certifikat.</string>
+    <key>ASyncHTTPInvalidSSLCert</key><string>Certifikatet inte är betrott</string>
+    <key>ASyncHTTPAllowButtonLabelKey</key><string>Tillåta</string>
+    <key>ASyncHTTPSetupButtonLabelKey</key><string>Setup</string>
+    <key>ASyncHTTPGetDataError</key><string>Gick inte att hämta data. \nStatus: %d, %@.</string>
+    <key>AsyncHTTPLearnMoreButtonLabelKey</key><string>Lära sig mer</string>
+    <key>BluetoothAlertTitleKey</key><string>Anslutning</string>
+    <key>BluetoothSessionEstablishedMessageKey</key><string>Trådlös session redan etablerat.</string>
+    <key>BluetoothWaitingConnectionMessageKey</key><string>Väntar på fjärrenheten att ansluta...</string>
+    <key>OkButtonText</key><string>Okej</string>
+    <key>YesButtonText</key><string>Ja</string>
+    <key>NoButtonText</key><string>Nej</string>
+    <key>DismissButtonText</key><string>Avfärda</string>
+    <key>CancelButtonText</key><string>Avbryt</string>
+    <key>MoreInfoButtonText</key><string>Mer information</string>
+    <key>NextButtonText</key><string>Nästa</string>
+    <key>SaveButtonText</key><string>Spara</string>
+    <key>ConfirmButtonText</key><string>Bekräfta</string>
+    <key>BackButtonText</key><string>Tillbaka</string>
+    <key>AllowButtonText</key><string>Tillåta</string>
+    <key>DontAllowButtonText</key><string>Tillåt inte</string>
+    <key>ConnectionErrorText</key><string>Ett fel uppstod vid anslutning. Kontrollera adress och anslutningen till servern.</string>
+    <key>LoginButtonText</key><string>Logga in</string>
+    <key>ExitingTitle</key><string>Spännande</string>
+    <key>ExitingText</key><string>Mottagare kommer nu att avslutas.</string>
+    <key>RestartWarningText</key><string>Denna förändring kräver mottagaren att lämna. Du kan starta om mottagaren</string>
+    <key>ExitButtonText</key><string>Exit</string>
+    <key>DontExitButtonText</key><string>Inte avsluta</string>
+    <key>HelpButtonText</key><string>Hjälp</string>
+    <key>HelpURL</key><string>http://support.Citrix.com/help/receiver/58/iOS/en/index.html</string>
+    <key>SettingsPrivacyKey</key><string>Sekretesspolicy</string>
+    <key>PrivacyURL</key><string>http://www.Citrix.com/about/Legal/Privacy/Plain.html</string>
+    <key>SettingsLicensesKey</key><string>Tredje part meddelanden</string>
+    <key>3rdParthNoticesURL</key><string>https://www.Citrix.com/Buy/Licensing/Open-Source.html</string>
+    <key>GesturesTitleKey</key><string>Gester</string>
+    <key>GestureTapLabelKey</key><string>Tryck för att klicka på</string>
+    <key>GestureTapHoldReleaseLabelKey</key><string>Knacka på, hålla ögonblickligt och släpp för att högerklicka</string>
+    <key>GestureTapHoldMoveLabelKey</key><string>Klicka, håll ögonblickligt, sedan flytta till dra</string>
+    <key>GesturePanLabelKey</key><string>Flytta finger för att panorera skärmen</string>
+    <key>GestureVerticalSwipeLabelKey</key><string>Vertikalt svep för att bläddra</string>
+    <key>GestureHorizontalSwipeLabelKey</key><string>Övergripande svep till vänster/höger pil</string>
+    <key>GesturePinchLabelKey</key><string>Nypa zooma</string>
+    <key>GestureTwoFingerTapLabelKey</key><string>Knacka med två fingrar för att zooma in/ut</string>
+    <key>GestureTwoFingerSwipeLabelKey</key><string>Två finger slå till skifta Visa</string>
+    <key>GestureRightClickLabelKey</key><string>Högerklicka på</string>
+    <key>GestureAltTabLabelKey</key><string>Alt + Tab</string>
+    <key>GestureToggleKeyboardLabelKey</key><string>Växla tangentbord</string>
+    <key>GestureLeftArrowLabelKey</key><string>Vänster piltangent</string>
+    <key>GestureRightArrowLabelKey</key><string>Rätt pil nyckel</string>
+    <key>GestureUpArrowLabelKey</key><string>Pil upp</string>
+    <key>GestureDownArrowLabelKey</key><string>Fastställs pil Key</string>
+    <key>GestureMouseWheelUpLabelKey</key><string>Mushjul upp</string>
+    <key>GestureMouseWheelDownLabelKey</key><string>Mushjul ner</string>
+    <key>GestureTapAndHoldKey</key><string>Tryck och håll</string>
+    <key>GestureTwoFingerTapKey</key><string>Tryck med två fingrar</string>
+    <key>GestureThreeFingerTapKey</key><string>Tre fingrar</string>
+    <key>GestureSwipeLeftKey</key><string>Svep åt vänster</string>
+    <key>GestureSwipeRightKey</key><string>Svep åt höger</string>
+    <key>GestureSwipeUpKey</key><string>Slå upp</string>
+    <key>GestureSwipeDownKey</key><string>Sveper ned</string>
+    <key>GestureTwoFingerSwipeLeftKey</key><string>Två Finger Svep åt höger</string>
+    <key>GestureTwoFingerSwipeRightKey</key><string>Två Finger Svep åt höger</string>
+    <key>GestureTwoFingerSwipeUpKey</key><string>Två Finger slå upp</string>
+    <key>GestureTwoFingerSwipeDownKey</key><string>Två Finger sveper ned</string>
+    <key>GestureThreeFingerSwipeLeftKey</key><string>Tre Finger Svep åt höger</string>
+    <key>GestureThreeFingerSwipeRightKey</key><string>Tre Finger Svep åt höger</string>
+    <key>GestureThreeFingerSwipeUpKey</key><string>Tre Finger slå upp</string>
+    <key>GestureThreeFingerSwipeDownKey</key><string>Tre Finger sveper ned</string>
+    <key>GestureDisableGesture</key><string>Inaktivera gest</string>
+    <key>GestureResetToDefaultLabelKey</key><string>Återställ till standard</string>
+    <key>GestureResetToDefaultMessageKey</key><string>Är du säker du vill återställa gester till standardinställningarna?</string>
+    <key>SecurityAlertTitleKey</key><string>Security Alert</string>
+    <key>SecurityAlertJailbreakMessageKey</key><string>Citrix Receiver upptäckt denna enhet har varit jailbreakad och kan inte vara betrodd för att köra denna app ordentligt.</string>
+    <key>SecurityAlertExitButtonLabelKey</key><string>Exit</string>
+    <key>IgnoreCertificateErrorsKey</key><string>Ignorera certifikat varningar</string>
+    <key>IgnoreCertificateErrorsMessage</key><string>Är du säker du vill kringgå certifikat säkerhet? Be din supportavdelning om du inte är säker.</string>
+    <key>DataSaveAlertTitleKey</key><string>Data som inte sparats Alert</string>
+    <key>DataSaveAlertMessageKey</key><string>Ansökan har vissa osparade data som kan sparas i Urklipp för framtida bruk, vill du spara den nu?</string>
+    <key>DataSaveAlertCancelButtonLabelKey</key><string>Ignorera</string>
+    <key>DataSaveAlertOKButtonLabelKey</key><string>Spara</string>
+    <key>TrackpadReadyToConnectTitleKey</key><string>Redo att ansluta</string>
+    <key>TrackpadAcceptConnectionFromLabelKey</key><string>Acceptera anslutning från: \n</string>
+    <key>TrackpadConfirmConnectionLabelKey</key><string>Kontrollera anslutning</string>
+    <key>TrackpadConnectionErrorLabelKey</key><string>Anslutningsfel</string>
+    <key>TrackpadWirelessTrackpadActiveAlertMessageKey</key><string>Trådlös styrplatta är aktiv. Vänligen koppla bort innan du försöker använda infödda styrplattan.</string>
+    <key>TrackpadNativeTrackpadActiveAlertMessageKey</key><string>Infödda styrplattan är aktiv. Stäng av innan du försöker använda trådlösa styrplattan.</string>
+    <key>TrackpadConnectedTitleKey</key><string>Ansluten</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey1</key><string>Öppna</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey2</key><string>Nytt fönster</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey3</key><string>Koppla från</string>
+    <key>DisambiguateReconnectOpen</key><string>Öppna</string>
+    <key>DisambiguateReconnectNewWindow</key><string>Nytt fönster</string>
+    <key>DisambiguateReconnectCancel</key><string>Avbryt</string>
+    <key>DisambiguateReconnectTitleFormat</key><string>%@ körs redan.</string>
+    <key>DisambiguateReconnectMessage</key><string>Du kan återansluta till detta program eller öppna ett extra fönster.</string>
+    <key>AppSwitchMenuTitleKey</key><string>Växla Apps</string>
+    <key>AppSwitchMenuTitleKeyNoWindows</key><string>Den anslutna servern kanske inte stöder App växling...</string>
+    <key>PullRefreshDateFormatKey</key><string>MM/dd/åååå hh: mm: en</string>
+    <key>PullRefreshDateAMSymbolKey</key><string>AM</string>
+    <key>PullRefreshDatePMSymbolKey</key><string>PM</string>
+    <key>PullRefreshLastUpdatedFormatKey</key><string>Senast uppdaterad: %@</string>
+    <key>PullRefreshPullingLabelKey</key><string>Release att uppdatera...</string>
+    <key>PullRefreshNormalLabelKey</key><string>Dra ner för att uppdatera...</string>
+    <key>PullRefreshLoadingLabelKey</key><string>Laddar...</string>
+    <key>ConnectionErrorAlertTitleKey</key><string>Anslutningsfel</string>
+    <key>ConnectionErrorAlertMessageKey</key><string>Programmet har stött på ett allvarligt fel och kommer att stängas. Korrigera över fel och återuppta ansökan.</string>
+    <key>ConnectionErrorAlertMessage2Key</key><string>Kunde inte ansluta till servern.</string>
+    <key>RestoringDataConnection</key><string>Återställa dataanslutning...</string>
+    <key>DataConnectionRestored</key><string>Anslutningen återställs.</string>
+    <key>StoreLogoutMessageTitleKey</key><string>Loggar ut eller kopplar från?</string>
+    <key>StoreLogoutMessageKey</key><string>Om du kopplar från, är alla osparade data i öppna program tillgängligt nästa gång du ansluter. Om du loggar ut kommer kan alla osparade data gå förlorade.</string>
+    <key>LogoutButtonText</key><string>Logga ut</string>
+    <key>DisconnectButtonText</key><string>Koppla från</string>
+    <key>StoreLoggedOffMessageKey</key><string>Du har loggat från alla konton.</string>
+    <key>ConnectionsButtonTitleKey</key><string>Anslutningar</string>
+    <key>ConnectionsActionSheetTitleKey</key><string>Anslutning Center</string>
+    <key>LogoutAlertTitleKey</key><string>Utloggning bekräftelse</string>
+    <key>LogoutAlertMessageKey</key><string>Är du säker du vill logga ut? Alla osparade data kommer att förloras.</string>
+    <key>DISMISS_BUTTON_TITLE</key><string>Okej</string>
+    <key>PLACE_HOLDER_CRED_ID</key><string>A12345678</string>
+    <key>CONNECTING_LABEL</key><string>Ansluter...</string>
+    <key>CANCEL_BUTTON_TITLE</key><string>Avbryt</string>
+    <key>TIMEOUT_MESSAGE_FORMAT</key><string>%d sekunder kvar</string>
+    <key>LocationServicesAllowAccessKey</key><string>\ "%@\" Skulle vilja använda din nuvarande position</string>
+    <key>LocationServicesChangeGeneralSettingsKey</key><string>Aktivera platstjänster tillåter \ "%@\" att bestämma din position</string>
+    <key>LocationServicesSecureConnectionWarning</key><string>%@\n\nA säker anslutning rekommenderas när du använder platstjänster</string>
+    <key>ImportCertificateKey</key><string>Importera certifikat</string>
+    <key>ImportNewCertificateKey</key><string>Importera nya certifikat</string>
+    <key>SelectCertificateKey</key><string>Välj certifikat</string>
+    <key>CertificatesKey</key><string>Certifikat</string>
+    <key>CertificateKey</key><string>Certifikat</string>
+    <key>CertificateNameKey</key><string>Namn</string>
+    <key>CertificateNamePlaceHolderKey</key><string>Certifikatnamn</string>
+    <key>CertificateURLKey</key><string>Adress</string>
+    <key>CertificateURLPlaceHolderKey</key><string>URL för certifikat</string>
+    <key>IssuedToKey</key><string>Utfärdas till:</string>
+    <key>PasswordAlertMessageForImportCertificateKey</key><string>Ange lösenordet för det här certifikatet.</string>
+    <key>ImportCertificateFailedTitle</key><string>Kan inte importera certifikat</string>
+    <key>ImportCertificateFailedMessage</key><string>Importera till nyckelring misslyckades.</string>
+    <key>WrongPasswordErrorKey</key><string>Importera till nyckelring misslyckades på grund av fel lösenord.</string>
+    <key>CertificateExistsErrorKey</key><string>Importera till nyckelring misslyckades eftersom certifikatet redan finns.</string>
+    <key>CertificateFormatNotSupportedErrorKey</key><string>Importera till nyckelring misslyckades eftersom certifikatet inte är i P12-format.</string>
+    <key>AddCertificateErrorTitleKey</key><string>Certifikat redan importerad</string>
+    <key>AddCertificateErrorButtonText</key><string>Okej</string>
+    <key>DeleteCertificateWarningTitleKey</key><string>Varning</string>
+    <key>DeleteCertificateWarningMessageKey</key><string>Detta certifikat används av en butik! Är du säker på att du vill fortsätta?</string>
+    <key>DeleteButtonText</key><string>Ta bort</string>
+    <key>ImportCertificateFailedNoDataMessage</key><string>Tom eller felaktigt certifikat på Webbadressen.</string>
+    <key>SRConfigurationError</key><string>Det gick inte att lägga till konto.</string>
+    <key>SRParseError</key><string>Det gick inte att lägga till konto.</string>
+    <key>SSLChainNotEvaluated</key><string>Servercertifikatet kan inte verifieras. För att lägga till detta konto, aktivera "Ignorera certifikat varningar".</string>
+    <key>SRStoreLogin</key><string>Ditt nya konto finns. Logga in på att få tillgång till ditt nya konto.</string>
+    <key>SRStorePersistError</key><string>Det gick inte att lägga till konto.</string>
+    <key>SROverwriteStore</key><string>Ersätta konto?</string>
+    <key>SRConfirmOverwriteStore</key><string>Vill du ersätta %@?</string>
+    <key>SelectAccountDiscoveryStore</key><string>Välj en butik</string>
+    <key>AccountDiscoveryDocumentNoStore</key><string>Det gick inte att lägga till konto.</string>
+    <key>AccountDiscoveryDocumentNoNewStores</key><string>Alla butiker i discovery-dokumentet har lästs in.</string>
+    <key>AccountDiscoveryDocumentError</key><string>Det gick inte att lägga till konto.</string>
+    <key>AccountDiscoveryIgnoreCertificateDescription</key><string>Konto upptäckten</string>
+    <key>AccountDiscoveryAddAccountErrorTitle</key><string>Kan inte lägga till konto</string>
+    <key>AccountDiscoveryNoURLForEmail</key><string>Mottagaren kan inte hitta servern för den här domänen. Om du fått en URL från det, kan du ange det i stället för din e-post.</string>
+    <key>AccountDiscoveryEmailErrorTitle</key><string>Felaktig e-post</string>
+    <key>AccountDiscoveryInvalidEmail</key><string>Ange din e-postadress i formatet name@domain.com.</string>
+    <key>AccountDiscoveryInvalidGatewaySetting</key><string>Inställningen gateway är ogiltig.</string>
+    <key>AppsTabTitleKey</key><string>Apps</string>
+    <key>DocsTabTitleKey</key><string>Docs</string>
+    <key>FilePreviewKey</key><string>Förhandsgranskning</string>
+    <key>OpenWithXenappKey</key><string>Öppna App</string>
+    <key>SendFileKey</key><string>Skicka fil</string>
+    <key>SaveOfflineKey</key><string>Hämta</string>
+    <key>RemoveOfflineKey</key><string>Ta bort</string>
+    <key>NoMatchKey</key><string>Inga tr├ñffar hittades</string>
+    <key>EnableSharedDocuments</key><string>Vänligen aktivera delade dokument från avancerade inställningar</string>
+    <key>SessionSharingWarning</key><string>Varning!</string>
+    <key>RemoveDocFromOffline_Title</key><string>Ta bort Doc?</string>
+    <key>RemoveDocFromOffline_Text</key><string>Du kan fortfarande Visa detta doc när ansluten till Internet.</string>
+    <key>FMDBlade_Title</key><string>Delade med mig</string>
+    <key>FMDSendDefaultSubjectFile</key><string>En fil har skickats till dig via Sharefile</string>
+    <key>FMDSendDefaultSubjectFolder</key><string>En mapp har skickats till dig via Sharefile</string>
+    <key>FMDSendHintText</key><string>Ange egen text här.</string>
+    <key>OK</key><string>Okej</string>
+    <key>Cancel</key><string>Avbryt</string>
+    <key>DeleteUser</key><string>Ta bort användare?</string>
+    <key>Read</key><string>Läs</string>
+    <key>ReadOnlyKey</key><string>Endast läsning</string>
+    <key>ReadWrite</key><string>Läs/skriv</string>
+    <key>RemoveButtonText</key><string>Ta bort</string>
+    <key>CopyFileURLKey</key><string>Kopiera länk</string>
+    <key>LastModifiedBy</key><string>Ägare</string>
+    <key>LastModified</key><string>Ändrades senast</string>
+    <key>FileSize</key><string>Storlek</string>
+    <key>FMD_PermanentDeleteTitle</key><string>Ta bort permanent Doc?</string>
+    <key>FMD_CannotBeUnDone</key><string>Denna åtgärd kan inte ångras.</string>
+    <key>UserNotInAddressBook</key><string>Denna person är inte i företagets nätverk. Du kan bara dela mappar med människor som är i företagets nätverk.</string>
+    <key>NotBeingShared</key><string>Denna mapp delas inte med någon</string>
+    <key>SendFolderTitle</key><string>Skicka mapp</string>
+    <key>SendFileTitle</key><string>Skicka fil</string>
+    <key>FMD_MyDocs</key><string>%1$@ %2$@ docs</string>
+    <key>FMD_RemoveFavorite_Title</key><string>Ta bort mappen?</string>
+    <key>FMD_RemoveFavorite_Text</key><string>%@ synkroniseras inte längre med dina enheter.</string>
+    <key>Unlimited</key><string>Obegränsad</string>
+    <key>Downloads</key><string>Nedladdningar</string>
+    <key>FMD_GeneralError_NotLoggedIn_Title</key><string>Felaktig inloggning</string>
+    <key>FMD_GeneralError_NotLoggedIn_Text</key><string>Du måste vara inloggad för att ShareFile att utföra denna åtgärd.</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Title</key><string>Kan inte ansluta</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Text</key><string>Kontrollera nätverksanslutningen och försök igen.</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Title</key><string>Docs torkas</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Text</key><string>Din administratör har bort dokument från din enhet.</string>
+    <key>FMD_GeneralError_InvalidCredentials_Title</key><string>Felaktig inloggning</string>
+    <key>FMD_GeneralError_InvalidCredentials_NonSSO_Text</key><string>Felaktigt användarnamn eller lösenord.</string>
+    <key>FMD_GeneralError_InvalidCredentials_SSO_Text</key><string>Logga in på Citrix Receiver att fortsätta.</string>
+    <key>FMD_GeneralError_UnrecognizedSFAPIError_Title</key><string>Problemet delar broschyren</string>
+    <key>FMD_SyncError_ItemNotFound_Title</key><string>Filen hittades inte</string>
+    <key>FMD_SyncError_ItemNotFound_Text</key><string>Filen kan inte hittas på din enhet.</string>
+    <key>FMD_DownloadError_Title</key><string>Problem ladda ner filen</string>
+    <key>FMD_DownloadError_ParentNotFound_Text</key><string>Objektet kan inte hämtas från molnet eftersom dess överordnade mappen inte kan fastställas.</string>
+    <key>FMD_DownloadError_AccessDenied_Text</key><string>Du har inte behörighet att hämta filer till enheten.</string>
+    <key>FMD_DownloadError_NotEnoughSpace_Text</key><string>Kan inte hämta filen. Du kommer att överskrida gränsen på 500MB för nedladdade filer.</string>
+    <key>FMD_UploadError_Title</key><string>Problem uppladdning fil</string>
+    <key>FMD_UploadError_ParentNotFound_Text</key><string>Objektet kan inte sparas till molnet eftersom dess överordnade mappen inte kan fastställas.</string>
+    <key>FMD_UploadError_FileNotFound_Text</key><string>Filen kan inte hittas på din enhet.</string>
+    <key>FMD_UploadError_CannotReadFileAttributes_Text</key><string>Objektet kan inte sparas till molnet eftersom dess storlek på din enhet inte kan fastställas. Filen kan ha skadats.</string>
+    <key>FMD_UploadError_AccessDenied_Text</key><string>Du har inte behörighet att ladda upp denna fil.</string>
+    <key>FMD_AddressBookError_Title</key><string>Adress bok fel</string>
+    <key>FMD_EmployeeAddressBookError_AccessDenied_Text</key><string>Anställd adressboken kan inte hämtas från molnet eftersom du inte har beviljats rätt till miljöinformation det.</string>
+    <key>FMD_ClientAddressBookError_AccessDenied_Text</key><string>Klienten adressboken kan inte hämtas från molnet eftersom du inte har beviljats rätt till miljöinformation det.</string>
+    <key>FMD_DeleteFileError_Title</key><string>Kan inte ta bort filen</string>
+    <key>FMD_DeleteFileError_AccessDenied_Text</key><string>Du har inte behörighet att ta bort denna fil.</string>
+    <key>FMD_DocsSettingsLabelKey</key><string>ShareFile</string>
+    <key>FMD_DocsUsernameLabelKey</key><string>Användarnamn</string>
+    <key>FMD_DocsPasswordLabelKey</key><string>Lösenord</string>
+    <key>FMD_DocsAccountsTitleKey</key><string>ShareFile inställningar</string>
+    <key>FMD_SaveButtonKey</key><string>Spara</string>
+    <key>FMDLoginFailedUsernamePasswdText</key><string>Felaktigt användarnamn eller lösenord.</string>
+    <key>FMDSendFileFailedTitle</key><string>Problem skicka filen</string>
+    <key>FMDShareFolderFailedTitle</key><string>Problemet delar broschyren</string>
+    <key>FMDShareFolderFailedInvalidEmailText</key><string>Ange e-postadresser i format name@domain.com</string>
+    <key>FMDDownloadFailedConnectionText</key><string>Kan inte ansluta. Kontrollera nätverksanslutningen och försök igen.</string>
+    <key>FMDDownloadFailedPermissionText</key><string>Du har inte behörighet att hämta filer till enheten.</string>
+    <key>FMDChooseSubDomainMessageFormatKey</key><string>Använda denna underdomän? - %@</string>
+    <key>FMDUseTitleKey</key><string>Användning</string>
+    <key>FMDNotUseTitleKey</key><string>Använd inte</string>
+    <key>TryDemoLabel</key><string>Prova Demo</string>
+    <key>FirstTimeAddYour</key><string>LÄGG TILL DIN</string>
+    <key>FirstTimeFavoriteApps</key><string>FAVORITPROGRAM</string>
+    <key>FMDErrorAddAccountFailedGeneral</key><string>Kontrollera inställningarna för ditt konto och försök igen</string>
+    <key>FMDErrorSubDomain</key><string>Ange underdomänen i format myaccount.sharefile.com</string>
+    <key>FMDErrorCantFindAddressBook_Title</key><string>Problem att hitta adressbok</string>
+    <key>FMDErrorSendingFolder_Title</key><string>Problem skicka mapp</string>
+    <key>FMDErrorProblemCopyingLink</key><string>Problemet Kopiera länk</string>
+    <key>FMDErrorSaveQuota</key><string>Gick inte att spara filen. Du har nått din ShareFile kvot</string>
+    <key>FMDErrorNoPermissionToDownload</key><string>Du har inte behörighet att hämta filer till enheten</string>
+    <key>FMDErrorCouldNotUpload1</key><string>Det gick inte att ladda upp filen. Du har nått din ShareFile kvot</string>
+    <key>FMDErrorCouldNotUpload2</key><string>Kunde inte ladda upp fil</string>
+    <key>FMDErrorFileNotAvailable</key><string>Denna fil är inte längre tillgänglig.</string>
+    <key>FMDErrorNoDocs</key><string>Din docs är inte tillgängliga</string>
+    <key>FMDErrorNoSharedFolders</key><string>De delade mapparna finns inte för närvarande</string>
+    <key>FMDErrorFatal</key><string>Ett oväntat fel uppstod. [om starta om möjligt] Vill du starta om Citrix Receiver nu? Ja/Nej</string>
+    <key>DeleteFileKey</key><string>Ta bort</string>
+    <key>ErrorKey</key><string>Fel</string>
+    <key>Write</key><string>Skriva</string>
+    <key>FMD_DocsAccountsLabelKey</key><string>Konton</string>
+    <key>FMDLoginFailedTitle</key><string>Felaktig inloggning</string>
+    <key>FMDLoginFailedGeneralText</key><string>Kontrollera din kontoinformation och försök igen.</string>
+    <key>FMDLoginFailedURLText</key><string>Ange URL-adressen i formatet myaccount.sharefile.com</string>
+    <key>FMDLoginFailedSofttokenText</key><string>Ange en giltig token kod.</string>
+    <key>FMDAddAccountFailedTitle</key><string>Kunde inte lägga till konto</string>
+    <key>FMDLoginFailedUsernameRequiredText</key><string>Ange ditt användarnamn.</string>
+    <key>FMDLoginFailedPasswordRequiredText</key><string>Ange ditt lösenord.</string>
+    <key>FMDLoginFailedInvalidEmailText</key><string>Ange din e-postadress i formatet name@domain.com</string>
+    <key>FMDLoginFailedNoAccountText</key><string>ShareFile kontot hittades inte.</string>
+    <key>FMDSendFileFailedInvalidEmailText</key><string>Ange e-postadresser i formatet name@domain.com.</string>
+    <key>FMDShareFolderFailedShare</key><string>Försöka igen i några minuter.</string>
+    <key>FMDShareFolderFailedPersonNotFound</key><string>Dessa människor är inte i företagets nätverk. Du kan bara dela mappar med människor som är i företagets nätverk.</string>
+    <key>FMDShareFolderFailedAddressbookAccess</key><string>Du har inte behörighet att komma åt adressboken.</string>
+    <key>FMDDownloadFailedTitle</key><string>Problem ladda ner filen</string>
+    <key>FMDDownloadFailedSpaceText</key><string>Det finns inte tillräckligt med utrymme på enheten för att spara filen.</string>
+    <key>FMDDownloadFailedQuotaText</key><string>Kan inte hämta filen. Du kommer att överskrida gränsen på 500 MB för nedladdade filer.</string>
+    <key>FMDDownloadFailedFileText</key><string>Denna fil kan inte hittas.</string>
+    <key>FMDDownloadFailedFileSizeText</key><string>Storleken kan inte bestämmas. Filen kan vara skadad.</string>
+    <key>FMDDownloadFailedFileRemovedText</key><string>Denna fil har tagits bort från enheten.</string>
+    <key>FMDSaveFileFailedTitle</key><string>Kan inte spara filen</string>
+    <key>FMDSaveFileFailedSpaceText</key><string>Det finns inte tillräckligt med utrymme att spara filen. </string>
+    <key>FMDSaveFileFailedPermissionText</key><string>Du har inte behörighet att spara filer.</string>
+    <key>FMDReplaceFileTitle</key><string>Ersätta filen?</string>
+    <key>FMDReplaceFileText</key><string>Filen finns redan, vill du ersätta den?</string>
+    <key>FMDOpenFileFailedTitle</key><string>Filen kan inte öppnas</string>
+    <key>FMDOpenFileFailedNoAppText</key><string>En app för filtypen kunde inte hittas. Kontrollera om appen är tillgänglig i mottagaren först.</string>
+    <key>FMDRemoveFileFailedTitle</key><string>Kan inte ta bort filen</string>
+    <key>FMDRemoveFileFailedPermisisonText</key><string>Du har inte behörighet att ta bort denna fil.</string>
+    <key>FMDFileNotFoundFailedTitle</key><string>Filen hittades inte</string>
+    <key>FMDFileNotFoundFailedNotAvailableText</key><string>Denna fil finns inte för närvarande. Försöka igen i några minuter.</string>
+    <key>FMDFileNotFoundFailedNotSyncedText</key><string>Den här filen har inte synkroniserats med den här enheten ännu.</string>
+    <key>FMDFileNotFoundFailedWipedText</key><string>Din administratör har bort dina dokument från din enhet</string>
+    <key>FMDFileNotFoundFailedRemovedText</key><string>Denna fil har tagits bort från enheten.</string>
+    <key>MobileAppConfirmUnsubscribeTitleKey</key><string>Ta bort \ "%@\"? </string>
+    <key>MobileAppConfirmUnsubscribeDescriptionKey</key><string>Ta bort denna app inaktiverar det på alla enheter.</string>
+    <key>MobileAppConfirmDownloadTitleKey</key><string>Bekräfta nedladdning</string>
+    <key>MobileAppConfirmDownloadDescriptionKey</key><string>Denna mobila app måste först laddas ner till din enhet för att öppna den. Vill du ladda ner denna app?</string>
+    <key>AppPendingTitleKey</key><string>App begäran väntande</string>
+    <key>AppPendingDescriptionKey</key><string>Denna app är väntar på godkännande.</string>
+    <key>AppDeniedTitleKey</key><string>App-begäran nekades</string>
+    <key>AppDeniedDescriptionKey</key><string>Nekas åtkomst till denna app.</string>
+    <key>MaintenenceModeTitleKey</key><string>App funktionshindrade</string>
+    <key>MaintenenceModeAppDisabled</key><string>Denna app är för närvarande inaktiverad</string>
+    <key>AppNotFoundTitleKey</key><string>App tillgänglig</string>
+    <key>AppNotFoundDescriptionKey</key><string>Denna app är inte tillgänglig.</string>
+    <key>SelectFeedbackTitleKey</key><string>Skicka Feedback</string>
+    <key>SelectFeedbackCancelKey</key><string>Avbryt</string>
+    <key>GeneralFeedback</key><string>Allmän Feedback</string>
+    <key>ReportIssue</key><string>Rapport frågan</string>
+    <key>EmailSubjectForIOSLogs</key><string>för iOS loggar</string>
+    <key>EmailSubjectForIOSFeedback</key><string>för iOS feedback</string>
+    <key>EmailSubjectForFeatureIdeasToCitrix</key><string>Skicka funktionen idéer till Citrix</string>
+    <key>JailBrokenAlertTitle</key><string>Enheten inte säkert</string>
+    <key>JailBrokenAlertMsg</key><string>Ditt företag tillåter inte denna app att köra på en jailbreakad enhet.</string>
+    <key>WifiRequiredAlertMsg</key><string>Ansluta till ett trådlöst nätverk att använda denna app.</string>
+    <key>AccountLockedTitle</key><string>Apps låst</string>
+    <key>AccountLockedMessage</key><string>Organisationen har låst din Citrix Receiver apps. Kontakta administratören för mer information.</string>
+    <key>DeviceNameLabel</key><string>Enhetens namn</string>
+    <key>WebcamPermissionDialogTitle</key><string>Virtuella skrivbordet försöker använda din mikrofon eller webbkamera.</string>
+    <key>WebcamPermissionDialogMsg</key><string>Vill du ha ditt virtuella skrivbord för att använda dessa anordningar?</string>
+    <key>MouseViewFTUGuide</key><string>Tryck två gånger för att zooma</string>
+    <key>BAIPairingTitleKey</key><string>Ihopkoppling</string>
+    <key>BAIBeginPairingKey</key><string>Sätta din läsare i upptäckbart läge och tryck \"Continue\" att börja ihopkopplingen.</string>
+    <key>BAIAttachAdapterKey</key><string>Bifoga baiMobile Bluetooth adapter till din enhet</string>
+    <key>BAICancelKey</key><string>Avbryt</string>
+    <key>BAISearchDiscoverableDevicesKey</key><string>Söker upptäcka enheter</string>
+    <key>BAISelectDeviceKey</key><string>Välj en enhet</string>
+    <key>BAISearchAgainKey</key><string>Sök igen</string>
+    <key>BAIPairingPINMatchKey</key><string>Matchar den kod som visas på din BAI läsare koden visas nedan?</string>
+    <key>BAIOneMomentKey</key><string>Ett ögonblick...</string>
+    <key>BAIPairingCompleteKey</key><string>Denna telefon är nu parad med baiMobile läsaren</string>
+    <key>BAIUnableToPairKey</key><string>Det går inte att koppla ihop med din läsare. Prova åter ansluta tillbehöret och ha din smartkortsläsare i upptäckbart läge innan du försöker para igen.</string>
+    <key>BAIContinueKey</key><string>Fortsätta</string>
+    <key>BAIRetryKey</key><string>Försök igen.</string>
+    <key>BAIPairingMatchButtonKey</key><string>Ja, koden matcher.</string>
+    <key>BAIPairingNoMatchButtonKey</key><string>Nej, matchar inte koden.</string>
+    <key>BAIPairingDismissButtonKey</key><string>Avfärda</string>
+    <key>%d attempts remaining.</key><string>%d försök kvar.</string>
+    <key>1 attempt remaining.</key><string>1 försök kvar.</string>
+    <key>Ask the card issuer to unblock your smart card before signing on.</key><string>Be kortutgivaren avblockera smartkortet innan du skriver.</string>
+    <key>Connect Smart Card</key><string>Ansluta Smart Card</string>
+    <key>Enter Smart Card PIN</key><string>Ange smartkortets PIN-kod</string>
+    <key>Identity</key><string>Identitet</string>
+    <key>Insert Smart Card</key><string>Sätt in smartkortet</string>
+    <key>Please connect your smart card reader to continue.</key><string>Anslut din smartkortsläsare att fortsätta.</string>
+    <key>Please connect your smart card reader to sign on.</key><string>Anslut din smart card-läsare att skriva på.</string>
+    <key>Please insert your smart card to continue.</key><string>Sätt in smartkortet att fortsätta.</string>
+    <key>Please insert your smart card to sign on.</key><string>Sätt in smartkortet logga.</string>
+    <key>Please wait...</key><string>Snälla vänta...</string>
+    <key>Smart card PIN</key><string>Smartkortets PIN-kod</string>
+    <key>You have exceeded the maximum sign on attempts.\n\n</key><string>Du har överskridit det maximala tecknet på attempts.\n\n</string>
+    <key>Your PIN is incorrect. Please try again.</key><string>PIN-koden är felaktig. Försök igen.</string>
+    <key>Your smart card does not have a valid certificate.</key><string>Smartkortet har inte ett giltigt certifikat.</string>
+    <key>Your smart card is blocked.</key><string>Smartkortet är blockerad.</string>
+    <key>Your smart card is blocked.\n\nAsk the card issuer to unblock your smart card before signing on.</key><string>Smartkortet är blocked.\n\nAsk kortutgivaren avblockera smartkortet innan du skriver.</string>
+    <key>Your smart card is not recognized. Please insert a valid smart card.</key><string>Smartkortet kan inte identifieras. Vänligen ange ett giltigt smartkort.</string>
+    <key>KURL_ERROR_COULD_NOT_SET_OPENSSL_CERTIFICATE</key><string>Smart card fel inställning SSL-certifikat.</string>
+    <key>KURL_ERROR_COULD_NOT_SET_OPENSSL_SMARTCARD_PRIVATE_KEY</key><string>Smart card fel inställning SSL privat nyckel.</string>
+    <key>KURL_REQUEST_CANCELLED</key><string>Smart card begäran avbröts.</string>
+    <key>KURL_ERROR_SSL_CONNECT_FAILURE</key><string>Smart card SSL anslutningsfel.</string>
+    <key>KURL_REQUEST_CANCELLED_BY_USER</key><string>Smart card begäran avbröts av användaren.</string>
+    <key>KURL_STATUS_UNKNOWN</key><string>Okänd smartkort begäran fel.</string>
+    <key>This server requires a client certificate</key><string>Den här servern kräver ett klientcertifikat.</string>
+    <key>The server rejected the client certificate</key><string>Servern avvisade klientcertifikatet.</string>
+    <key>Server error: %@.</key><string>Serverfel: %@.</string>
+    <key>New Feature! New Gestures!</key><string>Nyhet! Nya gester!</string>
+    <key>App Switcher starts automatically when you open a second app.</key><string>App Switcher startar automatiskt när du öppnar en andra app.</string>
+    <key>Shows one of your running apps</key><string>Visar en av din löpande apps</string>
+    <key>Shows all your running apps</key><string>Visar alla dina löpande program</string>
+    <key>Closes an app</key><string>Stänger en app</string>
+    <key>Remind me next time</key><string>Påminn mig nästa gång</string>
+    <key>Got it</key><string>Jag fattar</string>
+    <key>UnavailableDesktop</key><string>Skrivbordet är inte tillgänglig.</string>
+    <key>AppRemoved</key><string>App inte tillgänglig.</string>
+    <key>NoMoreActiveSessions</key><string>Inga fler aktiva sessioner.</string>
+    <key>NotLicensed</key><string>Inte licensierade.</string>
+    <key>CouldNotConnectToWorkstation</key><string>Kunde inte ansluta till arbetsstationen.</string>
+    <key>WorkstationInMaintenance</key><string>Skrivbordet är tillfälligt otillgänglig på grund av planerat underhåll.</string>
+    <key>ResourceError</key><string>Resursfel</string>
+    <key>GeneralAppLaunchError</key><string>Kan inte starta programmet</string>
+</dict></plist>

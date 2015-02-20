@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>0 minutes before</key><string>0 นาทีก่อน</string>
+    <key>1 day before</key><string>1 วันก่อน</string>
+    <key>1 Day</key><string>1 วัน</string>
+    <key>1 hour before</key><string>1 ชั่วโมงก่อน</string>
+    <key>1 Month</key><string>1 เดือน</string>
+    <key>1 Week</key><string>1 สัปดาห์</string>
+    <key>1.  Please join my meeting.\nhttps://www1.gotomeeting.com/join/%@\n</key><string>1 . กรุณาเข้าร่วมประชุมของฉัน 
+https: //www1.gotomeeting.com/join/%@ 
+</string>
+    <key>15 minutes before</key><string>15 นาทีก่อน</string>
+    <key>2 days before</key><string>2 วันก่อน</string>
+    <key>2 hours before</key><string>2 ชั่วโมงก่อน</string>
+    <key>2 Weeks</key><string>2 สัปดาห์</string>
+    <key>2.  Use your microphone and speakers (VoIP) - a headset is recommended. Or, call in using your telephone.\n\n%@\nAudio PIN: Shown after joining the meeting\n</key><string>2 ใช้ไมโครโฟนและลำโพงของคุณ (VoIP) - ชุดหูฟังขอแนะนำ หรือเรียกในการใช้โทรศัพท์ของคุณ 
+ 
+%@ 
+audio PIN:. แสดงให้เห็นว่าหลังจากที่เข้าร่วมการประชุม 
+</string>
+    <key>3 Days</key><string>3 วัน</string>
+    <key>30 minutes before</key><string>30 นาทีก่อน</string>
+    <key>5 minutes before</key><string>5 นาทีก่อน</string>
+    <key>%d h</key><string>%d ชั่วโมง</string>
+    <key>%d min</key><string>%d นาที</string>
+    <key>%i recipients</key><string>%i ผู้รับฉัน</string>
+    <key>%@ and %i more...</key><string>%@ %i และฉันเพิ่มเติม ...</string>
+    <key>%@ %@ to %@ %@</key><string>%@%@ ถึง%@%@</string>
+    <key>%@ to %@</key><string>%@ ถึง%@</string>
+    <key>%@ - %@</key><string>%@ - %@</string>
+    <key>&lt;No subject&gt;</key><string>&lt;ไม่มีเรื่อง&gt;</string>
+    <key>(No subject)</key><string>(ไม่มีเรื่อง)</string>
+    <key>(No recipient)</key><string>(ไม่มีผู้รับ)</string>
+    <key>About</key><string>เกี่ยวกับ</string>
+    <key>Accept</key><string>ยอมรับ</string>
+    <key>Account</key><string>บัญชี</string>
+    <key>Add %@</key><string>เพิ่ม%@</string>
+    <key>Address(email or server)</key><string>ที่อยู่</string>
+    <key>Account</key><string>บัญชี</string>
+    <key>All Contacts</key><string>ติดต่อทั้งหมด</string>
+    <key>All Day Event</key><string>ทุกวัน</string>
+    <key>All Day</key><string>ทุกวัน</string>
+    <key>All-day</key><string>ทุกวัน</string>
+    <key>all-day</key><string>ทุกวัน</string>
+    <key>Please Enter an Event Title</key><string>กรุณาใส่ชื่อที่จัดกิจกรรม</string>
+    <key>and %i more...</key><string>และ%i ฉันเพิ่มเติม ...</string>
+    <key>Anniversary</key><string>ครบรอบ</string>
+    <key>Append Signature</key><string>ผนวกลายเซ็น</string>
+    <key>Ask Before Deleting</key><string>ถามก่อนที่จะลบ</string>
+    <key>Assistant</key><string>ผู้ช่วย</string>
+    <key>Assistant phone</key><string>โทรศัพท์ผู้ช่วย</string>
+    <key>Attach Existing Photo</key><string>แนบภาพที่มีอยู่</string>
+    <key>Attach from ShareFile</key><string>แนบจาก ShareFile</string>
+    <key>Attach</key><string>แนบ</string>
+    <key>Attachment</key><string>สิ่งที่แนบมา</string>
+    <key>Attachment (1)</key><string>สิ่งที่แนบมา (1)</string>
+    <key>Attachments</key><string>ไฟล์แนบ</string>
+    <key>attendee</key><string>เชิญ</string>
+    <key>attendees</key><string>รับเชิญ</string>
+    <key>%d %@</key><string>%d%@</string>
+    <key>Attendees</key><string>รับเชิญ</string>
+    <key>Authenticate</key><string>รับรองความถูกต้อง</string>
+    <key>Autodiscover</key><string>Autodiscover</string>
+    <key>Availability</key><string>แสดงในฐานะที่เป็น</string>
+    <key>B</key><string>B</string>
+    <key>Back</key><string>กลับ</string>
+    <key>Bcc:</key><string>สำเนาลับ:</string>
+    <key>Birthday</key><string>วันเกิด</string>
+    <key>Business fax</key><string>โทรสารที่ทำงาน</string>
+    <key>Business phone</key><string>โทรศัพท์ที่ทำงาน</string>
+    <key>Business Phone</key><string>โทรศัพท์ที่ทำงาน</string>
+    <key>Web page</key><string>หน้าเว็บ</string>
+    <key>Busy</key><string>ไม่ว่าง</string>
+    <key>Calendar Event</key><string>เตือนปฏิทิน</string>
+    <key>Calendar Notifications</key><string>แจ้งเตือนปฏิทิน</string>
+    <key>Calendar</key><string>ปฏิทิน</string>
+    <key>Cancel</key><string>ยกเลิก</string>
+    <key>Canceled:</key><string>ยกเลิก:</string>
+    <key>Cannot Get Mail</key><string>ไม่สามารถรับจดหมาย</string>
+    <key>Car phone</key><string>โทรศัพท์ติดรถ</string>
+    <key>Cc/Bcc:</key><string>สำเนา / สำเนาลับ:</string>
+    <key>Cc:</key><string>สำเนา:</string>
+    <key>Checking for Mail...</key><string>ตรวจสอบเมล ...</string>
+    <key>Child</key><string>เด็ก</string>
+    <key>Choose Photo</key><string>เลือกรูปภาพ</string>
+    <key>Clear all</key><string>ล้างทั้งหมด</string>
+    <key>Clear Flag</key><string>ล้างธงประจำชาติ</string>
+    <key>Company phone</key><string>โทรศัพท์ บริษัท</string>
+    <key>Company</key><string>บริษัท</string>
+    <key>Contacts</key><string>ติดต่อ</string>
+    <key>Contacts exported successfully</key><string>ติดต่อ  ส่งออกที่ประสบความสำเร็จ</string>
+    <key>Day</key><string>วัน</string>
+    <key>De-Highlight</key><string>Highlight ลบ</string>
+    <key>Declined</key><string>ปฏิเสธ</string>
+    <key>Delete Changes</key><string>ลบการเปลี่ยนแปลง</string>
+    <key>Delete Draft</key><string>ลบร่าง</string>
+    <key>Delete this message?</key><string>ลบข้อความนี้?</string>
+    <key>Delete</key><string>ลบ</string>
+    <key>Department</key><string>กรม</string>
+    <key>Details</key><string>รายละเอียด</string>
+    <key>Dial In</key><string>โทร</string>
+    <key>Discovering...</key><string>ค้นพบ ...</string>
+    <key>Do you want to delete this occurrence or the entire series?</key><string>คุณต้องการที่จะลบนี้เกิดขึ้นหรือทั้งชุด?</string>
+    <key>Do you want to forward this occurrence or the entire series?</key><string>คุณต้องการที่จะส่งต่อการเกิดนี้หรือทั้งชุด?</string>
+    <key>ShareFileDomain</key><string>ShareFile โดเมน</string>
+    <key>Domain</key><string>โดเมน</string>
+    <key>Don't Save</key><string>อย่าประหยัด</string>
+    <key>Done</key><string>เสร็จ</string>
+    <key>Downloading folders...</key><string>โฟลเดอร์ดาวน์โหลด ...</string>
+    <key>Your mail could not be downloaded at this time. Please try again in a few minutes.</key><string>mail ของคุณไม่สามารถดาวน์โหลดได้ในขณะนี้ โปรดลองอีกครั้งในไม่กี่นาที</string>
+    <key>Access to your company network is not currently available.</key><string>การเข้าถึงเครือข่ายของ บริษัท ของคุณไม่ได้มีอยู่ในปัจจุบัน</string>
+    <key>Downloading</key><string>ดาวน์โหลด</string>
+    <key>Draft</key><string>ร่าง</string>
+    <key>Drafts</key><string>ร่าง</string>
+    <key>Edit</key><string>แก้ไข</string>
+    <key>Edit Event</key><string>แก้ไขเหตุการณ์</string>
+    <key>Edit series</key><string>แก้ไขชุด</string>
+    <key>Email Notifications</key><string>อีเมล์แจ้งเตือน</string>
+    <key>Email</key><string>อีเมล์</string>
+    <key>Email or mail server</key><string>อีเมล์หรือเซิร์ฟเวอร์อีเมล</string>
+    <key>Email All Invitees</key><string>ตอบทั้งหมด</string>
+    <key>Email Organizer</key><string>ตอบ</string>
+    <key>EmailBodyApplicationBuild</key><string>WorxMail Build Number:%@</string>
+    <key>EmailBodyApplicationMemory</key><string>หน่วยความจำการใช้งาน:%@</string>
+    <key>EmailBodyApplicationVersion</key><string>WorxMail รุ่น:%@</string>
+    <key>EmailBodyDeviceModel</key><string>รุ่นอุปกรณ์:%@</string>
+    <key>EmailBodyFreeMemory</key><string>หน่วยความจำฟรี:%@</string>
+    <key>EmailBodyIsJailBroken</key><string>คือ Jailbroken:%@</string>
+    <key>EmailBodyOSVersion</key><string>iOS เวอร์ชัน:%@</string>
+    <key>EmailBodyTotalMemory</key><string>หน่วยความจำทั้งหมด:%@</string>
+    <key>End Repeat</key><string>End ซ้ำ</string>
+    <key>Ends</key><string>สิ้นสุด</string>
+    <key>Enter at least one recipient.</key><string>ใส่ผู้รับอย่างน้อยหนึ่ง</string>
+    <key>Enter some feedback text</key><string>ป้อนข้อความคิดเห็นของคุณ</string>
+    <key>Enter your credentials</key><string>ใส่ข้อมูลประจำตัวของคุณ</string>
+    <key>Enter your domain</key><string>ใส่โดเมนของคุณ</string>
+    <key>Enter your email address</key><string>ป้อนที่อยู่อีเมลของคุณ</string>
+    <key>Enter your email or server address</key><string>ใส่ที่อยู่อีเมลหรือเซิร์ฟเวอร์ของคุณ</string>
+    <key>Enter your feedback here to send it to Citrix.</key><string>ใส่ความคิดเห็นของคุณที่นี่เพื่อส่งไปยังซิทริกซ์</string>
+    <key>Enter your password</key><string>ใส่รหัสผ่านของคุณ</string>
+    <key>Enter your server address</key><string>ป้อนที่อยู่เซิร์ฟเวอร์ของคุณ</string>
+    <key>Enter your user name</key><string>ป้อนชื่อผู้ใช้ของคุณ</string>
+    <key>Events</key><string>เหตุการณ์</string>
+    <key>Event Details</key><string>รายละเอียดเหตุการณ์</string>
+    <key>Every Day</key><string>ทุกวัน</string>
+    <key>Every Month</key><string>ทุกเดือน</string>
+    <key>Every 2 Weeks</key><string>ทุกสองสัปดาห์</string>
+    <key>Every Week</key><string>ทุกสัปดาห์</string>
+    <key>Every Year</key><string>ทุกปี</string>
+    <key>Exchange Account</key><string>บัญชีแลกเปลี่ยน </string>
+    <key>Existing Photo</key><string>ภาพที่มีอยู่</string>
+    <key>Export to iPad</key><string>ส่งออกไปยัง iPad</string>
+    <key>Export to iPhone</key><string>ส่งออกไปยัง iPhone</string>
+    <key>Failed to save Out of Office settings</key><string>ไม่สามารถบันทึกการตั้งค่าออกจากสำนักงาน</string>
+    <key>Feedback for Citrix WorxMail for iOS</key><string>ตอบ  สำหรับ Citrix WorxMail สำหรับ iOS</string>
+    <key>FileSize</key><string>ขนาด</string>
+    <key>Flag</key><string>ธงประจำ</string>
+    <key>Flagged</key><string>ปักหมุด</string>
+    <key>FMD_ClientAddressBookError_AccessDenied_Text</key><string>คุณต้องได้รับอนุญาตให้เปิดสมุดที่อยู่</string>
+    <key>FMD_EmployeeAddressBookError_AccessDenied_Text</key><string>คุณต้องได้รับอนุญาตให้เปิดสมุดที่อยู่</string>
+    <key>FMD_DeleteFileError_AccessDenied_Text</key><string>คุณต้องได้รับอนุญาตให้นำไฟล์นี้</string>
+    <key>FMD_DownloadError_AccessDenied_Text</key><string>คุณต้องขออนุญาตเพื่อดาวน์โหลดไฟล์</string>
+    <key>FMD_DownloadError_NotEnoughSpace_Text</key><string>ไม่สามารถดาวน์โหลดไฟล์ คุณจะเกินขีด จำกัด 500MB สำหรับไฟล์ที่ดาวน์โหลด</string>
+    <key>FMD_DownloadError_ParentNotFound_Text</key><string>สามารถยื่นไม่ได้เปิด</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Text</key><string>องค์กรของคุณได้ลบออกเอกสารของคุณ</string>
+    <key>FMD_GeneralError_InvalidCredentials_NonSSO_Text</key><string>ชื่อผู้ใช้งานที่ไม่ถูกต้องหรือรหัสผ่าน</string>
+    <key>FMD_GeneralError_InvalidCredentials_SSO_Text</key><string>กรุณาตรวจสอบข้อมูลประจำตัวของคุณ</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Text</key><string>ตรวจสอบการเชื่อมต่อเครือข่ายของคุณ</string>
+    <key>FMD_GeneralError_NotLoggedIn_Text</key><string>กรุณาเข้าสู่ระบบเพื่อ ShareFile</string>
+    <key>FMD_GeneralError_UnrecognizedSFAPIError_Title</key><string>ปัญหาการแชร์โฟลเดอร์</string>
+    <key>FMD_MyDocs</key><string>%1$@%2$@ เอกสาร</string>
+    <key>FMD_SyncError_ItemNotFound_Text</key><string>ไม่พบไฟล์บนอุปกรณ์ของคุณ</string>
+    <key>FMD_UploadError_AccessDenied_Text</key><string>คุณต้องได้รับอนุญาตให้อัปโหลดไฟล์นี้</string>
+    <key>FMD_UploadError_CannotReadFileAttributes_Text</key><string>ไม่สามารถบันทึกรายการนี้</string>
+    <key>FMD_UploadError_FileNotFound_Text</key><string>ไฟล์ไม่พบ</string>
+    <key>FMD_UploadError_ParentNotFound_Text</key><string>ไม่สามารถบันทึกรายการนี้</string>
+    <key>File Box</key><string>กล่องแฟ้ม</string>
+    <key>Forward</key><string>ไปข้างหน้า</string>
+    <key>Forward Invite</key><string>ไปข้างหน้า</string>
+    <key>Free</key><string>ฟรี</string>
+    <key>From:</key><string>เริ่มต้นที่:</string>
+    <key>Fw:</key><string>Fw:</string>
+    <key>GoToMeeting</key><string>GoToMeeting</string>
+    <key>GoToMeeting®\nOnline Meetings Made Easy®\n\nNot at your computer? Click the link to join this meeting from your iPhone®, iPad® or Android® device via the GoToMeeting app.</key><string>GoToMeeting ツョ 
+Online ประชุมทำツง่ายョ 
+ \ N ไม่ที่คอมพิวเตอร์ของคุณ? คลิกที่ลิงค์เพื่อเข้าร่วมการประชุมจาก iPhone ของคุณツนี้ョ, iPad ツョหรือ Android ツョอุปกรณ์ผ่านทางแอพพลิเค GoToMeeting</string>
+    <key>Hide</key><string>ซ่อน</string>
+    <key>Highlight</key><string>Highlight</string>
+    <key>Home</key><string>หน้าแรก</string>
+    <key>Home 2</key><string>โฮม 2</string>
+    <key>Home Phone</key><string>โทรศัพท์บ้าน</string>
+    <key>Home phone</key><string>โทรศัพท์บ้าน</string>
+    <key>I</key><string>ฉัน</string>
+    <key>I am running late for this meeting.</key><string>ฉันทำงานสายสำหรับการประชุมครั้งนี้</string>
+    <key>IM Address 1</key><string>IM ที่อยู่ 1</string>
+    <key>IM Address 2</key><string>IM ที่อยู่ 2</string>
+    <key>IM Address 3</key><string>IM ที่อยู่ 3</string>
+    <key>Inbox</key><string>กล่องขาเข้า</string>
+    <key>Inside My Organization</key><string>ภายในองค์กรของฉัน</string>
+    <key>Invalid Certificate</key><string>ใบรับรองไม่ถูกต้อง</string>
+    <key>Invalid email address</key><string>ที่อยู่อีเมลที่ไม่ถูกต้อง</string>
+    <key>Invite</key><string>เชิญ</string>
+    <key>Invitees</key><string>รับเชิญ</string>
+    <key>Invitees:</key><string>รับเชิญ:</string>
+    <key>Job title</key><string>ตำแหน่งงาน</string>
+    <key>Join Meeting</key><string>เข้าร่วมการประชุม</string>
+    <key>Just this occurence</key><string>การประชุมครั้งนี้</string>
+    <key>LastModified</key><string>แก้ไขล่าสุด</string>
+    <key>Legal Notices</key><string>ประกาศทางกฎหมาย</string>
+    <key>Privacy Policy</key><string>นโยบายความเป็นส่วนตัว</string>
+    <key>Location</key><string>ที่ตั้ง</string>
+    <key>Mail</key><string>จดหมาย</string>
+    <key>Manager</key><string>ผู้จัดการ</string>
+    <key>Mark As Read</key><string>มาร์คอ่าน</string>
+    <key>Mark As Unread</key><string>มาร์คขณะที่ยังไม่ได้อ่าน</string>
+    <key>Mark</key><string>มาร์ค</string>
+    <key>Maybe</key><string>MAYBE</string>
+    <key>Meeting ID: %@-%@-%@\n</key><string>ID ประชุม:%@ - %@ -%@ 
+</string>
+    <key>Meeting</key><string>ประชุม</string>
+    <key>Mobile phone</key><string>โทรศัพท์มือถือ</string>
+    <key>Month</key><string>เดือน</string>
+    <key>more</key><string>เพิ่มเติม</string>
+    <key>MoreEvents</key><string>%d เพิ่มเติม</string>
+    <key>Move Message</key><string>ย้ายข้อความ</string>
+    <key>Move</key><string>ย้าย</string>
+    <key>Multi Day</key><string>หลายวัน</string>
+    <key>Cannot Load Privacy Policy. Try Again Later.</key><string>ไม่สามารถโหลดนโยบายความเป็นส่วนตัว ลองอีกครั้ง</string>
+    <key>Never</key><string>ไม่เคย</string>
+    <key>New Event</key><string>เหตุการณ์ใหม่</string>
+    <key>New Meeting</key><string>ประชุมใหม่</string>
+    <key>New Message</key><string>ข้อความใหม่</string>
+    <key>New Photo</key><string>Photo ใหม่</string>
+    <key>Nickname</key><string>ชื่อเล่น</string>
+    <key>No Contacts</key><string>ไม่มีรายชื่อ</string>
+    <key>No Invitees</key><string>เพิ่มเชิญ</string>
+    <key>No Recipients</key><string>ใส่ผู้รับ</string>
+    <key>No Response</key><string>ไม่มีการตอบสนอง</string>
+    <key>No title</key><string>ใส่ชื่อ</string>
+    <key>NoButtonText</key><string>ไม่มี</string>
+    <key>None</key><string>ไม่มี</string>
+    <key>NoneReminder</key><string>ไม่มี</string>
+    <key>Notes</key><string>หมายเหตุ</string>
+    <key>Notifications</key><string>การแจ้งเตือน</string>
+    <key>Notification</key><string>ประกาศ</string>
+    <key>Off</key><string>ปิด</string>
+    <key>Office location</key><string>สถานที่ตั้งสำนักงาน</string>
+    <key>Offline</key><string>ออฟไลน์</string>
+    <key>Other Conference</key><string>การประชุมอื่น ๆ</string>
+    <key>OK</key><string>ตกลง</string>
+    <key>On</key><string>ใน</string>
+    <key>Optional</key><string>ถ้าต้องการ</string>
+    <key>Optional:</key><string>ถ้าต้องการ:</string>
+    <key>Organize By Conversation</key><string>จัดระเบียบโดยการสนทนา</string>
+    <key>Organizer</key><string>ออแกไนเซอร์</string>
+    <key>Other</key><string>อื่น ๆ</string>
+    <key>Out of Office</key><string>อยู่ที่สำนักงาน</string>
+    <key>Pager</key><string>เพจเจอร์</string>
+    <key>Password</key><string>รหัสผ่าน</string>
+    <key>Exchange Server Access Denied</key><string>เข้าถึง Exchange Server ถูกปฏิเสธ</string>
+    <key>Please try again in a few minutes.</key><string>กรุณาลองอีกครั้งในไม่กี่นาที</string>
+    <key>Radio phone</key><string>โทรศัพท์วิทยุ</string>
+    <key>Re:</key><string>Re:</string>
+    <key>ReadWrite</key><string>อ่าน / เขียน</string>
+    <key>Reminder</key><string>เตือน</string>
+    <key>Repeat</key><string>ซ้ำ</string>
+    <key>Repeat Forever</key><string>ซ้ำตลอดกาล</string>
+    <key>Reply All</key><string>ตอบทั้งหมด</string>
+    <key>Reply</key><string>ตอบ</string>
+    <key>Request Help from support</key><string>ขอความช่วยเหลือ</string>
+    <key>RequestHelpFromSupportMailBodyTemplate</key><string>ฉันกำลังมีปัญหากับ Citrix WorxMail สำหรับ iOS 
+ 
+Here 窶冱รายละเอียดของปัญหา 
+ 
+About อุปกรณ์ของฉัน.. 
+%@</string>
+    <key>Requesting help with Citrix WorxMail for iOS</key><string>ขอความช่วยเหลือเกี่ยวกับ Citrix WorxMail สำหรับ iOS</string>
+    <key>Required</key><string>ต้องใช้</string>
+    <key>Required:</key><string>ที่ต้องการ:</string>
+    <key>Running Late</key><string>วิ่งปลาย</string>
+    <key>Running late</key><string>วิ่งปลาย</string>
+    <key>Save Draft</key><string>บันทึกร่าง</string>
+    <key>Save</key><string>บันทึก</string>
+    <key>Search</key><string>ค้นหา</string>
+    <key>Search Contacts</key><string>ติดต่อค้นหา</string>
+    <key>Select a different date or time for the event occurrence</key><string>ตรวจสอบการเริ่มต้นและวันที่สิ้นสุด</string>
+    <key>Select a Start Date earlier than the End Date</key><string>ตรวจสอบการเริ่มต้นและวันที่สิ้นสุด</string>
+    <key>Select a meeting</key><string>เลือกประชุม</string>
+    <key>Select all</key><string>เลือกทั้งหมด</string>
+    <key>Select an End Date later than the Start Date</key><string>ตรวจสอบการเริ่มต้นและวันที่สิ้นสุด</string>
+    <key>Select an End Date that is later than now</key><string>ตรวจสอบการเริ่มต้นและวันที่สิ้นสุด</string>
+    <key>Select Recipients</key><string>เลือกผู้รับ</string>
+    <key>Please select recipients for your reply message (Inside My Organization or Outside My Organization).</key><string>กรุณาเลือกผู้รับข้อความตอบกลับของคุณ (ภายในองค์กรของฉันหรือนอกองค์กรของฉัน)</string>
+    <key>Send Feedback to Citrix</key><string>ส่งความคิดเห็นไปยังซิทริกซ์</string>
+    <key>Send Feedback</key><string>ส่งข้อเสนอแนะ</string>
+    <key>Send</key><string>ส่ง</string>
+    <key>Sent from Citrix WorxMail for iPad</key><string>ส่งมาจากซิทริกซ์ WorxMail สำหรับ iPad</string>
+    <key>Sent from Citrix WorxMail for iPhone</key><string>ส่งมาจากซิทริกซ์ WorxMail สำหรับ iPhone</string>
+    <key>Server</key><string>เซิร์ฟเวอร์</string>
+    <key>Settings</key><string>ตั้งค่า </string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>ข้อผิดพลาดการตรวจสอบ  ที่ไม่คาดคิด</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON แยกวิเคราะห์ข้อผิดพลาด</string>
+    <key>SFAPIConnection_NilResponse</key><string>วัตถุ SFResponse เป็นศูนย์ คำขอนี้ได้รับการสนับสนุนหรือไม่?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>เชื่อมต่อเครือข่ายไม่พบ</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth ล้มเหลว ข้อมูล Reauth เป็นศูนย์</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth ล้มเหลว ข้อผิดพลาดที่ไม่รู้จัก</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth ล้มเหลว ชนิดเข้าสู่ระบบ SAML ไม่สนับสนุน</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection ได้รับการตรวจสอบความท้าทาย</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>รูปแบบการตอบสนองที่ไม่รู้จัก</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest ที่ไม่ถูกต้อง กรุณาตรวจสอบ params คำขอที่ต้องการ</string>
+    <key>Share</key><string>แบ่งปัน</string>
+    <key>ShareFile Browser</key><string>ShareFile</string>
+    <key>Show Notifications</key><string>แสดงการแจ้งเตือน</string>
+    <key>Signature</key><string>ลายเซ็น</string>
+    <key>Sound</key><string>เสียง</string>
+    <key>Specify Days</key><string>ระบุวัน</string>
+    <key>Spouse</key><string>คู่สมรส</string>
+    <key>Start</key><string>เริ่มต้น</string>
+    <key>Starts</key><string>เริ่มต้น</string>
+    <key>Starts\nEnds</key><string>เริ่มต้น 
+Ends</string>
+    <key>Starts &amp; Ends</key><string>เริ่มต้นและสิ้นสุด</string>
+    <key>Subject:</key><string>เรื่อง:</string>
+    <key>Support</key><string>สนับสนุน</string>
+    <key>Sync Mail Period</key><string>ซิงค์เมลระยะเวลา</string>
+    <key>Sync with Local Contacts</key><string>ซิงค์กับ Contacts ท้องถิ่น</string>
+    <key>Take a Photo</key><string>ถ่ายภาพ</string>
+    <key>Tap \"+\" or search from \n directory to add.</key><string>แตะ \ "+ \" หรือค้นหาจาก 
+ ไดเรกทอรีที่จะเพิ่ม</string>
+    <key>Tentative</key><string>เบื้องต้น</string>
+    <key>Time</key><string>เวลา</string>
+    <key>Time Duration</key><string>ระยะเวลา</string>
+    <key>Title</key><string>ชื่อเรื่อง</string>
+    <key>%1$d of %2$d</key><string>%1$d จาก%2$d</string>
+    <key>To:</key><string>เรียน</string>
+    <key>Try Again</key><string>ลองอีกครั้ง</string>
+    <key>U</key><string>U</string>
+    <key>Sorry, WorxMail Cannot Get Attendee Details</key><string>ขออภัย WorxMail ไม่สามารถรับผู้เข้าร่วมประชุมรายละเอียด</string>
+    <key>Sorry, WorxMail Cannot Get Organizer Details</key><string>ขออภัย WorxMail ไม่สามารถรับออแกไนเซอร์รายละเอียด</string>
+    <key>Unavailable</key><string>ไม่พร้อมใช้งาน</string>
+    <key>Unread</key><string>ยังไม่ได้อ่าน</string>
+    <key>Updated</key><string>ปรับปรุง</string>
+    <key>Username</key><string>ชื่อผู้ใช้งาน</string>
+    <key>Verifying...</key><string>การตรวจสอบ ...</string>
+    <key>Version</key><string>รุ่น</string>
+    <key>When</key><string>เมื่อ</string>
+    <key>Where</key><string>ที่ไหน</string>
+    <key>Whole series</key><string>ทั้งชุด</string>
+    <key>Work</key><string>ทำงาน</string>
+    <key>WorxMail</key><string>WorxMail</string>
+    <key>YesButtonText</key><string>ใช่</string>
+    <key>Yesterday</key><string>เมื่อวานนี้</string>
+    <key>Accept All Certificates</key><string>ยอมรับใบรับรองทั้งหมด</string>
+    <key>Accepted</key><string>ได้รับการยอมรับ</string>
+    <key>Access denied</key><string>เข้าถึงถูกปฏิเสธ</string>
+    <key>You need a valid certificate to use this app.</key><string>คุณต้องมีใบรับรองที่ถูกต้องที่จะใช้ app นี้</string>
+    <key>WorxMail cannot safely connect to the server. The server is not trusted.</key><string>WorxMail ได้อย่างปลอดภัยไม่สามารถเชื่อมต่อไปยังเซิร์ฟเวอร์ เซิร์ฟเวอร์ไม่น่าเชื่อถือ</string>
+    <key>Untrusted SSL Certificate</key><string>ไม่น่าเชื่อถือ SSL Certificate</string>
+    <key>You and</key><string>คุณและ</string>
+    <key>Download complete message</key><string>ดาวน์โหลดข้อความสมบูรณ์</string>
+    <key>Cannot download the complete message. Please try again later.</key><string>ไม่สามารถดาวน์โหลดข้อความสมบูรณ์ โปรดลองอีกครั้งในภายหลัง</string>
+    <key>Downloading...</key><string>ดาวน์โหลด ...</string>
+    <key>First Name</key><string>ชื่อ</string>
+    <key>Middle name</key><string>ชื่อกลาง</string>
+    <key>Last Name</key><string>นามสกุล</string>
+    <key>Suffix</key><string>ต่อท้าย</string>
+    <key>City</key><string>เมือง</string>
+    <key>State</key><string>รัฐ</string>
+    <key>Postal Code</key><string>รหัสไปรษณีย์</string>
+    <key>Country</key><string>ประเทศ</string>
+    <key>Street</key><string>ถนน</string>
+    <key>Edit More</key><string>แก้ไขเพิ่มเติม</string>
+    <key>Edit Less</key><string>แก้ไขหัก</string>
+    <key>Contact</key><string>ติดต่อ</string>
+    <key>First</key><string>แรก</string>
+    <key>Middle</key><string>กลาง</string>
+    <key>Last</key><string>ล่าสุด</string>
+    <key>Name</key><string>ชื่อ</string>
+    <key>Phone</key><string>โทรศัพท์</string>
+    <key>Email Address</key><string>ที่อยู่อีเมล</string>
+    <key>Email Address 1</key><string>ที่อยู่อีเมลล์ 1</string>
+    <key>Email Address 2</key><string>ที่อยู่อีเมลล์ 2</string>
+    <key>Email Address 3</key><string>ที่อยู่อีเมลล์ 3</string>
+    <key>Address</key><string>ที่อยู่</string>
+    <key>Business Address</key><string>ที่อยู่ธุรกิจ</string>
+    <key>Home Address</key><string>ที่อยู่บ้าน</string>
+    <key>Other Address</key><string>ที่อยู่อื่น ๆ</string>
+    <key>Add New</key><string>เพิ่มการประชุมใหม่</string>
+    <key>Assistant Phone</key><string>ผู้ช่วยโทรศัพท์</string>
+    <key>Car Phone</key><string>โทรศัพท์รถยนต์</string>
+    <key>Company Phone</key><string>โทรศัพท์ บริษัท</string>
+    <key>Conference</key><string>เว็บและเครื่องเสียง</string>
+    <key>IM</key><string>IM</string>
+    <key>Meeting Id</key><string>ID ประชุม</string>
+    <key>Meetings</key><string>ประชุม</string>
+    <key>No Events</key><string>ไม่มีเหตุการณ์</string>
+    <key>Radio Phone</key><string>วิทยุโทรศัพท์</string>
+    <key>WorxMail Custom Conference</key><string>WorxMail การประชุมที่กำหนดเอง</string>
+    <key>WorxMail GTM</key><string>WorxMail GTM</string>
+    <key>Files</key><string>ไฟล์</string>
+    <key>Clear All</key><string>ล้างทั้งหมด</string>
+    <key>Preview</key><string>ตัวอย่าง</string>
+    <key>Upload</key><string>อัพโหลด</string>
+    <key>Error</key><string>ข้อผิดพลาด</string>
+    <key>Time-out no response from server</key><string>ไม่มีการตอบสนองจากเซิร์ฟเวอร์ 
+</string>
+    <key>Uploading...</key><string>อัพโหลด ...</string>
+    <key>Attendee</key><string>ผู้เข้าร่วมประชุม</string>
+    <key>Save to Contacts</key><string>เก็บในรายชื่อ</string>
+    <key>New Contact</key><string>ติดต่อใหม่</string>
+    <key>Load Attachments on Wi-Fi</key><string>ไฟล์แนบน้ำหนักบนอินเตอร์เน็ตไร้สาย</string>
+    <key>Mobile</key><string>โทรศัพท์มือถือ</string>
+    <key>Business</key><string>ทำงาน</string>
+    <key>Business 2</key><string>ทำงาน 2</string>
+    <key>Radio</key><string>วิทยุ</string>
+    <key>Car</key><string>รถยนต์</string>
+    <key>Fax</key><string>แฟ็กซ์</string>
+    <key>Office</key><string>สำนักงาน</string>
+    <key>Contact exported successfully</key><string>ติดต่อประสบความสำเร็จในการส่งออก</string>
+    <key>Contacts exported successfully</key><string>ติดต่อ  ส่งออกที่ประสบความสำเร็จ</string>
+    <key>Set Specific Time Duration</key><string>ตั้งระยะเวลาเวลาที่เฉพาะเจาะจง</string>
+    <key>Inside Organization</key><string>ภายในองค์การ</string>
+    <key>Outside Organization</key><string>องค์การนอก</string>
+    <key>Please enter your reply message.</key><string>กรุณาใส่ข้อความตอบกลับของคุณ</string>
+    <key>My Contacts Only</key><string>ติดต่อของฉันเท่านั้น</string>
+    <key>Send Automatic Replies</key><string>ส่งตอบกลับอัตโนมัติ</string>
+    <key>Outside My Organization</key><string>นอกองค์กรของฉัน</string>
+    <key>Anyone Outside My Organization</key><string>บุคคลภายนอกองค์กรของฉัน</string>
+    <key>Auto-Reply</key><string>ตอบกลับอัตโนมัติ</string>
+    <key>Type</key><string>ประเภท</string>
+    <key>Government</key><string>รัฐบาล</string>
+    <key>Customer</key><string>ลูกค้า</string>
+    <key>Export Contacts</key><string>ส่งออกรายชื่อผู้ติดต่อ</string>
+    <key>Contact export failed.</key><string>ส่งออกติดต่อล้มเหลว</string>
+    <key>Auto refresh header for background fetch on</key><string>ต้องการเปิดรีเฟรชออกไป iOS 
+Settings และเลือกทั่วไป&gt; Background App 
+Refresh. 
+ 
+SELECTED โฟลเดอร์</string>
+    <key>Auto refresh header for background fetch on without line break</key><string>ต้องการเปิดรีเฟรชออกไป iOS ของคุณตั้งค่าและเลือกทั่วไป&gt; Background App รีเฟรช. 
+ 
+SELECTED โฟลเดอร์</string>
+    <key>Auto refresh header for background fetch off</key><string>ต้องการเปิดรีเฟรชอัตโนมัติไปที่ iOS 
+Settings และเลือกทั่วไป&gt; Background App 
+Refresh</string>
+    <key>Auto refresh header for background fetch off without line break</key><string>เมื่อต้องการเปิดการรีเฟรชอัตโนมัติ, iOS ของคุณไปที่การตั้งค่าและเลือกทั่วไป&gt; Background App รีเฟรช</string>
+    <key>Selected Folders</key><string>คัดสรรโฟลเดอร์</string>
+    <key>Delete selected message?</key><string>ลบข้อความที่เลือก?</string>
+    <key>Move Messages</key><string>ย้ายข้อความ</string>
+    <key>Move conversation</key><string>ย้ายการสนทนา</string>
+    <key>Move conversations</key><string>ย้ายการสนทนา</string>
+    <key>Mark as unread</key><string>มาร์คว่ายังไม่ได้อ่าน</string>
+    <key>Meeting Password</key><string>รหัสผ่านที่ประชุม</string>
+    <key>Recurring Meeting</key><string>ประชุมที่เกิดซ้ำ</string>
+    <key>Recurrence</key><string>กิจวัตร</string>
+    <key>Account Settings</key><string>การตั้งค่าบัญชี</string>
+    <key>Account</key><string>บัญชี</string>
+    <key>Auto Refresh</key><string>รีเฟรชอัตโนมัติ</string>
+    <key>Pull to refresh this folder.</key><string>ดึงเพื่อฟื้นฟูโฟลเดอร์นี้</string>
+    <key>Checking for Contacts...</key><string>ตรวจสอบรายชื่อ ...</string>
+    <key>Cannot View Attachment</key><string>ไม่สามารถดูสิ่งที่แนบมา</string>
+    <key>Can't Open File Type \n Tap Share to open with another app.</key><string>ไม่สามารถเปิดไฟล์ประเภท 
+ แตะแบ่งปันไปเปิดกับ app อื่น</string>
+    <key>WorxMail cannot find an app to view this attachment. Please try a local app or add an app in Worx Home to view this attachment.</key><string>WorxMail ไม่สามารถหา app เพื่อดูสิ่งที่แนบมานี้ โปรดลองตรวจสอบท้องถิ่นหรือเพิ่มการตรวจสอบใน Worx บ้านเพื่อดูสิ่งที่แนบมานี้</string>
+    <key>To view this attachment, try a local app or add an app in Worx Home.</key><string>ในการดูสิ่งที่แนบมานี้ให้ลองตรวจสอบท้องถิ่นหรือเพิ่มการตรวจสอบใน Worx หน้าแรก</string>
+    <key>ShareFile</key><string>ShareFile</string>
+    <key>Cannot Join Meeting</key><string>ไม่สามารถเข้าร่วมการประชุม</string>
+    <key>WorxMail cannot find an app to join this meeting. Please try adding the appropriate app in Worx Home.</key><string>WorxMail ไม่สามารถหา app ที่จะเข้าร่วมการประชุมครั้งนี้ โปรดลองเพิ่มการตรวจสอบความเหมาะสมใน Worx หน้าแรก</string>
+    <key>Name isn't available</key><string>ชื่อจะไม่สามารถใช้ได้</string>
+    <key>IM Address</key><string>IM ที่อยู่</string>
+    <key>http://www.citrix.com/about/legal/privacy/plain.html</key><string>http: //www.citrix.com/about/legal/privacy/plain.html</string>
+    <key>Repeat end date can not be before event start date.</key><string>ซ้ำวันที่สิ้นสุดจะต้องเกิดขึ้นหลังจากเหตุการณ์วันที่เริ่มต้น</string>
+    <key>Select a message for this attachment</key><string>เลือกข้อความสำหรับสิ่งที่แนบมานี้</string>
+    <key>Sorry, WorxMail Could Not Retrieve Your Meetings</key><string>ขออภัย WorxMail ไม่สามารถเรียกประชุมของคุณ</string>
+    <key>Sorry, WorxMail Could Not Create Your Meeting</key><string>ขออภัย WorxMail ไม่สามารถสร้างการประชุมของคุณ</string>
+    <key>Sorry, WorxMail Could Not Delete Your Meeting</key><string>ขออภัย WorxMail ไม่สามารถลบการประชุมของคุณ</string>
+    <key>Sorry, WorxMail Could Not Edit Your Meeting</key><string>ขออภัย WorxMail ไม่สามารถแก้ไขการประชุมของคุณ</string>
+    <key>Your Internet access is not currently available.</key><string>อินเทอร์เน็ตของคุณไม่สามารถ</string>
+    <key>Email 1</key><string>อีเมล์ 1</string>
+    <key>Name 1</key><string>ชื่อ 1</string>
+    <key>Name 2</key><string>ชื่อ 2</string>
+    <key>Email 3</key><string>อีเมล์ 3</string>
+    <key>Name 3</key><string>ชื่อ 3</string>
+    <key>Email 2</key><string>อีเมล์ 2</string>
+    <key>Business Street</key><string>ถนนทำงาน</string>
+    <key>Home Street</key><string>บ้านถนน</string>
+    <key>Other Street</key><string>อื่น ๆ ถนน</string>
+    <key>Delete Contact</key><string>ลบติดต่อ</string>
+    <key>Delete Contacts</key><string>ลบรายชื่อ</string>
+    <key>Delete Message</key><string>ลบข้อความ</string>
+    <key>Delete Messages</key><string>ลบข้อความ</string>
+    <key>Delete Conversations</key><string>ลบการสนทนา</string>
+    <key>Delete Conversation</key><string>ลบการสนทนา</string>
+    <key>Account Not Created</key><string>บัญชี  ไม่ได้สร้างความ</string>
+    <key>Your account cannot be created at this time. This version of your Mail Server is not supported.</key><string>บัญชีของคุณไม่สามารถสร้างขึ้นในเวลานี้ รุ่นนี้ของเซิร์ฟเวอร์อีเมลของคุณจะไม่ได้รับการสนับสนุน</string>
+    <key>Your account could not be created. Check your email address and try again.</key><string>บัญชีของคุณไม่สามารถสร้างได้ ตรวจสอบที่อยู่อีเมลของคุณและลองอีกครั้ง</string>
+    <key>IM 1</key><string>IM 1</string>
+    <key>IM 2</key><string>IM 2</string>
+    <key>IM 3</key><string>IM 3</string>
+    <key>From</key><string>จาก</string>
+    <key>Date</key><string>วันที่สมัคร</string>
+    <key>To</key><string>ต้องการ</string>
+    <key>Subject</key><string>เรื่อง</string>
+    <key>Cc</key><string>สำเนา</string>
+    <key>Please configure your email account before using WorxMail</key><string>กรุณาตั้งค่าบัญชีอีเมลของคุณก่อนที่จะใช้ WorxMail</string>
+    <key>Sorry, WorxMail Could Not Process Your Request</key><string>ขออภัย WorxMail ไม่สามารถดำเนินการตามคำขอของคุณ</string>
+    <key>Download</key><string>ดาวน์โหลด</string>
+    <key>Waiting...</key><string>รอ ...</string>
+    <key>Sorry, WorxMail Could Not Open the Event</key><string>ขออภัย WorxMail สามารถツไม่เปิดกิจกรรม</string>
+    <key>WorxMail could not attach your image. Please try again in a few minutes.</key><string>WorxMail ไม่สามารถแนบภาพของคุณ โปรดลองอีกครั้งในไม่กี่นาที</string>
+    <key>Send To All</key><string>ส่งให้ทั้งหมด</string>
+    <key>Send To Changed</key><string>ส่งให้เปลี่ยน</string>
+    <key>FaceTime</key><string>FaceTime</string>
+    <key>Blocked by Admin Policy: Attach File</key><string>ถูกบล็อคโดยนโยบายการดูแลระบบ: ไฟล์แนบ</string>
+    <key>Your WorxMail contacts will be exported to your local contacts.</key><string>รายชื่อ WorxMail ของท่านจะถูกส่งออกไปยังรายชื่อผู้ติดต่อในพื้นที่ของคุณ</string>
+    <key>Your WorxMail contacts will no longer be exported to your local contacts.</key><string>รายชื่อ WorxMail ของคุณจะถูกส่งออกไม่ได้ไปยังผู้ติดต่อในพื้นที่ของคุณ</string>
+    <key>The attachment is not available to download.</key><string>สิ่งที่แนบมาไม่ได้มีให้ดาวน์โหลด</string>
+    <key>You do not have permission to download the attachment.</key><string>คุณไม่ได้รับสิทธิ์ในการดาวน์โหลดสิ่งที่แนบมา</string>
+    <key>Your company's policy doesn't allow attachments to be downloaded.</key><string>นโยบายของ บริษัท ของคุณไม่อนุญาตให้สิ่งที่แนบมาให้ดาวน์โหลด</string>
+    <key>A problem occurred with the download.</key><string>ปัญหาที่เกิดขึ้นกับการดาวน์โหลด</string>
+    <key>Invalid Event Duration</key><string>ระยะเวลาที่จัดกิจกรรมที่ไม่ถูกต้อง</string>
+    <key>The duration of the calendar event must be shorter than how frequently it occurs.</key><string>ระยะเวลาของเหตุการณ์ในปฏิทินจะต้องสั้นกว่าวิธีการที่มักจะเกิดขึ้น</string>
+    <key>Send message with no subject?</key><string>ส่งข้อความกับเรื่องไม่?</string>
+    <key>Custom</key><string>ที่กำหนดเอง</string>
+    <key>Move to CC</key><string>ย้ายไปสำเนา</string>
+    <key>Information</key><string>ข้อมูล </string>
+    <key>Delete Conference</key><string>ประชุมลบ</string>
+    <key>Your Company Network Is Not Currently Available</key><string>เครือข่าย บริษัท ของคุณไม่ได้มีอยู่ในปัจจุบัน</string>
+    <key>Actions</key><string>การกระทำ </string>
+    <key>When:</key><string>เมื่อ:</string>
+    <key>Respond</key><string>ตอบสนอง</string>
+    <key>No Response</key><string>ไม่ตอบสนอง</string>
+    <key>NO RESPONSE</key><string>ไม่ตอบสนอง</string>
+    <key>MORE RESULTS</key><string>ผลการค้นหาเพิ่มเติม</string>
+    <key>%d of %d</key><string>%d%d</string>
+    <key>Continue search on server</key><string>ดำเนินการต่อการค้นหาบนเซิร์ฟเวอร์</string>
+    <key>Folders</key><string>โฟลเดอร์</string>
+    <key>Show Less</key><string>ตัวเลือกน้อยลง</string>
+    <key>Show More</key><string>ตัวเลือกเพิ่มเติม</string>
+    <key>More</key><string>เพิ่มเติม</string>
+    <key>&amp; %i More</key><string>&amp; %i ผมเพิ่มเติม</string>
+    <key>No scheduled meetings</key><string>การประชุมที่กำหนดไว้ไม่มี</string>
+    <key>RECURRING MEETINGS</key><string>ประชุมที่เกิดขึ้น</string>
+    <key>SCHEDULED MEETINGS</key><string>กำหนดการประชุม</string>
+    <key>MEETINGS</key><string>ประชุม</string>
+    <key>All</key><string>ทั้งหมด</string>
+    <key>Sort Order</key><string>เรียง</string>
+    <key>Display Order</key><string>สั่งแสดง</string>
+    <key>First, Last</key><string>แรกล่าสุด</string>
+    <key>Last, First</key><string>ล่าสุดเป็นครั้งแรก</string>
+    <key>Phonetic First Name</key><string>ออกเสียงชื่อ</string>
+    <key>Phonetic Last Name</key><string>สัทนามสกุล</string>
+    <key>Mailboxes</key><string>กล่องจดหมาย</string>
+    <key>%d Selected</key><string>%d ที่เลือกไว้</string>
+    <key>99+</key><string>99 +</string>
+    <key>Swipe Up</key><string>รูดขึ้น</string>
+    <key>Swipe Down</key><string>รูดลง</string>
+    <key>Single Tap To Read</key><string>แตะเพียงครั้งเดียวในการอ่าน</string>
+    <key>Double Tap To Flag</key><string>แตะสองครั้งเพื่อธงประจำชาติ</string>
+    <key>Mark as Read</key><string>ทำเครื่องหมายว่าอ่าน</string>
+    <key>Move to</key><string>ย้ายไปที่</string>
+    <key>Fast Sort</key><string>เรียงรวดเร็ว</string>
+    <key>Move to %@</key><string>ย้ายไป%@</string>
+    <key>MAIL</key><string>จดหมาย</string>
+    <key>CONTACTS</key><string>ติดต่อ</string>
+    <key>CALENDAR</key><string>ปฏิทิน</string>
+    <key>Conversation</key><string>การสนทนา</string>
+    <key>ITEMS</key><string>รายการ</string>
+    <key>Loading meetings...</key><string>ประชุมโหลด ...</string>
+    <key>Create note</key><string>สร้างบันทึก</string>
+    <key>Checking for Events...</key><string>ตรวจสอบเหตุการณ์ ...</string>
+    <key>Delete Photo</key><string>ลบภาพ</string>
+    <key>Display Name</key><string>ชื่อที่แสดง</string>
+    <key>Phonetic FirstName</key><string>สัท FirstName</string>
+    <key>Business Fax</key><string>โทรสารที่ทำงาน</string>
+    <key>PHONE</key><string>โทรศัพท์</string>
+    <key>Week</key><string>สัปดาห์</string>
+    <key>Work Email</key><string>อีเมลที่ทำงาน</string>
+    <key>Home Email</key><string>อีเมล์หน้าแรก</string>
+    <key>INTERNET</key><string>INTERNET</string>
+    <key>BUSINESS</key><string>ทำงาน</string>
+    <key>HOME</key><string>หน้าแรก</string>
+    <key>ALIAS</key><string>ALIAS</string>
+    <key>PERSONAL</key><string>ส่วนบุคคล</string>
+    <key>NOTES</key><string>หมายเหตุ </string>
+    <key>Middle Name</key><string>ชื่อกลาง</string>
+    <key>COMPANY INFO</key><string>ข้อมูล บริษัท</string>
+    <key>Add to Existing Contact</key><string>เพิ่มติดต่อที่มีอยู่</string>
+    <key>ADDRESS</key><string>ที่อยู่</string>
+    <key>Close</key><string>ปิด</string>
+    <key>COMPANY DIRECTORY</key><string>DIRECTORY บริษัท</string>
+    <key>Export</key><string>ส่งออก</string>
+    <key>General</key><string>ทั่วไป</string>
+    <key>Label</key><string>ฉลาก</string>
+    <key>No Data passed</key><string>ไม่มีข้อมูลผ่าน</string>
+    <key>OTHER</key><string>อื่น ๆ</string>
+    <key>Phonetic LastName</key><string>สัทนามสกุล</string>
+    <key>Please enter a reply message for Inside My Organization.</key><string>กรุณาใส่ข้อความตอบกลับสำหรับภายในองค์กรของฉัน</string>
+    <key>Please enter your reply message for Outside My Organization.</key><string>กรุณาใส่ข้อความตอบกลับของคุณสำหรับนอกองค์กรของฉัน</string>
+    <key>Delete</key><string>ลบ</string>
+    <key>Blocked by Admin Policy: Add Photo</key><string>ถูกบล็อคโดยนโยบายการดูแลระบบ: เพิ่มภาพ</string>
+    <key>Select a phone number</key><string>เลือกหมายเลขโทรศัพท์</string>
+    <key>New Meeting Invitation</key><string>หนังสือเชิญประชุมใหม่</string>
+    <key>Unlink</key><string>ยกเลิกการเชื่อมโยง</string>
+    <key>Next event</key><string>เหตุการณ์ถัดไป</string>
+    <key>Next event at</key><string>เหตุการณ์ถัดไปที่</string>
+    <key>Checking for Updates...</key><string>ตรวจสอบการปรับปรุง ...</string>
+    <key>Incorrect Password</key><string>รหัสผ่านที่ไม่ถูกต้อง</string>
+    <key>Enter password for</key><string>ใส่รหัสผ่านสำหรับ</string>
+    <key>Decline</key><string>ลดลง</string>
+    <key>TentativelyAccept</key><string>บางที</string>
+    <key>&amp; Comment</key><string>และแสดงความคิดเห็น</string>
+    <key>Login</key><string>เข้าสู่ระบบ</string>
+    <key>Please enter your password</key><string>กรุณาป้อนรหัสผ่านของคุณ</string>
+    <key>Checking Password...</key><string>รหัสผ่านการตรวจสอบ ...</string>
+    <key>Password validation failed.\nPlease try again later.</key><string>รหัสผ่านการตรวจสอบล้มเหลว. 
+ กรุณาลองอีกครั้งในภายหลัง</string>
+    <key>Retry</key><string>ลองอีกครั้ง</string>
+    <key>Tomorrow</key><string>พรุ่งนี้</string>
+    <key>Please resolve expired or locked passwords before continuing.</key><string>กรุณาแก้ไขรหัสผ่านหมดอายุหรือล็อคก่อนดำเนินการต่อ</string>
+    <key>Please go to Settings &gt; Auto-Refresh and reduce the number of folders that you have selected.</key><string>กรุณาไปที่การตั้งค่า&gt; Auto-รีเฟรชและลดจำนวนของโฟลเดอร์ที่คุณได้เลือกไว้</string>
+    <key>Please change your account password to continue using WorxMail.</key><string>กรุณาเปลี่ยนรหัสผ่านของบัญชีของคุณเพื่อดำเนินการต่อโดยใช้ WorxMail</string>
+    <key>Please change your account password for</key><string>กรุณาเปลี่ยนรหัสผ่านของบัญชีของคุณสำหรับ</string>
+    <key>to continue using WorxMail.</key><string>เพื่อดำเนินการต่อโดยใช้ WorxMail</string>
+    <key>Your Mailbox Is Full</key><string>กล่องจดหมายของคุณเต็ม</string>
+    <key>Your message cannot be sent until you delete messages from your mailbox.\nWorxMail will send this message as soon as more space is available.</key><string>ข้อความของคุณไม่สามารถส่งจนกว่าคุณจะลบข้อความจากกล่องจดหมายของคุณ. 
+WorxMail จะส่งข้อความนี้ให้เร็วที่สุดเท่าพื้นที่มากขึ้นสามารถใช้ได้</string>
+    <key>Your network is not available. Tap to retry.</key><string>เครือข่ายของคุณจะไม่สามารถใช้ได้ แตะเพื่อลองใหม่อีกครั้ง</string>
+    <key>GESTURE</key><string>ท่าทาง</string>
+    <key>Updating your mail. This may take a few minutes...</key><string>การอัปเดตอีเมลของคุณ ซึ่งอาจใช้เวลาไม่กี่นาที ...</string>
+    <key>There was a problem.\nWait a few minutes and try again.</key><string>มีปัญหาในการ. 
+Wait ไม่กี่นาทีและลองอีกครั้ง</string>
+    <key>All day tomorrow</key><string>ทุกวันในวันพรุ่งนี้</string>
+    <key>Phew! No new mail</key><string>ว้า! ไม่มีจดหมายใหม่</string>
+    <key>Move to Bcc</key><string>ย้ายไปสำเนาลับ</string>
+    <key>Move to Cc</key><string>ย้ายไปสำเนา</string>
+    <key>Move to To</key><string>ย้ายไปเพื่อ</string>
+    <key>Create New Contact</key><string>ติดต่อสร้างใหม่</string>
+    <key>Sign On</key><string>ลง</string>
+    <key>Please verify your credentials and try again.</key><string>โปรดตรวจสอบข้อมูลประจำตัวของคุณและลองอีกครั้ง</string>
+    <key>Add</key><string>เพิ่ม</string>
+    <key>Too Many Devices</key><string>อุปกรณ์มากเกินไป</string>
+    <key>You have too many devices paired with Outlook.\nPlease remove unused devices and try again.</key><string>คุณมีอุปกรณ์มากเกินไปที่จับคู่กับ Outlook กรุณาถอดอุปกรณ์ที่ไม่ได้ใช้และลองอีกครั้ง</string>
+    <key>Account Disabled</key><string>บัญชีผู้พิการ</string>
+    <key>Your account is disabled.</key><string>บัญชีของคุณถูกปิดใช้งาน</string>
+    <key>Sync Not Permitted</key><string>ซิงค์ไม่ได้รับอนุญาต</string>
+    <key>Your account doesn't have permission to sync with Outlook.</key><string>บัญชีของคุณไม่ได้รับอนุญาตในการซิงค์กับ Outlook</string>
+    <key>Your device doesn't have permission to sync with Outlook.</key><string>อุปกรณ์ของคุณไม่ได้รับอนุญาตในการซิงค์กับ Outlook</string>
+    <key>Account Not Created</key><string>บัญชี  ไม่ได้สร้างความ</string>
+    <key>Your account cannot be created at this time.\nAccess to the Microsoft Exchange Server was denied.</key><string>บัญชีของคุณไม่สามารถสร้างขึ้นในเวลานี้. 
+Access กับ Microsoft Exchange Server ถูกปฏิเสธ</string>
+    <key>Choose a recipient</key><string>เลือกผู้รับ</string>
+    <key>Please Wait</key><string>โปรดรอสักครู่</string>
+    <key>WorxMail is updating your contacts.</key><string>WorxMail มีการปรับปรุงรายชื่อของคุณ</string>
+    <key>Mail is already in %@</key><string>จดหมายมีอยู่แล้วใน%@</string>
+    <key>Attachments Were Not Sent</key><string>ไฟล์แนบถูกส่งไปไม่ได้</string>
+    <key>Private</key><string>ส่วนตัว</string>
+    <key>Show picture</key><string>แสดงภาพ</string>
+    <key>Show pictures</key><string>แสดงรูปภาพ</string>
+    <key>Always show pictures from this sender</key><string>เสมอแสดงภาพจากผู้ส่งนี้</string>
+    <key>1 New Meeting Invitation</key><string>1 ใหม่หนังสือเชิญประชุม</string>
+    <key>New Meeting Invitations</key><string>เชิญประชุมใหม่</string>
+    <key>1 New Message</key><string>1 ข้อความใหม่</string>
+    <key>New Messages</key><string>ข้อความใหม่</string>
+    <key>This mail is restricted.</key><string>อีเมลนี้จะถูก จำกัด</string>
+    <key>Restrictions</key><string>ข้อ จำกัด</string>
+    <key>Remove restrictions</key><string>ลบข้อ จำกัด</string>
+    <key>CONTENT OWNER</key><string>เจ้าของเนื้อหา</string>
+    <key>CONTENT EXPIRATION</key><string>เนื้อหาหมดอายุ</string>
+    <key>RESTRICTIONS</key><string>ข้อ จำกัด</string>
+    <key>No expiration</key><string>ไม่มีวันหมดอายุ</string>
+    <key>Edit the Content</key><string>แก้ไขเนื้อหา</string>
+    <key>Modify recipients</key><string>ปรับเปลี่ยนผู้รับ</string>
+    <key>Copy content</key><string>คัดลอกเนื้อหา</string>
+    <key>Print</key><string>พิมพ์</string>
+    <key>Send to other apps</key><string>ส่งให้ปพลิเคชันอื่น ๆ</string>
+    <key>Enable Your Camera</key><string>เปิดใช้งานกล้องของคุณ</string>
+    <key>Camera Is Blocked</key><string>กล้องจะถูกบล็อค</string>
+    <key>Your admin has disabled the camera.</key><string>ผู้ดูแลระบบของคุณได้ปิดการใช้งานกล้อง</string>
+    <key>Change your camera privacy settings in iOS Settings &gt; Privacy &gt; Camera.</key><string>เปลี่ยนการตั้งค่าความเป็นส่วนตัวกล้องของคุณในการตั้งค่า iOS&gt; ส่วนบุคคล&gt; กล้อง</string>
+    <key>Change your contact privacy settings in iOS Settings &gt; Privacy &gt; Contacts.</key><string>เปลี่ยนการตั้งค่าความเป็นส่วนตัวติดต่อของคุณในการตั้งค่า iOS&gt; ส่วนบุคคล&gt; รายชื่อ</string>
+    <key>Message not sent. Retry later</key><string>ไม่ได้ส่งข้อความ ลองอีกครั้งในภายหลัง</string>
+    <key>High</key><string>สูง</string>
+    <key>Normal</key><string>ปกติ</string>
+    <key>Low</key><string>ต่ำ</string>
+    <key>Outbox</key><string>กล่องขาออก</string>
+    <key>Show Pictures</key><string>แสดงรูปภาพ</string>
+    <key>Ok</key><string>ตกลง</string>
+    <key>Starts Ends</key><string>เริ่มต้นปลาย</string>
+    <key>Restriction Profiles</key><string>โปรไฟล์ จำกัด</string>
+    <key>Info</key><string>ข้อมูล </string>
+    <key>None Template Description</key><string>ข้อความนี้ไม่ได้ป้องกัน ในกรณีนี้คือการตอบสนองต่อข้อความที่ป้องกันข้อ จำกัด จะถูกลบออก</string>
+    <key>IRM content expiry message</key><string>สิทธิ์ในการดูข้อความนี้ได้หมดอายุแล้ว กรุณาอีกครั้งเรียกข้อความ</string>
+    <key>Due to admin policy on exporting contacts, only the name and phone number will be exported.</key><string>เนื่องจากนโยบายการดูแลระบบในการส่งออกรายชื่อเพียงชื่อและหมายเลขโทรศัพท์จะถูกส่งออก</string>
+    <key>Due to admin policy on exporting contacts, only the name, phone number and email will be exported.</key><string>เนื่องจากนโยบายการดูแลระบบในการส่งออกรายชื่อเพียงชื่อหมายเลขโทรศัพท์และอีเมล์จะถูกส่งออก</string>
+    <key>Due to admin policy on exporting contacts, only the custom contact fields will be exported.</key><string>เนื่องจากนโยบายการดูแลระบบในการส่งออกรายชื่อเฉพาะเขตข้อมูลติดต่อที่กำหนดเองจะถูกส่งออก</string>
+    <key>Agenda</key><string>วาระ</string>
+    <key>Retry Send</key><string>ลองใหม่ส่ง</string>
+    <key>Cannot Download Attachment</key><string>ไม่สามารถดาวน์โหลดสิ่งที่แนบมา</string>
+    <key>TODAY</key><string>วันนี้</string>
+    <key>YESTERDAY</key><string>เมื่อวานนี้</string>
+    <key>TOMORROW</key><string>วันพรุ่งนี้</string>
+    <key>New</key><string>ใหม่</string>
+    <key>Add to existing</key><string>เพิ่มที่มีอยู่</string>
+    <key>Delete Event</key><string>ลบเหตุการณ์</string>
+    <key>Delete Series</key><string>ลบชุด</string>
+    <key>Send Update</key><string>ส่งการปรับปรุง</string>
+    <key>This folder is empty</key><string>โฟลเดอร์นี้ว่างเปล่า</string>
+    <key>Open Link</key><string>เปิดลิงก์</string>
+    <key>Call %@</key><string>โทร%@</string>
+    <key>Open in Maps</key><string>เปิดในแผนที่</string>
+    <key>Check the server address and try again.</key><string>ตรวจสอบที่อยู่ของเซิร์ฟเวอร์และลองอีกครั้ง</string>
+    <key>Send Anyway</key><string>ส่งต่อไป</string>
+    <key>You did not make changes to the event.</key><string>คุณไม่ได้ทำการเปลี่ยนแปลงกับเหตุการณ์</string>
+    <key>Invalid Address</key><string>ที่อยู่ไม่ถูกต้อง</string>
+    <key>%@ doesn't seem to be an actual address. Do you still want to send it?</key><string>%@ ไม่ได้ดูเหมือนจะเป็นที่อยู่ที่เกิดขึ้นจริง คุณยังคงต้องการที่จะส่งมันได้หรือไม่</string>
+    <key>This Option is Not Available</key><string>ตัวเลือกนี้ไม่สามารถใช้ได้</string>
+    <key>An error occurred emptying your Deleted Items.</key><string>ข้อผิดพลาดที่เกิดขึ้นล้างรายการที่ถูกลบของคุณ</string>
+    <key>Empty</key><string>เปล่า</string>
+    <key>Emptying Deleted Items folder</key><string>ล้างโฟลเดอร์รายการที่ถูกลบ</string>
+    <key>Can't Empty Folder</key><string>สามารถโฟลเดอร์ที่ว่างเปล่าไม่ได้</string>
+    <key>An error occurred while emptying your Deleted Items folder.\nPlease try again later.</key><string>ข้อผิดพลาดที่เกิดขึ้นในขณะที่ล้างโฟลเดอร์รายการที่ถูกลบของคุณ. 
+ กรุณาลองอีกครั้งในภายหลัง</string>
+    <key>FaceTime Audio</key><string>FaceTime เสียง</string>
+    <key>There was a problem sending this message. Try again later.</key><string>มีปัญหาในการส่งข้อความนี้ ลองอีกครั้งในภายหลัง</string>
+    <key>Can't Send Mail</key><string>ไม่สามารถส่งจดหมาย</string>
+    <key>The server is not configured correctly.</key><string>เซิร์ฟเวอร์ไม่ได้กำหนดค่าอย่างถูกต้อง</string>
+    <key>A server error occurred. Please try again later.</key><string>ผิดพลาดของเซิร์ฟเวอร์เกิดขึ้น โปรดลองอีกครั้งในภายหลัง</string>
+    <key>Your message is too large. Remove attachments or divide into smaller messages.</key><string>ข้อความของคุณมีขนาดใหญ่เกินไป ลบสิ่งที่แนบมาหรือแบ่งออกเป็นข้อความที่มีขนาดเล็ก</string>
+    <key>Sorry, something went wrong. Please try again. If the problem persists, contact IT.</key><string>ขออภัยสิ่งที่ผิดพลาด โปรดลองอีกครั้ง ถ้าปัญหายังคงติดต่อไอที</string>
+    <key>A connection error occurred. Please try again later.</key><string>ข้อผิดพลาดการเชื่อมต่อที่เกิดขึ้น โปรดลองอีกครั้งในภายหลัง</string>
+    <key>Leave in Outbox</key><string>ออกในกล่องขาออก</string>
+    <key>Availability</key><string>สถานะ</string>
+    <key>You are available</key><string>คุณมีอยู่</string>
+    <key>This event is adjacent to another event</key><string>เหตุการณ์นี้อยู่ติดกับเหตุการณ์อื่น</string>
+    <key>This event conflicts with another event</key><string>นี้ความขัดแย้งเหตุการณ์กับเหตุการณ์อื่น</string>
+    <key>Can't Access WorxMail</key><string>ไม่สามารถเข้าใช้ WorxMail</string>
+    <key>Failed to Fetch Client Certificate.</key><string>ล้มเหลวในการเรียกใบรับรองไคลเอ็นต์</string>
+    <key>This event has already been modified. Please close the current window and try again.</key><string>เหตุการณ์นี้ได้รับการแก้ไข กรุณาปิดหน้าต่างปัจจุบันและลองอีกครั้ง</string>
+    <key>The attachment cannot be downloaded because it is empty.</key><string>สิ่งที่แนบมาไม่สามารถดาวน์โหลดได้เพราะมันเป็นที่ว่างเปล่า</string>
+    <key>Open</key><string>เปิด</string>
+    <key>Copy</key><string>คัดลอก</string>
+    <key>Call</key><string>โทร</string>
+    <key>Copy Link</key><string>คัดลอกลิงก์</string>
+    <key>Send Message</key><string>ส่งข้อความ</string>
+    <key>Done</key><string>เสร็จ</string>
+    <key>Downloadable Resources</key><string>ทรัพยากรที่ดาวน์โหลด</string>
+    <key>Language</key><string>ภาษา</string>
+    <key>No Downloadable Resource</key><string>ไม่มีทรัพยากรที่ดาวน์โหลด</string>
+    <key>Package Resources</key><string>ทรัพยากรแพคเกจ</string>
+    <key>Select Language</key><string>เลือกภาษา</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection ได้รับการตรวจสอบความท้าทาย</string>
+    <key>SFAPIConnection_NilResponse</key><string>วัตถุ SFResponse เป็นศูนย์ คำขอนี้ได้รับการสนับสนุนหรือไม่?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>เชื่อมต่อเครือข่ายไม่พบ</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest ที่ไม่ถูกต้อง กรุณาตรวจสอบ params คำขอที่ต้องการ</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest เป็นศูนย์</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>รูปแบบการตอบสนองที่ไม่รู้จัก</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON แยกวิเคราะห์ข้อผิดพลาด</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth ล้มเหลว ข้อมูล Reauth เป็นศูนย์</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth ล้มเหลว ชนิดเข้าสู่ระบบ SAML ไม่สนับสนุน</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth ล้มเหลว ข้อมูล SSO เป็นศูนย์</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth ล้มเหลว ข้อผิดพลาดที่ไม่รู้จัก</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>ข้อผิดพลาดการตรวจสอบ  ที่ไม่คาดคิด</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>รับรองความถูกต้องไม่มีที่ให้มา</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>เข้าสู่ระบบที่พยายามไม่ประสบความสำเร็จ</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID ได้รับการยอมรับ แต่เก่า กรุณา reauthenticate ก่อนดำเนินการต่อ</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID ไม่พบ / ที่ถูกต้อง</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>Subdomain ไม่ถูกต้องสำหรับการร้องขอในปัจจุบัน</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>เครื่องมือปัจจุบัน / การรวมบัญชีถูกปฏิเสธจากการใช้ API</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>ข้อผิดพลาดการดำเนิน  ที่ไม่คาดคิด</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>ดำเนินการที่ร้องขอไม่ตรงกับสหกรณ์ได้รับการสนับสนุนใด ๆ</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>สหกรณ์นี้ต้องใช้พารามิเตอร์ (s) ที่ได้รับไม่ได้ให้มา</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>พารามิเตอร์ (s) ที่ให้มาไม่ถูกต้อง (เช่นสตริงแทน int, Val ออกจากช่วง ฯลฯ )</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>OP ขอไม่เข้ากันกับ ID เป้าหมายปัจจุบัน</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>Op ไม่ได้รับอนุญาตสำหรับบัญชี ShareFile ปัจจุบัน (มีคนพิการ / ไม่ได้รับอนุญาต)</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>Op ไม่ได้รับอนุญาตสำหรับผู้ใช้ ShareFile ปัจจุบัน (ผู้ใช้ไม่จำเป็นต้องมีบทบาทของผู้ใช้ที่เหมาะสม / สิทธิ์ในการใช้งาน)</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>Op ไม่ได้รับอนุญาตสำหรับเป้าหมาย (ผู้ใช้อาจจะมีบทบาทที่เหมาะสม / ได้รับอนุญาตในกรณีอื่น ๆ แต่ไม่ได้สำหรับ ID นี้โดยเฉพาะ)</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>ข้อผิดพลาดเป้าหมาย  ที่ไม่คาดคิด</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>เป้าหมายขอมีอยู่ แต่ไม่ได้ชนิดที่ถูกต้อง (เช่นพยายามที่จะดำเนินการสหกรณ์โฟลเดอร์บนไฟล์)</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>ไม่พบเป้าหมาย</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>ที่ไม่คาดคิดสร้างข้อผิดพลาด</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>แม่บรรจุไม่ถูกต้องสำหรับการสร้างการร้องขอรายการ (เช่นพยายามที่จะสร้างโฟลเดอร์ที่รากของบัญชี)</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>ข้อผิดพลาดที่ไม่คาดคิดแก้ไข </string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>รายการที่คุณกำลังพยายามที่จะสร้างอยู่แล้ว</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>รายการที่คุณกำลังพยายามที่จะแก้ไขอยู่แล้ว</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>ข้อผิดพลาดที่ไม่คาดคิด</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>เซิร์ฟเวอร์อยู่ระหว่างการซ่อมบำรุง</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>ขีด จำกัด อัตราถึง</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>เซิร์ฟเวอร์มีมากกว่ากำลังการผลิต</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>ข้อผิดพลาดที่ไม่คาดคิด (SC)</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>Server เป็นมากกว่าความจุ (SC)</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>เตรียมอัพโหลดล้มเหลว (SC)</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>เตรียมดาวน์โหลดล้มเหลว (SC)</string>
+</dict></plist>

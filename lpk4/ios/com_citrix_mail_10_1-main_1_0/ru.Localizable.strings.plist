@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>0 minutes before</key><string>0 минут до</string>
+    <key>1 day before</key><string>1 день до</string>
+    <key>1 Day</key><string>1 день</string>
+    <key>1 hour before</key><string>1 час до</string>
+    <key>1 Month</key><string>1 месяц</string>
+    <key>1 Week</key><string>1 неделя</string>
+    <key>1.  Please join my meeting.\nhttps://www1.gotomeeting.com/join/%@\n</key><string>1. . Пожалуйста, присоединяйтесь к моей встрече 
+https: //www1.gotomeeting.com/join/%@\ п</string>
+    <key>15 minutes before</key><string>15 минут до</string>
+    <key>2 days before</key><string>2 дня до</string>
+    <key>2 hours before</key><string>2 часа до</string>
+    <key>2 Weeks</key><string>2 недели</string>
+    <key>2.  Use your microphone and speakers (VoIP) - a headset is recommended. Or, call in using your telephone.\n\n%@\nAudio PIN: Shown after joining the meeting\n</key><string>2. Используйте свой микрофон и колонки (VoIP) - для гарнитуры рекомендуется. Или звоните по телефону, используя свой телефон \ N \ N%@ \ NAudio PIN:., Показанные после вступления в совещании \ N</string>
+    <key>3 Days</key><string>3 дней</string>
+    <key>30 minutes before</key><string>30 минут до</string>
+    <key>5 minutes before</key><string>5 минут до</string>
+    <key>%d h</key><string>%d ч</string>
+    <key>%d min</key><string>%d мин</string>
+    <key>%i recipients</key><string>получатели %i</string>
+    <key>%@ and %i more...</key><string>%@ %i я больше ...</string>
+    <key>%@ %@ to %@ %@</key><string>%@%@ до%@%@</string>
+    <key>%@ to %@</key><string>%@ на%@</string>
+    <key>%@ - %@</key><string>%@ -%@</string>
+    <key>&lt;No subject&gt;</key><string>Не  &lt;Без темы&gt;</string>
+    <key>(No subject)</key><string>Не  (без темы)</string>
+    <key>(No recipient)</key><string>Не  (Без адресата)</string>
+    <key>About</key><string>О</string>
+    <key>Accept</key><string>Принять</string>
+    <key>Account</key><string>аккаунт</string>
+    <key>Add %@</key><string>Добавить%@</string>
+    <key>Address(email or server)</key><string>Адрес</string>
+    <key>Account</key><string>аккаунт</string>
+    <key>All Contacts</key><string>Все контакты</string>
+    <key>All Day Event</key><string>весь день</string>
+    <key>All Day</key><string>весь день</string>
+    <key>All-day</key><string>весь день</string>
+    <key>all-day</key><string>весь день</string>
+    <key>Please Enter an Event Title</key><string>Пожалуйста Введите название события</string>
+    <key>and %i more...</key><string>и %i больше ...</string>
+    <key>Anniversary</key><string>-летие</string>
+    <key>Append Signature</key><string>Append Подпись</string>
+    <key>Ask Before Deleting</key><string>Спросите, прежде чем удалить</string>
+    <key>Assistant</key><string>помощник</string>
+    <key>Assistant phone</key><string>помощник телефон</string>
+    <key>Attach Existing Photo</key><string>присоединить существующие Фотография</string>
+    <key>Attach from ShareFile</key><string>Прикрепите от ShareFile</string>
+    <key>Attach</key><string>Прикрепите</string>
+    <key>Attachment</key><string>Приложение</string>
+    <key>Attachment (1)</key><string>подключения (1)</string>
+    <key>Attachments</key><string>Вложения</string>
+    <key>attendee</key><string>приглашенных</string>
+    <key>attendees</key><string>приглашенных</string>
+    <key>%d %@</key><string>%d%@</string>
+    <key>Attendees</key><string>Приглашенные</string>
+    <key>Authenticate</key><string>Аутентификация</string>
+    <key>Autodiscover</key><string>автоматического обнаружения</string>
+    <key>Availability</key><string>Показать как</string>
+    <key>B</key><string>B</string>
+    <key>Back</key><string>Вернуться</string>
+    <key>Bcc:</key><string>СК:</string>
+    <key>Birthday</key><string>День рождения</string>
+    <key>Business fax</key><string>Рабочий факс</string>
+    <key>Business phone</key><string>Рабочий телефон</string>
+    <key>Business Phone</key><string>Рабочий телефон</string>
+    <key>Web page</key><string>веб-страницы</string>
+    <key>Busy</key><string>Занят</string>
+    <key>Calendar Event</key><string>Календарь напоминание</string>
+    <key>Calendar Notifications</key><string>Календарь Уведомления</string>
+    <key>Calendar</key><string>Календарь</string>
+    <key>Cancel</key><string>Отменить</string>
+    <key>Canceled:</key><string>Отменен:</string>
+    <key>Cannot Get Mail</key><string>не могу послать почту</string>
+    <key>Car phone</key><string>автомобилей телефон</string>
+    <key>Cc/Bcc:</key><string>CC / Bcc:</string>
+    <key>Cc:</key><string>Копия:</string>
+    <key>Checking for Mail...</key><string>Проверка почты ...</string>
+    <key>Child</key><string>ребенка</string>
+    <key>Choose Photo</key><string>Выбрать фотографию</string>
+    <key>Clear all</key><string>Очистить все</string>
+    <key>Clear Flag</key><string>Снять флажок</string>
+    <key>Company phone</key><string>телефон компании</string>
+    <key>Company</key><string>компании</string>
+    <key>Contacts</key><string>Контакты</string>
+    <key>Contacts exported successfully</key><string>Контакты успешно экспортирован</string>
+    <key>Day</key><string>день</string>
+    <key>De-Highlight</key><string>Удалить Выделите</string>
+    <key>Declined</key><string>Отклонено</string>
+    <key>Delete Changes</key><string>Удалить изменения</string>
+    <key>Delete Draft</key><string>Удалить проект</string>
+    <key>Delete this message?</key><string>удалить это сообщение?</string>
+    <key>Delete</key><string>Удалить</string>
+    <key>Department</key><string>Департамент</string>
+    <key>Details</key><string>Подробнее</string>
+    <key>Dial In</key><string>Dial In</string>
+    <key>Discovering...</key><string>Открытие ...</string>
+    <key>Do you want to delete this occurrence or the entire series?</key><string>Вы хотите удалить этот возникновение или всю серию?</string>
+    <key>Do you want to forward this occurrence or the entire series?</key><string>Хотите переслать эту возникновения или всю серию?</string>
+    <key>ShareFileDomain</key><string>ShareFile домена</string>
+    <key>Domain</key><string>домена</string>
+    <key>Don't Save</key><string>Не сохранять</string>
+    <key>Done</key><string>урон</string>
+    <key>Downloading folders...</key><string>Загрузка папки ...</string>
+    <key>Your mail could not be downloaded at this time. Please try again in a few minutes.</key><string>Ваша почта не может быть загружена в данный момент. Пожалуйста, попробуйте еще раз через несколько минут.</string>
+    <key>Access to your company network is not currently available.</key><string>Доступ к сети вашей компании в данный момент недоступна.</string>
+    <key>Downloading</key><string>Загрузка</string>
+    <key>Draft</key><string>Проект</string>
+    <key>Drafts</key><string>Проекты</string>
+    <key>Edit</key><string>Редактировать</string>
+    <key>Edit Event</key><string>Изменить событие</string>
+    <key>Edit series</key><string>Редактировать серии</string>
+    <key>Email Notifications</key><string>Уведомления по электронной почте</string>
+    <key>Email</key><string>Email</string>
+    <key>Email or mail server</key><string>Email или почтовый сервер</string>
+    <key>Email All Invitees</key><string>Ответить всем</string>
+    <key>Email Organizer</key><string>Ответить</string>
+    <key>EmailBodyApplicationBuild</key><string>WorxMail Номер построения:%@</string>
+    <key>EmailBodyApplicationMemory</key><string>памяти приложения:%@</string>
+    <key>EmailBodyApplicationVersion</key><string>WorxMail Версия:%@</string>
+    <key>EmailBodyDeviceModel</key><string>Модель устройства:%@</string>
+    <key>EmailBodyFreeMemory</key><string>Free Memory:%@</string>
+    <key>EmailBodyIsJailBroken</key><string>Есть джейлбрейк:%@</string>
+    <key>EmailBodyOSVersion</key><string>IOS версии:%@</string>
+    <key>EmailBodyTotalMemory</key><string>Общая память:%@</string>
+    <key>End Repeat</key><string>Конец Повторите</string>
+    <key>Ends</key><string>Окончание</string>
+    <key>Enter at least one recipient.</key><string>Введи как минимум одного получателя.</string>
+    <key>Enter some feedback text</key><string>Введите текст с обратной связью</string>
+    <key>Enter your credentials</key><string>Введите учетные данные</string>
+    <key>Enter your domain</key><string>Введите свой домен</string>
+    <key>Enter your email address</key><string>Введите свой адрес электронной почты</string>
+    <key>Enter your email or server address</key><string>Введите адрес электронной почты или адрес сервера</string>
+    <key>Enter your feedback here to send it to Citrix.</key><string>Введите ваш отзыв здесь, чтобы отправить его на Citrix.</string>
+    <key>Enter your password</key><string>Введите пароль</string>
+    <key>Enter your server address</key><string>Введите адрес сервера</string>
+    <key>Enter your user name</key><string>Введите имя пользователя</string>
+    <key>Events</key><string>События</string>
+    <key>Event Details</key><string>Детали события</string>
+    <key>Every Day</key><string>Каждый день</string>
+    <key>Every Month</key><string>Каждый месяц</string>
+    <key>Every 2 Weeks</key><string>Каждые две недели</string>
+    <key>Every Week</key><string>Каждую неделю</string>
+    <key>Every Year</key><string>Каждый год</string>
+    <key>Exchange Account</key><string>валютный счет</string>
+    <key>Existing Photo</key><string>Существующие Фото</string>
+    <key>Export to iPad</key><string>Экспорт в Ipad</string>
+    <key>Export to iPhone</key><string>Экспорт в iPhone</string>
+    <key>Failed to save Out of Office settings</key><string>Не удалось Сохранить Из офисах</string>
+    <key>Feedback for Citrix WorxMail for iOS</key><string>Обратная связь для Citrix WorxMail для прошивкой</string>
+    <key>FileSize</key><string>Размер</string>
+    <key>Flag</key><string>Флаг</string>
+    <key>Flagged</key><string>Помечено</string>
+    <key>FMD_ClientAddressBookError_AccessDenied_Text</key><string>необходимо получить разрешение, чтобы открыть адресную книгу</string>
+    <key>FMD_EmployeeAddressBookError_AccessDenied_Text</key><string>необходимо получить разрешение, чтобы открыть адресную книгу</string>
+    <key>FMD_DeleteFileError_AccessDenied_Text</key><string>необходимо получить разрешение удалить этот файл</string>
+    <key>FMD_DownloadError_AccessDenied_Text</key><string>нужно разрешение на загрузку файлов</string>
+    <key>FMD_DownloadError_NotEnoughSpace_Text</key><string>Не удается загрузить файл. Вы превысит предел 500 МБ для скачанных файлов.</string>
+    <key>FMD_DownloadError_ParentNotFound_Text</key><string>Невозможно открыть файл</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Text</key><string>Ваша организация удалили Документы</string>
+    <key>FMD_GeneralError_InvalidCredentials_NonSSO_Text</key><string>Неправильное имя пользователя или пароль</string>
+    <key>FMD_GeneralError_InvalidCredentials_SSO_Text</key><string>Пожалуйста Проверьте учетные данные</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Text</key><string>Проверьте сетевого соединения</string>
+    <key>FMD_GeneralError_NotLoggedIn_Text</key><string>Пожалуйста Войдите, чтобы ShareFile</string>
+    <key>FMD_GeneralError_UnrecognizedSFAPIError_Title</key><string>Проблема общего доступа к папкам</string>
+    <key>FMD_MyDocs</key><string>%1$@%2$@ Docs</string>
+    <key>FMD_SyncError_ItemNotFound_Text</key><string>Файл не найден на вашем устройстве.</string>
+    <key>FMD_UploadError_AccessDenied_Text</key><string>необходимо получить разрешение загрузить этот файл</string>
+    <key>FMD_UploadError_CannotReadFileAttributes_Text</key><string>Не можете сохранить эту позицию</string>
+    <key>FMD_UploadError_FileNotFound_Text</key><string>файл не найден</string>
+    <key>FMD_UploadError_ParentNotFound_Text</key><string>Не можете сохранить эту позицию</string>
+    <key>File Box</key><string>файла Box</string>
+    <key>Forward</key><string>Вперед</string>
+    <key>Forward Invite</key><string>Вперед</string>
+    <key>Free</key><string>бесплатно</string>
+    <key>From:</key><string>От:</string>
+    <key>Fw:</key><string>Fw:</string>
+    <key>GoToMeeting</key><string>GoToMeeting</string>
+    <key>GoToMeeting®\nOnline Meetings Made Easy®\n\nNot at your computer? Click the link to join this meeting from your iPhone®, iPad® or Android® device via the GoToMeeting app.</key><string>GoToMeeting ツ ョ 
+Online Встречи Made Easy ツ ョ \ N \ NNot на вашем компьютере? Нажмите на ссылку, чтобы присоединиться к этой встречи из iPhone ツ ョ, Ipad ツ ョ или Android ツ ョ устройством через приложение GoToMeeting.</string>
+    <key>Hide</key><string>Скрыть</string>
+    <key>Highlight</key><string>Выделите</string>
+    <key>Home</key><string>Главная</string>
+    <key>Home 2</key><string>Дом 2</string>
+    <key>Home Phone</key><string>Домашний телефон</string>
+    <key>Home phone</key><string>Домашний телефон</string>
+    <key>I</key><string>I</string>
+    <key>I am running late for this meeting.</key><string>я опаздывал на этой встрече.</string>
+    <key>IM Address 1</key><string>IM Адрес 1</string>
+    <key>IM Address 2</key><string>IM Адрес 2</string>
+    <key>IM Address 3</key><string>IM Адрес 3</string>
+    <key>Inbox</key><string>Входящие</string>
+    <key>Inside My Organization</key><string>Внутри моей организации</string>
+    <key>Invalid Certificate</key><string>Invalid сертификат</string>
+    <key>Invalid email address</key><string>Неверный адрес электронной почты</string>
+    <key>Invite</key><string>Пригласить</string>
+    <key>Invitees</key><string>Приглашенные</string>
+    <key>Invitees:</key><string>Приглашенные:</string>
+    <key>Job title</key><string>Должность</string>
+    <key>Join Meeting</key><string>Регистрация собрания</string>
+    <key>Just this occurence</key><string>Это совещание</string>
+    <key>LastModified</key><string>Последнее изменение</string>
+    <key>Legal Notices</key><string>Официальные уведомления</string>
+    <key>Privacy Policy</key><string>Политика конфиденциальности</string>
+    <key>Location</key><string>Расположение</string>
+    <key>Mail</key><string>Почта</string>
+    <key>Manager</key><string>менеджер</string>
+    <key>Mark As Read</key><string>Отметить как прочитанное</string>
+    <key>Mark As Unread</key><string>Отметить как непрочитанное</string>
+    <key>Mark</key><string>Марк</string>
+    <key>Maybe</key><string>ВОЗМОЖНО</string>
+    <key>Meeting ID: %@-%@-%@\n</key><string>Встреча ID:%@ -%@ -%@ \ п</string>
+    <key>Meeting</key><string>Встреча</string>
+    <key>Mobile phone</key><string>Мобильный телефон</string>
+    <key>Month</key><string>месяц</string>
+    <key>more</key><string>более</string>
+    <key>MoreEvents</key><string>%d больше</string>
+    <key>Move Message</key><string>Переместить сообщение</string>
+    <key>Move</key><string>Move</string>
+    <key>Multi Day</key><string>многодневного</string>
+    <key>Cannot Load Privacy Policy. Try Again Later.</key><string>Не удается загрузить Политику конфиденциальности. Попробуйте еще раз позже.</string>
+    <key>Never</key><string>Никогда</string>
+    <key>New Event</key><string>событие</string>
+    <key>New Meeting</key><string>Новая встреча</string>
+    <key>New Message</key><string>Новое сообщение</string>
+    <key>New Photo</key><string>Новый фотография</string>
+    <key>Nickname</key><string>Ник</string>
+    <key>No Contacts</key><string>Не  Нет Контакты</string>
+    <key>No Invitees</key><string>Добавить INVITEE</string>
+    <key>No Recipients</key><string>Введите получателей</string>
+    <key>No Response</key><string>Не  Нет ответа</string>
+    <key>No title</key><string>Введите название</string>
+    <key>NoButtonText</key><string>Нет</string>
+    <key>None</key><string>Не  Ни</string>
+    <key>NoneReminder</key><string>Не  Ни</string>
+    <key>Notes</key><string>Примечания</string>
+    <key>Notifications</key><string>Уведомления</string>
+    <key>Notification</key><string>Уведомление</string>
+    <key>Off</key><string>Off</string>
+    <key>Office location</key><string>Расположение офиса</string>
+    <key>Offline</key><string>Offline</string>
+    <key>Other Conference</key><string>Другие конференции</string>
+    <key>OK</key><string>ОК</string>
+    <key>On</key><string>На</string>
+    <key>Optional</key><string>Дополнительно</string>
+    <key>Optional:</key><string>Дополнительно:</string>
+    <key>Organize By Conversation</key><string>Организация по Беседа</string>
+    <key>Organizer</key><string>Организатор</string>
+    <key>Other</key><string>Другое</string>
+    <key>Out of Office</key><string>Вне офиса</string>
+    <key>Pager</key><string>Пейджер</string>
+    <key>Password</key><string>Пароль</string>
+    <key>Exchange Server Access Denied</key><string>Отказ  доступа Exchange сервера</string>
+    <key>Please try again in a few minutes.</key><string>Повторите попытку через несколько минут.</string>
+    <key>Radio phone</key><string>Радио телефон</string>
+    <key>Re:</key><string>Re:</string>
+    <key>ReadWrite</key><string>Read / Write</string>
+    <key>Reminder</key><string>Напоминание</string>
+    <key>Repeat</key><string>Повторите</string>
+    <key>Repeat Forever</key><string>Повторите Навсегда</string>
+    <key>Reply All</key><string>Ответить всем</string>
+    <key>Reply</key><string>Ответить</string>
+    <key>Request Help from support</key><string>Запрос Помощь</string>
+    <key>RequestHelpFromSupportMailBodyTemplate</key><string>Я имею проблему с Citrix WorxMail для прошивкой \ п 
+Здесь 窶 冱 описание проблемы \ N \ Nabout моего устройства:.. \ N%@</string>
+    <key>Requesting help with Citrix WorxMail for iOS</key><string>с просьбой о помощи с Citrix WorxMail для прошивкой</string>
+    <key>Required</key><string>Обязательно</string>
+    <key>Required:</key><string>обеспечение:</string>
+    <key>Running Late</key><string>опаздываете</string>
+    <key>Running late</key><string>опаздываете</string>
+    <key>Save Draft</key><string>Сохранить черновик</string>
+    <key>Save</key><string>Сохранить</string>
+    <key>Search</key><string>Поиск</string>
+    <key>Search Contacts</key><string>Поиск Контакты</string>
+    <key>Select a different date or time for the event occurrence</key><string>Проверьте даты начала и окончания</string>
+    <key>Select a Start Date earlier than the End Date</key><string>Проверьте даты начала и окончания</string>
+    <key>Select a meeting</key><string>Выберите встречу</string>
+    <key>Select all</key><string>Выбрать все</string>
+    <key>Select an End Date later than the Start Date</key><string>Проверьте даты начала и окончания</string>
+    <key>Select an End Date that is later than now</key><string>Проверьте даты начала и окончания</string>
+    <key>Select Recipients</key><string>Выбор получателей</string>
+    <key>Please select recipients for your reply message (Inside My Organization or Outside My Organization).</key><string>Пожалуйста выберите получателей для вашего ответном сообщении (в моем Организации или за пределами организации).</string>
+    <key>Send Feedback to Citrix</key><string>Отправить отзыв Citrix</string>
+    <key>Send Feedback</key><string>Отправить отзыв</string>
+    <key>Send</key><string>Отправить</string>
+    <key>Sent from Citrix WorxMail for iPad</key><string>Направлено из Citrix WorxMail для Ipad</string>
+    <key>Sent from Citrix WorxMail for iPhone</key><string>Направлено из Citrix WorxMail для iPhone</string>
+    <key>Server</key><string>сервера</string>
+    <key>Settings</key><string>Настройки</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>Неожиданная ошибка аутентификации.</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON Ошибка синтаксического анализа.</string>
+    <key>SFAPIConnection_NilResponse</key><string>SFResponse объект был нулевым. Поддерживается ли эта просьба?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>подключение к сети не был обнаружен.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth не удалось. Reauth информация была равна нулю.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth не удалось. Неизвестная ошибка.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth не удалось. Неподдерживаемый тип SAML Войти.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection получил вызов аутентификации.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Неизвестный формат ответа.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest недействительным. Пожалуйста, проверьте требуемые Params запроса.</string>
+    <key>Share</key><string>Поделиться</string>
+    <key>ShareFile Browser</key><string>ShareFile</string>
+    <key>Show Notifications</key><string>Показать Уведомления</string>
+    <key>Signature</key><string>Подпись</string>
+    <key>Sound</key><string>Звук</string>
+    <key>Specify Days</key><string>указать дни недели</string>
+    <key>Spouse</key><string>Супруг</string>
+    <key>Start</key><string>Запуск</string>
+    <key>Starts</key><string>Запуск</string>
+    <key>Starts\nEnds</key><string>Запуск 
+Ends</string>
+    <key>Starts &amp; Ends</key><string>Запуск и Окончание</string>
+    <key>Subject:</key><string>Тема:</string>
+    <key>Support</key><string>Поддержка</string>
+    <key>Sync Mail Period</key><string>синхронизации почты Период</string>
+    <key>Sync with Local Contacts</key><string>синхронизация с местными Контакты</string>
+    <key>Take a Photo</key><string>сфотографировать</string>
+    <key>Tap \"+\" or search from \n directory to add.</key><string>Нажмите \ "+ \" или искать от \ N каталоге добавить.</string>
+    <key>Tentative</key><string>Предварительный</string>
+    <key>Time</key><string>Время</string>
+    <key>Time Duration</key><string>Время Время</string>
+    <key>Title</key><string>Название</string>
+    <key>%1$d of %2$d</key><string>%1$d из%2$d</string>
+    <key>To:</key><string>Для:</string>
+    <key>Try Again</key><string>Попробуйте еще раз</string>
+    <key>U</key><string>U</string>
+    <key>Sorry, WorxMail Cannot Get Attendee Details</key><string>Извините, WorxMail не может получить Посетитель Подробнее</string>
+    <key>Sorry, WorxMail Cannot Get Organizer Details</key><string>Извините, WorxMail не может получить Организатор Подробнее</string>
+    <key>Unavailable</key><string>Отсутствует</string>
+    <key>Unread</key><string>непрочитанная</string>
+    <key>Updated</key><string>Обновлено</string>
+    <key>Username</key><string>Имя пользователя</string>
+    <key>Verifying...</key><string>Проверка ...</string>
+    <key>Version</key><string>Версия</string>
+    <key>When</key><string>Когда</string>
+    <key>Where</key><string>где</string>
+    <key>Whole series</key><string>всей серии</string>
+    <key>Work</key><string>Работа</string>
+    <key>WorxMail</key><string>WorxMail</string>
+    <key>YesButtonText</key><string>Да</string>
+    <key>Yesterday</key><string>Вчера</string>
+    <key>Accept All Certificates</key><string>принимать все сертификаты</string>
+    <key>Accepted</key><string>Принято</string>
+    <key>Access denied</key><string>Доступ запрещен</string>
+    <key>You need a valid certificate to use this app.</key><string>Вы должны иметь действующий сертификат для использования этого приложения.</string>
+    <key>WorxMail cannot safely connect to the server. The server is not trusted.</key><string>WorxMail не может безопасно подключаться к серверу.Сервер не доверять.</string>
+    <key>Untrusted SSL Certificate</key><string>ненадежный сертификат SSL</string>
+    <key>You and</key><string>Вы и</string>
+    <key>Download complete message</key><string>Загрузка завершена сообщение</string>
+    <key>Cannot download the complete message. Please try again later.</key><string>Не удается загрузить полное сообщение. Пожалуйста, повторите попытку позже.</string>
+    <key>Downloading...</key><string>Загрузка ...</string>
+    <key>First Name</key><string>Имя</string>
+    <key>Middle name</key><string>Отчество</string>
+    <key>Last Name</key><string>Фамилия</string>
+    <key>Suffix</key><string>Суффикс</string>
+    <key>City</key><string>Город</string>
+    <key>State</key><string>государство</string>
+    <key>Postal Code</key><string>Почтовый индекс</string>
+    <key>Country</key><string>Страна</string>
+    <key>Street</key><string>Street</string>
+    <key>Edit More</key><string>Редактировать Более</string>
+    <key>Edit Less</key><string>Редактировать Менее</string>
+    <key>Contact</key><string>Связаться</string>
+    <key>First</key><string>Первый</string>
+    <key>Middle</key><string>Средний</string>
+    <key>Last</key><string>Последняя</string>
+    <key>Name</key><string>Имя</string>
+    <key>Phone</key><string>Телефон</string>
+    <key>Email Address</key><string>E-mail адрес</string>
+    <key>Email Address 1</key><string>E-mail адрес 1</string>
+    <key>Email Address 2</key><string>E-mail адрес 2</string>
+    <key>Email Address 3</key><string>3 адрес электронной почты</string>
+    <key>Address</key><string>Адрес</string>
+    <key>Business Address</key><string>Адрес компании</string>
+    <key>Home Address</key><string>Домашний адрес</string>
+    <key>Other Address</key><string>Другое Адрес</string>
+    <key>Add New</key><string>Добавить собрание</string>
+    <key>Assistant Phone</key><string>Телефон ассистента</string>
+    <key>Car Phone</key><string>Автомобильный телефон</string>
+    <key>Company Phone</key><string>Телефон</string>
+    <key>Conference</key><string>Web &amp; Аудио</string>
+    <key>IM</key><string>IM</string>
+    <key>Meeting Id</key><string>Идентификатор собрания</string>
+    <key>Meetings</key><string>Встречи</string>
+    <key>No Events</key><string>Не  Нет событий</string>
+    <key>Radio Phone</key><string>Радио Телефон</string>
+    <key>WorxMail Custom Conference</key><string>WorxMail заказ конференция</string>
+    <key>WorxMail GTM</key><string>WorxMail GTM</string>
+    <key>Files</key><string>Файлы</string>
+    <key>Clear All</key><string>Очистить все</string>
+    <key>Preview</key><string>Предварительный просмотр</string>
+    <key>Upload</key><string>Загрузить</string>
+    <key>Error</key><string>Ошибка</string>
+    <key>Time-out no response from server</key><string>Нет ответа от сервера \ п</string>
+    <key>Uploading...</key><string>Загрузка ...</string>
+    <key>Attendee</key><string>Посетитель</string>
+    <key>Save to Contacts</key><string>Сохранить в контактах</string>
+    <key>New Contact</key><string>Новый контакт</string>
+    <key>Load Attachments on Wi-Fi</key><string>Загрузка вложений в Wi-Fi</string>
+    <key>Mobile</key><string>Mobile</string>
+    <key>Business</key><string>Работа</string>
+    <key>Business 2</key><string>работы 2</string>
+    <key>Radio</key><string>Радио</string>
+    <key>Car</key><string>автомобилей</string>
+    <key>Fax</key><string>Факс</string>
+    <key>Office</key><string>Управление</string>
+    <key>Contact exported successfully</key><string>Связаться успешно экспортирован</string>
+    <key>Contacts exported successfully</key><string>Контакты успешно экспортирован</string>
+    <key>Set Specific Time Duration</key><string>указан Определенное время Продолжительность</string>
+    <key>Inside Organization</key><string>Внутри организации</string>
+    <key>Outside Organization</key><string>сторонней организации</string>
+    <key>Please enter your reply message.</key><string>Пожалуйста введите ответное сообщение.</string>
+    <key>My Contacts Only</key><string>Мои контакты только</string>
+    <key>Send Automatic Replies</key><string>автоматической передачи ответов</string>
+    <key>Outside My Organization</key><string>пределами организации</string>
+    <key>Anyone Outside My Organization</key><string>никому за пределами моей организации</string>
+    <key>Auto-Reply</key><string>автоответчика</string>
+    <key>Type</key><string>Тип</string>
+    <key>Government</key><string>Правительство</string>
+    <key>Customer</key><string>клиентов</string>
+    <key>Export Contacts</key><string>Export Контакты</string>
+    <key>Contact export failed.</key><string>Связаться экспорт не удалось.</string>
+    <key>Auto refresh header for background fetch on</key><string>Для включения автообновление прочь, перейдите к IOS 
+Settings и выберите Общие&gt; Фон App 
+Refresh. \ П 
+SELECTED FOLDERS</string>
+    <key>Auto refresh header for background fetch on without line break</key><string>Для включения автообновление прочь, перейдите в меню Настройки IOS и выберите Общие&gt; Фон App Обновить. \ N 
+SELECTED FOLDERS</string>
+    <key>Auto refresh header for background fetch off</key><string>Для включения автообновление, перейдите к IOS 
+Settings и выберите Общие&gt; Фон App 
+Refresh.</string>
+    <key>Auto refresh header for background fetch off without line break</key><string>Для включения автообновление, перейдите в меню Настройки IOS и выбрать общий&gt; фон App Обновить.</string>
+    <key>Selected Folders</key><string>выбранных папок</string>
+    <key>Delete selected message?</key><string>Удалить выбранное сообщение?</string>
+    <key>Move Messages</key><string>перемещать сообщения</string>
+    <key>Move conversation</key><string>Переместить диалог</string>
+    <key>Move conversations</key><string>Переместить Беседы</string>
+    <key>Mark as unread</key><string>Отметить как непрочитанное</string>
+    <key>Meeting Password</key><string>Встреча Пароль</string>
+    <key>Recurring Meeting</key><string>повторяющегося собрания</string>
+    <key>Recurrence</key><string>Повторение</string>
+    <key>Account Settings</key><string>Настройки аккаунта</string>
+    <key>Account</key><string>аккаунт</string>
+    <key>Auto Refresh</key><string>Auto Refresh</string>
+    <key>Pull to refresh this folder.</key><string>Потяните, чтобы обновить эту папку.</string>
+    <key>Checking for Contacts...</key><string>Проверка контакты ...</string>
+    <key>Cannot View Attachment</key><string>Не удается просмотреть Вложений</string>
+    <key>Can't Open File Type \n Tap Share to open with another app.</key><string>не может открыть тип файла \ п Нажмите Share, чтобы открыть с другим приложением.</string>
+    <key>WorxMail cannot find an app to view this attachment. Please try a local app or add an app in Worx Home to view this attachment.</key><string>WorxMail не может найти приложение для просмотра этой привязанности. Пожалуйста, попробуйте местную приложение или добавить приложение в Worx Главная, чтобы просмотреть эту привязанность.</string>
+    <key>To view this attachment, try a local app or add an app in Worx Home.</key><string>Для просмотра этого вложения, попробуйте местную приложение или добавить приложение в Worx дома.</string>
+    <key>ShareFile</key><string>ShareFile</string>
+    <key>Cannot Join Meeting</key><string>не может присоединиться собрания</string>
+    <key>WorxMail cannot find an app to join this meeting. Please try adding the appropriate app in Worx Home.</key><string>WorxMail не может найти приложение, чтобы присоединиться к этой встрече. Пожалуйста, попробуйте добавить соответствующую приложение в Worx дома.</string>
+    <key>Name isn't available</key><string>Имя не доступен</string>
+    <key>IM Address</key><string>IM Адрес</string>
+    <key>http://www.citrix.com/about/legal/privacy/plain.html</key><string>Http: //www.citrix.com/about/legal/privacy/plain.html</string>
+    <key>Repeat end date can not be before event start date.</key><string>Повторите Дата окончания должна происходить после событий Дата начала</string>
+    <key>Select a message for this attachment</key><string>Выберите сообщение для этой привязанности</string>
+    <key>Sorry, WorxMail Could Not Retrieve Your Meetings</key><string>Извините, WorxMail Не удалось получить ваши встречи</string>
+    <key>Sorry, WorxMail Could Not Create Your Meeting</key><string>Извините, WorxMail Не удалось создать ваши встречи</string>
+    <key>Sorry, WorxMail Could Not Delete Your Meeting</key><string>Извините, WorxMail Не удалось удалить ваши встречи</string>
+    <key>Sorry, WorxMail Could Not Edit Your Meeting</key><string>Извините, WorxMail Не удалось Назначить собрание</string>
+    <key>Your Internet access is not currently available.</key><string>Ваш доступ в Интернет не доступен</string>
+    <key>Email 1</key><string>Email 1</string>
+    <key>Name 1</key><string>Имя 1</string>
+    <key>Name 2</key><string>2 Имя</string>
+    <key>Email 3</key><string>Email 3</string>
+    <key>Name 3</key><string>Имя 3</string>
+    <key>Email 2</key><string>Email 2</string>
+    <key>Business Street</key><string>Работа Street</string>
+    <key>Home Street</key><string>Главная улица</string>
+    <key>Other Street</key><string>Другое Street</string>
+    <key>Delete Contact</key><string>Удалить контакт</string>
+    <key>Delete Contacts</key><string>Удалить Контакты</string>
+    <key>Delete Message</key><string>Удалить сообщение</string>
+    <key>Delete Messages</key><string>Удалить сообщения</string>
+    <key>Delete Conversations</key><string>Удалить Беседы</string>
+    <key>Delete Conversation</key><string>Удалить диалог</string>
+    <key>Account Not Created</key><string>внимание не создал</string>
+    <key>Your account cannot be created at this time. This version of your Mail Server is not supported.</key><string>Ваша учетная запись не может быть создана в это время. Эта версия почтового сервера не поддерживается.</string>
+    <key>Your account could not be created. Check your email address and try again.</key><string>Ваша учетная запись не может быть создан. Проверьте свой электронный адрес и попробуйте еще раз.</string>
+    <key>IM 1</key><string>IM 1</string>
+    <key>IM 2</key><string>IM 2</string>
+    <key>IM 3</key><string>IM 3</string>
+    <key>From</key><string>С</string>
+    <key>Date</key><string>Дата</string>
+    <key>To</key><string>Для</string>
+    <key>Subject</key><string>Тема</string>
+    <key>Cc</key><string>Копия</string>
+    <key>Please configure your email account before using WorxMail</key><string>Пожалуйста настроить учетную запись электронной почты, прежде чем использовать WorxMail</string>
+    <key>Sorry, WorxMail Could Not Process Your Request</key><string>Извините, WorxMail Не удалось обработать ваш запрос</string>
+    <key>Download</key><string>Скачать</string>
+    <key>Waiting...</key><string>Ожидание ...</string>
+    <key>Sorry, WorxMail Could Not Open the Event</key><string>Извините, WorxMail Может ツ Не открывайте событие</string>
+    <key>WorxMail could not attach your image. Please try again in a few minutes.</key><string>WorxMail не могли прикрепить изображение. Пожалуйста, попробуйте еще раз через несколько минут.</string>
+    <key>Send To All</key><string>Отправить Все</string>
+    <key>Send To Changed</key><string>Отправить Изменено</string>
+    <key>FaceTime</key><string>FaceTime</string>
+    <key>Blocked by Admin Policy: Attach File</key><string>Заблокированные Админ Политика: Прикрепить файл</string>
+    <key>Your WorxMail contacts will be exported to your local contacts.</key><string>Ваши WorxMail контакты будут экспортированы в ваших местных контактов.</string>
+    <key>Your WorxMail contacts will no longer be exported to your local contacts.</key><string>Ваши WorxMail контакты больше не будет экспортироваться в ваших местных контактов.</string>
+    <key>The attachment is not available to download.</key><string>приложения не доступен для скачивания.</string>
+    <key>You do not have permission to download the attachment.</key><string>Вы не имеете разрешения для загрузки вложения.</string>
+    <key>Your company's policy doesn't allow attachments to be downloaded.</key><string>политика вашей компании не позволяют вложения для загрузки.</string>
+    <key>A problem occurred with the download.</key><string>Возникла проблема с загрузкой.</string>
+    <key>Invalid Event Duration</key><string>Продолжительность Неверный событие</string>
+    <key>The duration of the calendar event must be shorter than how frequently it occurs.</key><string>продолжительность календарного события должны быть короче, чем то, как часто это происходит.</string>
+    <key>Send message with no subject?</key><string>Отправить сообщение без темы?</string>
+    <key>Custom</key><string>заказ</string>
+    <key>Move to CC</key><string>Переместить в ЦК</string>
+    <key>Information</key><string>Информация</string>
+    <key>Delete Conference</key><string>Удалить конференцию</string>
+    <key>Your Company Network Is Not Currently Available</key><string>сети вашей компании в настоящее время недоступен</string>
+    <key>Actions</key><string>действия</string>
+    <key>When:</key><string>Когда:</string>
+    <key>Respond</key><string>Ответить</string>
+    <key>No Response</key><string>Не  Нет ответа</string>
+    <key>NO RESPONSE</key><string>Не  без ответа</string>
+    <key>MORE RESULTS</key><string>Другие результаты</string>
+    <key>%d of %d</key><string>%d из%d</string>
+    <key>Continue search on server</key><string>Продолжить поиск на сервере</string>
+    <key>Folders</key><string>Папки</string>
+    <key>Show Less</key><string>меньше возможностей</string>
+    <key>Show More</key><string>Дополнительные параметры</string>
+    <key>More</key><string>Более</string>
+    <key>&amp; %i More</key><string>&amp; %i Подробнее</string>
+    <key>No scheduled meetings</key><string>Нет запланированных встреч</string>
+    <key>RECURRING MEETINGS</key><string>повторяющихся собраний</string>
+    <key>SCHEDULED MEETINGS</key><string>запланированы встречи</string>
+    <key>MEETINGS</key><string>ВСТРЕЧИ</string>
+    <key>All</key><string>Все</string>
+    <key>Sort Order</key><string>сортировку</string>
+    <key>Display Order</key><string>Порядок отображения</string>
+    <key>First, Last</key><string>Имя, Фамилия</string>
+    <key>Last, First</key><string>Фамилия, Имя</string>
+    <key>Phonetic First Name</key><string>Фонетическое Имя</string>
+    <key>Phonetic Last Name</key><string>Фонетическое Фамилия</string>
+    <key>Mailboxes</key><string>почтовые ящики</string>
+    <key>%d Selected</key><string>%d Выбранный</string>
+    <key>99+</key><string>99 +</string>
+    <key>Swipe Up</key><string>Проведите вверх</string>
+    <key>Swipe Down</key><string>Проведите вниз</string>
+    <key>Single Tap To Read</key><string>одним нажатием, чтобы прочитать</string>
+    <key>Double Tap To Flag</key><string>Дважды нажмите, чтобы флаг</string>
+    <key>Mark as Read</key><string>Пометить как прочитанное</string>
+    <key>Move to</key><string>Переместить в</string>
+    <key>Fast Sort</key><string>Быстрая Сортировать</string>
+    <key>Move to %@</key><string>Переместить в%@</string>
+    <key>MAIL</key><string>почта</string>
+    <key>CONTACTS</key><string>КОНТАКТЫ</string>
+    <key>CALENDAR</key><string>КАЛЕНДАРЬ</string>
+    <key>Conversation</key><string>диалог</string>
+    <key>ITEMS</key><string>ПУНКТЫ</string>
+    <key>Loading meetings...</key><string>Загрузка встречи ...</string>
+    <key>Create note</key><string>Создать заметку</string>
+    <key>Checking for Events...</key><string>Проверка события ...</string>
+    <key>Delete Photo</key><string>Удалить фотографию</string>
+    <key>Display Name</key><string>Display Name</string>
+    <key>Phonetic FirstName</key><string>Фонетическое FirstName</string>
+    <key>Business Fax</key><string>Рабочий факс</string>
+    <key>PHONE</key><string>ТЕЛЕФОН</string>
+    <key>Week</key><string>неделя</string>
+    <key>Work Email</key><string>Работа Email</string>
+    <key>Home Email</key><string>Главная Email</string>
+    <key>INTERNET</key><string>ИНТЕРНЕТ</string>
+    <key>BUSINESS</key><string>РАБОТА</string>
+    <key>HOME</key><string>ГЛАВНАЯ</string>
+    <key>ALIAS</key><string>псевдоним</string>
+    <key>PERSONAL</key><string>ЛИЧНОЕ</string>
+    <key>NOTES</key><string>Примечания</string>
+    <key>Middle Name</key><string>Отчество</string>
+    <key>COMPANY INFO</key><string>О КОМПАНИИ</string>
+    <key>Add to Existing Contact</key><string>Добавить в существующ</string>
+    <key>ADDRESS</key><string>АДРЕС</string>
+    <key>Close</key><string>Закрыть</string>
+    <key>COMPANY DIRECTORY</key><string>Каталог компаний</string>
+    <key>Export</key><string>Экспорт</string>
+    <key>General</key><string>Общие</string>
+    <key>Label</key><string>этикетки</string>
+    <key>No Data passed</key><string>Прошло  Нет данных</string>
+    <key>OTHER</key><string>ДРУГИЕ</string>
+    <key>Phonetic LastName</key><string>Фонетическое Фамилия</string>
+    <key>Please enter a reply message for Inside My Organization.</key><string>Пожалуйста введите ответное сообщение для Inside My Организации.</string>
+    <key>Please enter your reply message for Outside My Organization.</key><string>Пожалуйста введите свой ответ на за пределами организации.</string>
+    <key>Delete</key><string>Удалить</string>
+    <key>Blocked by Admin Policy: Add Photo</key><string>Заблокированные Админ Политика: Добавить фото</string>
+    <key>Select a phone number</key><string>Выберите номер телефона</string>
+    <key>New Meeting Invitation</key><string>Приглашение Новая встреча</string>
+    <key>Unlink</key><string>Разорвать связь</string>
+    <key>Next event</key><string>Следующая выставка</string>
+    <key>Next event at</key><string>Следующая событием</string>
+    <key>Checking for Updates...</key><string>Проверка обновлений ...</string>
+    <key>Incorrect Password</key><string>Неправильный пароль</string>
+    <key>Enter password for</key><string>Введите пароль для</string>
+    <key>Decline</key><string>Снижение</string>
+    <key>TentativelyAccept</key><string>Может быть,</string>
+    <key>&amp; Comment</key><string>&amp; Комментарий</string>
+    <key>Login</key><string>Войти</string>
+    <key>Please enter your password</key><string>Пожалуйста введите пароль</string>
+    <key>Checking Password...</key><string>Проверка пароль ...</string>
+    <key>Password validation failed.\nPlease try again later.</key><string>проверки пароля с ошибкой. \ NПожалуйста, повторите попытку позже.</string>
+    <key>Retry</key><string>Повторить</string>
+    <key>Tomorrow</key><string>Завтра</string>
+    <key>Please resolve expired or locked passwords before continuing.</key><string>Пожалуйста решения истек или заблокирован пароли, прежде чем продолжить.</string>
+    <key>Please go to Settings &gt; Auto-Refresh and reduce the number of folders that you have selected.</key><string>Пожалуйста выберите Настройки&gt; Автоматическое обновление и уменьшить количество папок, которые вы выбрали.</string>
+    <key>Please change your account password to continue using WorxMail.</key><string>Пожалуйста сменить пароль аккаунта, чтобы продолжать использовать WorxMail.</string>
+    <key>Please change your account password for</key><string>Пожалуйста сменить пароль учетной записи для</string>
+    <key>to continue using WorxMail.</key><string>продолжать использовать WorxMail.</string>
+    <key>Your Mailbox Is Full</key><string>Ваш почтовый ящик переполнен</string>
+    <key>Your message cannot be sent until you delete messages from your mailbox.\nWorxMail will send this message as soon as more space is available.</key><string>Ваше сообщение не может быть отправлено, пока Вы не удалять сообщения из почтового ящика. \ NWorxMail будет отправить это сообщение как можно более свободного места.</string>
+    <key>Your network is not available. Tap to retry.</key><string>Ваша сеть не доступна. Нажмите, чтобы повторить попытку.</string>
+    <key>GESTURE</key><string>ЖЕСТ</string>
+    <key>Updating your mail. This may take a few minutes...</key><string>Обновление почту. Это может занять несколько минут ...</string>
+    <key>There was a problem.\nWait a few minutes and try again.</key><string>Был проблема. \ NWait несколько минут и повторите попытку.</string>
+    <key>All day tomorrow</key><string>Все завтрашний день</string>
+    <key>Phew! No new mail</key><string>Тьфу! Нет новых почта</string>
+    <key>Move to Bcc</key><string>Переместить в СК</string>
+    <key>Move to Cc</key><string>Переместить в ЦК</string>
+    <key>Move to To</key><string>Переместить в Чтобы</string>
+    <key>Create New Contact</key><string>Создание нового контакта</string>
+    <key>Sign On</key><string>Sign On</string>
+    <key>Please verify your credentials and try again.</key><string>Пожалуйста проверьте ваши учетные данные и повторите попытку.</string>
+    <key>Add</key><string>Добавить</string>
+    <key>Too Many Devices</key><string>слишком много устройств</string>
+    <key>You have too many devices paired with Outlook.\nPlease remove unused devices and try again.</key><string>Вы слишком много устройств в паре с Outlook. Пожалуйста, удалите неиспользуемые устройства и повторите попытку.</string>
+    <key>Account Disabled</key><string>Учетная запись отключена</string>
+    <key>Your account is disabled.</key><string>Ваша учётная запись будет отключена.</string>
+    <key>Sync Not Permitted</key><string>синхронизация не Допустимое</string>
+    <key>Your account doesn't have permission to sync with Outlook.</key><string>Ваша учётная запись не имеет разрешения на синхронизацию с Outlook.</string>
+    <key>Your device doesn't have permission to sync with Outlook.</key><string>Устройство не имеет разрешения на синхронизацию с Outlook.</string>
+    <key>Account Not Created</key><string>внимание не создал</string>
+    <key>Your account cannot be created at this time.\nAccess to the Microsoft Exchange Server was denied.</key><string>Ваша учетная запись не может быть создана в это время. \ NAccess к Microsoft Exchange Server, было отказано.</string>
+    <key>Choose a recipient</key><string>Выберите получателя</string>
+    <key>Please Wait</key><string>пожалуйста, подождите</string>
+    <key>WorxMail is updating your contacts.</key><string>WorxMail обновляет свои контакты.</string>
+    <key>Mail is already in %@</key><string>почты уже в%@</string>
+    <key>Attachments Were Not Sent</key><string>Вложения не были Отправленные</string>
+    <key>Private</key><string>-mail</string>
+    <key>Show picture</key><string>Показать фото</string>
+    <key>Show pictures</key><string>Показать картинки</string>
+    <key>Always show pictures from this sender</key><string>Всегда показывать фотографии из этого отправителя</string>
+    <key>1 New Meeting Invitation</key><string>Приглашение 1 Новая встреча</string>
+    <key>New Meeting Invitations</key><string>Новая встреча Приглашения</string>
+    <key>1 New Message</key><string>1 Новое сообщение</string>
+    <key>New Messages</key><string>Новые сообщения</string>
+    <key>This mail is restricted.</key><string>Это письмо ограничен.</string>
+    <key>Restrictions</key><string>Ограничения</string>
+    <key>Remove restrictions</key><string>Снять ограничения</string>
+    <key>CONTENT OWNER</key><string>владелец контента</string>
+    <key>CONTENT EXPIRATION</key><string>CONTENT СРОК</string>
+    <key>RESTRICTIONS</key><string>ОГРАНИЧЕНИЯ</string>
+    <key>No expiration</key><string>Не  без срока</string>
+    <key>Edit the Content</key><string>Редактировать Содержимое</string>
+    <key>Modify recipients</key><string>Изменить получателей</string>
+    <key>Copy content</key><string>Скопировать содержимое</string>
+    <key>Print</key><string>печати</string>
+    <key>Send to other apps</key><string>Отправить в другие приложения</string>
+    <key>Enable Your Camera</key><string>Включить на камере</string>
+    <key>Camera Is Blocked</key><string>камеры заблоктровано</string>
+    <key>Your admin has disabled the camera.</key><string>Ваш администратор отключил камеру.</string>
+    <key>Change your camera privacy settings in iOS Settings &gt; Privacy &gt; Camera.</key><string>Изменить настройки конфиденциальности камеры в настройках IOS&gt; Конфиденциальность&gt; Камера.</string>
+    <key>Change your contact privacy settings in iOS Settings &gt; Privacy &gt; Contacts.</key><string>Изменить свои контактные режим приватности в настройках IOS&gt; Конфиденциальность&gt; Контакты.</string>
+    <key>Message not sent. Retry later</key><string>Сообщение не отправлено. Повторите позже</string>
+    <key>High</key><string>High</string>
+    <key>Normal</key><string>Нормальный</string>
+    <key>Low</key><string>Низкий</string>
+    <key>Outbox</key><string>Исходящие</string>
+    <key>Show Pictures</key><string>Показать Фотографии</string>
+    <key>Ok</key><string>Ok</string>
+    <key>Starts Ends</key><string>Запуск Окончание</string>
+    <key>Restriction Profiles</key><string>Ограничение Профили</string>
+    <key>Info</key><string>информация</string>
+    <key>None Template Description</key><string>Это сообщение не защищены. Если это ответ на сообщения, защищенного ограничения снимаются.</string>
+    <key>IRM content expiry message</key><string>разрешения для просмотра этого сообщение истек. Пожалуйста, повторного получения сообщения.</string>
+    <key>Due to admin policy on exporting contacts, only the name and phone number will be exported.</key><string>В связи с администратором политики на экспорте контактов, только имя и номер телефона будет экспортироваться.</string>
+    <key>Due to admin policy on exporting contacts, only the name, phone number and email will be exported.</key><string>В связи с администратором политики на экспорте контактов, только имя, номер телефона и адрес электронной почты будут экспортированы.</string>
+    <key>Due to admin policy on exporting contacts, only the custom contact fields will be exported.</key><string>В связи с администратором политики на экспорте контактов, только поля пользовательских контактные будет экспортироваться.</string>
+    <key>Agenda</key><string>повестки дня</string>
+    <key>Retry Send</key><string>Повторить Отправить</string>
+    <key>Cannot Download Attachment</key><string>Не можете скачать файл</string>
+    <key>TODAY</key><string>СЕГОДНЯ</string>
+    <key>YESTERDAY</key><string>ВЧЕРА</string>
+    <key>TOMORROW</key><string>ЗАВТРА</string>
+    <key>New</key><string>Новый</string>
+    <key>Add to existing</key><string>Добавить к существующему</string>
+    <key>Delete Event</key><string>Удалить событие</string>
+    <key>Delete Series</key><string>Удалить Series</string>
+    <key>Send Update</key><string>Отправить обновление</string>
+    <key>This folder is empty</key><string>Эта папка пуста</string>
+    <key>Open Link</key><string>Open Link</string>
+    <key>Call %@</key><string>Call%@</string>
+    <key>Open in Maps</key><string>Открыть в Картах</string>
+    <key>Check the server address and try again.</key><string>Проверьте адрес сервера и повторите попытку.</string>
+    <key>Send Anyway</key><string>Отправить всяком случае</string>
+    <key>You did not make changes to the event.</key><string>Вы не вносить изменения в событие.</string>
+    <key>Invalid Address</key><string>Неверный адрес</string>
+    <key>%@ doesn't seem to be an actual address. Do you still want to send it?</key><string>%@, кажется, не быть фактический адрес. Вы все еще хотите, чтобы отправить его?</string>
+    <key>This Option is Not Available</key><string>Это опция не доступна</string>
+    <key>An error occurred emptying your Deleted Items.</key><string>Произошла ошибка опорожнения удаленные элементы.</string>
+    <key>Empty</key><string>Пусто</string>
+    <key>Emptying Deleted Items folder</key><string>Очистка папки Удаленные</string>
+    <key>Can't Empty Folder</key><string>Может не пустая папка</string>
+    <key>An error occurred while emptying your Deleted Items folder.\nPlease try again later.</key><string>Произошла ошибка при опорожнения папку Удаленные. \ NПожалуйста, повторите попытку позже.</string>
+    <key>FaceTime Audio</key><string>FaceTime Аудио</string>
+    <key>There was a problem sending this message. Try again later.</key><string>Был проблема с отправкой это сообщение. Попробуйте еще раз позже.</string>
+    <key>Can't Send Mail</key><string>не может отправлять почту.</string>
+    <key>The server is not configured correctly.</key><string>сервер не настроен правильно.</string>
+    <key>A server error occurred. Please try again later.</key><string>Ошибка сервера. Пожалуйста, повторите попытку позже.</string>
+    <key>Your message is too large. Remove attachments or divide into smaller messages.</key><string>Ваше сообщение слишком велико. Удалить вложения или разделить на более мелкие сообщений.</string>
+    <key>Sorry, something went wrong. Please try again. If the problem persists, contact IT.</key><string>К сожалению, что-то пошло не так. Пожалуйста, попробуйте еще раз. Если проблема не устраняется, обратитесь ИТ.</string>
+    <key>A connection error occurred. Please try again later.</key><string>Произошла ошибка связи. Пожалуйста, повторите попытку позже.</string>
+    <key>Leave in Outbox</key><string>уходят в Outbox</string>
+    <key>Availability</key><string>Наличие</string>
+    <key>You are available</key><string>У Вас есть возможность</string>
+    <key>This event is adjacent to another event</key><string>Это событие находится рядом с другом событии</string>
+    <key>This event conflicts with another event</key><string>Это событие конфликтует с другим событием</string>
+    <key>Can't Access WorxMail</key><string>Не удается получить доступ WorxMail</string>
+    <key>Failed to Fetch Client Certificate.</key><string>Не удалось получить сертификат клиента.</string>
+    <key>This event has already been modified. Please close the current window and try again.</key><string>Это событие уже были изменены. Пожалуйста закрыть текущее окно и повторите попытку.</string>
+    <key>The attachment cannot be downloaded because it is empty.</key><string>вложение не может быть загружен, потому что он пуст.</string>
+    <key>Open</key><string>Open</string>
+    <key>Copy</key><string>Копировать</string>
+    <key>Call</key><string>вызова</string>
+    <key>Copy Link</key><string>Копировать ссылку</string>
+    <key>Send Message</key><string>Отправить сообщение</string>
+    <key>Done</key><string>урон</string>
+    <key>Downloadable Resources</key><string>Загружаемые ресурсы</string>
+    <key>Language</key><string>Язык</string>
+    <key>No Downloadable Resource</key><string>Не  Нет загружаемый ресурс</string>
+    <key>Package Resources</key><string>Пакет ресурсов</string>
+    <key>Select Language</key><string>Выбор языка</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection получил вызов аутентификации.</string>
+    <key>SFAPIConnection_NilResponse</key><string>SFResponse объект был нулевым. Поддерживается ли эта просьба?</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>подключение к сети не был обнаружен.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest недействительным. Пожалуйста, проверьте требуемые Params запроса.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest была равна нулю.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Неизвестный формат ответа.</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON Ошибка синтаксического анализа.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth не удалось. Reauth информация была равна нулю.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth не удалось. Неподдерживаемый тип SAML Войти.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth не удалось. Информация SSO был равен нулю.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth не удалось. Неизвестная ошибка.</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>Неожиданная ошибка аутентификации.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>Проверка подлинности не было поставлено.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>Попытка Логин не была успешной.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AUTHID признается, но устаревшим. Пожалуйста, повторной проверки подлинности, прежде чем продолжить.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AUTHID не найден / силе.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>Домен является недопустимым для текущего запроса.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>ток комбинированный инструмент / счета отказано в использовании API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>Неожиданная ошибка операции.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>Запрошенная операция не соответствует любой из поддерживаемых Op.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Это оп требуется параметр (ы), которые не были поставлены.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>Параметр (ы) поставляется не действительны (например, строка вместо INT, Валь вне диапазона, и т.д.).</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>просил OP не совместим с текущей целевой ID.</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>Op не допускается, за текущий счет ShareFile (не отключенной функцией / нет разрешения).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>Op не допускается, за текущего пользователя ShareFile (пользователь не имеет соответствующих ролей пользователей / разрешения на использование).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>Op не допускается, за цели (пользователь может иметь соответствующую роль / разрешение в других случаях, но не для этой конкретной ID).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>Неожиданный целевая ошибка.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>просил цель существует, но не правильного типа (например, пытается выполнить папки ПП на файл).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>Цель не найдено.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>Неожиданный создать ошибку.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>Поставляется родитель не действует для создания требуемый пункт (например, пытается создать папку в корне счета).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>Неожиданная ошибка редактирования.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>элемент, который вы пытаетесь создать, уже существует.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>элемент, который вы пытаетесь редактировать уже существует.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>непредвиденная ошибка.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>Сервер проводиться ремонтные работы.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>ограничение скорости достигнуто.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>Сервер перегружен.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>непредвиденная ошибка (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>Сервер перегружен (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>подготовка Сбой при загрузке (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>подготовка Ошибка загрузки (SC).</string>
+</dict></plist>

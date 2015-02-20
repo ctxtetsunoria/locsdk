@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>version:%@</key><string>έκδοση:%@</string>
+<key>Done</key><string>Ολοκληρώθηκε </string>
+<key>versionid</key><string>1.0.0</string>
+<key>Select Languages</key><string>Επιλέξτε Γλώσσες </string>
+<key>etcid</key><string>κατεβάσει από το διαδίκτυο ...</string>
+<key>language:%@</key><string>γλώσσα:%@</string>
+<key>languageid</key><string>el</string>
+<key>Language pack information</key><string>Πληροφορίες πακέτο γλώσσας</string>
+<key>Downloadable Resources</key><string>Καινούριο Πόρων</string>
+<key>Hello World!</key><string>Γεια σας </string>
+<key>Manage Languages</key><string>Διαχειριστείτε Γλώσσες </string>
+<key>Remove Downloaded Languages</key><string>Κατέβηκε Αφαιρέστε Γλώσσες</string>
+<key>Package Resources</key><string>Πακέτο Πόρων</string>
+<key>No Downloadable Resource</key><string>Δεν Καινούριο Πόρων</string>
+<key>others:%@</key><string>άλλοι:%@</string>
+</dict></plist>

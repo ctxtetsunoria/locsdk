@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>0 minutes before</key><string>0分鐘才</string>
+    <key>1 day before</key><string>1日之前</string>
+    <key>1 Day</key><string>1天</string>
+    <key>1 hour before</key><string>前1小時</string>
+    <key>1 Month</key><string>1個月</string>
+    <key>1 Week</key><string>1週</string>
+    <key>1.  Please join my meeting.\nhttps://www1.gotomeeting.com/join/%@\n</key><string>1。 。請加入我的會議
+https：//www1.gotomeeting.com/join/%@\ñ</string>
+    <key>15 minutes before</key><string>前15分鐘</string>
+    <key>2 days before</key><string>前2天</string>
+    <key>2 hours before</key><string>前2小時</string>
+    <key>2 Weeks</key><string>2週</string>
+    <key>2.  Use your microphone and speakers (VoIP) - a headset is recommended. Or, call in using your telephone.\n\n%@\nAudio PIN: Shown after joining the meeting\n</key><string>2。使用您的麥克風和揚聲器電話（VoIP） - 耳機推薦。或者，撥打使用電話\n\ N%@
+音訊PIN：加入會議\ñ所示後</string>
+    <key>3 Days</key><string>3天</string>
+    <key>30 minutes before</key><string>前30分鐘</string>
+    <key>5 minutes before</key><string>前5分鐘</string>
+    <key>%d h</key><string>%d深高</string>
+    <key>%d min</key><string>%d分</string>
+    <key>%i recipients</key><string>%i收件人</string>
+    <key>%@ and %i more...</key><string>%@和%i更多...</string>
+    <key>%@ %@ to %@ %@</key><string>%@%@到%@%@</string>
+    <key>%@ to %@</key><string>%@來%@</string>
+    <key>%@ - %@</key><string>%@ - %@</string>
+    <key>&lt;No subject&gt;</key><string>&lt;無主題&gt;</string>
+    <key>(No subject)</key><string>（無主題）</string>
+    <key>(No recipient)</key><string>（無收件人）</string>
+    <key>About</key><string>關於</string>
+    <key>Accept</key><string>接受</string>
+    <key>Account</key><string>賬戶</string>
+    <key>Add %@</key><string>添加%@</string>
+    <key>Address(email or server)</key><string>地址</string>
+    <key>Account</key><string>賬戶</string>
+    <key>All Contacts</key><string>所有聯繫人</string>
+    <key>All Day Event</key><string>全日</string>
+    <key>All Day</key><string>全日</string>
+    <key>All-day</key><string>全日</string>
+    <key>all-day</key><string>全日</string>
+    <key>Please Enter an Event Title</key><string>，請輸入活動名稱</string>
+    <key>and %i more...</key><string>和%i我更多...</string>
+    <key>Anniversary</key><string>週年</string>
+    <key>Append Signature</key><string>附加簽名</string>
+    <key>Ask Before Deleting</key><string>刪除前詢問</string>
+    <key>Assistant</key><string>助理</string>
+    <key>Assistant phone</key><string>電話助理</string>
+    <key>Attach Existing Photo</key><string>附上現有的照片</string>
+    <key>Attach from ShareFile</key><string>從ShareFile連接</string>
+    <key>Attach</key><string>附加</string>
+    <key>Attachment</key><string>附件</string>
+    <key>Attachment (1)</key><string>附件（1）</string>
+    <key>Attachments</key><string>附件</string>
+    <key>attendee</key><string>受邀者</string>
+    <key>attendees</key><string>受邀者</string>
+    <key>%d %@</key><string>%d%@</string>
+    <key>Attendees</key><string>被邀請者</string>
+    <key>Authenticate</key><string>驗證</string>
+    <key>Autodiscover</key><string>自動發現</string>
+    <key>Availability</key><string>顯示為</string>
+    <key>B</key><string>B</string>
+    <key>Back</key><string>回</string>
+    <key>Bcc:</key><string>密件抄送：</string>
+    <key>Birthday</key><string>生日</string>
+    <key>Business fax</key><string>傳真工作</string>
+    <key>Business phone</key><string>工作電話</string>
+    <key>Business Phone</key><string>工作電話</string>
+    <key>Web page</key><string>網頁</string>
+    <key>Busy</key><string>忙</string>
+    <key>Calendar Event</key><string>日曆提醒</string>
+    <key>Calendar Notifications</key><string>日曆通知</string>
+    <key>Calendar</key><string>日曆</string>
+    <key>Cancel</key><string>取消</string>
+    <key>Canceled:</key><string>取消：</string>
+    <key>Cannot Get Mail</key><string>不能獲取郵件</string>
+    <key>Car phone</key><string>車載電話</string>
+    <key>Cc/Bcc:</key><string>抄送/密件抄送：</string>
+    <key>Cc:</key><string>抄送：</string>
+    <key>Checking for Mail...</key><string>檢查郵件...</string>
+    <key>Child</key><string>兒童</string>
+    <key>Choose Photo</key><string>照片選擇</string>
+    <key>Clear all</key><string>全部清除</string>
+    <key>Clear Flag</key><string>清除標誌</string>
+    <key>Company phone</key><string>公司電話</string>
+    <key>Company</key><string>公司</string>
+    <key>Contacts</key><string>聯繫人</string>
+    <key>Contacts exported successfully</key><string>聯繫人導出成功</string>
+    <key>Day</key><string>天</string>
+    <key>De-Highlight</key><string>刪除亮點</string>
+    <key>Declined</key><string>拒絕</string>
+    <key>Delete Changes</key><string>更改刪除</string>
+    <key>Delete Draft</key><string>草案中刪除</string>
+    <key>Delete this message?</key><string>刪除此消息？</string>
+    <key>Delete</key><string>刪除</string>
+    <key>Department</key><string>部</string>
+    <key>Details</key><string>詳細信息</string>
+    <key>Dial In</key><string>撥入</string>
+    <key>Discovering...</key><string>情迷</string>
+    <key>Do you want to delete this occurrence or the entire series?</key><string>你想刪除此事件或整個系列？</string>
+    <key>Do you want to forward this occurrence or the entire series?</key><string>你想轉發該事件或整個系列？</string>
+    <key>ShareFileDomain</key><string>域ShareFile</string>
+    <key>Domain</key><string>域名</string>
+    <key>Don't Save</key><string>，請勿保存</string>
+    <key>Done</key><string>完成</string>
+    <key>Downloading folders...</key><string>下載文件夾...</string>
+    <key>Your mail could not be downloaded at this time. Please try again in a few minutes.</key><string>您的郵件不能在這個時候下載。請在幾分鐘後再試一次。</string>
+    <key>Access to your company network is not currently available.</key><string>訪問公司的網絡是當前不可用。</string>
+    <key>Downloading</key><string>下載</string>
+    <key>Draft</key><string>草案</string>
+    <key>Drafts</key><string>草稿</string>
+    <key>Edit</key><string>編輯</string>
+    <key>Edit Event</key><string>編輯事件</string>
+    <key>Edit series</key><string>系列編輯</string>
+    <key>Email Notifications</key><string>電子郵件通知</string>
+    <key>Email</key><string>電子郵件</string>
+    <key>Email or mail server</key><string>電子郵件或郵件服務器</string>
+    <key>Email All Invitees</key><string>全部回复</string>
+    <key>Email Organizer</key><string>回复</string>
+    <key>EmailBodyApplicationBuild</key><string>WorxMail版本號：%@</string>
+    <key>EmailBodyApplicationMemory</key><string>應用內存：%@</string>
+    <key>EmailBodyApplicationVersion</key><string>版本WorxMail：%@</string>
+    <key>EmailBodyDeviceModel</key><string>設備型號：%@</string>
+    <key>EmailBodyFreeMemory</key><string>免費內存：%@</string>
+    <key>EmailBodyIsJailBroken</key><string>越獄是：%@</string>
+    <key>EmailBodyOSVersion</key><string>iOS的版本：%@</string>
+    <key>EmailBodyTotalMemory</key><string>總內存：%@</string>
+    <key>End Repeat</key><string>重複結束</string>
+    <key>Ends</key><string>兩端</string>
+    <key>Enter at least one recipient.</key><string>至少輸入一個收件人。</string>
+    <key>Enter some feedback text</key><string>輸入您的反饋意見文本</string>
+    <key>Enter your credentials</key><string>輸入您的憑據</string>
+    <key>Enter your domain</key><string>輸入你的域名</string>
+    <key>Enter your email address</key><string>輸入您的電子郵件地址</string>
+    <key>Enter your email or server address</key><string>輸入您的電子郵件或服務器地址</string>
+    <key>Enter your feedback here to send it to Citrix.</key><string>輸入您的反饋意見在這裡將其發送到Citrix。</string>
+    <key>Enter your password</key><string>輸入您的密碼</string>
+    <key>Enter your server address</key><string>輸入您的服務器地址</string>
+    <key>Enter your user name</key><string>輸入您的用戶名</string>
+    <key>Events</key><string>活動</string>
+    <key>Event Details</key><string>事件詳細信息</string>
+    <key>Every Day</key><string>每一天</string>
+    <key>Every Month</key><string>每個月</string>
+    <key>Every 2 Weeks</key><string>每兩週</string>
+    <key>Every Week</key><string>每週</string>
+    <key>Every Year</key><string>每年</string>
+    <key>Exchange Account</key><string>外匯賬戶</string>
+    <key>Existing Photo</key><string>現有的照片</string>
+    <key>Export to iPad</key><string>導出到iPad</string>
+    <key>Export to iPhone</key><string>導出到iPhone</string>
+    <key>Failed to save Out of Office settings</key><string>也救不了外出設置</string>
+    <key>Feedback for Citrix WorxMail for iOS</key><string>反饋思傑WorxMail為iOS</string>
+    <key>FileSize</key><string>大小</string>
+    <key>Flag</key><string>國旗</string>
+    <key>Flagged</key><string>旗標</string>
+    <key>FMD_ClientAddressBookError_AccessDenied_Text</key><string>你需要許可才能打開通訊簿</string>
+    <key>FMD_EmployeeAddressBookError_AccessDenied_Text</key><string>你需要許可才能打開通訊簿</string>
+    <key>FMD_DeleteFileError_AccessDenied_Text</key><string>你需要的權限刪除這個文件</string>
+    <key>FMD_DownloadError_AccessDenied_Text</key><string>你需要權限下載文件</string>
+    <key>FMD_DownloadError_NotEnoughSpace_Text</key><string>無法下載文件。你會超過500MB限制下載的文件。</string>
+    <key>FMD_DownloadError_ParentNotFound_Text</key><string>無法打開文件</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Text</key><string>您的組織已取消您的文檔</string>
+    <key>FMD_GeneralError_InvalidCredentials_NonSSO_Text</key><string>錯誤的用戶名或密碼</string>
+    <key>FMD_GeneralError_InvalidCredentials_SSO_Text</key><string>，請檢查您的憑證</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Text</key><string>檢查您的網絡連接</string>
+    <key>FMD_GeneralError_NotLoggedIn_Text</key><string>請登錄ShareFile</string>
+    <key>FMD_GeneralError_UnrecognizedSFAPIError_Title</key><string>共享問題文件夾</string>
+    <key>FMD_MyDocs</key><string>%1$@%2$@文檔</string>
+    <key>FMD_SyncError_ItemNotFound_Text</key><string>文件不是你的設備上。</string>
+    <key>FMD_UploadError_AccessDenied_Text</key><string>你需要權限上傳此文件</string>
+    <key>FMD_UploadError_CannotReadFileAttributes_Text</key><string>不能保存的檔案</string>
+    <key>FMD_UploadError_FileNotFound_Text</key><string>文件未找到</string>
+    <key>FMD_UploadError_ParentNotFound_Text</key><string>不能保存的檔案</string>
+    <key>File Box</key><string>箱文件</string>
+    <key>Forward</key><string>前進</string>
+    <key>Forward Invite</key><string>前進</string>
+    <key>Free</key><string>免費</string>
+    <key>From:</key><string>來源：</string>
+    <key>Fw:</key><string>的Fw：</string>
+    <key>GoToMeeting</key><string>的GoToMeeting</string>
+    <key>GoToMeeting®\nOnline Meetings Made Easy®\n\nNot at your computer? Click the link to join this meeting from your iPhone®, iPad® or Android® device via the GoToMeeting app.</key><string>GoToMeeting®\會議類非線性製造Easy®\ñ
+不是你的電腦？點擊加入通過的GoToMeeting應用程序本次會議從您的iPhone®，iPad®和Android®設備的鏈接。</string>
+    <key>Hide</key><string>隱藏</string>
+    <key>Highlight</key><string>亮點</string>
+    <key>Home</key><string>首頁</string>
+    <key>Home 2</key><string>首頁2</string>
+    <key>Home Phone</key><string>家庭電話</string>
+    <key>Home phone</key><string>家庭電話</string>
+    <key>I</key><string>我</string>
+    <key>I am running late for this meeting.</key><string>，我遲到了本次會議上運行。</string>
+    <key>IM Address 1</key><string>IM地址1</string>
+    <key>IM Address 2</key><string>IM地址2</string>
+    <key>IM Address 3</key><string>IM地址3</string>
+    <key>Inbox</key><string>收件箱</string>
+    <key>Inside My Organization</key><string>裡面我的組織</string>
+    <key>Invalid Certificate</key><string>證書無效</string>
+    <key>Invalid email address</key><string>無效的電子郵件地址</string>
+    <key>Invite</key><string>邀請</string>
+    <key>Invitees</key><string>被邀請者</string>
+    <key>Invitees:</key><string>被邀請者：</string>
+    <key>Job title</key><string>職位</string>
+    <key>Join Meeting</key><string>加入會議</string>
+    <key>Just this occurence</key><string>本次會議</string>
+    <key>LastModified</key><string>最後修改</string>
+    <key>Legal Notices</key><string>法律聲明</string>
+    <key>Privacy Policy</key><string>隱私政策</string>
+    <key>Location</key><string>位置</string>
+    <key>Mail</key><string>郵件</string>
+    <key>Manager</key><string>經理</string>
+    <key>Mark As Read</key><string>標記為已讀</string>
+    <key>Mark As Unread</key><string>標記為未讀</string>
+    <key>Mark</key><string>馬克</string>
+    <key>Maybe</key><string>MAYBE</string>
+    <key>Meeting ID: %@-%@-%@\n</key><string>會議ID：%@ - %@ - %@\ñ</string>
+    <key>Meeting</key><string>會議</string>
+    <key>Mobile phone</key><string>手機</string>
+    <key>Month</key><string>月</string>
+    <key>more</key><string>以上</string>
+    <key>MoreEvents</key><string>%d更多</string>
+    <key>Move Message</key><string>移動信息</string>
+    <key>Move</key><string>移動</string>
+    <key>Multi Day</key><string>多日</string>
+    <key>Cannot Load Privacy Policy. Try Again Later.</key><string>無法加載的隱私政策。請稍後再試。</string>
+    <key>Never</key><string>從未</string>
+    <key>New Event</key><string>新事件</string>
+    <key>New Meeting</key><string>新建會議</string>
+    <key>New Message</key><string>新消息</string>
+    <key>New Photo</key><string>新照片</string>
+    <key>Nickname</key><string>暱稱</string>
+    <key>No Contacts</key><string>號聯繫</string>
+    <key>No Invitees</key><string>添加被邀請者</string>
+    <key>No Recipients</key><string>輸入收件人</string>
+    <key>No Response</key><string>無回應</string>
+    <key>No title</key><string>輸入一個標題</string>
+    <key>NoButtonText</key><string>號</string>
+    <key>None</key><string>無</string>
+    <key>NoneReminder</key><string>無</string>
+    <key>Notes</key><string>注</string>
+    <key>Notifications</key><string>通知</string>
+    <key>Notification</key><string>通知</string>
+    <key>Off</key><string>關閉</string>
+    <key>Office location</key><string>辦公地點</string>
+    <key>Offline</key><string>離線</string>
+    <key>Other Conference</key><string>其他會議</string>
+    <key>OK</key><string>OK</string>
+    <key>On</key><string>對</string>
+    <key>Optional</key><string>可選</string>
+    <key>Optional:</key><string>可選：</string>
+    <key>Organize By Conversation</key><string>通過對話組織</string>
+    <key>Organizer</key><string>主辦單位</string>
+    <key>Other</key><string>其他</string>
+    <key>Out of Office</key><string>離開辦公室</string>
+    <key>Pager</key><string>尋呼機</string>
+    <key>Password</key><string>密碼</string>
+    <key>Exchange Server Access Denied</key><string>Exchange服務器拒絕訪問</string>
+    <key>Please try again in a few minutes.</key><string>，請在幾分鐘後再試一次。</string>
+    <key>Radio phone</key><string>電話收音機</string>
+    <key>Re:</key><string>回复：</string>
+    <key>ReadWrite</key><string>讀/寫</string>
+    <key>Reminder</key><string>提醒</string>
+    <key>Repeat</key><string>重複</string>
+    <key>Repeat Forever</key><string>永遠重複</string>
+    <key>Reply All</key><string>全部回复</string>
+    <key>Reply</key><string>回复</string>
+    <key>Request Help from support</key><string>請求幫助</string>
+    <key>RequestHelpFromSupportMailBodyTemplate</key><string>我有與思傑WorxMail問題的iOS\ñ
+Here的問題的說明\ñ
+關於我的設備：\ N%@</string>
+    <key>Requesting help with Citrix WorxMail for iOS</key><string>請求幫助思傑WorxMail為iOS</string>
+    <key>Required</key><string>要求</string>
+    <key>Required:</key><string>要求：</string>
+    <key>Running Late</key><string>晚點</string>
+    <key>Running late</key><string>後期運行</string>
+    <key>Save Draft</key><string>保存草稿</string>
+    <key>Save</key><string>保存</string>
+    <key>Search</key><string>查詢</string>
+    <key>Search Contacts</key><string>聯繫人搜索</string>
+    <key>Select a different date or time for the event occurrence</key><string>檢查開始和結束日期</string>
+    <key>Select a Start Date earlier than the End Date</key><string>檢查開始和結束日期</string>
+    <key>Select a meeting</key><string>選擇一個會議</string>
+    <key>Select all</key><string>全選</string>
+    <key>Select an End Date later than the Start Date</key><string>檢查開始和結束日期</string>
+    <key>Select an End Date that is later than now</key><string>檢查開始和結束日期</string>
+    <key>Select Recipients</key><string>選擇收件人</string>
+    <key>Please select recipients for your reply message (Inside My Organization or Outside My Organization).</key><string>對您的回复消息請選擇收件人（裡面我的組織或超出了我的組織）。</string>
+    <key>Send Feedback to Citrix</key><string>發送反饋到Citrix</string>
+    <key>Send Feedback</key><string>發送反饋</string>
+    <key>Send</key><string>發送</string>
+    <key>Sent from Citrix WorxMail for iPad</key><string>思傑WorxMail發送為iPad</string>
+    <key>Sent from Citrix WorxMail for iPhone</key><string>思傑WorxMail送去iPhone</string>
+    <key>Server</key><string>服務器</string>
+    <key>Settings</key><string>設置</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>意外驗證錯誤。</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON解析錯誤。</string>
+    <key>SFAPIConnection_NilResponse</key><string>SFResponse對象為零。是這個請求支持？</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>未檢測到的網絡連接。</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>失敗Reauth。 Reauth信息為零。</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>失敗Reauth。錯誤不明。</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>失敗Reauth。不支持SAML登錄類型。</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>收到SFAPIConnection認證挑戰。</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>未知的響應格式。</string>
+    <key>SFAPIRequest_MissingParams</key><string>無效SFAPIRequest。請需要申請PARAMS。</string>
+    <key>Share</key><string>股</string>
+    <key>ShareFile Browser</key><string>ShareFile</string>
+    <key>Show Notifications</key><string>顯示通知</string>
+    <key>Signature</key><string>簽名</string>
+    <key>Sound</key><string>聲音</string>
+    <key>Specify Days</key><string>天指定</string>
+    <key>Spouse</key><string>配偶</string>
+    <key>Start</key><string>首發</string>
+    <key>Starts</key><string>首發</string>
+    <key>Starts\nEnds</key><string>開始
+Ends</string>
+    <key>Starts &amp; Ends</key><string>啟動和結束</string>
+    <key>Subject:</key><string>主題：</string>
+    <key>Support</key><string>支持</string>
+    <key>Sync Mail Period</key><string>同步郵件期</string>
+    <key>Sync with Local Contacts</key><string>與本地通訊錄同步</string>
+    <key>Take a Photo</key><string>拍照</string>
+    <key>Tap \"+\" or search from \n directory to add.</key><string>從\ñ目錄點擊\“+\”或搜索的補充。</string>
+    <key>Tentative</key><string>暫定</string>
+    <key>Time</key><string>時間</string>
+    <key>Time Duration</key><string>持續時間</string>
+    <key>Title</key><string>標題</string>
+    <key>%1$d of %2$d</key><string>%1$d%2$d</string>
+    <key>To:</key><string>至：</string>
+    <key>Try Again</key><string>再試一次</string>
+    <key>U</key><string>ü</string>
+    <key>Sorry, WorxMail Cannot Get Attendee Details</key><string>對不起，WorxMail不能得到與會者詳細</string>
+    <key>Sorry, WorxMail Cannot Get Organizer Details</key><string>對不起，WorxMail不能得到主辦方詳情</string>
+    <key>Unavailable</key><string>不可用</string>
+    <key>Unread</key><string>未讀</string>
+    <key>Updated</key><string>更新</string>
+    <key>Username</key><string>用戶名</string>
+    <key>Verifying...</key><string>驗證</string>
+    <key>Version</key><string>版本</string>
+    <key>When</key><string>時</string>
+    <key>Where</key><string>哪裡</string>
+    <key>Whole series</key><string>全系列</string>
+    <key>Work</key><string>工作</string>
+    <key>WorxMail</key><string>WorxMail</string>
+    <key>YesButtonText</key><string>是</string>
+    <key>Yesterday</key><string>昨天</string>
+    <key>Accept All Certificates</key><string>接受所有證書</string>
+    <key>Accepted</key><string>接受</string>
+    <key>Access denied</key><string>拒絕訪問</string>
+    <key>You need a valid certificate to use this app.</key><string>，您需要一個有效的證書來使用這個程序。</string>
+    <key>WorxMail cannot safely connect to the server. The server is not trusted.</key><string>WorxMail不能安全地連接到服務器。服務器不被信任。</string>
+    <key>Untrusted SSL Certificate</key><string>不可信的SSL證書</string>
+    <key>You and</key><string>和你</string>
+    <key>Download complete message</key><string>下載完整的消息</string>
+    <key>Cannot download the complete message. Please try again later.</key><string>無法下載完整的消息。請稍後再試。</string>
+    <key>Downloading...</key><string>下載...</string>
+    <key>First Name</key><string>名</string>
+    <key>Middle name</key><string>名中</string>
+    <key>Last Name</key><string>姓</string>
+    <key>Suffix</key><string>後綴</string>
+    <key>City</key><string>城市</string>
+    <key>State</key><string>狀態</string>
+    <key>Postal Code</key><string>郵政編碼</string>
+    <key>Country</key><string>國家</string>
+    <key>Street</key><string>街</string>
+    <key>Edit More</key><string>編輯更多</string>
+    <key>Edit Less</key><string>編輯減</string>
+    <key>Contact</key><string>聯繫</string>
+    <key>First</key><string>第一</string>
+    <key>Middle</key><string>中東</string>
+    <key>Last</key><string>尾</string>
+    <key>Name</key><string>名</string>
+    <key>Phone</key><string>電話</string>
+    <key>Email Address</key><string>電子郵件地址</string>
+    <key>Email Address 1</key><string>電子郵件地址1</string>
+    <key>Email Address 2</key><string>電子郵件地址2</string>
+    <key>Email Address 3</key><string>電子郵件地址3</string>
+    <key>Address</key><string>地址</string>
+    <key>Business Address</key><string>商務地址</string>
+    <key>Home Address</key><string>主頁地址</string>
+    <key>Other Address</key><string>其他地址</string>
+    <key>Add New</key><string>添加新會議</string>
+    <key>Assistant Phone</key><string>電話助理</string>
+    <key>Car Phone</key><string>車載電話</string>
+    <key>Company Phone</key><string>公司電話</string>
+    <key>Conference</key><string>Web和音頻</string>
+    <key>IM</key><string>IM</string>
+    <key>Meeting Id</key><string>會議ID</string>
+    <key>Meetings</key><string>會議</string>
+    <key>No Events</key><string>號事件</string>
+    <key>Radio Phone</key><string>收音機電話</string>
+    <key>WorxMail Custom Conference</key><string>定制WorxMail會議</string>
+    <key>WorxMail GTM</key><string>GTM WorxMail</string>
+    <key>Files</key><string>文件</string>
+    <key>Clear All</key><string>全部清除</string>
+    <key>Preview</key><string>預覽</string>
+    <key>Upload</key><string>上傳</string>
+    <key>Error</key><string>錯誤</string>
+    <key>Time-out no response from server</key><string>從服務器\ N無回應</string>
+    <key>Uploading...</key><string>上傳...</string>
+    <key>Attendee</key><string>與會者</string>
+    <key>Save to Contacts</key><string>保存到聯繫人</string>
+    <key>New Contact</key><string>新建聯繫人</string>
+    <key>Load Attachments on Wi-Fi</key><string>上的WiFi加載附件</string>
+    <key>Mobile</key><string>手機</string>
+    <key>Business</key><string>工作</string>
+    <key>Business 2</key><string>工作2</string>
+    <key>Radio</key><string>電台</string>
+    <key>Car</key><string>車</string>
+    <key>Fax</key><string>傳真</string>
+    <key>Office</key><string>處</string>
+    <key>Contact exported successfully</key><string>聯繫成功出口</string>
+    <key>Contacts exported successfully</key><string>聯繫人導出成功</string>
+    <key>Set Specific Time Duration</key><string>設定具體的時間期限</string>
+    <key>Inside Organization</key><string>內部組織</string>
+    <key>Outside Organization</key><string>外部組織</string>
+    <key>Please enter your reply message.</key><string>，請輸入您的回复信息。</string>
+    <key>My Contacts Only</key><string>只有我的聯繫人</string>
+    <key>Send Automatic Replies</key><string>發送自動答复</string>
+    <key>Outside My Organization</key><string>超出了我的組織</string>
+    <key>Anyone Outside My Organization</key><string>任何超出了我的組織</string>
+    <key>Auto-Reply</key><string>自動回复</string>
+    <key>Type</key><string>型</string>
+    <key>Government</key><string>政府</string>
+    <key>Customer</key><string>客戶</string>
+    <key>Export Contacts</key><string>導出聯繫人</string>
+    <key>Contact export failed.</key><string>聯繫人導出失敗。</string>
+    <key>Auto refresh header for background fetch on</key><string>要關閉自動更新關閉，去到iOS
+Settings，然後選擇常規&gt;後台程序
+Refresh。\ñ
+SELECTED FOLDERS</string>
+    <key>Auto refresh header for background fetch on without line break</key><string>要關閉自動更新關閉，進入iOS的設置，選擇常規&gt;後台程序刷新。\ñ
+SELECTED FOLDERS</string>
+    <key>Auto refresh header for background fetch off</key><string>要開啟自動刷新的，去到iOS
+Settings，然後選擇常規&gt;後台程序
+Refresh。</string>
+    <key>Auto refresh header for background fetch off without line break</key><string>要開啟自動刷新，請轉到iOS的設置，選擇常規&gt;後台程序刷新。</string>
+    <key>Selected Folders</key><string>所選文件夾</string>
+    <key>Delete selected message?</key><string>刪除選定的信息？</string>
+    <key>Move Messages</key><string>移動信息</string>
+    <key>Move conversation</key><string>移動通話</string>
+    <key>Move conversations</key><string>移動對話</string>
+    <key>Mark as unread</key><string>標記為未讀</string>
+    <key>Meeting Password</key><string>會議密碼</string>
+    <key>Recurring Meeting</key><string>定期會議</string>
+    <key>Recurrence</key><string>復發</string>
+    <key>Account Settings</key><string>帳戶設置</string>
+    <key>Account</key><string>賬戶</string>
+    <key>Auto Refresh</key><string>自動刷新</string>
+    <key>Pull to refresh this folder.</key><string>拉來刷新該文件夾。</string>
+    <key>Checking for Contacts...</key><string>檢查聯繫人...</string>
+    <key>Cannot View Attachment</key><string>無法查看附件</string>
+    <key>Can't Open File Type \n Tap Share to open with another app.</key><string>無法打開的文件類型\ñ點擊分享與其他應用程序打開。</string>
+    <key>WorxMail cannot find an app to view this attachment. Please try a local app or add an app in Worx Home to view this attachment.</key><string>WorxMail無法找到一個應用程序來查看該附件。請嘗試本地應用程序或添加一個應用程序中Worx的主頁查看該附件。</string>
+    <key>To view this attachment, try a local app or add an app in Worx Home.</key><string>要查看這個附件，盡量在本地應用程序或Worx的主頁添加應用程序。</string>
+    <key>ShareFile</key><string>ShareFile</string>
+    <key>Cannot Join Meeting</key><string>無法加入會議</string>
+    <key>WorxMail cannot find an app to join this meeting. Please try adding the appropriate app in Worx Home.</key><string>WorxMail無法找到一個應用程序來參加本次會議。請嘗試添加在Worx的主頁的相應的應用程序。</string>
+    <key>Name isn't available</key><string>名不可用</string>
+    <key>IM Address</key><string>IM地址</string>
+    <key>http://www.citrix.com/about/legal/privacy/plain.html</key><string>HTTP：//www.citrix.com/about/legal/privacy/plain.html</string>
+    <key>Repeat end date can not be before event start date.</key><string>，重複結束日期必須在事件後開始日期</string>
+    <key>Select a message for this attachment</key><string>選擇該附件的郵件</string>
+    <key>Sorry, WorxMail Could Not Retrieve Your Meetings</key><string>對不起，WorxMail無法檢索您的會議</string>
+    <key>Sorry, WorxMail Could Not Create Your Meeting</key><string>對不起，WorxMail無法建立您的會議</string>
+    <key>Sorry, WorxMail Could Not Delete Your Meeting</key><string>對不起，WorxMail無法刪除您的會議</string>
+    <key>Sorry, WorxMail Could Not Edit Your Meeting</key><string>對不起，WorxMail可能不能編輯您的會議</string>
+    <key>Your Internet access is not currently available.</key><string>您的Internet訪問不可</string>
+    <key>Email 1</key><string>電子郵件1</string>
+    <key>Name 1</key><string>名1</string>
+    <key>Name 2</key><string>名2</string>
+    <key>Email 3</key><string>電子郵件3</string>
+    <key>Name 3</key><string>名3</string>
+    <key>Email 2</key><string>電子郵件2</string>
+    <key>Business Street</key><string>街道工作</string>
+    <key>Home Street</key><string>家街</string>
+    <key>Other Street</key><string>其他街</string>
+    <key>Delete Contact</key><string>刪除聯繫人</string>
+    <key>Delete Contacts</key><string>刪除聯繫人</string>
+    <key>Delete Message</key><string>刪除留言</string>
+    <key>Delete Messages</key><string>刪除留言</string>
+    <key>Delete Conversations</key><string>刪除對話</string>
+    <key>Delete Conversation</key><string>刪除通話</string>
+    <key>Account Not Created</key><string>客戶未創建</string>
+    <key>Your account cannot be created at this time. This version of your Mail Server is not supported.</key><string>您的帳戶不能在這個時候創建的。不支持此版本的郵件服務器。</string>
+    <key>Your account could not be created. Check your email address and try again.</key><string>您的帳戶無法創建。請檢查您的電子郵件地址，然後再試一次。</string>
+    <key>IM 1</key><string>IM1</string>
+    <key>IM 2</key><string>IM2</string>
+    <key>IM 3</key><string>IM3</string>
+    <key>From</key><string>從</string>
+    <key>Date</key><string>日期</string>
+    <key>To</key><string>到</string>
+    <key>Subject</key><string>主題</string>
+    <key>Cc</key><string>抄送</string>
+    <key>Please configure your email account before using WorxMail</key><string>請在使用前WorxMail配置您的電子郵件帳戶</string>
+    <key>Sorry, WorxMail Could Not Process Your Request</key><string>對不起，WorxMail無法處理您的請求</string>
+    <key>Download</key><string>下載</string>
+    <key>Waiting...</key><string>等待</string>
+    <key>Sorry, WorxMail Could Not Open the Event</key><string>對不起，WorxMail無法打開事件</string>
+    <key>WorxMail could not attach your image. Please try again in a few minutes.</key><string>WorxMail無法連接你的形象。請在幾分鐘後再試一次。</string>
+    <key>Send To All</key><string>發送給所有</string>
+    <key>Send To Changed</key><string>發送到變更</string>
+    <key>FaceTime</key><string>FaceTime公司</string>
+    <key>Blocked by Admin Policy: Attach File</key><string>阻止由Admin政策：附加文件</string>
+    <key>Your WorxMail contacts will be exported to your local contacts.</key><string>您WorxMail聯繫人將被導出到本地聯繫人。</string>
+    <key>Your WorxMail contacts will no longer be exported to your local contacts.</key><string>您WorxMail接觸將不再導出到本地聯繫人。</string>
+    <key>The attachment is not available to download.</key><string>的附件是不提供下載。</string>
+    <key>You do not have permission to download the attachment.</key><string>您無權下載附件。</string>
+    <key>Your company's policy doesn't allow attachments to be downloaded.</key><string>貴公司的政策不允許將附件下載。</string>
+    <key>A problem occurred with the download.</key><string>出現問題的下載。</string>
+    <key>Invalid Event Duration</key><string>無效的事件時間</string>
+    <key>The duration of the calendar event must be shorter than how frequently it occurs.</key><string>日曆事件的持續時間必須比頻率發生短。</string>
+    <key>Send message with no subject?</key><string>發送郵件沒有主題？</string>
+    <key>Custom</key><string>定制</string>
+    <key>Move to CC</key><string>移動到抄送</string>
+    <key>Information</key><string>信息</string>
+    <key>Delete Conference</key><string>刪除會議</string>
+    <key>Your Company Network Is Not Currently Available</key><string>公司網絡當前不可用</string>
+    <key>Actions</key><string>操作</string>
+    <key>When:</key><string>時：</string>
+    <key>Respond</key><string>做出響應</string>
+    <key>No Response</key><string>無回應</string>
+    <key>NO RESPONSE</key><string>NO RESPONSE</string>
+    <key>MORE RESULTS</key><string>的更多結果</string>
+    <key>%d of %d</key><string>%d的%d</string>
+    <key>Continue search on server</key><string>繼續搜索服務器</string>
+    <key>Folders</key><string>夾</string>
+    <key>Show Less</key><string>更少選項</string>
+    <key>Show More</key><string>更多選項</string>
+    <key>More</key><string>詳細信息</string>
+    <key>&amp; %i More</key><string>＆%i更多</string>
+    <key>No scheduled meetings</key><string>無預定會議</string>
+    <key>RECURRING MEETINGS</key><string>定期會議</string>
+    <key>SCHEDULED MEETINGS</key><string>預定的會議</string>
+    <key>MEETINGS</key><string>會議</string>
+    <key>All</key><string>所有</string>
+    <key>Sort Order</key><string>排序</string>
+    <key>Display Order</key><string>顯示順序</string>
+    <key>First, Last</key><string>一，最後</string>
+    <key>Last, First</key><string>姓，名</string>
+    <key>Phonetic First Name</key><string>語音名</string>
+    <key>Phonetic Last Name</key><string>拼音姓氏</string>
+    <key>Mailboxes</key><string>郵箱</string>
+    <key>%d Selected</key><string>%d選擇</string>
+    <key>99+</key><string>+99</string>
+    <key>Swipe Up</key><string>向上輕掃</string>
+    <key>Swipe Down</key><string>向下輕掃</string>
+    <key>Single Tap To Read</key><string>單點按閱讀</string>
+    <key>Double Tap To Flag</key><string>槍王為標誌</string>
+    <key>Mark as Read</key><string>標記為已讀</string>
+    <key>Move to</key><string>移到</string>
+    <key>Fast Sort</key><string>快速排序</string>
+    <key>Move to %@</key><string>移至%@</string>
+    <key>MAIL</key><string>郵件</string>
+    <key>CONTACTS</key><string>聯繫</string>
+    <key>CALENDAR</key><string>日曆</string>
+    <key>Conversation</key><string>會話</string>
+    <key>ITEMS</key><string>項</string>
+    <key>Loading meetings...</key><string>加載會議...</string>
+    <key>Create note</key><string>注創建</string>
+    <key>Checking for Events...</key><string>檢查活動...</string>
+    <key>Delete Photo</key><string>刪除照片</string>
+    <key>Display Name</key><string>顯示名稱</string>
+    <key>Phonetic FirstName</key><string>名字拼音</string>
+    <key>Business Fax</key><string>傳真工作</string>
+    <key>PHONE</key><string>PHONE</string>
+    <key>Week</key><string>週</string>
+    <key>Work Email</key><string>工作電子郵件</string>
+    <key>Home Email</key><string>首頁郵箱</string>
+    <key>INTERNET</key><string>INTERNET</string>
+    <key>BUSINESS</key><string>工作</string>
+    <key>HOME</key><string>HOME</string>
+    <key>ALIAS</key><string>ALIAS</string>
+    <key>PERSONAL</key><string>個人</string>
+    <key>NOTES</key><string>注</string>
+    <key>Middle Name</key><string>中間名</string>
+    <key>COMPANY INFO</key><string>公司信息</string>
+    <key>Add to Existing Contact</key><string>添加到現有聯繫人</string>
+    <key>ADDRESS</key><string>ADDRESS</string>
+    <key>Close</key><string>關閉</string>
+    <key>COMPANY DIRECTORY</key><string>公司目錄</string>
+    <key>Export</key><string>出口</string>
+    <key>General</key><string>總</string>
+    <key>Label</key><string>標籤</string>
+    <key>No Data passed</key><string>無數據傳送</string>
+    <key>OTHER</key><string>其他</string>
+    <key>Phonetic LastName</key><string>姓氏拼音</string>
+    <key>Please enter a reply message for Inside My Organization.</key><string>，請輸入回复消息的內幕我的組織。</string>
+    <key>Please enter your reply message for Outside My Organization.</key><string>，請輸入您的回复消息超出了我的組織。</string>
+    <key>Delete</key><string>刪除</string>
+    <key>Blocked by Admin Policy: Add Photo</key><string>阻止由Admin政策：上傳照片</string>
+    <key>Select a phone number</key><string>選擇一個電話號碼</string>
+    <key>New Meeting Invitation</key><string>新建會議邀請</string>
+    <key>Unlink</key><string>取消鏈接</string>
+    <key>Next event</key><string>下一個事件</string>
+    <key>Next event at</key><string>下一個事件的</string>
+    <key>Checking for Updates...</key><string>檢查更新...</string>
+    <key>Incorrect Password</key><string>密碼不正確</string>
+    <key>Enter password for</key><string>為輸入密碼</string>
+    <key>Decline</key><string>衰落</string>
+    <key>TentativelyAccept</key><string>也許</string>
+    <key>&amp; Comment</key><string>＆評論</string>
+    <key>Login</key><string>登錄</string>
+    <key>Please enter your password</key><string>，請輸入您的密碼</string>
+    <key>Checking Password...</key><string>檢查密碼...</string>
+    <key>Password validation failed.\nPlease try again later.</key><string>密碼驗證失敗。
+請稍後再試。</string>
+    <key>Retry</key><string>重試</string>
+    <key>Tomorrow</key><string>明天</string>
+    <key>Please resolve expired or locked passwords before continuing.</key><string>請解決過期或繼續之前鎖定密碼。</string>
+    <key>Please go to Settings &gt; Auto-Refresh and reduce the number of folders that you have selected.</key><string>，請進入設置&gt;自動刷新，降低您所選擇的文件夾的數量。</string>
+    <key>Please change your account password to continue using WorxMail.</key><string>請更改您的帳戶密碼，以繼續使用WorxMail。</string>
+    <key>Please change your account password for</key><string>請更改帳戶密碼</string>
+    <key>to continue using WorxMail.</key><string>繼續使用WorxMail。</string>
+    <key>Your Mailbox Is Full</key><string>您的郵箱已滿</string>
+    <key>Your message cannot be sent until you delete messages from your mailbox.\nWorxMail will send this message as soon as more space is available.</key><string>您的消息無法發送，直到你從你的郵箱中刪除郵件。
+WorxMail會盡快把這個消息更多的空間可用。</string>
+    <key>Your network is not available. Tap to retry.</key><string>您的網絡不可用。點擊重試。</string>
+    <key>GESTURE</key><string>GESTURE</string>
+    <key>Updating your mail. This may take a few minutes...</key><string>更新您的郵件。這可能需要幾分鐘的時間...</string>
+    <key>There was a problem.\nWait a few minutes and try again.</key><string>有一個問題。\ NWAIT幾分鐘，然後重試。</string>
+    <key>All day tomorrow</key><string>全部後天</string>
+    <key>Phew! No new mail</key><string>唷！沒有新郵件</string>
+    <key>Move to Bcc</key><string>移動到密件抄送</string>
+    <key>Move to Cc</key><string>移動到抄送</string>
+    <key>Move to To</key><string>移動到要</string>
+    <key>Create New Contact</key><string>新建聯繫人</string>
+    <key>Sign On</key><string>上登錄</string>
+    <key>Please verify your credentials and try again.</key><string>請確認您的憑據，然後再試一次。</string>
+    <key>Add</key><string>添加</string>
+    <key>Too Many Devices</key><string>設備過多</string>
+    <key>You have too many devices paired with Outlook.\nPlease remove unused devices and try again.</key><string>你必須配對使用Outlook太多設備。請刪除未使用的設備，然後再試一次。</string>
+    <key>Account Disabled</key><string>帳戶已禁用</string>
+    <key>Your account is disabled.</key><string>，您的帳戶已禁用。</string>
+    <key>Sync Not Permitted</key><string>同步不允許</string>
+    <key>Your account doesn't have permission to sync with Outlook.</key><string>您的帳戶沒有權限與Outlook同步。</string>
+    <key>Your device doesn't have permission to sync with Outlook.</key><string>您的設備不具有的權限與Outlook同步。</string>
+    <key>Account Not Created</key><string>客戶未創建</string>
+    <key>Your account cannot be created at this time.\nAccess to the Microsoft Exchange Server was denied.</key><string>您的帳戶不能在這個時候創建的。
+Access到Microsoft Exchange服務器被拒絕。</string>
+    <key>Choose a recipient</key><string>選擇收件人</string>
+    <key>Please Wait</key><string>請稍候</string>
+    <key>WorxMail is updating your contacts.</key><string>是WorxMail更新您的聯繫人。</string>
+    <key>Mail is already in %@</key><string>郵件已經在%@</string>
+    <key>Attachments Were Not Sent</key><string>附件未發送</string>
+    <key>Private</key><string>私人</string>
+    <key>Show picture</key><string>顯示圖片</string>
+    <key>Show pictures</key><string>顯示圖片</string>
+    <key>Always show pictures from this sender</key><string>始終顯示此發件人的圖片</string>
+    <key>1 New Meeting Invitation</key><string>1新的會議邀請</string>
+    <key>New Meeting Invitations</key><string>新建會議邀請</string>
+    <key>1 New Message</key><string>1條新信息</string>
+    <key>New Messages</key><string>新郵件</string>
+    <key>This mail is restricted.</key><string>此郵件的限制。</string>
+    <key>Restrictions</key><string>限制</string>
+    <key>Remove restrictions</key><string>刪除限制</string>
+    <key>CONTENT OWNER</key><string>CONTENT OWNER</string>
+    <key>CONTENT EXPIRATION</key><string>內容過期</string>
+    <key>RESTRICTIONS</key><string>限制</string>
+    <key>No expiration</key><string>期滿無</string>
+    <key>Edit the Content</key><string>編輯內容</string>
+    <key>Modify recipients</key><string>收件人修改</string>
+    <key>Copy content</key><string>複製內容</string>
+    <key>Print</key><string>打印</string>
+    <key>Send to other apps</key><string>發送到其他應用程序</string>
+    <key>Enable Your Camera</key><string>啟用您的相機</string>
+    <key>Camera Is Blocked</key><string>相機受阻</string>
+    <key>Your admin has disabled the camera.</key><string>您的管理員已禁用攝像頭。</string>
+    <key>Change your camera privacy settings in iOS Settings &gt; Privacy &gt; Camera.</key><string>更改相機的隱私設置中的iOS設置&gt;隱私&gt;相機。</string>
+    <key>Change your contact privacy settings in iOS Settings &gt; Privacy &gt; Contacts.</key><string>更改iOS的設置&gt;隱私&gt;通訊錄聯繫人的隱私設置。</string>
+    <key>Message not sent. Retry later</key><string>消息沒有發送。稍後重試</string>
+    <key>High</key><string>高</string>
+    <key>Normal</key><string>標準</string>
+    <key>Low</key><string>低</string>
+    <key>Outbox</key><string>發件箱</string>
+    <key>Show Pictures</key><string>顯示圖片</string>
+    <key>Ok</key><string>好吧</string>
+    <key>Starts Ends</key><string>兩端開始</string>
+    <key>Restriction Profiles</key><string>限制簡介</string>
+    <key>Info</key><string>信息</string>
+    <key>None Template Description</key><string>此消息是不受保護的。如果這是對受保護的消息的響應，該限制被去除。</string>
+    <key>IRM content expiry message</key><string>查看此消息的許可已過期。請重新獲取信息。</string>
+    <key>Due to admin policy on exporting contacts, only the name and phone number will be exported.</key><string>由於上導出聯繫人管理策略，只有姓名和電話號碼將被導出。</string>
+    <key>Due to admin policy on exporting contacts, only the name, phone number and email will be exported.</key><string>由於上導出聯繫人管理策略，只有姓名，電話號碼和電子郵件將被導出。</string>
+    <key>Due to admin policy on exporting contacts, only the custom contact fields will be exported.</key><string>由於上導出聯繫人管理策略，只自定義聯繫人字段將被導出。</string>
+    <key>Agenda</key><string>議程</string>
+    <key>Retry Send</key><string>發送重試</string>
+    <key>Cannot Download Attachment</key><string>無法下載附件</string>
+    <key>TODAY</key><string>今日</string>
+    <key>YESTERDAY</key><string>YESTERDAY</string>
+    <key>TOMORROW</key><string>TOMORROW</string>
+    <key>New</key><string>新</string>
+    <key>Add to existing</key><string>添加到現有的</string>
+    <key>Delete Event</key><string>刪除事件</string>
+    <key>Delete Series</key><string>系列中刪除</string>
+    <key>Send Update</key><string>發送更新</string>
+    <key>This folder is empty</key><string>這個文件夾為空</string>
+    <key>Open Link</key><string>打開鏈接</string>
+    <key>Call %@</key><string>呼叫%@</string>
+    <key>Open in Maps</key><string>在打開地圖</string>
+    <key>Check the server address and try again.</key><string>檢查服務器地址，然後再試一次。</string>
+    <key>Send Anyway</key><string>發送不管怎樣</string>
+    <key>You did not make changes to the event.</key><string>你沒有做更改的事件。</string>
+    <key>Invalid Address</key><string>地址無效</string>
+    <key>%@ doesn't seem to be an actual address. Do you still want to send it?</key><string>%@似乎不是一個實際的地址。你還想要發送的呢？</string>
+    <key>This Option is Not Available</key><string>此選項不可用</string>
+    <key>An error occurred emptying your Deleted Items.</key><string>出錯清空已刪除郵件。</string>
+    <key>Empty</key><string>空</string>
+    <key>Emptying Deleted Items folder</key><string>清空已刪除郵件文件夾中</string>
+    <key>Can't Empty Folder</key><string>無法清空文件夾</string>
+    <key>An error occurred while emptying your Deleted Items folder.\nPlease try again later.</key><string>排空時已刪除郵件文件夾時發生錯誤。
+請稍後再試。</string>
+    <key>FaceTime Audio</key><string>FaceTime的音頻</string>
+    <key>There was a problem sending this message. Try again later.</key><string>有一個問題，發送此消息。請稍後再試。</string>
+    <key>Can't Send Mail</key><string>無法發送郵件。</string>
+    <key>The server is not configured correctly.</key><string>服務器配置不正確。</string>
+    <key>A server error occurred. Please try again later.</key><string>時出現服務器錯誤。請稍後再試。</string>
+    <key>Your message is too large. Remove attachments or divide into smaller messages.</key><string>您的消息是太大。刪除附件或分割成更小的消息。</string>
+    <key>Sorry, something went wrong. Please try again. If the problem persists, contact IT.</key><string>對不起，出事了。請重試。如果問題仍然存在，請與IT。</string>
+    <key>A connection error occurred. Please try again later.</key><string>時出現連接錯誤。請稍後再試。</string>
+    <key>Leave in Outbox</key><string>在發件箱離開</string>
+    <key>Availability</key><string>可用性</string>
+    <key>You are available</key><string>您可</string>
+    <key>This event is adjacent to another event</key><string>這個事件是相鄰的另一個事件</string>
+    <key>This event conflicts with another event</key><string>這與其他事件的事件衝突</string>
+    <key>Can't Access WorxMail</key><string>無法訪問WorxMail</string>
+    <key>Failed to Fetch Client Certificate.</key><string>無法抓取客戶端證書。</string>
+    <key>This event has already been modified. Please close the current window and try again.</key><string>此事件已被修改。請關閉當前窗口，然後再試一次。</string>
+    <key>The attachment cannot be downloaded because it is empty.</key><string>附件不能下載，因為它是空的。</string>
+    <key>Open</key><string>開放</string>
+    <key>Copy</key><string>複製</string>
+    <key>Call</key><string>電話</string>
+    <key>Copy Link</key><string>複製鏈接</string>
+    <key>Send Message</key><string>發送消息</string>
+    <key>Done</key><string>完成</string>
+    <key>Downloadable Resources</key><string>下載資源</string>
+    <key>Language</key><string>語言</string>
+    <key>No Downloadable Resource</key><string>無資源下載</string>
+    <key>Package Resources</key><string>包資源</string>
+    <key>Select Language</key><string>選擇語言</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>收到SFAPIConnection認證挑戰。</string>
+    <key>SFAPIConnection_NilResponse</key><string>SFResponse對象為零。是這個請求支持？</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>未檢測到的網絡連接。</string>
+    <key>SFAPIRequest_MissingParams</key><string>無效SFAPIRequest。請需要申請PARAMS。</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest為零。</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>未知的響應格式。</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON解析錯誤。</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>失敗Reauth。 Reauth信息為零。</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>失敗Reauth。不支持SAML登錄類型。</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>失敗Reauth。 SSO信息為零。</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>失敗Reauth。錯誤不明。</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>意外驗證錯誤。</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>認證沒有被提供。</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>登錄嘗試沒有成功。</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>是驗證ID識別但陳舊。繼續之前，請重新進行身份驗證。</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>驗證ID未找到/有效。</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>子域是當前請求無效。</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>目前的工具/帳戶組合使用API拒絕。</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>意外操作錯誤。</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>請求的操作不符合任何支持的運算。</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>運這需要參數（們）沒有提供。</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>參數（S）提供的是無效的（如字符串，而不是整數，VAL超出範圍，等等）。</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>請求OP是不是與當前目標ID兼容。</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>不允許當前ShareFile賬戶作品（該功能禁用/無權限）。</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>不允許運算對當前ShareFile用戶（用戶不具有適當的用戶角色/權限以使用）。</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>不允許運算為目標（用戶可能在其他情況下，適當的角色/許可，但不為這個特定的ID）。</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>意外的目標錯誤。</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>請求的目標存在正確類型的，但不（例如試圖在一個文件進行文件夾的運算）。</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>目標沒有找到。</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>意外創建錯誤。</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>提供父是無效的創建要求的項目（例如，試圖在一個帳戶的根目錄創建一個文件夾）。</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>意外的編輯錯誤。</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>你想創建的已經存在的項目。</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>你想編輯已經該項目存在。</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>意外錯誤。</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>服務器正在進行維護。</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>率上限達到。</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>Server是產能過剩。</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>意外錯誤（SC）。</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>服務器是在容量（SC）。</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>上傳準備失敗（SC）。</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>下載準備失敗（SC）。</string>
+</dict></plist>

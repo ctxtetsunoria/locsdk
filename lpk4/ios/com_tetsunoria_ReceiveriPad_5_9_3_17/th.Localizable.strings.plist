@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CTXDAY</key><string>วัน</string>
+    <key>CTXDAYS</key><string>วัน</string>
+    <key>CTXHOUR</key><string>ชั่วโมง</string>
+    <key>CTXHOURS</key><string>ชั่วโมง</string>
+    <key>CTXMINUTE</key><string>นาที</string>
+    <key>CTXMINUTES</key><string>นาที</string>
+    <key>CTXSECOND</key><string>วินาที</string>
+    <key>CTXSECONDS</key><string>วินาที</string>
+    <key>AlertButtonDISMISS</key><string>บอกเลิก</string>
+    <key>AlertButtonLATER</key><string>ในภายหลัง</string>
+    <key>AlertButtonLOGON</key><string>เข้าสู่ระบบ</string>
+    <key>AlertButtonEXIT</key><string>จบการทำงาน</string>
+    <key>AlertButtonQUIT</key><string>ออกจาก</string>
+    <key>AlertButtonOK</key><string>ตกลง, ได้</string>
+    <key>AlertButtonUPDATENOW</key><string>อัพเดตเดี๋ยวนี้</string>
+    <key>AlertButtonSETTINGS</key><string>การตั้งค่า</string>
+    <key>AlertButtonINSTALL</key><string>การติดตั้ง</string>
+    <key>AlertButtonOPENRECEIVER</key><string>อนุมัติ</string>
+    <key>AlertButtonSTARTRECEIVER</key><string>เริ่มต้นรับ</string>
+    <key>AlertButtonCONTINUE</key><string>ดำเนินการต่อไป</string>
+    <key>ReceiverNotInstalledAlertTitle</key><string>ไม่พบผู้รับ</string>
+    <key>ReceiverNotInstalledAlertMsg</key><string>โปรดติดตั้งรับ Citrix บนของ%@ใช้ app นี้</string>
+    <key>LogonRequiredAlertTitle</key><string>เข้าสู่ระบบที่จำเป็น</string>
+    <key>LogonRequiredAlertMsg</key><string>เข้าสู่ระบบรับ Citrix ใช้ app นี้อย่างปลอดภัย</string>
+    <key>LogonMaybeRequiredAlertTitle</key><string></string>
+    <key>LogonMaybeRequiredAlertMsg</key><string>รับ Citrix ต้องอนุมัติ app นี้</string>
+    <key>LogonFailedAlertTitle</key><string>ไม่สามารถเข้าสู่ระบบ</string>
+    <key>LogonFailedAlertMsg</key><string>ตรวจสอบข้อมูลประจำตัวของคุณ แล้วลองอีกครั้ง</string>
+    <key>AppRemovedAlertTitle</key><string>ไม่มี app</string>
+    <key>AppRemovedAlertMsg</key><string>App นี้ได้ถูกเอาออกจากตัวรับสัญญาณของ Citrix คุณสามารถลบออกจาก%@ของ หรือติดตั้งในตัวรับสัญญาณ</string>
+    <key>JailBrokenAlertTitle</key><string></string>
+    <key>JailBrokenAlertMsg</key><string>องค์กรของคุณอนุญาตให้ app นี้เพื่อเรียกใช้ jailbroken %@</string>
+    <key>PasscodeRequiredAlertTitle</key><string>รหัสผ่านที่จำเป็น</string>
+    <key>PasscodeRequiredAlertMsg</key><string>ตั้งรหัสผ่านกับอุปกรณ์ของคุณใช้โปรแกรมประยุกต์นี้</string>
+    <key>RequireInternalNetworkAlertTitle</key><string>เครือข่ายภายในที่จำเป็น</string>
+    <key>RequireInternalNetworkAlertMsg</key><string>เชื่อมต่อกับเครือข่ายภายในใช้ app นี้</string>
+    <key>WifiRequiredAlertTitle</key><string>WiFi ที่ต้องการ</string>
+    <key>WifiRequiredAlertMsg</key><string>เชื่อมต่อกับเครือข่ายไร้สายจะใช้ app นี้</string>
+    <key>InternalWifiRequiredAlertTitle</key><string>WiFi ที่ต้องได้รับอนุญาต</string>
+    <key>InternalWifiRequiredAlertMsg</key><string>เชื่อมต่อกับเครือข่ายไร้สายได้รับอนุญาตการใช้นี้ app:%@</string>
+    <key>OfflineLeaseWarningAlertTitle</key><string>เข้าสู่ระบบที่จำเป็น</string>
+    <key>OfflineLeaseWarningAlertMsg</key><string>เข้าสู่ระบบรับ Citrix ภายใน%@%@ใช้ app นี้ เวลา app ถูกล็อกไว้</string>
+    <key>AppUpdateDeferAlertTitle</key><string>มีการปรับปรุง</string>
+    <key>AppUpdateDeferAlertMsg</key><string>คุณต้องปรับปรุง app นี้ภายใน%@%@</string>
+    <key>AppUpdateGracePeriodExpiredAlertTitle</key><string>ปรับปรุงที่จำเป็น</string>
+    <key>AppUpdateGracePeriodExpiredAlertMsg</key><string>คุณไม่สามารถใช้ app นี้จนกว่าคุณใช้การปรับปรุง</string>
+    <key>AppUpdateGracePeriodWarningAlertTitle</key><string>ปรับปรุงที่จำเป็น</string>
+    <key>AppUpdateGracePeriodWarningAlertMsg</key><string>คุณมี%@%@เพิ่มเติม@ใช้ app นี้ กรุณาบันทึกงานของคุณ และใช้การปรับปรุง</string>
+    <key>DontShowThisMsgAgainOption</key><string>ไม่ต้องแสดงข้อความนี้อีก</string>
+    <key>AGSessionExpiredAlertTitle</key><string>เชื่อมต่ออายุ</string>
+    <key>AGSessionExpiredAlertMsg</key><string>เข้าสู่ระบบรับ Citrix ใช้ app นี้</string>
+    <key>LogonRequiredForSTATicketExpiredAlertTitle</key><string>เข้าสู่ระบบที่จำเป็น</string>
+    <key>LogonRequiredForSTATicketExpiredAlertMsg</key><string>เข้าสู่ระบบรับสัญญาณ Citrix เพื่อเปิดใช้งานการเข้าถึงเครือข่าย กดยังใช้ app โดยไม่มีการเข้าถึงเครือข่าย</string>
+    <key>LogonRequiredForNetworkAccessAlertTitle</key><string>เข้าสู่ระบบที่จำเป็น</string>
+    <key>LogonRequiredForNetworkAccessAlertMsg</key><string>เข้าสู่ระบบรับสัญญาณ Citrix เพื่อเปิดใช้งานการเข้าถึงเครือข่าย กดยังใช้ app โดยไม่มีการเข้าถึงเครือข่าย</string>
+    <key>IPC_InvalidAppAlertTitle</key><string></string>
+    <key>IPC_InvalidAppAlertMsg</key><string>App นี้ไม่เข้ากันกับตัวรับสัญญาณของ Citrix ลองลบ และติดตั้งใหม่ก็</string>
+    <key>IPC_NoStoreFoundAlertTitle</key><string>ไม่พบโปรแกรมประยุกต์</string>
+    <key>IPC_NoStoreFoundAlertMsg</key><string>กรุณาเพิ่มบัญชีของคุณใน Citrix รับก่อนที่จะเริ่มโปรแกรมประยุกต์นี้</string>
+    <key>IPC_QuitRequestAlertTitle</key><string></string>
+    <key>IPC_QuitRequestAlertMsg</key><string>รับ Citrix ไม่สามารถสื่อสารกับ app นี้</string>
+    <key>IPC_WakeReceiverAlertTitle</key><string></string>
+    <key>IPC_WakeReceiverAlertMsg</key><string>โปรแกรมประยุกต์ของคุณจะเปิดใช้งานอีกครั้งเมื่อเริ่มรับ Citrix</string>
+    <key>AppContainmentAlertTitle</key><string>จำกัด โดย admin นโยบาย</string>
+    <key>AppContainment_DISABLECOPYAlertMsg</key><string>\"Cut และ copy\ " ถูกบล็อคสำหรับ app นี้</string>
+    <key>AppContainment_DISABLEPASTEAlertMsg</key><string>\"Paste\ " ถูกบล็อคสำหรับ app นี้</string>
+    <key>AppContainment_DISABLECAMERAAlertMsg</key><string>\"Camera\ " ถูกบล็อคสำหรับ app นี้</string>
+    <key>AppContainment_DISABLEMICAlertMsg</key><string>\"Mic record\ " ถูกบล็อคสำหรับ app นี้</string>
+    <key>AppContainment_DISABLELOCATIONAlertMsg</key><string>\"Location\ " บริการบล็อกสำหรับ app นี้</string>
+    <key>AppContainment_DISABLESMSAlertMsg</key><string>\"SMS\ " เขียนบล็อกสำหรับ app นี้</string>
+    <key>AppContainment_DISABLEEMAILAlertMsg</key><string>\"Email\ " เขียนบล็อกสำหรับ app นี้</string>
+    <key>AppContainment_DISABLEICLOUDAlertMsg</key><string>\"iCloud\ " ถูกบล็อคสำหรับ app นี้</string>
+    <key>AppContainment_DISABLEPRINTINGAlertMsg</key><string>\"AirPrint\ " ถูกบล็อคสำหรับ app นี้</string>
+    <key>AppContainment_DISABLEOPENINAlertMsg</key><string>\"Opening files\ " ถูกบล็อคสำหรับ app นี้</string>
+    <key>AppContainment_AlertMsg</key><string>%@ถูกจำกัด โดยนโยบายของผู้ดูแลระบบ</string>
+    <key>AppContainment_CommonAlertMsg</key><string>%@ของผู้ดูแลระบบบล็อก</string>
+    <key>CTXCamera</key><string>กล้องถ่ายรูป</string>
+    <key>CTXCutCopy</key><string>คัดลอกตัด &amp;</string>
+    <key>CTXPaste</key><string>วาง</string>
+    <key>CTXDocumentExchange</key><string>แลกเปลี่ยนเอกสาร (เปิดใน)</string>
+    <key>CTXMicrophoneRecording</key><string>บันทึกเสียงด้วยไมโครโฟน</string>
+    <key>CTXLocationServicesGPS</key><string>บริการสถานที่ตั้ง (GPS)</string>
+    <key>CTXSMS</key><string>SMS</string>
+    <key>CTXEmail</key><string>อีเมล</string>
+    <key>CTXPrinting</key><string>พิมพ์</string>
+    <key>CTXNetworkAccess</key><string>เข้าถึงเครือข่าย</string>
+    <key>CTXICloud</key><string>iCloud</string>
+    <key>CTXand</key><string>และ</string>
+    <key>DataProtection_KeyFailureAlertTitle</key><string>ไม่สามารถเข้าถึงข้อมูล App</string>
+    <key>DataProtection_KeyFailureAlertMsg</key><string>กรุณาตรวจสอบให้แน่ใจว่า คุณสามารถเข้าถึงเครือข่าย และพยายามเข้าสู่ระบบ Citrix รับอีก</string>
+    <key>DataProtection_PolicyChangeAlertTitle</key><string></string>
+    <key>DataProtection_PolicyChangeAlertMsg</key><string>มีการเปลี่ยนแปลงนโยบายการเข้าถึงข้อมูลของโปรแกรมประยุกต์ ลบ และติดตั้ง app นี้ใหม่เพื่อใช้ต่อไป</string>
+    <key>AppDisabledTitle</key><string>ไม่มี app</string>
+    <key>AppDisabledMsg</key><string>App นี้ได้ถูกปิดใช้งานชั่วคราว</string>
+    <key>Done</key><string>เสร็จแล้ว</string>
+    <key>Downloadable Resources</key><string>ทรัพยากรที่สามารถดาวน์โหลดได้</string>
+    <key>Language</key><string>ภาษา</string>
+    <key>No Downloadable Resource</key><string>ทรัพยากรไม่สามารถดาวน์โหลดได้</string>
+    <key>Package Resources</key><string>ทรัพยากรแพคเกจ</string>
+    <key>Select Language</key><string>เลือกภาษา</string>
+    <key>SettingsAutoSendCrash</key><string>รายงานอัตโนมัติ</string>
+    <key>SettingsAutoSendCrashDescription</key><string>ถ้าล้ม ข้อมูลจะถูกส่งไปนักพัฒนาโดยอัตโนมัติโดยไม่ต้องถามผู้ใช้</string>
+    <key>SettingsAllowContact</key><string>ให้ติดต่อ</string>
+    <key>SettingsContactEmail</key><string>ที่อยู่อีเมล์</string>
+    <key>SettingsContactDescription</key><string>เท่านั้นจะใช้อยู่อีเมล์เพื่อติดต่อผู้ใช้อาจมีการชี้แจงเพิ่มเติมจำเป็นเกี่ยวกับปัญหา</string>
+    <key>SettingsCrashTitle</key><string>รายงานข้อผิดพลาด</string>
+    <key>Return</key><string>เที่ยวกลับ</string>
+    <key>Enter</key><string>ป้อน</string>
+    <key>Tab</key><string>แท็บ</string>
+    <key>Space</key><string>พื้นที่</string>
+    <key>Delete</key><string>ลบ</string>
+    <key>Clear</key><string>ชัดเจน</string>
+    <key>Esc</key><string>Esc</string>
+    <key>Home</key><string>บ้าน</string>
+    <key>Page Up</key><string>ขึ้นหน้า</string>
+    <key>End</key><string>สิ้นสุด</string>
+    <key>Page Down</key><string>ลงหน้า</string>
+    <key>Help</key><string>วิธีใช้</string>
+    <key>Keypad .</key><string>แป้นพิมพ์</string>
+    <key>Keypad *</key><string>ซิลิโคน *</string>
+    <key>Keypad +</key><string>แป้นพิมพ์ +</string>
+    <key>Keypad /</key><string>แป้นพิมพ์ /</string>
+    <key>Keypad -</key><string>ซิลิโคน-</string>
+    <key>Keypad =</key><string>ซิลิโคน =</string>
+    <key>Keypad 0</key><string>แป้นพิมพ์ 0</string>
+    <key>Keypad 1</key><string>แป้นพิมพ์ 1</string>
+    <key>Keypad 2</key><string>แป้นพิมพ์ 2</string>
+    <key>Keypad 3</key><string>ซิลิโคน 3</string>
+    <key>Keypad 4</key><string>ซิลิโคน 4</string>
+    <key>Keypad 5</key><string>แป้นพิมพ์ 5</string>
+    <key>Keypad 6</key><string>แป้น 6</string>
+    <key>Keypad 7</key><string>แป้นพิมพ์ 7</string>
+    <key>Keypad 8</key><string>ซิลิโคน 8</string>
+    <key>Keypad 9</key><string>แป้นพิมพ์ 9</string>
+    <key>F1</key><string>F1</string>
+    <key>F2</key><string>F2</string>
+    <key>F3</key><string>F3</string>
+    <key>F4</key><string>F4</string>
+    <key>F5</key><string>F5</string>
+    <key>F6</key><string>F6</string>
+    <key>F7</key><string>F7</string>
+    <key>F8</key><string>F8</string>
+    <key>F9</key><string>F9</string>
+    <key>F10</key><string>F10</string>
+    <key>F11</key><string>F11</string>
+    <key>F12</key><string>F12</string>
+    <key>F13</key><string>F13</string>
+    <key>F14</key><string>F14</string>
+    <key>F15</key><string>F15</string>
+    <key>F16</key><string>F16</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>ข้อผิดพลาดการรับรองความถูกต้องที่ไม่คาดคิด</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>รับรองความถูกต้องไม่ถูกกำหนด</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>พยายามเข้าสู่ระบบไม่สำเร็จ</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID จะรู้จัก แต่เก่า กรุณา reauthenticate ก่อน</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID ไม่พบ/ถูกต้อง</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>AuthID ปัจจุบันไม่ถูกต้องสำหรับโดเมนย่อยของการร้องขอ</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>ชุดเครื่องมือบัญชีปัจจุบันถูกปฏิเสธจากการใช้ API</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>ข้อผิดพลาดที่ไม่คาดคิดการดำเนินงาน</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>การดำเนินการที่ร้องขอตรงกับ op ใด ๆ สนับสนุน</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Op นี้จำเป็นต้องมีพารามิเตอร์ที่ไม่ได้จัดเตรียม</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>พารามิเตอร์ที่ระบุไม่ถูกต้อง (เช่นสายอักขระแทน int วาลจากช่วง ฯลฯ)</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>OP ที่ร้องขอไม่เข้ากันกับรหัสเป้าหมายปัจจุบัน</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>Op ไม่ได้รับการอนุญาตสำหรับบัญชี ShareFile ปัจจุบัน (ลักษณะพิการ/ไม่มีสิทธิ์)</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>Op ไม่อนุญาตสำหรับผู้ใช้ ShareFile ปัจจุบัน (ผู้ใช้ที่มีบทบาทผู้ใช้ที่เหมาะสม/สิทธิการใช้)</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>Op ไม่อนุญาตสำหรับเป้าหมาย (ผู้ใช้อาจมีสิทธิ์ที่เหมาะสมบทบาท ในกรณีอื่น ๆ แต่ไม่ สำหรับรหัสนี้เฉพาะ)</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>ข้อผิดพลาดที่ไม่คาดคิดเป้าหมาย</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>เป้าหมายแต่ไม่มีการร้องขอชนิดถูกต้อง (เช่นพยายามทำ op โฟลเดอร์แฟ้ม)</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>เป้าหมายไม่พบ</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>คาดสร้างข้อผิดพลาด</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>แม่ให้มาไม่ถูกต้องสำหรับการสร้างรายการที่ร้องขอ (เช่นพยายามที่จะสร้างโฟลเดอร์ที่รากขององค์กร)</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>ข้อผิดพลาดที่ไม่คาดคิดแก้ไข</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>สินค้าที่คุณกำลังพยายามสร้างเรียบร้อยแล้ว</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>สินค้าที่คุณกำลังพยายามแก้ไขเรียบร้อยแล้ว</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>ข้อผิดพลาดที่ไม่คาดคิด</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>เซิร์ฟเวอร์ระหว่างการบำรุงรักษา</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>ถึงขีดจำกัดของอัตรา</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>เซิร์ฟเวอร์ที่มีมากกว่ากำลังการผลิต</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>ไม่คาดคิดผิดพลาด (SC)</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>เซิร์ฟเวอร์ที่มีมากกว่ากำลังการผลิต (SC)</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>อัปโหลดเตรียมล้มเหลว (SC)</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>ดาวน์โหลดเตรียมล้มเหลว (SC)</string>
+    <key>SFAPIConnection_JSONParseError</key><string>ข้อผิดพลาดแยกวิเคราะห์เจซัน</string>
+    <key>SFAPIConnection_NilResponse</key><string>วัตถุ SFResponse nil สนับสนุนคำขอนี้หรือไม่</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>ไม่พบการเชื่อมต่อเครือข่าย</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth ล้มเหลว ข้อมูล Reauth เป็น nil</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth ล้มเหลว ข้อมูล SSO เป็น nil</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth ล้มเหลว ข้อผิดพลาดที่ไม่รู้จัก</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth ล้มเหลว สนับสนุน SAML ล็อกชนิด</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection รับความท้าทายในการรับรองความถูกต้อง</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>รูปแบบการตอบสนองที่ไม่รู้จัก</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest เป็น nil</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest ไม่ถูกต้อง กรุณาตรวจสอบ params ต้องร้องขอ</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>ข้อผิดพลาดการรับรองความถูกต้องที่ไม่คาดคิด</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>รับรองความถูกต้องไม่ถูกกำหนด</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>พยายามเข้าสู่ระบบไม่สำเร็จ</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID จะรู้จัก แต่เก่า กรุณา reauthenticate ก่อน</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID ไม่พบ/ถูกต้อง</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>AuthID ปัจจุบันไม่ถูกต้องสำหรับโดเมนย่อยของการร้องขอ</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>ชุดเครื่องมือบัญชีปัจจุบันถูกปฏิเสธจากการใช้ API</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>ข้อผิดพลาดที่ไม่คาดคิดการดำเนินงาน</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>การดำเนินการที่ร้องขอตรงกับ op ใด ๆ สนับสนุน</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Op นี้จำเป็นต้องมีพารามิเตอร์ที่ไม่ได้จัดเตรียม</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>พารามิเตอร์ที่ระบุไม่ถูกต้อง (เช่นสายอักขระแทน int วาลจากช่วง ฯลฯ)</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>OP ที่ร้องขอไม่เข้ากันกับรหัสเป้าหมายปัจจุบัน</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>Op ไม่ได้รับการอนุญาตสำหรับบัญชี ShareFile ปัจจุบัน (ลักษณะพิการ/ไม่มีสิทธิ์)</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>Op ไม่อนุญาตสำหรับผู้ใช้ ShareFile ปัจจุบัน (ผู้ใช้ที่มีบทบาทผู้ใช้ที่เหมาะสม/สิทธิการใช้)</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>Op ไม่อนุญาตสำหรับเป้าหมาย (ผู้ใช้อาจมีสิทธิ์ที่เหมาะสมบทบาท ในกรณีอื่น ๆ แต่ไม่ สำหรับรหัสนี้เฉพาะ)</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>ข้อผิดพลาดที่ไม่คาดคิดเป้าหมาย</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>เป้าหมายแต่ไม่มีการร้องขอชนิดถูกต้อง (เช่นพยายามทำ op โฟลเดอร์แฟ้ม)</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>เป้าหมายไม่พบ</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>คาดสร้างข้อผิดพลาด</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>แม่ให้มาไม่ถูกต้องสำหรับการสร้างรายการที่ร้องขอ (เช่นพยายามที่จะสร้างโฟลเดอร์ที่รากขององค์กร)</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>ข้อผิดพลาดที่ไม่คาดคิดแก้ไข</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>สินค้าที่คุณกำลังพยายามสร้างเรียบร้อยแล้ว</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>สินค้าที่คุณกำลังพยายามแก้ไขเรียบร้อยแล้ว</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>ข้อผิดพลาดที่ไม่คาดคิด</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>เซิร์ฟเวอร์ระหว่างการบำรุงรักษา</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>ถึงขีดจำกัดของอัตรา</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>เซิร์ฟเวอร์ที่มีมากกว่ากำลังการผลิต</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>ไม่คาดคิดผิดพลาด (SC)</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>เซิร์ฟเวอร์ที่มีมากกว่ากำลังการผลิต (SC)</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>อัปโหลดเตรียมล้มเหลว (SC)</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>ดาวน์โหลดเตรียมล้มเหลว (SC)</string>
+    <key>SFAPIConnection_JSONParseError</key><string>ข้อผิดพลาดแยกวิเคราะห์เจซัน</string>
+    <key>SFAPIConnection_NilResponse</key><string>วัตถุ SFResponse nil สนับสนุนคำขอนี้หรือไม่</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>ไม่พบการเชื่อมต่อเครือข่าย</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth ล้มเหลว ข้อมูล Reauth เป็น nil</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth ล้มเหลว ข้อมูล SSO เป็น nil</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth ล้มเหลว ข้อผิดพลาดที่ไม่รู้จัก</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth ล้มเหลว สนับสนุน SAML ล็อกชนิด</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection รับความท้าทายในการรับรองความถูกต้อง</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>รูปแบบการตอบสนองที่ไม่รู้จัก</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest เป็น nil</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest ไม่ถูกต้อง กรุณาตรวจสอบ params ต้องร้องขอ</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>ข้อผิดพลาดการรับรองความถูกต้องที่ไม่คาดคิด</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>รับรองความถูกต้องไม่ถูกกำหนด</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>พยายามเข้าสู่ระบบไม่สำเร็จ</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID จะรู้จัก แต่เก่า กรุณา reauthenticate ก่อน</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID ไม่พบ/ถูกต้อง</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>AuthID ปัจจุบันไม่ถูกต้องสำหรับโดเมนย่อยของการร้องขอ</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>ชุดเครื่องมือบัญชีปัจจุบันถูกปฏิเสธจากการใช้ API</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>ข้อผิดพลาดที่ไม่คาดคิดการดำเนินงาน</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>การดำเนินการที่ร้องขอตรงกับ op ใด ๆ สนับสนุน</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Op นี้จำเป็นต้องมีพารามิเตอร์ที่ไม่ได้จัดเตรียม</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>พารามิเตอร์ที่ระบุไม่ถูกต้อง (เช่นสายอักขระแทน int วาลจากช่วง ฯลฯ)</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>OP ที่ร้องขอไม่เข้ากันกับรหัสเป้าหมายปัจจุบัน</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>Op ไม่ได้รับการอนุญาตสำหรับบัญชี ShareFile ปัจจุบัน (ลักษณะพิการ/ไม่มีสิทธิ์)</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>Op ไม่อนุญาตสำหรับผู้ใช้ ShareFile ปัจจุบัน (ผู้ใช้ที่มีบทบาทผู้ใช้ที่เหมาะสม/สิทธิการใช้)</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>Op ไม่อนุญาตสำหรับเป้าหมาย (ผู้ใช้อาจมีสิทธิ์ที่เหมาะสมบทบาท ในกรณีอื่น ๆ แต่ไม่ สำหรับรหัสนี้เฉพาะ)</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>ข้อผิดพลาดที่ไม่คาดคิดเป้าหมาย</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>เป้าหมายแต่ไม่มีการร้องขอชนิดถูกต้อง (เช่นพยายามทำ op โฟลเดอร์แฟ้ม)</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>เป้าหมายไม่พบ</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>คาดสร้างข้อผิดพลาด</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>แม่ให้มาไม่ถูกต้องสำหรับการสร้างรายการที่ร้องขอ (เช่นพยายามที่จะสร้างโฟลเดอร์ที่รากขององค์กร)</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>ข้อผิดพลาดที่ไม่คาดคิดแก้ไข</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>สินค้าที่คุณกำลังพยายามสร้างเรียบร้อยแล้ว</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>สินค้าที่คุณกำลังพยายามแก้ไขเรียบร้อยแล้ว</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>ข้อผิดพลาดที่ไม่คาดคิด</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>เซิร์ฟเวอร์ระหว่างการบำรุงรักษา</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>ถึงขีดจำกัดของอัตรา</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>เซิร์ฟเวอร์ที่มีมากกว่ากำลังการผลิต</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>ไม่คาดคิดผิดพลาด (SC)</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>เซิร์ฟเวอร์ที่มีมากกว่ากำลังการผลิต (SC)</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>อัปโหลดเตรียมล้มเหลว (SC)</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>ดาวน์โหลดเตรียมล้มเหลว (SC)</string>
+    <key>SFAPIConnection_JSONParseError</key><string>ข้อผิดพลาดแยกวิเคราะห์เจซัน</string>
+    <key>SFAPIConnection_NilResponse</key><string>วัตถุ SFResponse nil สนับสนุนคำขอนี้หรือไม่</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>ไม่พบการเชื่อมต่อเครือข่าย</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth ล้มเหลว ข้อมูล Reauth เป็น nil</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth ล้มเหลว ข้อมูล SSO เป็น nil</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth ล้มเหลว ข้อผิดพลาดที่ไม่รู้จัก</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth ล้มเหลว สนับสนุน SAML ล็อกชนิด</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection รับความท้าทายในการรับรองความถูกต้อง</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>รูปแบบการตอบสนองที่ไม่รู้จัก</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest เป็น nil</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest ไม่ถูกต้อง กรุณาตรวจสอบ params ต้องร้องขอ</string>
+    <key>14.normalTitle</key><string>เสร็จแล้ว</string>
+    <key>139.normalTitle</key><string>◀</string>
+    <key>140.normalTitle</key><string>▲</string>
+    <key>141.normalTitle</key><string>▶</string>
+    <key>143.normalTitle</key><string>▼</string>
+    <key>177.text</key><string>คู่</string>
+    <key>178.text</key><string>บ้าน</string>
+    <key>179.text</key><string>ปุ่มลูกศร</string>
+    <key>180.text</key><string>แป้นพิมพ์</string>
+    <key>181.text</key><string>ชี้</string>
+    <key>182.text</key><string>สวิตช์</string>
+    <key>299.text</key><string>'แว่นขยาย'</string>
+    <key>301.text</key><string>เมาส์</string>
+    <key>316.text</key><string>แนะนำรูปแบบลายเส้น</string>
+    <key>329.text</key><string>เคาะหนึ่งนิ้ว:</string>
+    <key>330.text</key><string>คลิกเดียว</string>
+    <key>331.text</key><string>สัมผัสค้างรุ่น:</string>
+    <key>332.text</key><string>คลิกขวา</string>
+    <key>333.text</key><string>สามนิ้วแตะ:</string>
+    <key>334.text</key><string>แป้นพิมพ์</string>
+    <key>335.text</key><string>หยิกออก:</string>
+    <key>336.text</key><string>ย่อ/ขยาย</string>
+    <key>337.text</key><string>สัมผัสค้างภาพนิ่ง:</string>
+    <key>338.text</key><string>ลาก</string>
+    <key>339.text</key><string>สองนิ้วแตะ:</string>
+    <key>340.text</key><string>Alt + Tab</string>
+    <key>40.text</key><string>© 2014 Citrix ระบบ inc สงวนลิขสิทธิ์ทั้งหมด</string>
+    <key>58.text</key><string>ข้อมูลลิขสิทธิ์เพิ่มเติม</string>
+    <key>8.normalTitle</key><string>เพิ่มรายการโปรด</string>
+    <key>4.placeholder</key><string>http://citrix.mycompany.com</string>
+    <key>5.text</key><string>กรุณาระบุอยู่ของเว็บไซต์ของบริษัท Citrix</string>
+    <key>26.title</key><string>โหลด</string>
+    <key>97.title</key><string>ร้านค้า</string>
+    <key>4.text</key><string>FolderName</string>
+    <key>5.text</key><string>ล่าสุดกุมภาพันธ์ 29,2012 2:21 PM</string>
+    <key>6.text</key><string>(อ่าน &amp; เขียน)</string>
+    <key>8.text</key><string>ขนาด 134.2 MB</string>
+    <key>10.normalTitle</key><string>โฟลเดอร์ที่ใช้ร่วมกัน</string>
+    <key>26.normalTitle</key><string>ส่งโฟลเดอร์</string>
+    <key>39.text</key><string>เจ้าของ</string>
+    <key>5.segmentTitles[0]</key><string>เชิญ</string>
+    <key>5.segmentTitles[1]</key><string>สิทธิ์</string>
+    <key>14.segmentTitles[0]</key><string>อ่าน</string>
+    <key>14.segmentTitles[1]</key><string>อ่าน/เขียน</string>
+    <key>15.text</key><string>การเข้าถึง</string>
+    <key>24.text</key><string>ถึง:</string>
+    <key>38.segmentTitles[0]</key><string>อ่าน</string>
+    <key>38.segmentTitles[1]</key><string>เขียน</string>
+    <key>38.segmentTitles[2]</key><string>อ่าน &amp; เขียน</string>
+    <key>39.normalTitle</key><string>X</string>
+    <key>52.title</key><string>ปิด</string>
+    <key>58.text</key><string>โฟลเดอร์ที่ใช้ร่วมกัน</string>
+    <key>69.text</key><string>ป้ายชื่อ</string>
+    <key>9.text</key><string>แจ็คแบล็ค</string>
+    <key>10.text</key><string>ขนาด 12.4 MB</string>
+    <key>19.text</key><string>ขนาด:</string>
+    <key>20.text</key><string>29.2012 กุมภาพันธ์</string>
+    <key>7.title</key><string>ปิด</string>
+    <key>16.text</key><string>ป้ายชื่อ</string>
+    <key>22.text</key><string>ถึง</string>
+    <key>28.text</key><string>ดาวน์โหลด</string>
+    <key>31.text</key><string>เพลงที่ดาวน์โหลด</string>
+    <key>33.text</key><string>คัดลอกฉัน</string>
+    <key>35.text</key><string>ฉันทดาวน์โหลด</string>
+    <key>40.segmentTitles[0]</key><string>ไม่จำกัด</string>
+    <key>40.segmentTitles[1]</key><string>วัน</string>
+    <key>40.segmentTitles[2]</key><string>สัปดาห์</string>
+    <key>40.segmentTitles[3]</key><string>เดือน</string>
+    <key>48.segmentTitles[0]</key><string>ส่งแฟ้ม</string>
+    <key>48.segmentTitles[1]</key><string>คัดลอกการเชื่อมโยง</string>
+    <key>14.segmentTitles[0]</key><string>ดาวน์โหลด GoToMeeting</string>
+    <key>20.placeholder</key><string>123-456-789</string>
+    <key>21.text</key><string>GoToMeeting ทำให้ง่ายต่อการเข้าร่วมการประชุมแบบออนไลน์ของคุณ ipad การประชุมใส่รหัสหมายเลขและชื่อของคุณ แล้วคลิ \"Join\ " ปุ่ม</string>
+    <key>22.segmentTitles[0]</key><string>เข้าร่วมประชุม</string>
+    <key>30.text</key><string>ID การประชุมไม่ถูกต้อง</string>
+    <key>32.text</key><string>เข้าร่วมการประชุม</string>
+    <key>33.text</key><string>ประชุม ID:</string>
+    <key>34.placeholder</key><string>ล่าสุดที่แรก</string>
+    <key>36.text</key><string>ชื่อ:</string>
+    <key>37.text</key><string>เรียนรู้วิธีคุณสามารถโฮสต์ของการประชุม โปรดเยี่ยมชม:</string>
+    <key>38.text</key><string>เข้าชมสนับสนุน :</string>
+    <key>40.normalTitle</key><string>GoToMeeting.com</string>
+    <key>41.normalTitle</key><string>ศูนย์บริการ</string>
+    <key>179.normalTitle</key><string>ปิด</string>
+    <key>14.text</key><string>กรุณารอสักครู่</string>
+    <key>24.text</key><string>ป้ายชื่อ</string>
+    <key>13.title</key><string>ตัด</string>
+    <key>14.title</key><string>คัดลอก</string>
+    <key>15.title</key><string>วาง</string>
+    <key>16.title</key><string>เลิกทำ</string>
+    <key>45.title</key><string>F1</string>
+    <key>47.title</key><string>F2</string>
+    <key>48.title</key><string>F3</string>
+    <key>49.title</key><string>F4</string>
+    <key>50.title</key><string>F5</string>
+    <key>51.title</key><string>F6</string>
+    <key>52.title</key><string>F7</string>
+    <key>53.title</key><string>F8</string>
+    <key>54.title</key><string>F9</string>
+    <key>55.title</key><string>F10</string>
+    <key>56.title</key><string>F11</string>
+    <key>57.title</key><string>F12</string>
+    <key>9.title</key><string>Esc</string>
+    <key>26.title</key><string>Ctrl</string>
+    <key>27.title</key><string>Fn</string>
+    <key>28.title</key><string>หน้า</string>
+    <key>29.title</key><string>เดล</string>
+    <key>111.title</key><string>Alt</string>
+    <key>113.title</key><string>แท็บ</string>
+    <key>120.segmentTitles[1]</key><string>T</string>
+    <key>17.title</key><string>บ้าน</string>
+    <key>18.title</key><string>สิ้นสุด</string>
+    <key>57.title</key><string>เสร็จแล้ว</string>
+    <key>62.placeholder</key><string>ค้นหา</string>
+    <key>101.text</key><string>ปรับปรุงรายการโปรแกรมประยุกต์</string>
+    <key>103.text</key><string>กรุณารอสักครู่</string>
+    <key>45.title</key><string>ออกจากระบบ</string>
+    <key>7.text</key><string>ชื่อ:</string>
+    <key>8.text</key><string>ชื่อ:</string>
+    <key>9.text</key><string>อีเมล์:</string>
+    <key>37.text</key><string>ขอบคุณสำหรับการลงทะเบียนของ blah blah </string>
+    <key>38.normalTitle</key><string>ดำเนินการต่อไป</string>
+    <key>16.text</key><string>ศึกษาเพิ่มเติม</string>
+    <key>5.text</key><string>ภาพยนตร์แบบโต้ตอบ</string>
+    <key>4.text</key><string>เลือก \"pair\ " บน iPad ที่คุณต้องการเชื่อมต่อ</string>
+    <key>23.normalTitle</key><string>เพิ่มบัญชีผู้ใช้</string>
+    <key>24.normalTitle</key><string>รับการสาธิต</string>
+    <key>25.text</key><string>ศึกษาเพิ่มเติม</string>
+    <key>WelcomeScreenTitleKey</key><string>ยินดีต้อนรับ</string>
+    <key>WelcomeScreenDemoAccountPageTitle</key><string>สมัคร Citrix สาธิตเมฆ</string>
+    <key>WelcomeScreenSetupWorkspaceTitleKey</key><string>ตั้งค่าพื้นที่ทำงานของฉัน</string>
+    <key>WelcomeScreenDemoAccountiPhonePageTitle</key><string>เมฆสาธิต</string>
+    <key>CRDemoRegistrationRegisterButtonLabelKey</key><string>ลงทะเบียน</string>
+    <key>CRDemoRegistrationWarningTitleKey</key><string>คำเตือน</string>
+    <key>CRDemoRegistrationWarningMessageKey</key><string>กรุณาใส่ข้อมูลประจำตัวที่ถูกต้องก่อน</string>
+    <key>CRDemoRegistrationFailedErrorTitleKey</key><string>ไม่สามารถลงทะเบียน</string>
+    <key>CRDemoRegistrationFirstName</key><string>ชื่อ:</string>
+    <key>CRDemoRegistrationLastName</key><string>ชื่อ:</string>
+    <key>CRDemoRegistrationEmail</key><string>อีเมล:</string>
+    <key>CRDemoRegistrationRegistering</key><string>ลงทะเบียน...</string>
+    <key>CRDemoRegistrationTitle</key><string>ลงทะเบียนรับการสาธิต</string>
+    <key>WebAddressTitle</key><string>ที่อยู่เว็บ</string>
+    <key>WebAddressOpenButtonLabel</key><string>เปิด</string>
+    <key>WebAddressInvalidURLTitle</key><string>URL ไม่ถูกต้อง</string>
+    <key>WebAddressInvalidURLMessage</key><string>นี้ไม่เหมือน URL ถูกต้อง กรุณาตรวจสอบรายการของคุณ แล้วลองอีกครั้ง</string>
+    <key>WebViewTitleLoading</key><string>กำลังโหลด...</string>
+    <key>WebViewTitleUntitled</key><string>ไม่มีชื่อ</string>
+    <key>WebViewCannotOpenPageTitle</key><string>ไม่สามารถเปิดหน้า</string>
+    <key>WebViewTitleVPNLogin</key><string>เข้าสู่ระบบ VPN</string>
+    <key>WebViewStartingVPNConnectionTitle</key><string>เริ่มต้นการเชื่อมต่อ VPN</string>
+    <key>WebViewConnectingTitle</key><string>กำลังโหลด...</string>
+    <key>WebViewUpdateStoreAlertTitle</key><string>ประตูเข้า</string>
+    <key>WebViewUpdateStoreAlertButtonLabel</key><string>ปรับปรุงบัญชี</string>
+    <key>WebViewUpdateStoreAlertMessage</key><string>บริการตนเองสามารถตรวจพบ ปรับปรุงบัญชี ด้วยข้อมูลประจำตัวของคุณ</string>
+    <key>BrowserButtonLabel</key><string>เบราว์เซอร์</string>
+    <key>WebViewAuthTitle</key><string>ต้องรับรองความถูกต้อง</string>
+    <key>SelfServiceScreenHomeButtonKey</key><string>บ้าน</string>
+    <key>SelfServiceScreenExploreButtonKey</key><string>สำรวจ</string>
+    <key>StoreToolbarCategoriesButtonDefaultTitle</key><string>ประเภท</string>
+    <key>StoreToolbarCategoriesButtonTitlePrefix</key><string>หมวดหมู่: %@</string>
+    <key>StoreToolbarStoresButtonTitle</key><string>บัญชี</string>
+    <key>StoreToolbarCategoriesAll</key><string>ทั้งหมด</string>
+    <key>StoreToolbarCategoriesFeatured</key><string>ที่โดดเด่น</string>
+    <key>StoreToolbarDefaultTitle</key><string>สำรวจ</string>
+    <key>StoreToolbarSearchBarPlaceholder</key><string>ค้นหา</string>
+    <key>StoreGlobalSearchWithMatchCount</key><string>ค้นหา (ตรงกับ %i)</string>
+    <key>AccountListTitle</key><string>การตั้งค่าบัญชี</string>
+    <key>AccountListFooter</key><string>บัญชีเลือก \n เพื่อเข้าสู่ระบบ</string>
+    <key>StoreLaunchErrorAlertMessageKey</key><string>ข้อผิดพลาดเกิดขึ้นขณะทำการเชื่อมต่อที่ร้องขอ</string>
+    <key>StoreNoApplicationsAlertTitleKey</key><string>โปรแกรมประยุกต์ไม่ว่าง</string>
+    <key>StoreNoApplicationsAlertMessageKey</key><string>มีไม่มีโปรแกรมประยุกต์สำหรับบัญชี ' %@'</string>
+    <key>StoreEnterCredentialsTitleKey</key><string>เข้าสู่ระบบรับ Citrix</string>
+    <key>StoreStartingConnectionKey</key><string>เริ่มต้นการเชื่อมต่อ...</string>
+    <key>StoreRequestingConnectionKey</key><string>การร้องขอการเชื่อมต่อ...</string>
+    <key>StoreRequestingCredentialsKey</key><string>ร้องขอข้อมูลประจำตัว...</string>
+    <key>StoreNumberOfDesktops</key><string>เดสก์ท็ %d</string>
+    <key>StoreOneDesktop</key><string>เดสก์ท็อปที่ %d</string>
+    <key>StoreNumberOfApplications</key><string>ปพลิเคชัน %d</string>
+    <key>StoreOneApplication</key><string>โปรแกรมประยุกต์ %d</string>
+    <key>StoreAddStore</key><string>เพิ่มบัญชีผู้ใช้</string>
+    <key>StoreDuplicateStore</key><string>บัญชีซ้ำ</string>
+    <key>StoreDeleteStore</key><string>ลบบัญชี</string>
+    <key>StoreEditStore</key><string>แก้ไขบัญชี</string>
+    <key>StoreShareSettings</key><string>การตั้งค่าบัญชีร่วมกัน</string>
+    <key>StoreUpdateStore</key><string>ปรับปรุงบัญชี</string>
+    <key>StoreMyStoresTitleFormatKey</key><string>บัญชีของฉัน (%1% 2)</string>
+    <key>StoreDeleteStoreWarningTitleKey</key><string>คำเตือน</string>
+    <key>StoreDeleteStoreWarningMessageKey</key><string>คุณกำลังจะลบบัญชีของคุณเท่านั้น คุณต้องการแน่ใจหรือไม่</string>
+    <key>StoreDeleteStoreDeleteButtonLabelKey</key><string>ลบ</string>
+    <key>StoreItemLogOnLabel</key><string>เข้าสู่ระบบ</string>
+    <key>StoreItemActionsLabel</key><string>การดำเนินการ</string>
+    <key>StoreItemPleaseWait</key><string>กรุณารอสักครู่</string>
+    <key>LoginLabel</key><string>เข้าสู่ระบบ</string>
+    <key>RecentsTitle</key><string>รายการโปรด</string>
+    <key>NoRecentsMessage</key><string>เริ่มปพลิเคชันของคุณชื่นชอบ</string>
+    <key>ConfirmDeleteTokenTitle</key><string>ลบ RSA Token</string>
+    <key>ConfirmDeleteToken</key><string>คุณต้องการลบโทเคนนี้แน่ใจหรือไม่</string>
+    <key>GetPasscodeTitle</key><string>ได้รับรหัสผ่าน</string>
+    <key>EnterPinTitle</key><string>กรุณาป้อน PIN</string>
+    <key>StoreServerConnectionErrorTitleKey</key><string>ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์</string>
+    <key>StoreServerConnectionErrorMessageKey</key><string>กรุณาลองอีกครั้งในไม่กี่นาที</string>
+    <key>AccountLabelTitle</key><string>บัญชี:</string>
+    <key>FavoritesTrackpadButtonLabelKey</key><string>แทร็คแพ</string>
+    <key>FavoritesLaunchErrorAlertTitleKey</key><string>ข้อผิดพลาด</string>
+    <key>FavoritesLaunchErrorAlertMessageKey</key><string>ไม่มีบัญชีสำหรับ app  คุณต้องการลบรายการโปรดหรือไม่</string>
+    <key>FavoritesLaunchErrorAlertMessage2Key</key><string>ข้อผิดพลาดเกิดขึ้นขณะทำการเชื่อมต่อที่ร้องขอ คุณต้องการเอา app นี้หรือไม่</string>
+    <key>FavoritesMobileAppDownloadPausedKey</key><string>เคาะเพื่อติดตั้ง</string>
+    <key>FavoritesMobileAppDownloadQueuedKey</key><string>รอการดาวน์โหลด...</string>
+    <key>FavoritesMobileAppDownloadingKey</key><string>ดาวน์โหลด...</string>
+    <key>FavoritesMobileAppDownloadedKey</key><string>ดาวน์โหลด...</string>
+    <key>FavoritesMobileAppInstallPausedKey</key><string>เคาะเพื่อติดตั้ง</string>
+    <key>FavoritesMobileAppInstallSetupKey</key><string>เตรียม...</string>
+    <key>FavoritesMobileAppInstallingKey</key><string>ติดตั้ง...</string>
+    <key>FavoritesMobileAppInstalledKey</key><string>ติดตั้ง...</string>
+    <key>EditStoreErrorTitleKey</key><string>ข้อผิดพลาด</string>
+    <key>EditStoreErrorURLForbidden</key><string>%@ถูกห้าม รหัสข้อผิดพลาด: %d</string>
+    <key>EditStoreErrorURLNotFound</key><string>ไม่พบ%@ รหัสข้อผิดพลาด: %d</string>
+    <key>EditStoreErrorCouldNotValidateURL</key><string>ไม่สามารถตรวจสอบ URL รหัสข้อผิดพลาด: %d</string>
+    <key>EditStoreErrorCouldNotValidateServer</key><string>ที่อยู่เซิร์ฟเวอร์ไม่สามารถตรวจสอบ</string>
+    <key>EditStoreErrorCouldNotVerifyServer</key><string>ไม่สามารถตรวจสอบที่อยู่ของเซิร์ฟเวอร์: </string>
+    <key>EditStoreErrorManualModeButtonKey</key><string>การตั้งค่าด้วยตนเอง</string>
+    <key>EditStoreErrorRetryButtonKey</key><string>ลองอีกครั้ง</string>
+    <key>EditStoreErrorOpenInSafariButtonKey</key><string>เปิดใน Safari</string>
+    <key>EditStoreEnterValidWebAddressTitleKey</key><string>ที่อยู่</string>
+    <key>EditStoreEnterValidWebAddressMessageKey</key><string>กรุณาระบุ e-mail ที่ถูกต้องหรือที่อยู่เซิร์ฟเวอร์</string>
+    <key>EditStoreErrorInvalidURLMessageKey</key><string>กรุณาเพิ่มคำนำหน้า http:// หรือ https:// ที่อยู่ของคุณ</string>
+    <key>EditStoreActivityVerifying</key><string>ตรวจสอบ...</string>
+    <key>EditStoreServerTypeXenApp</key><string>ปพลิเคชันเสมือน</string>
+    <key>EditStoreServerTypeXenDesktop</key><string>เดสก์ท็อปเสมือนจริงของฉัน</string>
+    <key>EditStoreStoreVerifiedTitleKey</key><string>การตรวจสอบ</string>
+    <key>EditStoreNewStoreTitleKey</key><string>บัญชีใหม่</string>
+    <key>EditStoreVerifyStoreTitleKey</key><string>ตรวจสอบบัญชี</string>
+    <key>EditStoreWebStoreLabelKey</key><string>บัญชีเว็บ</string>
+    <key>EditStoreEmailSupportLabelKey</key><string>ผ่านทางอีเมล์</string>
+    <key>EditStoreAppStoreNameFormatKey</key><string>%@แอปพลิเคชันเสมือน</string>
+    <key>EditStoreAppStoreDefaultNameKey</key><string>ปพลิเคชันของฉันเสมือน</string>
+    <key>EditStoreDemoStoreNameKey</key><string>บัญชีสาธิต</string>
+    <key>EditStoreSerurityTokenTitleKey</key><string>โทเค็นความปลอดภัย</string>
+    <key>EditStoreDuplicateStoreSuffixKey</key><string>(คัดลอก)</string>
+    <key>EditStoreLoadingStoreKey</key><string>กำลังโหลด...</string>
+    <key>EditStoreCertificateNotSelectedKey</key><string>ไม่มีการเลือก</string>
+    <key>EditStoreCellAddressTitleKey</key><string>ที่อยู่</string>
+    <key>EditStoreCellAddressPlaceholderKey</key><string>อีเมล URL หรืองาน</string>
+    <key>EditStoreCellDescriptionTitleKey</key><string>คำอธิบาย</string>
+    <key>EditStoreCellDescriptionPlaceholderKey</key><string>คำอธิบายบัญชี</string>
+    <key>EditStoreCellWebInterfaceCheckTitleKey</key><string>เว็บอินเทอร์เฟส</string>
+    <key>EditStoreCellXenAppServicesCheckTitleKey</key><string>บริการ XenApp</string>
+    <key>EditStoreCellAccessGatewayCheckTitleKey</key><string>ประตูเข้า</string>
+    <key>EditStoreCellAutoConfigureCheckTitleKey</key><string>กำหนดค่าอัตโนมัติ</string>
+    <key>EditStoreCellAGTypeStandardCheckTitleKey</key><string>รุ่นมาตรฐาน</string>
+    <key>EditStoreCellAGTypeAdvancedCheckTitleKey</key><string>รุ่นขั้นสูง</string>
+    <key>EditStoreCellAGTypeEnterpriseCheckTitleKey</key><string>องค์กร Edition</string>
+    <key>EditStoreCellDeliveryServicesCheckTitleKey</key><string>หน้าร้าน</string>
+    <key>EditStoreCellDomainTitleKey</key><string>โดเมน</string>
+    <key>EditStoreCellDomainPlaceholderKey</key><string>โดเมน</string>
+    <key>EditStoreCellUsernameTitleKey</key><string>ชื่อผู้ใช้</string>
+    <key>EditStoreCellUsernamePlaceholderKey</key><string>ชื่อผู้ใช้</string>
+    <key>EditStoreCellPasswordTitleKey</key><string>รหัสผ่าน</string>
+    <key>EditStoreCellPasswordPlaceholderKey</key><string>ไม่จำเป็น</string>
+    <key>EditStoreCellSecurityTokenSwitchTitleKey</key><string>โทเค็นความปลอดภัย</string>
+    <key>EditStoreCellSecurityTokenOnlyCheckTitleKey</key><string>โทเค็นความปลอดภัย</string>
+    <key>EditStoreCellIdentifierDomainAndSecurityTokenCheck</key><string>โดเมน + โทเค็นความปลอดภัย</string>
+    <key>EditStoreCellSecuritySoftTokenCheck</key><string>โทเคนอ่อน</string>
+    <key>EditStoreCellIdentifierWebAppsCheck</key><string>ปพลิเคชันเว็บ</string>
+    <key>EditStoreCellIdentifierIgnoreCertErrorsCheck</key><string>ละเว้นคำเตือนของใบรับรอง</string>
+    <key>EditStoreWebAppsMessage</key><string>เปิดใช้งานจองถึงปพลิเคชันเว็บ (ทดลอง)</string>
+    <key>EditStoreCellIdentifierCertificate</key><string>ใบรับรอง</string>
+    <key>EditStoreServiceRecordGatewaysSectionTitle</key><string>เลือกตำแหน่งที่ตั้ง</string>
+    <key>EditStoreCellIdentifierUseSmartCard</key><string>ใช้สมาร์ทการ์ด</string>
+    <key>ProfilesScreenTitleKey</key><string>พื้นที่ทำงาน</string>
+    <key>AddProfileScreenTitleKey</key><string>บัญชีใหม่</string>
+    <key>AddProfileContactAdminMessageKey</key><string>ส่งอีเมลถึงผู้ดูแลระบบ IT ของคุณสำหรับคำแนะนำการตั้งค่า</string>
+    <key>AddProfileEmailMessageBodyKey</key><string>เรียน Admin, &lt; br / &gt; &lt; br / &gt; อยากเข้าถึงโปรแกรมประยุกต์ของฉันโดยใช้ตัวรับสัญญาณของ Citrix สำหรับ iOS &lt; br / &gt; คุณสามารถโปรดช่วยฉันตั้งค่าพื้นที่ทำงานของฉัน</string>
+    <key>AddProfileEmailMessageFooterKey</key><string>&lt; br / &gt; &lt; br / &gt; สำหรับข้อมูลและความต้องการ : &lt; br / &gt; %@ &lt; br / &gt; &lt; br / &gt; สุดนับถือ, &lt; br / &gt; Me.</string>
+    <key>AddProfileEmailSubjectKey</key><string>รับ Citrix สำหรับ iOS</string>
+    <key>AddProfileEmailNotAvailableTitleKey</key><string>ไม่มีอีเมล์</string>
+    <key>AddProfileEmailNotAvailableMessageKey</key><string>IPad ของคุณไม่มีการตั้งค่าบัญชีอีเมล์</string>
+    <key>AddProfileEmailNotAvailableiPhoneMessageKey</key><string>IPhone หรือ iPod Touch ของคุณไม่มีการตั้งค่าบัญชีอีเมล์</string>
+    <key>ShareSettingsEmailMessageBodyKey</key><string>สวัสดี, &lt; br / &gt; &lt; br / &gt; กรุณาเคาะเชื่อมโยงต่อไปนี้เพื่อติดตั้งตัวรับสัญญาณของ Citrix: &lt; br / &gt; &lt; br / &gt;</string>
+    <key>ShareSettingsEmailSubjectKey</key><string>รับ Citrix การตั้งค่า</string>
+    <key>OldProfileNameKey</key><string>ประวัติรุ่น 1.0</string>
+    <key>GeneralSettingsGroupTitleKey</key><string>การตั้งค่าทั่วไป</string>
+    <key>ProfilenameFieldTitleKey</key><string>คำอธิบาย</string>
+    <key>ProfilenameFieldPlaceholderKey</key><string>คำอธิบายบัญชี</string>
+    <key>ProfilenameFieldDefaultKey</key><string>ใหม่</string>
+    <key>ProfilenameErrorTitleKey</key><string>ข้อผิดพลาด</string>
+    <key>ProfilenameErrorMessageKey</key><string>พื้นที่ทำงานที่ มีชื่ออยู่แล้ว</string>
+    <key>ProfilenameErrorButtonTitleKey</key><string>บอกเลิก</string>
+    <key>UsernameFieldTitleKey</key><string>ชื่อผู้ใช้</string>
+    <key>UsernameFieldPlaceholderKey</key><string>ชื่อผู้ใช้</string>
+    <key>DomainFieldTitleKey</key><string>โดเมน</string>
+    <key>DomainFieldPlaceholderKey</key><string>โดเมน</string>
+    <key>PasswordAlertTitleKey</key><string>รหัสผ่าน</string>
+    <key>PasswordAlertMessageKey</key><string>ป้อนชื่อผู้ใช้และรหัสผ่านของคุณ</string>
+    <key>AddressFieldTitleKey</key><string>ที่อยู่</string>
+    <key>AddressFieldPlaceholderKey</key><string>อีเมล URL หรืองาน</string>
+    <key>RememberPasswordFieldTitleKey</key><string>ลงชื่อเข้าใช้โดยอัตโนมัติ</string>
+    <key>UseRSAFieldTitleKey</key><string>™ Citrix เข้าประตู</string>
+    <key>InvalidProtocolErrorTitleKey</key><string>ไม่ถูกต้อง</string>
+    <key>InvalidProtocolErrorMessageKey</key><string>กรุณาตรวจสอบอยู่ และลองอีกครั้ง</string>
+    <key>InvalidProtocolErrorButtonTitleKey</key><string>การเปลี่ยนแปลง</string>
+    <key>HostUnreachableErrorTitleKey</key><string>ถึงที่อยู่</string>
+    <key>HostUnreachableErrorMessageKey</key><string>ไม่สามารถเข้าถึงที่อยู่นี้ กรุณาตรวจสอบอยู่ การตั้งค่าเกตเวย์ และการเชื่อมต่อเครือข่าย</string>
+    <key>HostUnreachableErrorButtonTitleKey</key><string>ตกลง, ได้</string>
+    <key>SetupScreenHelpLinkTitleKey</key><string>ศึกษาเพิ่มเติม</string>
+    <key>SetupScreenHelpLinkKey</key><string>http://m.iphone.citrix.com/</string>
+    <key>SetupScreenButtonTitleKey</key><string>ถัดไป</string>
+    <key>InvalidCitrixXMLFromSuccessfulHTTPConnectionErrorMessageKey</key><string>อยู่ที่ให้ไม่ได้ให้รายชื่อ App ที่ถูกต้อง กรุณาตรวจสอบอยู่ การตั้งค่าเกตเวย์ และการเชื่อมต่อเครือข่าย</string>
+    <key>RSAPromptTitleKey</key><string>RSA SecurID ®</string>
+    <key>SMSPassCodePromptTitleKey</key><string>ตรวจสอบ SMS</string>
+    <key>PasscodePromptMessageKey</key><string>ป้อนชื่อผู้ใช้และรหัสผ่านของคุณ</string>
+    <key>PromptCancelButtonTitleKey</key><string>ยกเลิก</string>
+    <key>PromptLoginButtonTitleKey</key><string>ตกลง, ได้</string>
+    <key>LoginFailedLabelKey</key><string>กรุณาลองอีกครั้ง</string>
+    <key>loginFailedTitleKey</key><string>สามารถเข้าสู่ระบบ</string>
+    <key>LoginFailedTryAgainTitleKey</key><string>ลองอีกครั้ง</string>
+    <key>PasscodePromptUserNameKey</key><string>ชื่อผู้ใช้</string>
+    <key>PasscodePromptPassCodeKey</key><string>รหัสผ่าน</string>
+    <key>GatewayEnableGatewayKey</key><string>ประตูเข้า</string>
+    <key>AuthenticationMethodGroupTitleKey</key><string>รับรองความถูกต้องของเกตเวย์</string>
+    <key>AuthenticationMethodNoneKey</key><string>ไม่รับรองความถูกต้อง</string>
+    <key>AuthenticationMethodDomainKey</key><string>โดเมนเท่านั้น</string>
+    <key>AuthenticationMethodTokenKey</key><string>โทเคนเท่านั้น</string>
+    <key>AuthenticationMethodDomainAndTokenKey</key><string>โดเมน + โทเค็น</string>
+    <key>RequiredFieldErrorTitleKey</key><string>ข้อมูล</string>
+    <key>RequiredFieldErrorMessageKey</key><string>กรุณากรอกข้อมูลจำเป็นก่อนที่จะบันทึกบัญชีนี้</string>
+    <key>RequiredFieldAlertMessageKey</key><string>กรุณาใส่ข้อมูลทั้งหมดก่อนการเชื่อมต่อ</string>
+    <key>RequiredFieldErrorButtonTitleKey</key><string>บอกเลิก</string>
+    <key>DisabledSavePasswordTextFieldKey</key><string>ปิดใช้งาน โดยผู้ดูแลระบบ</string>
+    <key>AccountSelectionTitleKey</key><string>เลือก</string>
+    <key>AccountSelectionNewWorkspaceLabelKey</key><string>บัญชีใหม่</string>
+    <key>AccountSelectionPCConnectionLabelKey</key><string>เชื่อมต่อเครื่องคอมพิวเตอร์</string>
+    <key>AddDesktopScreenTitleKey</key><string>เพิ่มการเชื่อมต่อ</string>
+    <key>DesktopNameFieldTitleKey</key><string>คำอธิบาย</string>
+    <key>DesktopNameFieldPlaceholderKey</key><string>ชื่อเดสก์ท็อปของฉัน</string>
+    <key>DesktopAddressFieldPlaceholderKey</key><string>ที่อยู่ IP หรือชื่อเครื่องคอมพิวเตอร์</string>
+    <key>DesktopConnectionsTitleKey</key><string>เชื่อมต่อ PC</string>
+    <key>DesktopConnectButtonLabelKey</key><string>เชื่อมต่อ</string>
+    <key>RSAImportTitle</key><string>นำเข้าโทเค็น</string>
+    <key>RSAImportTokenFailed</key><string>โทเค็น RSA นำเข้าล้มเหลว</string>
+    <key>RSAImportTokenSuccessTitle</key><string>โทเค็นที่นำเข้าเสร็จสมบูรณ์ </string>
+    <key>HaveAPinTitle</key><string>แล้วมี PIN ไหม</string>
+    <key>RSAImportTokenPasswordTitle</key><string>กรุณาใส่รหัสผ่านที่ให้บริการของคุณ</string>
+    <key>RSAPinSetupTitle</key><string>ตั้งค่า PIN</string>
+    <key>RSAPasscodeSetupInstructions</key><string>ทำตามคำแนะนำจากโต๊ะทำงานวิธีใช้โดยใช้รหัสผ่านเพียงครั้งเดียวที่แสดงที่นี่</string>
+    <key>RSACancelTitle</key><string>ยกเลิกนำเข้าโทเค็น</string>
+    <key>RSASecsRemaining</key><string>%@วินาทีที่เหลือ</string>
+    <key>RSACancelConfirmTitle</key><string>คุณต้องการยกเลิกนำเข้าโทเค็น RSA แน่ใจหรือไม่</string>
+    <key>RSATokenImportPasswordError</key><string>ป้อนรหัสผ่านไม่ถูกต้อง</string>
+    <key>RSATokenExpired</key><string>RSA Token หมดอายุ</string>
+    <key>RSATokenImportGeneralFailure</key><string>มีข้อผิดพลาดภายในขณะนำเข้าโทเค็นการ RSA</string>
+    <key>RSASerialIncorrectError</key><string>RSA เลขไม่ถูกต้อง</string>
+    <key>RSAPinIncorrectError</key><string>RSA pin ไม่ถูกต้อง</string>
+    <key>RSAOtpParamIncorrectError</key><string>RSA OTP พารามิเตอร์ไม่ถูกต้อง</string>
+    <key>RSASecondsRemainingError</key><string>จำนวนวินาทีที่เหลือถูก RSA</string>
+    <key>RSATokenNotFoundError</key><string>โทเค็นของ RSA ไม่พบ</string>
+    <key>RSAPasscodeRetrievalError</key><string>มีข้อผิดพลาดขณะรับรหัสผ่าน RSA</string>
+    <key>RSAPasscodeKey</key><string>รหัสผ่าน RSA</string>
+    <key>RSATokenDeletionSuccess</key><string>ลบ RSA token %@แล้ว</string>
+    <key>RSATokenDeletionSerialIncorrectError</key><string>RSA โทเค็นการลบล้มเหลว หมายเลขประจำสินค้า%@ไม่ถูกต้อง</string>
+    <key>RSATokenDeletionNotFoundError</key><string>RSA โทเค็นการลบล้มเหลว โทเค็นไม่พบหมายเลขประจำสินค้า%@</string>
+    <key>RSATokenDeletionFailedError</key><string>โทเคนการลบที่ล้มเหลวสำหรับ%โทเค็น RSA %@</string>
+    <key>RSATokenReuseTitle</key><string>ข้อผิดพลาดขา</string>
+    <key>RSASoftTokenReUseMessage</key><string>รอ 60 วินาที แล้วลองอีกครั้ง</string>
+    <key>RSATokenReUseMessage</key><string>รอ 60 วินาที แล้วลองอีกครั้ง</string>
+    <key>RSATokenImportContinue</key><string>ดำเนินการต่อไป</string>
+    <key>RSATokenImportDuplicateError</key><string>โทเคนนี้ถูกนำเข้าแล้ว</string>
+    <key>AuthenticatingKey</key><string>รับรอง...</string>
+    <key>ConnectingKey</key><string>เชื่อมต่อ...</string>
+    <key>LaunchingKey</key><string>เปิดตัว...</string>
+    <key>StartingKey</key><string>เริ่มต้น%@...</string>
+    <key>StartingApplicationKey</key><string>โปรแกรมประยุกต์เริ่มต้น...</string>
+    <key>SecuringCommunicationKey</key><string>รักษาความปลอดภัยการสื่อสาร...</string>
+    <key>SyncingAppsTitleKey</key><string>ปรับปรุงแอพพลิเค...</string>
+    <key>LoadingProfileButtonCancelTitleKey</key><string>ยกเลิก</string>
+    <key>LoadingProfileButtonDismissTitleKey</key><string>บอกเลิก</string>
+    <key>PublishedItemsScreenTitleKey</key><string>ปพลิเคชัน</string>
+    <key>PublishedItemsTipMessage</key><string>\n คำแนะนำ: คุณสามารถเพิ่ม หรือลบ app ของพื้นที่ทำงาน โดยการเคาะ และถือมันไว้ \n</string>
+    <key>SearchAppsDesktopsPlaceholderKey</key><string>ค้นหาปพลิเคชันและเดสก์ท็อป</string>
+    <key>FavoritesEditButtonTitleKey</key><string>แก้ไข</string>
+    <key>FavoritesDoneButtonTitleKey</key><string>เสร็จแล้ว</string>
+    <key>EditFavoritesCancelButtonTitleKey</key><string>ยกเลิก</string>
+    <key>AddFavoriteButtonTitleKey</key><string>เพิ่มรายการโปรด</string>
+    <key>AddFavoriteScreenTitleKey</key><string>เพิ่มรายการโปรด</string>
+    <key>AppDetailScreenTitleKey</key><string>รายละเอียด</string>
+    <key>AppDetailInfoNoDescriptionKey</key><string>ไม่มีคำอธิบาย</string>
+    <key>AppDetailRemoveFavoriteButtonLabelKey</key><string>ลบรายการโปรด</string>
+    <key>AppDetailAddToFavoritesButtonLabelKey</key><string>เพิ่มในรายการโปรด</string>
+    <key>AppCellFavoriteLabelKey</key><string>รายการโปรด</string>
+    <key>AppViewNewApp</key><string>App ใหม่</string>
+    <key>AppBrowserAllFolders</key><string>โฟลเดอร์ทั้งหมด</string>
+    <key>RefreshApplistLabelKey</key><string>ฟื้นฟูปพลิเคชัน</string>
+    <key>UnableToUpdateApplistTitleKey</key><string>ไม่สามารถปรับปรุง Applist</string>
+    <key>UnableToUpdateApplistMessageKey</key><string>มีปัญหาในการอัพเด applist ปัจจุบัน</string>
+    <key>FeaturedNoFeaturedAppsKey</key><string>ได้กำหนดให้คุณไม่มีโปรแกรมประยุกต์ที่โดดเด่น โดยผู้ดูแลระบบของคุณ</string>
+    <key>DesktopItemsUpdatingKey</key><string>กำลังปรับปรุง...</string>
+    <key>DesktopItemsUpdatedKey</key><string>การปรับปรุง </string>
+    <key>DesktopItemsUpdatedDateFormatKey</key><string>MM/dd/yyyy h:mm เป็น</string>
+    <key>DesktopOrganizeWorkspaceKey</key><string>จัดระเบียบรายการโปรด</string>
+    <key>DesktopSnapToGridTitleKey</key><string>จัดชิดเส้นตาราง</string>
+    <key>FeaturedCategoryKey</key><string>ที่โดดเด่น</string>
+    <key>AppListErrorButtonTitleKey</key><string>บอกเลิก</string>
+    <key>ZeroPublishedItemsErrorKey</key><string>มี Apps ไม่ที่อยู่นี้</string>
+    <key>FailedToExtractListErrorKey</key><string>อยู่ที่ให้ไม่ได้ให้รายชื่อ App ที่ถูกต้อง กรุณาตรวจสอบอยู่ การตั้งค่าเกตเวย์ และการเชื่อมต่อเครือข่าย</string>
+    <key>BadAddressErrorTitleKey</key><string>ที่อยู่ไม่พบ</string>
+    <key>BadAddressErrorMessageKey</key><string>ไม่พบอยู่ กรุณาตรวจสอบอยู่ การตั้งค่าเกตเวย์ และการเชื่อมต่อเครือข่าย</string>
+    <key>BadAddressErrorButtonTitleKey</key><string>ตกลง, ได้</string>
+    <key>BadCredentialsErrorTitleKey</key><string>ข้อมูลประจำตัวที่ไม่ถูกต้อง</string>
+    <key>BadCredentialsErrorMessageKey</key><string>ข้อมูลประจำตัวของคุณถูกปฏิเสธ</string>
+    <key>BadCredentialsErrorButtonTitleKey</key><string>ตกลง, ได้</string>
+    <key>CharlotteErrorBadCredentialsMessageKey</key><string>ตรวจสอบชื่อผู้ใช้และรหัสผ่านของคุณ แล้วลองอีกครั้ง</string>
+    <key>NoConfigurationFileTitleKey</key><string>ไม่มีแฟ้มการกำหนดค่า</string>
+    <key>NoConfigurationFileMessageKey</key><string>ไม่สามารถเข้าถึงเซิร์ฟเวอร์แฟ้มการกำหนดค่า</string>
+    <key>ResourceUnavailableTitleKey</key><string>ไม่มีทรัพยากร</string>
+    <key>ResourceUnavailableMessageKey</key><string>เซิร์ฟเวอร์ไม่พร้อมใช้งานในปัจจุบัน</string>
+    <key>AppRemovedTitleKey</key><string>โปรแกรมประยุกต์ถูกเอาออก</string>
+    <key>AppRemovedMessageKey</key><string>โปรแกรมประยุกต์ที่ร้องขอถูกเอาออก หรือปิดใช้งาน โปรดฟื้นฟูรายการของแอพลิเคชัน</string>
+    <key>CharlotteErrorAccountDisabledTitleKey</key><string>บัญชีถูกปิดใช้งาน</string>
+    <key>CharlotteErrorAccountDisabledMessageKey</key><string>บัญชีของคุณถูกปิดใช้งาน</string>
+    <key>CharlotteErrorAccountLockedOutTitleKey</key><string>บัญชีที่ถูกล็อกออก</string>
+    <key>CharlotteErrorAccountLockedOutMessageKey</key><string>ล็อคบัญชีของคุณออกชั่วคราว</string>
+    <key>CharlotteErrorCredentialsMustChangeTitleKey</key><string>ต้องการเปลี่ยนแปลงข้อมูลประจำตัว</string>
+    <key>CharlotteErrorCredentialsMustChangeMessageKey</key><string>ข้อมูลประจำตัวของคุณหมดอายุแล้ว และต้องเปลี่ยน</string>
+    <key>CharlotteErrorCredentialsExpiredTitleKey</key><string>ข้อมูลประจำตัวที่หมดอายุ</string>
+    <key>CharlotteErrorCredentialsExpiredMessageKey</key><string>ข้อมูลประจำตัวของคุณหมดอายุ</string>
+    <key>CharlotteErrorInvalidLogonHoursTitleKey</key><string>ชั่วโมงการเข้าสู่ระบบไม่ถูกต้อง</string>
+    <key>CharlotteErrorInvalidLogonHoursMessageKey</key><string>ผู้ดูแลระบบของคุณไม่ให้คุณเข้าสู่ระบบในครั้งนี้</string>
+    <key>InternalServerErrorKey</key><string>มี Apps ไม่ในเวลานี้</string>
+    <key>UnableToLaunchApplicationTitleKey</key><string>โปรแกรมประยุกต์เริ่มต้น</string>
+    <key>UnableToLaunchApplicationMessageKey</key><string>ไม่สามารถเริ่มต้น \"More Info\ เลือกโดยประมาณที่ร้องขอ" รายละเอียดเพิ่มเติมได้</string>
+    <key>UnableToLaunchApplicationDueToNetWorkKey</key><string>โปรแกรมประยุกต์นี้ได้ถูกปิดใช้งาน โดยผู้ดูแลระบบของคุณ หรือเซิร์ฟเวอร์ไม่ยอมรับการเชื่อมต่อ</string>
+    <key>UnableToLaunchApplicationButtonKey</key><string>ตกลง, ได้</string>
+    <key>HTTP404ErrorMessageKey</key><string>อยู่ที่ให้ไม่ได้ให้รายชื่อ App ที่ถูกต้อง กรุณาตรวจสอบอยู่ การตั้งค่าเกตเวย์ และการเชื่อมต่อเครือข่าย</string>
+    <key>AppListFailedGatewayAuthErrorKey</key><string>ตรวจสอบข้อมูลประจำตัวของคุณและเชื่อมต่อเครือข่าย</string>
+    <key>AppListFailedGatewayPreAuthScanNotSupportedErrorKey</key><string>ไม่สนับสนุนการจุดสิ้นสุดการรับรองความถูกต้องก่อนการวิเคราะห์การสแกนในอุปกรณ์นี้</string>
+    <key>AppListFailedGatewayNextTokenErrorKey</key><string>อุปกรณ์อยู่ในสถานะ Token ถัดไป</string>
+    <key>AppListFailedErrorTitleKey</key><string>ไม่สามารถโหลดรายชื่อ App</string>
+    <key>AppListFailedErrorButtonTitleKey</key><string>ตกลง, ได้</string>
+    <key>UnknownErrorMessageKey</key><string>มี Apps ไม่ในเวลานี้</string>
+    <key>AccountLockedOutErrorMessageKey</key><string>ผู้ดูแลระบบได้ล็อกบัญชีของคุณ</string>
+    <key>ChangeAccountSettingsButtonTitleKey</key><string>การตั้งค่า</string>
+    <key>GatewaySessionExpiredErrorMessageKey</key><string>เกตเวย์ของคุณเข้าถึงเซสชันหมดอายุ กรุณาเข้าสู่ระบบอีกครั้ง</string>
+    <key>SessionTicketInvalidErrorMessageKey</key><string>ตั๋วเครื่องบินช่วงไม่ถูกต้อง กรุณาเข้าสู่ระบบอีกครั้ง</string>
+    <key>AuthenticationErrorTitleKey</key><string>ข้อผิดพลาดการรับรองความถูกต้อง</string>
+    <key>UnableToLaunchAppDetailsTitleKey</key><string>รายละเอียดข้อผิดพลาด</string>
+    <key>LoginErrorMessageNull</key><string>ค่า null</string>
+    <key>LoginErrorMessageSuccess</key><string>ประสบความสำเร็จ</string>
+    <key>LoginErrorMessageInvalidAddress</key><string>ที่อยู่ไม่ถูกต้อง</string>
+    <key>LoginErrorMessageSSLError</key><string>ข้อผิดพลาด SSL</string>
+    <key>LoginErrorMessageIoException</key><string>ยกเว้น Io</string>
+    <key>LoginErrorMessageProtocolException</key><string>ยกเว้นโพรโทคอล</string>
+    <key>LoginErrorMessageEpaEnabled</key><string>ใช้น้ำมันเบนซิน</string>
+    <key>LoginErrorMessageConfigXmlPathNotDetermined</key><string>ไม่กำหนดเส้นทาง ConfigXml</string>
+    <key>LoginErrorMessageUserCancelled</key><string>ผู้ใช้ยกเลิก</string>
+    <key>LoginErrorMessageUnexpectedResponse</key><string>ตอบสนองที่ไม่คาดคิด</string>
+    <key>LoginErrorMessagePreAuthEnabled</key><string>PreAuth ที่เปิดใช้งาน</string>
+    <key>LoginErrorMessageNewPinRequired</key><string>Required.\n\nPlease PIN ใหม่สร้าง PIN ใหม่โดยใช้เว็บเบราว์เซอร์</string>
+    <key>LoginErrorMessageNextTokencodeRequired</key><string>โทเค็นการปัจจุบันไม่ synchronized.\n\nPlease ใหม่ซิงค์โทเค็นของคุณใช้เว็บเบราว์เซอร์</string>
+    <key>LoginErrorMessageChangePasswordRequired</key><string>รหัสผ่านสำหรับบัญชีนี้มีเปลี่ยนรหัสผ่านโดยใช้เว็บเบราว์เซอร์ expired.\n\nPlease</string>
+    <key>LoginErrorMessagePinSetupFailed</key><string>PIN ไม่ถูกต้อง</string>
+    <key>NoAvailableWorkstationTitleKey</key><string>ไม่มีเซิร์ฟเวอร์เวิร์กสเตชัน</string>
+    <key>NoAvailableWorkstationMessageKey</key><string>เวิร์กสเตชันไม่มีเซิร์ฟเวอร์ที่จะเรียกใช้โปรแกรมประยุกต์นี้ได้</string>
+    <key>ServerErrorKey</key><string>ข้อผิดพลาดของเซิร์ฟเวอร์</string>
+    <key>TheServerDisconnectedTheSessionKey</key><string>เซิร์ฟเวอร์การเชื่อมต่อเซสชัน</string>
+    <key>WaitForICASessionKey</key><string>กรุณารอสักครู่</string>
+    <key>SessionExitActionSheetTitleKey</key><string></string>
+    <key>SessionExitActionSheetBackButtonTitleKey_XA</key><string>กลับไปยังโปรแกรมประยุกต์</string>
+    <key>SessionExitActionSheetExitButtonTitleKey_XA</key><string>ปิดโปรแกรมประยุกต์</string>
+    <key>SessionExitActionSheetBackButtonTitleKey_XD</key><string>กลับไปยังเดสก์ท็อป</string>
+    <key>SessionExitActionSheetExitButtonTitleKey_XD</key><string>ส่ง Crtl + Alt + Del</string>
+    <key>SessionExitActionSheetGesturesButtonTitleKey</key><string>แนะนำรูปแบบลายเส้น</string>
+    <key>SessionExitActionSheetCancelButtonTitleKey</key><string>ยกเลิก</string>
+    <key>SessionStatePanningMode</key><string>โหมดอัตโนมัติ</string>
+    <key>SessionStateScrollingMode</key><string>โหมดเลื่อน</string>
+    <key>SegmentedControlTitleDisconnect</key><string>ตัดการเชื่อมต่อ</string>
+    <key>SegmentedControlTitleLogoff</key><string>ออกจากระบบ</string>
+    <key>SegmentedControlTitleResetZoom</key><string>ตั้งค่าการย่อ/ขยาย</string>
+    <key>SegmentedControlTitleChangeResolution</key><string>เปลี่ยนความละเอียด</string>
+    <key>SegmentedControlTitleGesturesGuide</key><string>แนะนำรูปแบบลายเส้น</string>
+    <key>SegmentedControlTitleDismiss</key><string>บอกเลิก</string>
+    <key>SwitchingWindowTitleKey</key><string>สลับหน้าต่าง</string>
+    <key>SessionStateScrollingOn</key><string>เลื่อนบน</string>
+    <key>SessionStateScrollingOff</key><string>เลื่อนปิด</string>
+    <key>SessionStateScrollingOnSmall</key><string>เลื่อนบน</string>
+    <key>SessionStateScrollingOffSmall</key><string>เลื่อนปิด</string>
+    <key>SessionWarningTitleKey</key><string>คำเตือนของเซสชัน</string>
+    <key>SessionReadyTitleKey</key><string>แจ้งเตือนพร้อม app</string>
+    <key>SessionReadyMessageKey</key><string>โปรแกรมประยุกต์ของคุณเสร็จแล้วตอนนี้</string>
+    <key>SessionReadyCancelButtonTitleKey</key><string>ยกเลิก</string>
+    <key>SessionReadyOkButtonTitleKey</key><string>แสดง App</string>
+    <key>CurrentSessionTerminatedKey</key><string>ถูกยกเลิกเซสชันปัจจุบันของคุณ คุณอาจเปิดรับสัญญาณเพื่อเริ่มเซสชันใหม่</string>
+    <key>GuesturesGuidePortraitFileKey</key><string>gestures_portrait.png</string>
+    <key>GuesturesGuideLandscapeLeftFileKey</key><string>gestures_landscape_left.png</string>
+    <key>GuesturesGuideLandscapeRightFileKey</key><string>gestures_landscape_right.png</string>
+    <key>SettingsTabTitleKey</key><string>การตั้งค่า</string>
+    <key>SettingsSessionTitleKey</key><string>การตั้งค่าเซสชัน</string>
+    <key>SettingsWorkspaceTitleKey</key><string>การตั้งค่าพื้นที่ทำงาน</string>
+    <key>SettingsAccountTitleKey</key><string>การตั้งค่าบัญชี</string>
+    <key>SettingsWallpaperLabelKey</key><string>วอลเปเปอร์</string>
+    <key>SettingsWallpaperTitleKey</key><string>วอลเปเปอร์</string>
+    <key>SettingsAppearanceLabelKey</key><string>จอแสดงผล</string>
+    <key>SettingsSessionLabelKey</key><string>เซสชัน</string>
+    <key>SettingsKeyboardLabelKey</key><string>แป้นพิมพ์</string>
+    <key>SettingsAudioLabelKey</key><string>เสียง</string>
+    <key>SettingsMultimediaLabelKey</key><string>เปลี่ยนเส้นทางสื่อชนะ</string>
+    <key>SettingsDefaultProfileLabelKey</key><string>บัญชีเริ่มต้น</string>
+    <key>SettingsCaffeineLabelKey</key><string>คาเฟอีน</string>
+    <key>SettingsHelpLabelKey</key><string>วิธีใช้</string>
+    <key>SettingsFeedbackLabelKey</key><string>ส่งคำติชม</string>
+    <key>SettingsFeedbackMailComposerMailBodyKey</key><string>&lt; br / &gt; ติชม: </string>
+    <key>SettingsFeedbackMailAppMailBodyKey</key><string>&amp; ร่างกาย = &lt; br / &gt; ติชม: </string>
+    <key>SettingsTellaFriendMailComposerMailBodyKey</key><string>&lt;p&gt;เช็คโปรแกรมประยุกต์นี้: &lt;/p&gt;</string>
+    <key>SettingsTellaFriendMailAppMailBodyKey</key><string>&amp; ร่างกาย = &lt;p&gt;ตรวจสอบโปรแกรมประยุกต์นี้: &lt;/p&gt;</string>
+    <key>SettingsReceiverAppStoreAddress</key><string>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=363501921&amp;mt=8</string>
+    <key>SettingsAboutLabelKey</key><string>เกี่ยวกับ</string>
+    <key>SettingsAppearanceTitleKey</key><string>แสดงตัวเลือก</string>
+    <key>SettingsKeyboardTitleKey</key><string>ตัวเลือกแป้นพิมพ์</string>
+    <key>SettingsDefaultProfileTitleKey</key><string>บัญชีเริ่มต้น</string>
+    <key>SettingsCaffeineTitleKey</key><string>คาเฟอีน</string>
+    <key>SettingsAboutScreenTitleKey</key><string>เกี่ยวกับ</string>
+    <key>SettingsResolutionLabelKey</key><string>ความละเอียดของเซสชัน</string>
+    <key>SettingsZoomLabelKey</key><string>ซูมที่เริ่มต้น</string>
+    <key>SettingsHideStatusBarLabelKey</key><string>ซ่อนแถบสถานะ</string>
+    <key>SettingsResolutionTitleKey</key><string>ความละเอียดของเซสชัน</string>
+    <key>SettingsZoomTitleKey</key><string>ย่อ/ขยาย</string>
+    <key>SettingsProfilesFooterOnTitleKey</key><string>เมื่อปิด ล่าสุดใช้บัญชีครั้งต่อไปเปิดรับสัญญาณ Citrix \n โหลดตนเองจะ</string>
+    <key>SettingsProfilesFooterOffTitleKey</key><string>เมื่อใน บัญชีเลือกตนเองจะโหลดทุกครั้ง \n รับ Citrix เปิด</string>
+    <key>SettingsResolutionDefaultLabelKey</key><string>ความละเอียดเริ่มต้น</string>
+    <key>SettingsResolutionAutofitLabelKey</key><string>หน้าจอให้พอดีอัตโนมัติ</string>
+    <key>SettingsResolutionFitScreenLabelKey</key><string>แนวตั้งพอดี</string>
+    <key>SettingsResolutionFitWideScreenLabelKey</key><string>แนวนอนพอดี</string>
+    <key>SettingsResolutionLargeLabelKey</key><string>ขนาดใหญ่</string>
+    <key>SettingsResolutionMediumLabelKey</key><string>ปานกลาง</string>
+    <key>SettingsResolutionSmallLabelKey</key><string>ขนาดเล็ก</string>
+    <key>SettingsStayAwakeLabelKey</key><string>ยังคงทำงานอยู่</string>
+    <key>SettingsStayAwakeFooterTitleKey</key><string>ป้องกันหน้าจอ iPad ของคุณไป \n นอน แต่อาจลดแบตเตอรี่</string>
+    <key>SettingsStayAwakeFooteriPhoneTitleKey</key><string>ป้องกันไม่ให้ iPhone หรือ iPod Touch ของคุณจากไปนอน แต่อาจลดแบตเตอรี่</string>
+    <key>SettingsZoomActualSizeLabelKey</key><string>ขนาดจริง</string>
+    <key>SettingsZoomZoomedInLabelKey</key><string>ขยายใน</string>
+    <key>SettingsZoomZoomedOutLabelKey</key><string>ซูมออก</string>
+    <key>SettingsShareLabelKey</key><string>ใช้ร่วมกัน</string>
+    <key>SettingsTellAFriendLabelKey</key><string>บอกเพื่อน</string>
+    <key>SettingsHelpTitleKey</key><string>วิธีใช้</string>
+    <key>DismissHelpTitleKey</key><string>เสร็จแล้ว</string>
+    <key>SettingsStartSessionCenterLabelKey</key><string>เริ่มต้นตรงกลาง</string>
+    <key>SettingsZoomViewFooterTitleKey</key><string>ถ้าเริ่มต้นขยายแตก \"Actual Size\ " \n \"Start Centered\ " ตัวเลือกจะถูกละเว้น</string>
+    <key>SettingsExitSessionLabelKey</key><string>ถามก่อนออกจาก</string>
+    <key>SettingsGesturesLabelKey</key><string>แนะนำรูปแบบลายเส้น</string>
+    <key>SettingsStartInScrollModeLabelKey</key><string>เริ่มต้นในโหมดเลื่อน</string>
+    <key>SettingsExternalDisplayLabelKey</key><string>จอแสดงผลภายนอก</string>
+    <key>SettingsUseDeviceStorageLabelKey</key><string>ใช้%@เก็บ</string>
+    <key>SettingsLogOutLabelKey</key><string>ออกจากระบบ</string>
+    <key>SettingsLogOutMessageKey</key><string>ออก%@</string>
+    <key>SettingsLearnAskShareLabelKey</key><string>เรียน สอบถาม และใช้ร่วมกัน</string>
+    <key>SettingsApplicationSettingsLabelKey</key><string>ตั้งค่าโปรแกรมประยุกต์</string>
+    <key>SettingsLaunchTrackpadLabelKey</key><string>แทร็คแพไร้สาย</string>
+    <key>SettingsTrackpadModeLabelKey</key><string>ชี้</string>
+    <key>SettingsAdvancedLabelKey</key><string>ขั้นสูง</string>
+    <key>SettingsLogOffLabelKey</key><string>ออกจากระบบ</string>
+    <key>SettingsSessionSharingLabelKey</key><string>เซสชันที่ใช้ร่วมกัน</string>
+    <key>SettingsSessionSharingAutoAddFavoritesLabelKey</key><string>อัตโนมัติเพิ่มรายการโปรด</string>
+    <key>SettingsSessionSharingAutoAddFavoritesMessageKey</key><string>เพิ่มเปิดปพลิเคชันรายการโปรดสำหรับการเข้าถึงด่วนไปยังเซสชันที่ใช้ร่วมกันลักษณะการทำงานโดยอัตโนมัติ</string>
+    <key>SettingsReconnectLogon</key><string>เชื่อมต่อระหว่างการเข้าระบบบัญชี</string>
+    <key>SettingsReconnectRefresh</key><string>เชื่อมต่อระหว่างการฟื้นฟู</string>
+    <key>SettingsWorkspaceControlLabelKey</key><string>ควบคุมพื้นที่ทำงาน</string>
+    <key>SettingFullscreenWindowKey</key><string>หน้าต่างเต็มหน้าจอ</string>
+    <key>SettingsReconnectMessageKey</key><string>โดยอัตโนมัติเชื่อมต่อกับเซสชันที่เปิดจากอุปกรณ์อื่นเมื่อเพิ่มบัญชี หรือฟื้นฟูปพลิเคชัน ถ้ามีเพียงหนึ่งเซสชั่น</string>
+    <key>SettingsAutomaticKeyboardLabelKey</key><string>แป้นพิมพ์อัตโนมัติ</string>
+    <key>SettingsCustomKeysLabelKey</key><string>ขยายคีย์</string>
+    <key>SettingsNativeComboBoxLabelKey</key><string>ใช้กล่องคำสั่งผสมพื้นเมือง</string>
+    <key>SettingsAllowKeyboardExtensionsLabelKey</key><string>ใช้แป้นพิมพ์ที่กำหนดเอง</string>
+    <key>SettingsDontAllowKeyboardExtensionsLabelKey</key><string>ปิดใช้งานแป้นพิมพ์ที่กำหนดเอง</string>
+    <key>SettingsAllowKeyboardExtensionsMessageKey</key><string>ทำให้แป้นพิมพ์ที่กำหนดเอง การสื่อสารกับแหล่งภายนอก อาจก่อให้เกิดความปลอดภัย  ปิดการใช้งานคือ ตัวเลือกที่ปลอดภัยที่สุด แป้นพิมพ์แบบกำหนดเอง \n\nAllowing จะต้องรับสัญญาณออกจากกัน คุณอาจเริ่มรับแล้ว</string>
+    <key>SettingsTokenManagementLabelKey</key><string>โทเค็นความปลอดภัย</string>
+    <key>SettingsTokensLabelKey</key><string>โทเค็น</string>
+    <key>SettingsOptionsLabelKey</key><string>ตัวเลือก</string>
+    <key>SettingsRequestHelpFromSupportLabelKey</key><string>ขอความช่วยเหลือจากฝ่ายสนับสนุน</string>
+    <key>SettingsMutlitouchModeLabelKey</key><string>เปิดใช้งานแบบสัมผัส</string>
+    <key>RequestHelpFromSupportMailBodyTemplate</key><string>&lt;b&gt; &lt; &lt;/b&gt;พนักงานชื่อ &lt;b&gt;&gt;&lt;/b&gt; มีปัญหากับ Citrix รับบน iOS &lt; br / &gt; &lt; br / &gt; นี่คือคำอธิบายของปัญหาของฉัน &lt; br / &gt; &lt; br / &gt; เกี่ยวกับอุปกรณ์ของคุณ:</string>
+    <key>SendFeatureIdeasToCitrixMailBodyTemplate</key><string>นี่คือความคิดของฉันสำหรับการปรับปรุงผู้รับ Citrix บน iOS: &lt; br / &gt; &lt; br / &gt; &lt; br / &gt; เกี่ยวกับอุปกรณ์ของฉัน:</string>
+    <key>EmailBodyDeviceModel</key><string>รุ่นของอุปกรณ์: %@</string>
+    <key>EmailBodyOSVersion</key><string>iOS รุ่น: %@</string>
+    <key>EmailBodyReceiverVersion</key><string>เครื่องรับสัญญาณรุ่น: %@</string>
+    <key>EmailBodyIsJailBroken</key><string>เป็น Jailbroken: %@</string>
+    <key>EmailBodyApplicationMemory</key><string>หน่วยความจำของแอพลิเคชัน: %@</string>
+    <key>EmailBodyFreeMemory</key><string>หน่วยความจำ: %@</string>
+    <key>EmailBodyTotalMemory</key><string>หน่วยความจำรวม: %@</string>
+    <key>EmailBodyMemoryFormat</key><string>%dMB</string>
+    <key>TokenManagementSerialNumber</key><string>หมายเลขประจำสินค้า</string>
+    <key>TokenManagementExpirationDate</key><string>วันหมดอายุ</string>
+    <key>TokenManagementGetPasscode</key><string>ได้รับรหัสผ่าน</string>
+    <key>TokenManagementDeleteToken</key><string>ลบโทเค็น</string>
+    <key>SettingsSupportKey</key><string>สนับสนุน</string>
+    <key>SettingsSupportVisit</key><string>เข้าชม support.citrix.com</string>
+    <key>SettingsIdeasKey</key><string>ส่งความคิดคุณลักษณะ Citrix</string>
+    <key>SettingsLogOptionsTitleKey</key><string>ตัวเลือกการบันทึก</string>
+    <key>SettingsLogs_LogLevel_Critical_Key</key><string>ระดับ 1 ความสำคัญ</string>
+    <key>SettingsLogs_LogLevel_Error_Key</key><string>ข้อผิดพลาดระดับ 2</string>
+    <key>SettingsLogs_LogLevel_Warning_Key</key><string>เตือนระดับ 3</string>
+    <key>SettingsLogs_LogLevel_Info_Key</key><string>ระดับ 4 ให้ข้อมูล</string>
+    <key>SettingsLogs_LogLevel_Detail_Key</key><string>ระดับ 5 รายละเอียด</string>
+    <key>SettingsLogs_LogLevel_Debug_Key</key><string>ดีบักระดับ 6</string>
+    <key>SettingsLogs_LogDestination_File_Key</key><string>แฟ้ม</string>
+    <key>SettingsLogs_LogDestination_Console_Key</key><string>คอนโซล</string>
+    <key>SettingsLogs_LogDestination_FileAndConsole_Key</key><string>แฟ้มและคอนโซล</string>
+    <key>SettingsLogs_MaxLogFiles_Key</key><string>จำนวนของแฟ้มบันทึก:</string>
+    <key>SettingsLogs_MaxLogFileSize_Key</key><string>ขนาดสูงสุดของล็อกไฟล์:</string>
+    <key>SettingsLogs_LogLevel_Options_Key</key><string>ระดับการล็อก</string>
+    <key>SettingsLogs_LogDestination_Options_Key</key><string>บันทึกปลายทาง</string>
+    <key>SettingsLogs_ResetToDefaults_Key</key><string>ตั้งค่าใหม่</string>
+    <key>SettingsLogDestinationOptionsTitleKey</key><string>บันทึกปลายทาง</string>
+    <key>SettingsLogOptionsResetToDefaultValuesTitleKey</key><string>ตั้งค่าใหม่เป็นค่าเริ่มต้น</string>
+    <key>SettingsLogOptionsResetToDefaultValuesMessageKey</key><string>ตัวล็อกจะถูกตั้งค่าค่าเริ่มต้น</string>
+    <key>SettingsLogDetailWarningTitle</key><string>คำเตือน</string>
+    <key>SettingsLogDetailWarningMessage</key><string>เลือกระดับนี้อาจช้าลงประสิทธิภาพการทำงานของผู้รับ  คุณต้องดำเนินต่อหรือไม่</string>
+    <key>AltKeyTitleKey</key><string>Alt</string>
+    <key>AltTabKeyTitleKey</key><string>Alt + Tab</string>
+    <key>ControlCKeyTitleKey</key><string>คัดลอก</string>
+    <key>ControlAltDeleteKeyTitleKey</key><string>Ctrl + Alt + Del</string>
+    <key>ControlEscapeKeyTitleKey</key><string>Ctrl + Esc</string>
+    <key>ControlXKeyTitleKey</key><string>ตัด</string>
+    <key>ControlZKeyTitleKey</key><string>เลิกทำ</string>
+    <key>DeleteKeyTitleKey</key><string>เดล</string>
+    <key>EndKeyTitleKey</key><string>สิ้นสุด</string>
+    <key>EscapeKeyTitleKey</key><string>Esc</string>
+    <key>F1KeyTitleKey</key><string>F1</string>
+    <key>F2KeyTitleKey</key><string>F2</string>
+    <key>F3KeyTitleKey</key><string>F3</string>
+    <key>F4KeyTitleKey</key><string>F4</string>
+    <key>F5KeyTitleKey</key><string>F5</string>
+    <key>F6KeyTitleKey</key><string>F6</string>
+    <key>F7KeyTitleKey</key><string>F7</string>
+    <key>F8KeyTitleKey</key><string>F8</string>
+    <key>F9KeyTitleKey</key><string>F9</string>
+    <key>F10KeyTitleKey</key><string>F10</string>
+    <key>F11KeyTitleKey</key><string>F11</string>
+    <key>F12KeyTitleKey</key><string>F12</string>
+    <key>HomeKeyTitleKey</key><string>บ้าน</string>
+    <key>IMEKey</key><string>IME</string>
+    <key>WinKeyTitleKey</key><string>ชนะ</string>
+    <key>ControlKeyTitleKey</key><string>Ctrl</string>
+    <key>PageDownKeyTitleKey</key><string>ลงหน้า</string>
+    <key>PageUpKeyTitleKey</key><string>ขึ้นหน้า</string>
+    <key>ControlVKeyTitleKey</key><string>วาง</string>
+    <key>RefreshKeyTitleKey</key><string>รีเฟรช</string>
+    <key>ControlSKeyTitleKey</key><string>บันทึก</string>
+    <key>SlideshowKeyTitleKey</key><string>แสดงภาพนิ่ง</string>
+    <key>TabKeyTitleKey</key><string>แท็บ</string>
+    <key>AltF4TitileKey</key><string>ปิดหน้าต่าง</string>
+    <key>ShiftKeyTitleKey</key><string>กะ</string>
+    <key>StartMenuKeyTitleKey</key><string>เมนู'เริ่ม'</string>
+    <key>SendKeyTitleKey</key><string>ส่ง</string>
+    <key>CopyKeyTitleKey</key><string>คัดลอก</string>
+    <key>DoneKeyTitleKey</key><string>เสร็จแล้ว</string>
+    <key>VirtualTextViewMargin</key><string>140</string>
+    <key>UseUnicodeKeyboardKey</key><string>ใช้แป้นพิมพ์ Unicode</string>
+    <key>PinKeyboardToolbar</key><string>ขาแป้นพิมพ์บนแถบเครื่องมือ</string>
+    <key>CitrixDocFinderAppNameKey</key><string>ค้นหาเอกสาร Citrix</string>
+    <key>SMSMsgTitle</key><string>สถานะรหัสผ่าน</string>
+    <key>SMSMsgButtonTitle</key><string>ตกลง, ได้</string>
+    <key>SMSPassCodeRequestSuccessMsg</key><string>คุณจะได้รับของรหัสผ่านเวลาในข้อความข้อความในไม่ช้า กรุณาเคาะตอบ และจากนั้น เคาะการเชื่อมโยงภายในข้อต่อ</string>
+    <key>AddProfileFromUrlWarningMsg</key><string>คุณกำลังจะเพิ่มบัญชีใหม่ กรุณาตรวจทานข้อมูลบนหน้าจอถัดไป และเท่า นั้นถ้ามาจากแหล่งเชื่อถือ</string>
+    <key>AddProfileFromUrlWarningTitle</key><string>เพิ่มบัญชีผู้ใช้</string>
+    <key>PasswordSaveStatusChangeTitleKey</key><string>การเปลี่ยนสถานะ</string>
+    <key>PasswordSavingHasBeenDisabledMessageKey</key><string>ผู้ดูแลระบบได้ปิดใช้งานการบันทึกรหัสผ่านบนเซิร์ฟเวอร์นี้</string>
+    <key>PasswordSavingHasBeenEnabledMessageKey</key><string>มีการเปิดใช้งานผู้ดูแลระบบบันทึกรหัสผ่านบนเซิร์ฟเวอร์นี้</string>
+    <key>ChangePasswordErrorTitleKey</key><string>รหัสผ่านผิดพลาด</string>
+    <key>ChangePasswordErrorFailedConsistencyCheck</key><string>ข้อผิดพลาดเกิดขึ้นขณะพยายามเปลี่ยนรหัสผ่าน password.\n\nYour ไม่มีการเปลี่ยนแปลง</string>
+    <key>ChangePasswordErrorNewPasswordInvalid</key><string>รหัสผ่านใหม่ที่คุณป้อนไม่ถูกต้อง</string>
+    <key>ChangePasswordErrorOldPasswordInvalid</key><string>รหัสผ่านเดิมที่คุณป้อนไม่ถูกต้อง</string>
+    <key>ChangePasswordErrorNewPasswordMismatch</key><string>รหัสผ่านใหม่ที่คุณป้อนไม่ตรงกัน</string>
+    <key>ChangePasswordErrorOldPasswordMismatch</key><string>รหัสผ่านเดิมที่คุณป้อนไม่ตรงกัน</string>
+    <key>ChangePasswordErrorOperationFailed</key><string>ข้อผิดพลาดเกิดขึ้นขณะพยายามเปลี่ยนรหัสผ่าน password.\n\nYour ไม่มีการเปลี่ยนแปลง</string>
+    <key>ChangePasswordOldPasswordPlaceholderKey</key><string>รหัสผ่านเดิม</string>
+    <key>ChangePasswordNewPasswordPlaceholderKey</key><string>รหัสผ่านใหม่</string>
+    <key>ChangePasswordConfirmPasswordPlaceholderKey</key><string>ยืนยันรหัสผ่าน</string>
+    <key>ChangePasswordPasswordExpiredTitleKey</key><string>รหัสผ่านหมดอายุ</string>
+    <key>ChangePasswordPasswordExpiredMessageKey</key><string>ต้องการเปลี่ยนรหัสผ่าน</string>
+    <key>ChangePasswordPasswordExpiredContactAdminMessageKey</key><string>กรุณาเปลี่ยนรหัสผ่านของคุณ แล้วลองอีกครั้ง</string>
+    <key>ChangePasswordPasswordExpiredContactAdminMessageKey2</key><string>กรุณาเปลี่ยนรหัสผ่านของคุณ แล้วลองอีกครั้ง</string>
+    <key>ChangePasswordPasswordsNotMatch</key><string>รหัสผ่านไม่ไม่ตรงกัน \nThe รหัสผ่านสำหรับบัญชีนี้มี expired.\n\nWould ที่คุณต้องการเปลี่ยนรหัสผ่านตอนนี้</string>
+    <key>ChangePasswordPasswordExpiredPromptKey</key><string>รหัสผ่านหมดอายุ โปรดป้อนรหัสผ่านใหม่</string>
+    <key>ChangePasswordPleaseLoginAgain</key><string>รหัสผ่านแล้ว \nPlease เข้าสู่ระบบอีกครั้ง</string>
+    <key>NextTokenTitleKey</key><string>โทเค็นการถัดไป</string>
+    <key>NextTokenPlaceholderKey</key><string>โทเค็นการถัดไป</string>
+    <key>NextTokenMessageKey</key><string>รอรหัสโทเค็นการเปลี่ยน แล้วใส่ code.\n\n โทเค็นใหม่</string>
+    <key>NextTokenInvalidTokenKey</key><string>โทเค็นไม่ถูกต้อง</string>
+    <key>NextTokenOperationFailedMessageKey</key><string>ซิงค์โทเค็นไม่สามารถ กรุณาลองอีกครั้งภายหลัง</string>
+    <key>NextTokenLoginAgainMessageKey</key><string>โทเค็นแล้ว \nPlease รอรหัสโทเค็นการเปลี่ยน แล้วล็อกอออีกครั้ง</string>
+    <key>NextTokenEnterPasscodeKey</key><string>ป้อนรหัสผ่านของคุณ</string>
+    <key>NextTokenNewPINKey</key><string>PIN ใหม่</string>
+    <key>NextTokenConfirmNewPINKey</key><string>ยืนยัน PIN ใหม่</string>
+    <key>NextTokenEnterNewPINTitleKey</key><string>ป้อน PIN ใหม่</string>
+    <key>NextTokenEnterNewPINMessageKey</key><string>ป้อน PIN ใหม่ระหว่าง 4 และ 8 อักขระ</string>
+    <key>NextTokenPINsNotMatch</key><string>หมุดได้ไม่ตรงกัน \nEnter PIN ใหม่ระหว่าง 4 และ 8 อักขระ</string>
+    <key>NextTokenPINChangedMessageKey</key><string>PIN เปลี่ยนเรียบร้อยรอ \nPlease tokencode การเปลี่ยนแปลง แล้วใส่ PIN tokencode ถัดไป</string>
+    <key>TokenPlaceholderKey</key><string>โทเค็น</string>
+    <key>PinPlaceholderKey</key><string>ขา</string>
+    <key>PinTokenPlaceholderKey</key><string>ขา + โทเค็น</string>
+    <key>ASyncHTTPCannotVerifyServerIdentityWithManualSetupOption</key><string>ไม่สามารถตรวจสอบใบรับรองของเซิร์ฟเวอร์นี้: \ "%@\" ได้ เซิร์ฟเวอร์อาจไม่ปลอดภัยได้ \nTo ต่อเข้า เคาะการตั้งค่า และตรวจสอบคำเตือน \"Ignore รับรองได้\"</string>
+    <key>ASyncHTTPCannotVerifyServerIdentityWithContactHelpdesk</key><string>เซิร์ฟเวอร์นี้อาจไม่ปลอดภัย: \ "%@\" ได้ ให้บริการของคุณสำหรับใบรับรองถูกต้อง</string>
+    <key>ASyncHTTPInvalidSSLCert</key><string>ใบรับรองที่ไม่น่าเชื่อถือ</string>
+    <key>ASyncHTTPAllowButtonLabelKey</key><string>อนุญาตให้</string>
+    <key>ASyncHTTPSetupButtonLabelKey</key><string>การตั้งค่า</string>
+    <key>ASyncHTTPGetDataError</key><string>ไม่สามารถรับข้อมูลได้ \nStatus: %d %@</string>
+    <key>AsyncHTTPLearnMoreButtonLabelKey</key><string>ศึกษาเพิ่มเติม</string>
+    <key>BluetoothAlertTitleKey</key><string>การเชื่อมต่อ</string>
+    <key>BluetoothSessionEstablishedMessageKey</key><string>เซสชันไร้สายเรียบร้อย</string>
+    <key>BluetoothWaitingConnectionMessageKey</key><string>กำลังรอการเชื่อมต่ออุปกรณ์...</string>
+    <key>OkButtonText</key><string>ตกลง, ได้</string>
+    <key>YesButtonText</key><string>ใช่</string>
+    <key>NoButtonText</key><string>ไม่ใช่</string>
+    <key>DismissButtonText</key><string>บอกเลิก</string>
+    <key>CancelButtonText</key><string>ยกเลิก</string>
+    <key>MoreInfoButtonText</key><string>ข้อมูลเพิ่มเติม</string>
+    <key>NextButtonText</key><string>ถัดไป</string>
+    <key>SaveButtonText</key><string>บันทึก</string>
+    <key>ConfirmButtonText</key><string>ยืนยัน</string>
+    <key>BackButtonText</key><string>ย้อนกลับ</string>
+    <key>AllowButtonText</key><string>อนุญาตให้</string>
+    <key>DontAllowButtonText</key><string>ไม่อนุญาตให้</string>
+    <key>ConnectionErrorText</key><string>เกิดข้อผิดพลาดขณะเชื่อมต่อ ตรวจสอบของคุณที่อยู่และเครือข่ายการเชื่อมต่อเซิร์ฟเวอร์</string>
+    <key>LoginButtonText</key><string>เข้าสู่ระบบ</string>
+    <key>ExitingTitle</key><string>ออกจากโปรแกรม</string>
+    <key>ExitingText</key><string>ตอนนี้จะออกรับ</string>
+    <key>RestartWarningText</key><string>การเปลี่ยนแปลงนี้ต้องการรับออก คุณอาจเริ่มรับแล้ว</string>
+    <key>ExitButtonText</key><string>จบการทำงาน</string>
+    <key>DontExitButtonText</key><string>ไม่ออก</string>
+    <key>HelpButtonText</key><string>วิธีใช้</string>
+    <key>HelpURL</key><string>http://support.citrix.com/help/receiver/58/ios/en/index.html</string>
+    <key>SettingsPrivacyKey</key><string>นโยบายความเป็นส่วนตัว</string>
+    <key>PrivacyURL</key><string>http://www.citrix.com/about/legal/privacy/plain.html</string>
+    <key>SettingsLicensesKey</key><string>ประกาศบุคคล</string>
+    <key>3rdParthNoticesURL</key><string>https://www.citrix.com/buy/licensing/open-source.html</string>
+    <key>GesturesTitleKey</key><string>รูปแบบลายเส้น</string>
+    <key>GestureTapLabelKey</key><string>เคาะเพื่อคลิก</string>
+    <key>GestureTapHoldReleaseLabelKey</key><string>เคาะ กดค้างไว้พลาง ๆ แล้วปล่อยการคลิกขวา</string>
+    <key>GestureTapHoldMoveLabelKey</key><string>เคาะ กดค้างไว้พลาง ๆ แล้วไปลาก</string>
+    <key>GesturePanLabelKey</key><string>ย้ายนิ้วเลื่อนหน้าจอ</string>
+    <key>GestureVerticalSwipeLabelKey</key><string>รูดแนวตั้งเมื่อต้องการเลื่อน</string>
+    <key>GestureHorizontalSwipeLabelKey</key><string>รูดแนวลูกศรซ้าย/ขวา</string>
+    <key>GesturePinchLabelKey</key><string>หยิกขยาย</string>
+    <key>GestureTwoFingerTapLabelKey</key><string>แตะ ด้วยสองนิ้วเพื่อซูมเข้า/ออก</string>
+    <key>GestureTwoFingerSwipeLabelKey</key><string>รูดสองนิ้วเพื่อเลื่อนมุมมอง</string>
+    <key>GestureRightClickLabelKey</key><string>คลิกขวา</string>
+    <key>GestureAltTabLabelKey</key><string>Alt + Tab</string>
+    <key>GestureToggleKeyboardLabelKey</key><string>สลับแป้นพิมพ์</string>
+    <key>GestureLeftArrowLabelKey</key><string>คีย์ลูกศรซ้าย</string>
+    <key>GestureRightArrowLabelKey</key><string>แป้นลูกศรขวา</string>
+    <key>GestureUpArrowLabelKey</key><string>ค่าคีย์ลูกศร</string>
+    <key>GestureDownArrowLabelKey</key><string>แป้นลูกศรลง</string>
+    <key>GestureMouseWheelUpLabelKey</key><string>ล้อเลื่อนของเมาส์ขึ้น</string>
+    <key>GestureMouseWheelDownLabelKey</key><string>เมาส์ล้อลง</string>
+    <key>GestureTapAndHoldKey</key><string>เคาะและกดค้างไว้</string>
+    <key>GestureTwoFingerTapKey</key><string>แตะสองนิ้ว</string>
+    <key>GestureThreeFingerTapKey</key><string>เคาะ 3 นิ้ว</string>
+    <key>GestureSwipeLeftKey</key><string>รูดไปทางซ้าย</string>
+    <key>GestureSwipeRightKey</key><string>ขวารูด</string>
+    <key>GestureSwipeUpKey</key><string>รูดขึ้น</string>
+    <key>GestureSwipeDownKey</key><string>รูดลง</string>
+    <key>GestureTwoFingerSwipeLeftKey</key><string>สองนิ้วมือซ้ายรูด</string>
+    <key>GestureTwoFingerSwipeRightKey</key><string>สองนิ้วมือขวารูด</string>
+    <key>GestureTwoFingerSwipeUpKey</key><string>รูดนิ้วมือสองค่า</string>
+    <key>GestureTwoFingerSwipeDownKey</key><string>สองนิ้วรูดลง</string>
+    <key>GestureThreeFingerSwipeLeftKey</key><string>สามนิ้วมือซ้ายรูด</string>
+    <key>GestureThreeFingerSwipeRightKey</key><string>สามนิ้วมือขวารูด</string>
+    <key>GestureThreeFingerSwipeUpKey</key><string>สามนิ้วรูดขึ้น</string>
+    <key>GestureThreeFingerSwipeDownKey</key><string>สามนิ้วรูดลง</string>
+    <key>GestureDisableGesture</key><string>ปิดการใช้งานรูปแบบลายเส้น</string>
+    <key>GestureResetToDefaultLabelKey</key><string>ตั้งค่าเริ่มต้น</string>
+    <key>GestureResetToDefaultMessageKey</key><string>คุณต้องการตั้งค่ารูปแบบลายเส้นต้นแน่ใจหรือไม่</string>
+    <key>SecurityAlertTitleKey</key><string>แจ้งเตือนความปลอดภัย</string>
+    <key>SecurityAlertJailbreakMessageKey</key><string>Citrix รับตรวจพบอุปกรณ์นี้ได้ jailbroken และไม่สามารถไว้ใจเรียกใช้ app นี้อย่างปลอดภัย</string>
+    <key>SecurityAlertExitButtonLabelKey</key><string>จบการทำงาน</string>
+    <key>IgnoreCertificateErrorsKey</key><string>ละเว้นคำเตือนของใบรับรอง</string>
+    <key>IgnoreCertificateErrorsMessage</key><string>คุณแน่ใจเพื่อหลีกเลี่ยงการรับรองความปลอดภัย สอบถามบริการของคุณหาก คุณไม่แน่ใจ</string>
+    <key>DataSaveAlertTitleKey</key><string>การแจ้งเตือน</string>
+    <key>DataSaveAlertMessageKey</key><string>โปรแกรมประยุกต์มีบางข้อมูลบันทึกที่สามารถบันทึกไว้บนคลิปบอร์ดเพื่อใช้ในอนาคต คุณต้องการบันทึกเอกสารเดี๋ยวนี้</string>
+    <key>DataSaveAlertCancelButtonLabelKey</key><string>ละทิ้ง</string>
+    <key>DataSaveAlertOKButtonLabelKey</key><string>บันทึก</string>
+    <key>TrackpadReadyToConnectTitleKey</key><string>พร้อมการเชื่อมต่อ</string>
+    <key>TrackpadAcceptConnectionFromLabelKey</key><string>ยอมรับการเชื่อมต่อจาก: \n</string>
+    <key>TrackpadConfirmConnectionLabelKey</key><string>ยืนยันการเชื่อมต่อ</string>
+    <key>TrackpadConnectionErrorLabelKey</key><string>ข้อผิดพลาดการเชื่อมต่อ</string>
+    <key>TrackpadWirelessTrackpadActiveAlertMessageKey</key><string>แทร็คแพไร้สายทำงานอยู่ กรุณายกเลิกก่อนที่จะพยายามใช้แทร็คแพเจ้า</string>
+    <key>TrackpadNativeTrackpadActiveAlertMessageKey</key><string>แทร็คแพดั้งเดิมอยู่ กรุณาปิดก่อนใช้แทร็คแพไร้สาย</string>
+    <key>TrackpadConnectedTitleKey</key><string>การเชื่อมต่อ</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey1</key><string>เปิด</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey2</key><string>หน้าต่างใหม่</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey3</key><string>ตัดการเชื่อมต่อ</string>
+    <key>DisambiguateReconnectOpen</key><string>เปิด</string>
+    <key>DisambiguateReconnectNewWindow</key><string>หน้าต่างใหม่</string>
+    <key>DisambiguateReconnectCancel</key><string>ยกเลิก</string>
+    <key>DisambiguateReconnectTitleFormat</key><string>%@กำลังทำงานอยู่</string>
+    <key>DisambiguateReconnectMessage</key><string>คุณสามารถเชื่อมต่อไปยังโปรแกรมประยุกต์นี้ หรือเปิดหน้าต่างเพิ่มเติม</string>
+    <key>AppSwitchMenuTitleKey</key><string>สลับปพลิเคชัน</string>
+    <key>AppSwitchMenuTitleKeyNoWindows</key><string>เซิร์ฟเวอร์ที่เชื่อมต่ออาจไม่สนับสนุนการสลับ App ...</string>
+    <key>PullRefreshDateFormatKey</key><string>MM/dd/yyyy hh: mm: การ</string>
+    <key>PullRefreshDateAMSymbolKey</key><string>น.</string>
+    <key>PullRefreshDatePMSymbolKey</key><string>น.</string>
+    <key>PullRefreshLastUpdatedFormatKey</key><string>ปรับปรุงล่าสุด: %@</string>
+    <key>PullRefreshPullingLabelKey</key><string>ปล่อยให้ฟื้นฟู...</string>
+    <key>PullRefreshNormalLabelKey</key><string>ดึงลงฟื้นฟู...</string>
+    <key>PullRefreshLoadingLabelKey</key><string>กำลังโหลด...</string>
+    <key>ConnectionErrorAlertTitleKey</key><string>ข้อผิดพลาดการเชื่อมต่อ</string>
+    <key>ConnectionErrorAlertMessageKey</key><string>โปรแกรมประยุกต์พบข้อผิดพลาดร้ายแรง และจะปิด กรุณาแก้ไขข้างต้นข้อผิดพลาด และสนับสนุนโปรแกรมประยุกต์</string>
+    <key>ConnectionErrorAlertMessage2Key</key><string>ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์</string>
+    <key>RestoringDataConnection</key><string>คืนค่าการเชื่อมต่อข้อมูล...</string>
+    <key>DataConnectionRestored</key><string>เชื่อมต่อข้อมูลที่คืนค่า</string>
+    <key>StoreLogoutMessageTitleKey</key><string>ออกจากระบบ หรือยกเลิก</string>
+    <key>StoreLogoutMessageKey</key><string>ถ้าคุณยกเลิก การในโปรแกรมประยุกต์ที่เปิดได้ในครั้งถัดไปที่คุณเชื่อมต่อ ถ้าคุณออกจากระบบ การอาจสูญหาย</string>
+    <key>LogoutButtonText</key><string>ออกจากระบบ</string>
+    <key>DisconnectButtonText</key><string>ตัดการเชื่อมต่อ</string>
+    <key>StoreLoggedOffMessageKey</key><string>คุณมีระบบ accounts จากทั้งหมด</string>
+    <key>ConnectionsButtonTitleKey</key><string>การเชื่อมต่อ</string>
+    <key>ConnectionsActionSheetTitleKey</key><string>เชื่อมต่อศูนย์</string>
+    <key>LogoutAlertTitleKey</key><string>ยืนยันการออกจากระบบ</string>
+    <key>LogoutAlertMessageKey</key><string>คุณต้องออกแน่ใจหรือไม่ ข้อมูลยังไม่ได้บันทึกจะสูญหาย</string>
+    <key>DISMISS_BUTTON_TITLE</key><string>ตกลง, ได้</string>
+    <key>PLACE_HOLDER_CRED_ID</key><string>A12345678</string>
+    <key>CONNECTING_LABEL</key><string>เชื่อมต่อ...</string>
+    <key>CANCEL_BUTTON_TITLE</key><string>ยกเลิก</string>
+    <key>TIMEOUT_MESSAGE_FORMAT</key><string>คงเหลือ %d วินาที</string>
+    <key>LocationServicesAllowAccessKey</key><string>\ "%@\ " อยากใช้ที่ตั้งปัจจุบันของคุณ</string>
+    <key>LocationServicesChangeGeneralSettingsKey</key><string>เปิดสถานบริการให้ \ "%@\" เพื่อกำหนดที่ตั้งของคุณ</string>
+    <key>LocationServicesSecureConnectionWarning</key><string>ขอแนะนำ %@\n\nA เชื่อมต่อที่ปลอดภัยเมื่อใช้บริการสถาน</string>
+    <key>ImportCertificateKey</key><string>นำเข้าใบรับรอง</string>
+    <key>ImportNewCertificateKey</key><string>นำเข้าใบรับรองใหม่</string>
+    <key>SelectCertificateKey</key><string>เลือกใบรับรอง</string>
+    <key>CertificatesKey</key><string>ใบรับรอง</string>
+    <key>CertificateKey</key><string>ใบรับรอง</string>
+    <key>CertificateNameKey</key><string>ชื่อ</string>
+    <key>CertificateNamePlaceHolderKey</key><string>ชื่อของใบรับรอง</string>
+    <key>CertificateURLKey</key><string>ที่อยู่</string>
+    <key>CertificateURLPlaceHolderKey</key><string>URL ของใบรับรอง</string>
+    <key>IssuedToKey</key><string>ออกไป:</string>
+    <key>PasswordAlertMessageForImportCertificateKey</key><string>ป้อนรหัสผ่านสำหรับใบรับรองนี้</string>
+    <key>ImportCertificateFailedTitle</key><string>ไม่สามารถนำเข้าใบรับรอง</string>
+    <key>ImportCertificateFailedMessage</key><string>นำเข้าพวงกุญแจที่ล้มเหลว</string>
+    <key>WrongPasswordErrorKey</key><string>นำเข้าพวงกุญแจที่ล้มเหลวเนื่องจากรหัสผ่านไม่ถูกต้อง</string>
+    <key>CertificateExistsErrorKey</key><string>นำเข้าพวงกุญแจที่ล้มเหลวเนื่องจากใบรับรองอยู่แล้ว</string>
+    <key>CertificateFormatNotSupportedErrorKey</key><string>นำเข้าพวงกุญแจที่ล้มเหลวเนื่องจากใบรับรองไม่ได้อยู่ในรูปแบบ P12</string>
+    <key>AddCertificateErrorTitleKey</key><string>ใบรับรองการนำเข้าแล้ว</string>
+    <key>AddCertificateErrorButtonText</key><string>ตกลง, ได้</string>
+    <key>DeleteCertificateWarningTitleKey</key><string>คำเตือน</string>
+    <key>DeleteCertificateWarningMessageKey</key><string>มีการใช้ใบรับรองนี้ โดยร้านค้า คุณต้องการแน่ใจหรือไม่</string>
+    <key>DeleteButtonText</key><string>ลบ</string>
+    <key>ImportCertificateFailedNoDataMessage</key><string>ว่างเปล่า หรือมีประกาศนียบัตรที่ URL นั้น</string>
+    <key>SRConfigurationError</key><string>ไม่สามารถเพิ่มบัญชี</string>
+    <key>SRParseError</key><string>ไม่สามารถเพิ่มบัญชี</string>
+    <key>SSLChainNotEvaluated</key><string>ไม่สามารถตรวจสอบใบรับรองเซิร์ฟเวอร์ การเพิ่มบัญชีผู้ใช้นี้ เปิด 'คำเตือนใบรับรองละเว้น'</string>
+    <key>SRStoreLogin</key><string>บัญชีใหม่ของคุณได้ โปรดเข้าสู่ระบบเพื่อเข้าถึงบัญชีของคุณใหม่</string>
+    <key>SRStorePersistError</key><string>ไม่สามารถเพิ่มบัญชี</string>
+    <key>SROverwriteStore</key><string>แทนบัญชี</string>
+    <key>SRConfirmOverwriteStore</key><string>คุณต้องการแทน%@</string>
+    <key>SelectAccountDiscoveryStore</key><string>เลือกร้านค้า</string>
+    <key>AccountDiscoveryDocumentNoStore</key><string>ไม่สามารถเพิ่มบัญชี</string>
+    <key>AccountDiscoveryDocumentNoNewStores</key><string>ร้านค้าทั้งหมดในเอกสารค้นพบได้ถูกโหลด</string>
+    <key>AccountDiscoveryDocumentError</key><string>ไม่สามารถเพิ่มบัญชี</string>
+    <key>AccountDiscoveryIgnoreCertificateDescription</key><string>ค้นหาบัญชี</string>
+    <key>AccountDiscoveryAddAccountErrorTitle</key><string>ไม่สามารถเพิ่มบัญชี</string>
+    <key>AccountDiscoveryNoURLForEmail</key><string>รับไม่พบเซิร์ฟเวอร์สำหรับโดเมนนี้ ถ้าคุณได้รับ URL จากมัน คุณสามารถป้อนค่าที่แทนอีเมลของคุณ</string>
+    <key>AccountDiscoveryEmailErrorTitle</key><string>อีเมล์ไม่ถูกต้อง</string>
+    <key>AccountDiscoveryInvalidEmail</key><string>ป้อนอีเมลของคุณใน name@domain.com รูปแบบ</string>
+    <key>AccountDiscoveryInvalidGatewaySetting</key><string>การตั้งค่าเกตเวย์ไม่ถูกต้อง</string>
+    <key>AppsTabTitleKey</key><string>ปพลิเคชัน</string>
+    <key>DocsTabTitleKey</key><string>เอกสาร</string>
+    <key>FilePreviewKey</key><string>ดูตัวอย่าง</string>
+    <key>OpenWithXenappKey</key><string>เปิด App</string>
+    <key>SendFileKey</key><string>ส่งแฟ้ม</string>
+    <key>SaveOfflineKey</key><string>ดาวน์โหลด</string>
+    <key>RemoveOfflineKey</key><string>เอาออก</string>
+    <key>NoMatchKey</key><string>ไม่พบรายการ</string>
+    <key>EnableSharedDocuments</key><string>กรุณาเปิดใช้งานเอกสารที่ใช้ร่วมกันจากการตั้งค่าขั้นสูง</string>
+    <key>SessionSharingWarning</key><string>คำเตือน</string>
+    <key>RemoveDocFromOffline_Title</key><string>ลบเอกสารหรือไม่</string>
+    <key>RemoveDocFromOffline_Text</key><string>นอกจากนี้คุณยังสามารถดูเอกสารนี้เมื่อเชื่อมต่ออินเทอร์เน็ต</string>
+    <key>FMDBlade_Title</key><string>ร่วมกันกับฉัน</string>
+    <key>FMDSendDefaultSubjectFile</key><string>ส่งแฟ้มให้คุณใช้ Sharefile</string>
+    <key>FMDSendDefaultSubjectFolder</key><string>โฟลเดอร์ถูกส่งให้คุณโดยใช้ Sharefile</string>
+    <key>FMDSendHintText</key><string>ป้อนข้อความแบบกำหนดเองที่นี่</string>
+    <key>OK</key><string>ตกลง, ได้</string>
+    <key>Cancel</key><string>ยกเลิก</string>
+    <key>DeleteUser</key><string>เอาผู้ใช้ออกหรือไม่</string>
+    <key>Read</key><string>อ่าน</string>
+    <key>ReadOnlyKey</key><string>แบบอ่านอย่างเดียว</string>
+    <key>ReadWrite</key><string>อ่าน/เขียน</string>
+    <key>RemoveButtonText</key><string>เอาออก</string>
+    <key>CopyFileURLKey</key><string>คัดลอกการเชื่อมโยง</string>
+    <key>LastModifiedBy</key><string>เจ้าของ</string>
+    <key>LastModified</key><string>แก้ไขครั้งล่าสุด</string>
+    <key>FileSize</key><string>ขนาด</string>
+    <key>FMD_PermanentDeleteTitle</key><string>ลบเอกสารหรือไม่</string>
+    <key>FMD_CannotBeUnDone</key><string>การกระทำนี้ไม่สามารถเลิกทำ</string>
+    <key>UserNotInAddressBook</key><string>คนนี้ไม่ได้อยู่ในเครือข่ายของบริษัท คุณสามารถใช้โฟลเดอร์ร่วมกับคนที่อยู่ในเครือข่ายของบริษัทเท่านั้น</string>
+    <key>NotBeingShared</key><string>โฟลเดอร์นี้จะไม่ถูกใช้ร่วมกันกับใคร</string>
+    <key>SendFolderTitle</key><string>ส่งโฟลเดอร์</string>
+    <key>SendFileTitle</key><string>ส่งแฟ้ม</string>
+    <key>FMD_MyDocs</key><string>%1$@ %2$@เอกสาร</string>
+    <key>FMD_RemoveFavorite_Title</key><string>ลบโฟลเดอร์หรือไม่</string>
+    <key>FMD_RemoveFavorite_Text</key><string>%@จะไม่ซิงค์กับอุปกรณ์ของคุณ</string>
+    <key>Unlimited</key><string>ไม่จำกัด</string>
+    <key>Downloads</key><string>ดาวน์โหลด</string>
+    <key>FMD_GeneralError_NotLoggedIn_Title</key><string>เข้าสู่ระบบไม่ถูกต้อง</string>
+    <key>FMD_GeneralError_NotLoggedIn_Text</key><string>คุณต้องเข้าสู่ใน ShareFile การกระทำนี้</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Title</key><string>ไม่สามารถเชื่อมต่อ</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Text</key><string>ตรวจสอบการเชื่อมต่อเครือข่าย แล้วลองอีกครั้ง</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Title</key><string>เอกสารที่เช็ด</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Text</key><string>ผู้ดูแลระบบของคุณได้เอาเอกสารออกจากอุปกรณ์ของคุณ</string>
+    <key>FMD_GeneralError_InvalidCredentials_Title</key><string>เข้าสู่ระบบไม่ถูกต้อง</string>
+    <key>FMD_GeneralError_InvalidCredentials_NonSSO_Text</key><string>ชื่อผู้ใช้ที่ไม่ถูกต้องหรือรหัสผ่าน</string>
+    <key>FMD_GeneralError_InvalidCredentials_SSO_Text</key><string>เข้าสู่ระบบ Citrix รับไปดำเนินการต่อไป</string>
+    <key>FMD_GeneralError_UnrecognizedSFAPIError_Title</key><string>ปัญหาการใช้ร่วมกันโฟลเดอร์</string>
+    <key>FMD_SyncError_ItemNotFound_Title</key><string>ไม่พบไฟล์</string>
+    <key>FMD_SyncError_ItemNotFound_Text</key><string>แฟ้มที่ไม่พบบนอุปกรณ์ของคุณ</string>
+    <key>FMD_DownloadError_Title</key><string>ปัญหาการดาวน์โหลดแฟ้ม</string>
+    <key>FMD_DownloadError_ParentNotFound_Text</key><string>รายการนี้ไม่สามารถเรียกจาก cloud ได้เนื่องจากโฟลเดอร์ไม่สามารถกำหนด</string>
+    <key>FMD_DownloadError_AccessDenied_Text</key><string>คุณไม่มีสิทธิ์ในการดาวน์โหลดแฟ้มไปยังอุปกรณ์นี้</string>
+    <key>FMD_DownloadError_NotEnoughSpace_Text</key><string>ไม่สามารถดาวน์โหลดแฟ้ม คุณจะเกินวงเงิน 500MB สำหรับการดาวน์โหลดแฟ้ม</string>
+    <key>FMD_UploadError_Title</key><string>ปัญหาการอัปโหลดแฟ้ม</string>
+    <key>FMD_UploadError_ParentNotFound_Text</key><string>รายการนี้ไม่สามารถบันทึกไปยัง cloud ได้เนื่องจากโฟลเดอร์ไม่สามารถกำหนด</string>
+    <key>FMD_UploadError_FileNotFound_Text</key><string>แฟ้มที่ไม่พบบนอุปกรณ์ของคุณ</string>
+    <key>FMD_UploadError_CannotReadFileAttributes_Text</key><string>รายการนี้ไม่สามารถบันทึกไปยัง cloud เนื่องจากไม่สามารถกำหนดขนาดของอุปกรณ์ของคุณ แฟ้มอาจเสียหาย</string>
+    <key>FMD_UploadError_AccessDenied_Text</key><string>คุณไม่มีสิทธิ์ในการอัปโหลดแฟ้มนี้</string>
+    <key>FMD_AddressBookError_Title</key><string>ข้อผิดพลาดของสมุดที่อยู่</string>
+    <key>FMD_EmployeeAddressBookError_AccessDenied_Text</key><string>ไม่สามารถเรียกสมุดรายชื่อพนักงานจาก cloud ได้คุณได้ไม่ได้ให้สิทธิ accesss เนื่องจากมันได้</string>
+    <key>FMD_ClientAddressBookError_AccessDenied_Text</key><string>สมุดรายชื่อลูกค้าไม่สามารถเรียกจาก cloud ได้คุณได้ไม่ได้ให้สิทธิ accesss เนื่องจากมันได้</string>
+    <key>FMD_DeleteFileError_Title</key><string>ไม่สามารถเอาแฟ้มออก</string>
+    <key>FMD_DeleteFileError_AccessDenied_Text</key><string>คุณไม่มีสิทธิ์ในการลบแฟ้มนี้</string>
+    <key>FMD_DocsSettingsLabelKey</key><string>ShareFile</string>
+    <key>FMD_DocsUsernameLabelKey</key><string>ชื่อผู้ใช้</string>
+    <key>FMD_DocsPasswordLabelKey</key><string>รหัสผ่าน</string>
+    <key>FMD_DocsAccountsTitleKey</key><string>การตั้งค่า ShareFile</string>
+    <key>FMD_SaveButtonKey</key><string>บันทึก</string>
+    <key>FMDLoginFailedUsernamePasswdText</key><string>ชื่อผู้ใช้ที่ไม่ถูกต้องหรือรหัสผ่าน</string>
+    <key>FMDSendFileFailedTitle</key><string>ปัญหาการส่งไฟล์</string>
+    <key>FMDShareFolderFailedTitle</key><string>ปัญหาการใช้ร่วมกันโฟลเดอร์</string>
+    <key>FMDShareFolderFailedInvalidEmailText</key><string>ป้อนที่อยู่อีเมล์ใน name@domain.com รูปแบบ</string>
+    <key>FMDDownloadFailedConnectionText</key><string>ไม่สามารถเชื่อมต่อ ตรวจสอบการเชื่อมต่อเครือข่าย แล้วลองอีกครั้ง</string>
+    <key>FMDDownloadFailedPermissionText</key><string>คุณไม่มีสิทธิ์ในการดาวน์โหลดแฟ้มไปยังอุปกรณ์นี้</string>
+    <key>FMDChooseSubDomainMessageFormatKey</key><string>ใช้โดเมนย่อยนี้หรือไม่ - %@</string>
+    <key>FMDUseTitleKey</key><string>ใช้</string>
+    <key>FMDNotUseTitleKey</key><string>ไม่ได้ใช้</string>
+    <key>TryDemoLabel</key><string>ลองสาธิต</string>
+    <key>FirstTimeAddYour</key><string>เพิ่มของคุณ</string>
+    <key>FirstTimeFavoriteApps</key><string>ปพลิเคชันที่ชื่นชอบ</string>
+    <key>FMDErrorAddAccountFailedGeneral</key><string>ตรวจสอบการตั้งค่าบัญชีของคุณ และลองอีกครั้ง</string>
+    <key>FMDErrorSubDomain</key><string>ป้อนโดเมนย่อยที่ใน myaccount.sharefile.com รูปแบบ</string>
+    <key>FMDErrorCantFindAddressBook_Title</key><string>สมุดรายชื่อการค้นหาปัญหา</string>
+    <key>FMDErrorSendingFolder_Title</key><string>โฟลเดอร์การส่งปัญหา</string>
+    <key>FMDErrorProblemCopyingLink</key><string>ปัญหาการคัดลอกการเชื่อมโยง</string>
+    <key>FMDErrorSaveQuota</key><string>ไม่สามารถบันทึกแฟ้ม ถึงโควต้าของ ShareFile</string>
+    <key>FMDErrorNoPermissionToDownload</key><string>คุณไม่มีสิทธิ์ในการดาวน์โหลดแฟ้มไปยังอุปกรณ์นี้</string>
+    <key>FMDErrorCouldNotUpload1</key><string>ไม่สามารถอัปโหลดแฟ้ม ถึงโควต้าของ ShareFile</string>
+    <key>FMDErrorCouldNotUpload2</key><string>ไม่สามารถอัปโหลดแฟ้ม</string>
+    <key>FMDErrorFileNotAvailable</key><string>แฟ้มนี้จะไม่พร้อมใช้งาน</string>
+    <key>FMDErrorNoDocs</key><string>เอกสารของคุณไม่มีอยู่ในปัจจุบัน</string>
+    <key>FMDErrorNoSharedFolders</key><string>โฟลเดอร์ที่ใช้ร่วมกันของคุณไม่มีอยู่ในปัจจุบัน</string>
+    <key>FMDErrorFatal</key><string>ข้อผิดพลาดที่ไม่คาดคิดเกิดขึ้น [ถ้าเริ่มใหม่สุด] คุณต้องเริ่มรับ Citrix ขณะนี้หรือไม่ ใช่/ไม่ใช่</string>
+    <key>DeleteFileKey</key><string>ลบ</string>
+    <key>ErrorKey</key><string>ข้อผิดพลาด</string>
+    <key>Write</key><string>เขียน</string>
+    <key>FMD_DocsAccountsLabelKey</key><string>บัญชี</string>
+    <key>FMDLoginFailedTitle</key><string>เข้าสู่ระบบไม่ถูกต้อง</string>
+    <key>FMDLoginFailedGeneralText</key><string>ตรวจสอบข้อมูลบัญชีของคุณ แล้วลองอีกครั้ง</string>
+    <key>FMDLoginFailedURLText</key><string>ป้อน URL ลงใน myaccount.sharefile.com รูปแบบ</string>
+    <key>FMDLoginFailedSofttokenText</key><string>ป้อนรหัสถูกต้อง</string>
+    <key>FMDAddAccountFailedTitle</key><string>ไม่สามารถเพิ่มบัญชี</string>
+    <key>FMDLoginFailedUsernameRequiredText</key><string>ป้อนชื่อผู้ใช้ของคุณ</string>
+    <key>FMDLoginFailedPasswordRequiredText</key><string>ป้อนรหัสผ่านของคุณ</string>
+    <key>FMDLoginFailedInvalidEmailText</key><string>ป้อนอีเมลของคุณใน name@domain.com รูปแบบ</string>
+    <key>FMDLoginFailedNoAccountText</key><string>ไม่พบบัญชีนี้ ShareFile</string>
+    <key>FMDSendFileFailedInvalidEmailText</key><string>ป้อนที่อยู่อีเมล์ใน name@domain.com รูปแบบ</string>
+    <key>FMDShareFolderFailedShare</key><string>ลองอีกครั้งในไม่กี่นาที</string>
+    <key>FMDShareFolderFailedPersonNotFound</key><string>คนเหล่านี้ไม่ได้อยู่ในเครือข่ายของบริษัท คุณสามารถใช้โฟลเดอร์ร่วมกับคนที่อยู่ในเครือข่ายของบริษัทเท่านั้น</string>
+    <key>FMDShareFolderFailedAddressbookAccess</key><string>คุณไม่มีสิทธิ์ในการเข้าถึงสมุดรายชื่อ</string>
+    <key>FMDDownloadFailedTitle</key><string>ปัญหาการดาวน์โหลดแฟ้ม</string>
+    <key>FMDDownloadFailedSpaceText</key><string>ไม่มีเนื้อที่ว่างเพียงพอบนอุปกรณ์ของคุณเพื่อบันทึกแฟ้มนี้</string>
+    <key>FMDDownloadFailedQuotaText</key><string>ไม่สามารถดาวน์โหลดแฟ้ม คุณจะเกินวงเงิน 500 MB สำหรับการดาวน์โหลดแฟ้ม</string>
+    <key>FMDDownloadFailedFileText</key><string>ไม่พบแฟ้มนี้</string>
+    <key>FMDDownloadFailedFileSizeText</key><string>ไม่สามารถกำหนดขนาดไฟล์ แฟ้มอาจเสียหาย</string>
+    <key>FMDDownloadFailedFileRemovedText</key><string>แฟ้มนี้ได้ถูกเอาออกจากอุปกรณ์ของคุณ</string>
+    <key>FMDSaveFileFailedTitle</key><string>ไม่สามารถบันทึกแฟ้ม</string>
+    <key>FMDSaveFileFailedSpaceText</key><string>ไม่มีเนื้อที่ว่างเพียงพอเพื่อบันทึกแฟ้มนี้ </string>
+    <key>FMDSaveFileFailedPermissionText</key><string>คุณไม่มีสิทธิ์บันทึกแฟ้ม</string>
+    <key>FMDReplaceFileTitle</key><string>แทนแฟ้มหรือไม่</string>
+    <key>FMDReplaceFileText</key><string>แฟ้มมีอยู่แล้ว คุณต้องการแทนหรือไม่</string>
+    <key>FMDOpenFileFailedTitle</key><string>ไม่สามารถเปิดแฟ้ม</string>
+    <key>FMDOpenFileFailedNoAppText</key><string>เป็น app สำหรับแฟ้มชนิดนี้ไม่พบ ตรวจสอบเพื่อดูว่า app มีอยู่ในตัวรับสัญญาณก่อน</string>
+    <key>FMDRemoveFileFailedTitle</key><string>ไม่สามารถเอาแฟ้มออก</string>
+    <key>FMDRemoveFileFailedPermisisonText</key><string>คุณไม่มีสิทธิ์ในการลบแฟ้มนี้</string>
+    <key>FMDFileNotFoundFailedTitle</key><string>ไม่พบไฟล์</string>
+    <key>FMDFileNotFoundFailedNotAvailableText</key><string>แฟ้มนี้ไม่สามารถใช้งาน ลองอีกครั้งในไม่กี่นาที</string>
+    <key>FMDFileNotFoundFailedNotSyncedText</key><string>แฟ้มนี้ได้ไม่ได้ซิงค์กับอุปกรณ์นี้ยัง</string>
+    <key>FMDFileNotFoundFailedWipedText</key><string>ผู้ดูแลระบบของคุณได้เอาเอกสารของคุณจากอุปกรณ์ของคุณ</string>
+    <key>FMDFileNotFoundFailedRemovedText</key><string>แฟ้มนี้ได้ถูกเอาออกจากอุปกรณ์ของคุณ</string>
+    <key>MobileAppConfirmUnsubscribeTitleKey</key><string>เอาออก \ "%@\" </string>
+    <key>MobileAppConfirmUnsubscribeDescriptionKey</key><string>เอา app นี้ปิดการใช้งานในอุปกรณ์ทั้งหมด</string>
+    <key>MobileAppConfirmDownloadTitleKey</key><string>ยืนยันดาวน์โหลด</string>
+    <key>MobileAppConfirmDownloadDescriptionKey</key><string>App นี้เคลื่อนแรกต้องถูกดาวน์โหลดมายังอุปกรณ์ของคุณเพื่อเปิด คุณต้องดาวน์โหลด app นี้</string>
+    <key>AppPendingTitleKey</key><string>ขอ app ที่ค้างอยู่</string>
+    <key>AppPendingDescriptionKey</key><string>App นี้อยู่ระหว่างการพิจารณาอนุมัติ</string>
+    <key>AppDeniedTitleKey</key><string>ปฏิเสธการร้องขอโปรแกรมประยุกต์</string>
+    <key>AppDeniedDescriptionKey</key><string>เข้าถึงโปรแกรมประยุกต์นี้ถูกปฏิเสธ</string>
+    <key>MaintenenceModeTitleKey</key><string>โปรแกรมประยุกต์ถูกปิดใช้งาน</string>
+    <key>MaintenenceModeAppDisabled</key><string>ปิดใช้งาน app นี้อยู่</string>
+    <key>AppNotFoundTitleKey</key><string>โปรแกรมประยุกต์ที่ไม่พร้อมใช้งาน</string>
+    <key>AppNotFoundDescriptionKey</key><string>App นี้ไม่พร้อมใช้งานในปัจจุบัน</string>
+    <key>SelectFeedbackTitleKey</key><string>ส่งคำติชม</string>
+    <key>SelectFeedbackCancelKey</key><string>ยกเลิก</string>
+    <key>GeneralFeedback</key><string>ความคิดเห็นทั่วไป</string>
+    <key>ReportIssue</key><string>รายงานปัญหา</string>
+    <key>EmailSubjectForIOSLogs</key><string>สำหรับล็อก iOS</string>
+    <key>EmailSubjectForIOSFeedback</key><string>สำหรับผลป้อนกลับของ iOS</string>
+    <key>EmailSubjectForFeatureIdeasToCitrix</key><string>ส่งความคิดคุณลักษณะ Citrix</string>
+    <key>JailBrokenAlertTitle</key><string>อุปกรณ์ที่ไม่ปลอดภัย</string>
+    <key>JailBrokenAlertMsg</key><string>บริษัทของคุณไม่อนุญาตให้ app นี้ไปรันบนอุปกรณ์ jailbroken</string>
+    <key>WifiRequiredAlertMsg</key><string>เชื่อมต่อกับเครือข่ายไร้สายจะใช้ app นี้</string>
+    <key>AccountLockedTitle</key><string>ปพลิเคชันที่ถูกล็อก</string>
+    <key>AccountLockedMessage</key><string>องค์กรของคุณมีล็อกของปพลิเคชันรับ Citrix ติดต่อผู้ดูแลระบบของคุณสำหรับข้อมูลเพิ่มเติม</string>
+    <key>DeviceNameLabel</key><string>ชื่ออุปกรณ์</string>
+    <key>WebcamPermissionDialogTitle</key><string>เดสก์ท็อปเสมือนกำลังพยายามใช้เว็บแคมหรือไมโครโฟนของคุณ</string>
+    <key>WebcamPermissionDialogMsg</key><string>คุณต้องการให้เดสก์ท็อปเสมือนที่ใช้อุปกรณ์เหล่านี้หรือไม่</string>
+    <key>MouseViewFTUGuide</key><string>เคาะสองครั้งเพื่อซูม</string>
+    <key>BAIPairingTitleKey</key><string>การจับคู่</string>
+    <key>BAIBeginPairingKey</key><string>ใส่เครื่องอ่านใน \"Continue\ สามารถค้นพบได้โหมดและกด" เริ่มต้นจับคู่</string>
+    <key>BAIAttachAdapterKey</key><string>BaiMobile อะแดปเตอร์ Bluetooth กับอุปกรณ์ของคุณ</string>
+    <key>BAICancelKey</key><string>ยกเลิก</string>
+    <key>BAISearchDiscoverableDevicesKey</key><string>ค้นหาอุปกรณ์ที่สามารถค้นพบได้</string>
+    <key>BAISelectDeviceKey</key><string>เลือกอุปกรณ์</string>
+    <key>BAISearchAgainKey</key><string>ค้นหาอีกครั้ง</string>
+    <key>BAIPairingPINMatchKey</key><string>รหัสที่แสดงในตัวอ่านของคุณไบไม่ตรงกับรหัสที่แสดงด้านล่าง</string>
+    <key>BAIOneMomentKey</key><string>สักครู่หนึ่ง</string>
+    <key>BAIPairingCompleteKey</key><string>โทรศัพท์นี้จะจับคู่กับเครื่องอ่านของคุณ baiMobile ตอนนี้</string>
+    <key>BAIUnableToPairKey</key><string>ไม่สามารถจับคู่กับเครื่องอ่านของคุณ ลองเชื่อมต่ออุปกรณ์ และมีเครื่องอ่านสมาร์ทการ์ดของคุณในโหมดที่สามารถค้นพบได้ก่อนคู่อีกด้วย</string>
+    <key>BAIContinueKey</key><string>ดำเนินการต่อไป</string>
+    <key>BAIRetryKey</key><string>ลองอีกครั้ง</string>
+    <key>BAIPairingMatchButtonKey</key><string>ใช่ รหัสตรงกับ</string>
+    <key>BAIPairingNoMatchButtonKey</key><string>ไม่ รหัสไม่ตรงกัน</string>
+    <key>BAIPairingDismissButtonKey</key><string>บอกเลิก</string>
+    <key>%d attempts remaining.</key><string>%d พยายามที่เหลือ</string>
+    <key>1 attempt remaining.</key><string>1 พยายามที่เหลือ</string>
+    <key>Ask the card issuer to unblock your smart card before signing on.</key><string>ขอให้ออกบัตรยกเลิกการบล็อกสมาร์ทการ์ดของคุณก่อนที่จะลงนามใน</string>
+    <key>Connect Smart Card</key><string>การ์ดเชื่อมต่อ</string>
+    <key>Enter Smart Card PIN</key><string>ป้อน PIN ของสมาร์ทการ์ด</string>
+    <key>Identity</key><string>รหัสประจำตัว</string>
+    <key>Insert Smart Card</key><string>ใส่สมาร์ทการ์ด</string>
+    <key>Please connect your smart card reader to continue.</key><string>กรุณาเชื่อมต่อเครื่องอ่านสมาร์ทการ์ดของคุณเพื่อดำเนินต่อ</string>
+    <key>Please connect your smart card reader to sign on.</key><string>กรุณาเชื่อมต่อตัวอ่านสมาร์ทการ์ดของคุณลงบน</string>
+    <key>Please insert your smart card to continue.</key><string>กรุณาใส่สมาร์ทการ์ดของคุณเพื่อดำเนินต่อ</string>
+    <key>Please insert your smart card to sign on.</key><string>กรุณาใส่สมาร์ทการ์ดของคุณลงบน</string>
+    <key>Please wait...</key><string>กรุณารอสักครู่</string>
+    <key>Smart card PIN</key><string>PIN ของสมาร์ทการ์ด</string>
+    <key>You have exceeded the maximum sign on attempts.\n\n</key><string>คุณมีเกินเครื่องหมายสูงสุดที่ attempts.\n\n</string>
+    <key>Your PIN is incorrect. Please try again.</key><string>PIN ไม่ถูกต้อง กรุณาลองอีกครั้ง</string>
+    <key>Your smart card does not have a valid certificate.</key><string>สมาร์ทการ์ดของคุณมีใบรับรองถูกต้อง</string>
+    <key>Your smart card is blocked.</key><string>สมาร์ทการ์ดของคุณถูกบล็อค</string>
+    <key>Your smart card is blocked.\n\nAsk the card issuer to unblock your smart card before signing on.</key><string>Blocked.\n\nAsk ผู้ออกบัตรยกเลิกการบล็อกสมาร์ทการ์ดของคุณก่อนที่จะเซ็นชื่อบนสมาร์ทการ์ดของคุณได้</string>
+    <key>Your smart card is not recognized. Please insert a valid smart card.</key><string>สมาร์ทการ์ดของคุณไม่รู้จัก กรุณาใส่สมาร์ทการ์ดถูกต้อง</string>
+    <key>KURL_ERROR_COULD_NOT_SET_OPENSSL_CERTIFICATE</key><string>สมาร์ทการ์ดผิดพลาดการตั้งค่าใบรับรอง SSL</string>
+    <key>KURL_ERROR_COULD_NOT_SET_OPENSSL_SMARTCARD_PRIVATE_KEY</key><string>ข้อผิดพลาดการตั้งค่า SSL ส่วนตัวคีย์การ์ด</string>
+    <key>KURL_REQUEST_CANCELLED</key><string>สมาร์ทการ์ดขอยกเลิก</string>
+    <key>KURL_ERROR_SSL_CONNECT_FAILURE</key><string>ข้อผิดพลาดการเชื่อมต่อ SSL สมาร์ทการ์ด</string>
+    <key>KURL_REQUEST_CANCELLED_BY_USER</key><string>ขอสมาร์ทการ์ดที่ถูกยกเลิก โดยผู้ใช้</string>
+    <key>KURL_STATUS_UNKNOWN</key><string>ข้อผิดพลาดในคำขอไม่รู้จักสมาร์ทการ์ด</string>
+    <key>This server requires a client certificate</key><string>เซิร์ฟเวอร์นี้ต้องใช้ใบรับรองของไคลเอ็นต์</string>
+    <key>The server rejected the client certificate</key><string>เซิร์ฟเวอร์ปฏิเสธการรับรองไคลเอ็นต์</string>
+    <key>Server error: %@.</key><string>เซิร์ฟเวอร์ข้อผิดพลาด: %@</string>
+    <key>New Feature! New Gestures!</key><string>คุณลักษณะใหม่ รูปแบบลายเส้นใหม่</string>
+    <key>App Switcher starts automatically when you open a second app.</key><string>สลับ app เริ่มต้นโดยอัตโนมัติเมื่อคุณเปิด app ที่สอง</string>
+    <key>Shows one of your running apps</key><string>แสดง apps ของคุณทำงานอย่างใดอย่างหนึ่ง</string>
+    <key>Shows all your running apps</key><string>แสดงปพลิเคชันทั้งหมดของคุณทำงาน</string>
+    <key>Closes an app</key><string>ปิด app</string>
+    <key>Remind me next time</key><string>เตือนฉันครั้งต่อไป</string>
+    <key>Got it</key><string>เข้าใจแล้ว</string>
+    <key>UnavailableDesktop</key><string>เดสก์ท็อปไม่พร้อมใช้งานในปัจจุบัน</string>
+    <key>AppRemoved</key><string>ไม่มี app</string>
+    <key>NoMoreActiveSessions</key><string>เซสชันที่ใช้งานไม่มาก</string>
+    <key>NotLicensed</key><string>ไม่ได้รับอนุญาต</string>
+    <key>CouldNotConnectToWorkstation</key><string>ไม่สามารถเชื่อมต่อกับเวิร์กสเตชัน</string>
+    <key>WorkstationInMaintenance</key><string>เดสก์ท็อปชั่วคราวเนื่องจากบำรุงรักษาวางแผนไว้ได้</string>
+    <key>ResourceError</key><string>ข้อผิดพลาดทรัพยากร</string>
+    <key>GeneralAppLaunchError</key><string>ไม่สามารถเริ่มโปรแกรมประยุกต์</string>
+</dict></plist>

@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CTXDAY</key><string>ημέρα</string>
+    <key>CTXDAYS</key><string>ημέρες</string>
+    <key>CTXHOUR</key><string>ώρα</string>
+    <key>CTXHOURS</key><string>ώρες</string>
+    <key>CTXMINUTE</key><string>λεπτό</string>
+    <key>CTXMINUTES</key><string>λεπτά</string>
+    <key>CTXSECOND</key><string>δεύτερο</string>
+    <key>CTXSECONDS</key><string>δευτερόλεπτα</string>
+    <key>AlertButtonDISMISS</key><string>Απορρίψει</string>
+    <key>AlertButtonLATER</key><string>Αργότερα</string>
+    <key>AlertButtonLOGON</key><string>Συνδεθείτε</string>
+    <key>AlertButtonEXIT</key><string>Έξοδος</string>
+    <key>AlertButtonQUIT</key><string>Σταματήσουν το κάπνισμα</string>
+    <key>AlertButtonOK</key><string>Ok</string>
+    <key>AlertButtonUPDATENOW</key><string>Ενημέρωση τώρα</string>
+    <key>AlertButtonSETTINGS</key><string>Ρυθμίσεις</string>
+    <key>AlertButtonINSTALL</key><string>Εγκατάσταση</string>
+    <key>AlertButtonOPENRECEIVER</key><string>Επιτρέπουν</string>
+    <key>AlertButtonSTARTRECEIVER</key><string>Έναρξη δέκτη</string>
+    <key>AlertButtonCONTINUE</key><string>Συνεχίσει</string>
+    <key>ReceiverNotInstalledAlertTitle</key><string>Δεν μπορώ να βρω το δέκτη</string>
+    <key>ReceiverNotInstalledAlertMsg</key><string>Παρακαλώ εγκαταστήστε Citrix δέκτη σας %@ να χρησιμοποιήσετε αυτό το app.</string>
+    <key>LogonRequiredAlertTitle</key><string>Σύνδεσης που απαιτούνται</string>
+    <key>LogonRequiredAlertMsg</key><string>Συνδεθείτε με το Citrix δέκτη σε ασφαλή χρήση αυτό το app.</string>
+    <key>LogonMaybeRequiredAlertTitle</key><string></string>
+    <key>LogonMaybeRequiredAlertMsg</key><string>Citrix δέκτη πρέπει να εγκρίνει αυτό το app.</string>
+    <key>LogonFailedAlertTitle</key><string>Δεν μπορώ να συνδεθείτε</string>
+    <key>LogonFailedAlertMsg</key><string>Επαλήθευση των πιστοποιήσεών σας και προσπαθήστε ξανά.</string>
+    <key>AppRemovedAlertTitle</key><string>App δεν είναι διαθέσιμη</string>
+    <key>AppRemovedAlertMsg</key><string>Αυτό το app έχει αφαιρεθεί από τον δέκτη Citrix. Μπορείτε να αφαιρέσετε από σας %@ ή να τις εγκαταστήσετε ξανά στον δέκτη.</string>
+    <key>JailBrokenAlertTitle</key><string></string>
+    <key>JailBrokenAlertMsg</key><string>Οργανισμό σας δεν επιτρέπει αυτό το app να τρέχει σε ένα jailbroken %@.</string>
+    <key>PasscodeRequiredAlertTitle</key><string>Κωδικό πρόσβασης που απαιτείται</string>
+    <key>PasscodeRequiredAlertMsg</key><string>Ορίσετε έναν κωδικό πρόσβασης στη συσκευή σας για να χρησιμοποιήσετε αυτό το app.</string>
+    <key>RequireInternalNetworkAlertTitle</key><string>Εσωτερικό δίκτυο, απαιτείται</string>
+    <key>RequireInternalNetworkAlertMsg</key><string>Συνδεθείτε με το εσωτερικό σας δίκτυο για να χρησιμοποιήσετε αυτό το app.</string>
+    <key>WifiRequiredAlertTitle</key><string>WiFi που απαιτούνται</string>
+    <key>WifiRequiredAlertMsg</key><string>Συνδεθείτε σε ένα δίκτυο WiFi για να χρησιμοποιήσετε αυτό το app.</string>
+    <key>InternalWifiRequiredAlertTitle</key><string>Εξουσιοδοτημένο WiFi που απαιτούνται</string>
+    <key>InternalWifiRequiredAlertMsg</key><string>Συνδεθείτε σε ένα εξουσιοδοτημένο ασύρματο δίκτυο για να χρησιμοποιήσετε αυτό το app:%@</string>
+    <key>OfflineLeaseWarningAlertTitle</key><string>Σύνδεσης που απαιτούνται</string>
+    <key>OfflineLeaseWarningAlertMsg</key><string>Συνδεθείτε με δέκτη Citrix %@ %@ να συνεχίσουν να χρησιμοποιούν αυτό το app. Μετά από αυτή τη φορά, το app είναι κλειδωμένη.</string>
+    <key>AppUpdateDeferAlertTitle</key><string>Διαθέσιμη ενημερωμένη έκδοση</string>
+    <key>AppUpdateDeferAlertMsg</key><string>Πρέπει να ενημερώσετε αυτό το app %@ %@.</string>
+    <key>AppUpdateGracePeriodExpiredAlertTitle</key><string>Απαιτείται η ενημερωμένη έκδοση</string>
+    <key>AppUpdateGracePeriodExpiredAlertMsg</key><string>Δεν μπορείτε να χρησιμοποιήσετε αυτό το app μπορείτε να εφαρμόσετε την ενημερωμένη έκδοση.</string>
+    <key>AppUpdateGracePeriodWarningAlertTitle</key><string>Απαιτείται η ενημερωμένη έκδοση</string>
+    <key>AppUpdateGracePeriodWarningAlertMsg</key><string>Έχετε %@ περισσότερες %@ για να χρησιμοποιήσετε αυτό το app. Παρακαλούμε να αποθηκεύσετε την εργασία σας και να εφαρμόσετε την ενημερωμένη έκδοση.</string>
+    <key>DontShowThisMsgAgainOption</key><string>Να μην εμφανιστεί ξανά αυτό το μήνυμα</string>
+    <key>AGSessionExpiredAlertTitle</key><string>Σύνδεση έχει λήξει</string>
+    <key>AGSessionExpiredAlertMsg</key><string>Συνδεθείτε με το Citrix δέκτη για να συνεχίσετε να χρησιμοποιείτε αυτό το app.</string>
+    <key>LogonRequiredForSTATicketExpiredAlertTitle</key><string>Σύνδεσης που απαιτούνται</string>
+    <key>LogonRequiredForSTATicketExpiredAlertMsg</key><string>Συνδεθείτε με το Citrix δέκτη να επιτρέψει την πρόσβαση στο δίκτυο. Πατήστε το πλήκτρο συνεχίσει να χρησιμοποιήσει το app χωρίς πρόσβαση στο δίκτυο.</string>
+    <key>LogonRequiredForNetworkAccessAlertTitle</key><string>Σύνδεσης που απαιτούνται</string>
+    <key>LogonRequiredForNetworkAccessAlertMsg</key><string>Συνδεθείτε με το Citrix δέκτη να επιτρέψει την πρόσβαση στο δίκτυο. Πατήστε το πλήκτρο συνεχίσει να χρησιμοποιήσει το app χωρίς πρόσβαση στο δίκτυο.</string>
+    <key>IPC_InvalidAppAlertTitle</key><string></string>
+    <key>IPC_InvalidAppAlertMsg</key><string>Αυτό το app δεν είναι συμβατό με το δέκτη Citrix. Δοκιμάσετε απεγκατάσταση αυτό και επανεγκατάσταση αυτό.</string>
+    <key>IPC_NoStoreFoundAlertTitle</key><string>Δεν μπορείτε να βρείτε App</string>
+    <key>IPC_NoStoreFoundAlertMsg</key><string>Παρακαλείσθε να προσθέσετε το λογαριασμό σας στο δέκτη Citrix πριν από την έναρξη αυτό το app.</string>
+    <key>IPC_QuitRequestAlertTitle</key><string></string>
+    <key>IPC_QuitRequestAlertMsg</key><string>Citrix δέκτη μπορούν να επικοινωνήσουν με αυτό το app.</string>
+    <key>IPC_WakeReceiverAlertTitle</key><string></string>
+    <key>IPC_WakeReceiverAlertMsg</key><string>App σας θα επανενεργοποιηθεί μόλις αρχίζει Citrix δέκτη.</string>
+    <key>AppContainmentAlertTitle</key><string>Περιορίζονται από admin πολιτικής</string>
+    <key>AppContainment_DISABLECOPYAlertMsg</key><string>\"Cut και copy\" μπλοκάρονται για αυτό το app.</string>
+    <key>AppContainment_DISABLEPASTEAlertMsg</key><string>\"Paste\" είναι αποκλεισμένη για αυτό το app</string>
+    <key>AppContainment_DISABLECAMERAAlertMsg</key><string>\"Camera\" είναι αποκλεισμένη για αυτό το app</string>
+    <key>AppContainment_DISABLEMICAlertMsg</key><string>\"Mic record\" είναι αποκλεισμένη για αυτό το app</string>
+    <key>AppContainment_DISABLELOCATIONAlertMsg</key><string>\"Location\" υπηρεσίες μπλοκάρει για αυτό το app</string>
+    <key>AppContainment_DISABLESMSAlertMsg</key><string>\"SMS\" συνθέτουν εμποδίζεται για αυτό το app.</string>
+    <key>AppContainment_DISABLEEMAILAlertMsg</key><string>\"Email\" συνθέτουν εμποδίζεται για αυτό το app</string>
+    <key>AppContainment_DISABLEICLOUDAlertMsg</key><string>\"iCloud\" είναι αποκλεισμένη για αυτό το app</string>
+    <key>AppContainment_DISABLEPRINTINGAlertMsg</key><string>\"AirPrint\" είναι αποκλεισμένη για αυτό το app</string>
+    <key>AppContainment_DISABLEOPENINAlertMsg</key><string>\"Opening files\" είναι αποκλεισμένη για αυτό το app</string>
+    <key>AppContainment_AlertMsg</key><string>%@ περιορίζεται από την πολιτική διαχειριστή.</string>
+    <key>AppContainment_CommonAlertMsg</key><string>Σας διαχειριστή μπλοκάρει %@.</string>
+    <key>CTXCamera</key><string>Φωτογραφική μηχανή</string>
+    <key>CTXCutCopy</key><string>Αποκοπή &amp; αντιγραφή</string>
+    <key>CTXPaste</key><string>Πάστα</string>
+    <key>CTXDocumentExchange</key><string>Η ανταλλαγή εγγράφων (ανοικτή στο)</string>
+    <key>CTXMicrophoneRecording</key><string>Καταγραφή μικρόφωνο</string>
+    <key>CTXLocationServicesGPS</key><string>Υπηρεσίες θέσης (GPS)</string>
+    <key>CTXSMS</key><string>SMS</string>
+    <key>CTXEmail</key><string>Ηλεκτρονικό ταχυδρομείο</string>
+    <key>CTXPrinting</key><string>Εκτύπωση</string>
+    <key>CTXNetworkAccess</key><string>Πρόσβαση στο δίκτυο</string>
+    <key>CTXICloud</key><string>iCloud</string>
+    <key>CTXand</key><string>και</string>
+    <key>DataProtection_KeyFailureAlertTitle</key><string>Δεν έχουν πρόσβαση σε δεδομένα App</string>
+    <key>DataProtection_KeyFailureAlertMsg</key><string>Βεβαιωθείτε ότι έχετε πρόσβαση στο δίκτυο και προσπαθήστε να συνδεθείτε σε Citrix δέκτη και πάλι.</string>
+    <key>DataProtection_PolicyChangeAlertTitle</key><string></string>
+    <key>DataProtection_PolicyChangeAlertMsg</key><string>Εφαρμογή πολιτική πρόσβασης δεδομένων έχει αλλάξει. Διαγράψετε και να εγκαταστήσετε εκ νέου αυτό το app για να συνεχίσουν τη χρήση</string>
+    <key>AppDisabledTitle</key><string>App δεν είναι διαθέσιμη</string>
+    <key>AppDisabledMsg</key><string>Αυτό το app είναι απενεργοποιημένες.</string>
+    <key>Done</key><string>Γίνει</string>
+    <key>Downloadable Resources</key><string>Downloadable πόρων</string>
+    <key>Language</key><string>Γλώσσα</string>
+    <key>No Downloadable Resource</key><string>Δεν Downloadable πόρων</string>
+    <key>Package Resources</key><string>Πακέτο πόρων</string>
+    <key>Select Language</key><string>Επιλέξτε γλώσσα</string>
+    <key>SettingsAutoSendCrash</key><string>Αυτόματη έκθεση</string>
+    <key>SettingsAutoSendCrashDescription</key><string>Εάν μια συντριβή εμφανίζεται, τα δεδομένα θα σταλούν στον κύριο του έργου αυτόματα χωρίς ζητώντας από τους χρήστες.</string>
+    <key>SettingsAllowContact</key><string>Επιτρέπουν την επαφή</string>
+    <key>SettingsContactEmail</key><string>Διεύθυνση ηλεκτρονικού ταχυδρομείου</string>
+    <key>SettingsContactDescription</key><string>Η διεύθυνση ηλεκτρονικού ταχυδρομείου θα χρησιμοποιηθεί μόνο για να επικοινωνήσετε με το χρήστη, αν μπορεί να υπάρχουν περισσότερες διευκρινίσεις που απαιτούνται για το πρόβλημα</string>
+    <key>SettingsCrashTitle</key><string>Αναφορά σφάλματος</string>
+    <key>Return</key><string>Επιστροφή</string>
+    <key>Enter</key><string>Εισάγετε</string>
+    <key>Tab</key><string>Καρτέλα "</string>
+    <key>Space</key><string>Χώρο</string>
+    <key>Delete</key><string>Διαγραφή</string>
+    <key>Clear</key><string>Σαφές</string>
+    <key>Esc</key><string>ESC</string>
+    <key>Home</key><string>Σπίτι</string>
+    <key>Page Up</key><string>Page Up</string>
+    <key>End</key><string>Τέλος</string>
+    <key>Page Down</key><string>Page Down</string>
+    <key>Help</key><string>Βοήθεια</string>
+    <key>Keypad .</key><string>Πληκτρολόγιο.</string>
+    <key>Keypad *</key><string>Πληκτρολόγιο *</string>
+    <key>Keypad +</key><string>Πληκτρολόγιο +</string>
+    <key>Keypad /</key><string>Πληκτρολόγιο /</string>
+    <key>Keypad -</key><string>Πληκτρολόγιο-</string>
+    <key>Keypad =</key><string>Πληκτρολόγιο =</string>
+    <key>Keypad 0</key><string>Αριθμητικό πληκτρολόγιο 0</string>
+    <key>Keypad 1</key><string>Πληκτρολόγιο 1</string>
+    <key>Keypad 2</key><string>Πληκτρολόγιο 2</string>
+    <key>Keypad 3</key><string>Αριθμητικό πληκτρολόγιο 3</string>
+    <key>Keypad 4</key><string>Πληκτρολόγιο, 4</string>
+    <key>Keypad 5</key><string>Πληκτρολόγιο 5</string>
+    <key>Keypad 6</key><string>Πληκτρολόγιο 6</string>
+    <key>Keypad 7</key><string>Πληκτρολόγιο 7</string>
+    <key>Keypad 8</key><string>Πληκτρολόγιο 8</string>
+    <key>Keypad 9</key><string>Πληκτρολόγιο 9</string>
+    <key>F1</key><string>F1</string>
+    <key>F2</key><string>F2</string>
+    <key>F3</key><string>F3</string>
+    <key>F4</key><string>F4</string>
+    <key>F5</key><string>F5</string>
+    <key>F6</key><string>F6</string>
+    <key>F7</key><string>F7</string>
+    <key>F8</key><string>F8</string>
+    <key>F9</key><string>F9</string>
+    <key>F10</key><string>F10</string>
+    <key>F11</key><string>F11</string>
+    <key>F12</key><string>F12</string>
+    <key>F13</key><string>F13</string>
+    <key>F14</key><string>F14</string>
+    <key>F15</key><string>F15</string>
+    <key>F16</key><string>F16</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>Σφάλμα απροσδόκητη ελέγχου ταυτότητας.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>Δόθηκαν χωρίς έλεγχο ταυτότητας.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>Απόπειρα σύνδεσης δεν ήταν επιτυχής.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID είναι αναγνωρισμένη αλλά μπαγιάτικο. Παρακαλούμε να επαναλάβει τον έλεγχο ταυτότητας πριν να συνεχίσετε.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID ισχύει δεν βρέθηκαν /.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>Η τρέχουσα AuthID δεν είναι έγκυρη για το αίτημα του υποτομέα.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>Ο σημερινός συνδυασμός εργαλείο/λογαριασμό αμφισβητείται από τη χρήση του API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>Λειτουργία μη αναμενόμενο σφάλμα.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>Η λειτουργία που ζητήθηκε δεν συμφωνεί με οποιαδήποτε υποστηριζόμενη επ.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Το εν λόγω επ απαιτεί παράμετροι που δεν παρασχέθηκαν.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>Παράμετροι που παρέχεται δεν είναι έγκυρο (π.χ. string αντί για int, val από σειρά, κλπ).</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>Το ΕΠ που ζητήθηκε δεν είναι συμβατό με το τρέχον αναγνωριστικό προορισμού.</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>Op δεν επιτρέπεται για τρεχουσών ShareFile (χαρακτηριστικό άτομα με ειδικές ανάγκες/όχι άδεια).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>Op δεν επιτρέπεται για τον τρέχοντα χρήστη ShareFile (χρήστης δεν έχει ρόλο χρήστη κατάλληλα/δικαιώματα για τη χρήση).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>Op δεν επιτρέπεται για στόχο (χρήστη μπορεί να έχουν κατάλληλη ρόλο/άδεια, σε άλλες περιπτώσεις, αλλά όχι για αυτό το συγκεκριμένο ID).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>Απροσδόκητη στόχο σφάλμα.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>Ζήτησε αλλά δεν υπάρχει προορισμός του σωστού τύπου (π.χ. προσπαθεί να εκτελέσετε op φάκελο σε ένα αρχείο).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>Στόχος που δεν βρέθηκε.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>Απροσδόκητη δημιουργία σφάλματος.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>Παρεχόμενο μητρική δεν είναι έγκυρη για τη δημιουργία είδους (π.χ. προσπαθεί να δημιουργήσετε ένα φάκελο στη ρίζα ενός λογαριασμού).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>Επεξεργασία μη αναμενόμενο σφάλμα.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>Το στοιχείο που προσπαθείτε να δημιουργήσετε ήδη υπάρχει.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>Το στοιχείο που προσπαθείτε να επεξεργαστείτε ήδη υπάρχει.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>Μη αναμενόμενο σφάλμα.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>Server υπό συντήρηση.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>Έχετε φτάσει στο όριο ποσοστό.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>Server είναι πάνω από ικανότητα.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>Μη αναμενόμενο σφάλμα (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>Server είναι πάνω από ικανότητα (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>Ανεβάσετε προετοιμασία απέτυχε (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>Κατεβάστε προετοιμασία απέτυχε (SC).</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON Σφάλμαανάλυσης.</string>
+    <key>SFAPIConnection_NilResponse</key><string>SFResponse αντικείμενο ήταν μηδενική. Αυτό το αίτημα υποστηρίζεται;</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>Μια σύνδεση δικτύου δεν εντοπίστηκε.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth απέτυχε. Reauth πληροφορίες ήταν μηδενική.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth απέτυχε. SSO πληροφορίες ήταν μηδενική.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth απέτυχε. Άγνωστο σφάλμα.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth απέτυχε. Μη υποστηριζόμενος τύπος σύνδεσης SAML.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection έλαβε την πρόκληση του ελέγχου ταυτότητας.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Άγνωστη απόκριση μορφή.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest ήταν μηδενική.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest δεν είναι έγκυρη. Παρακαλώ ελέγξτε params απαιτείται αίτηση.</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>Σφάλμα απροσδόκητη ελέγχου ταυτότητας.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>Δόθηκαν χωρίς έλεγχο ταυτότητας.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>Απόπειρα σύνδεσης δεν ήταν επιτυχής.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID είναι αναγνωρισμένη αλλά μπαγιάτικο. Παρακαλούμε να επαναλάβει τον έλεγχο ταυτότητας πριν να συνεχίσετε.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID ισχύει δεν βρέθηκαν /.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>Η τρέχουσα AuthID δεν είναι έγκυρη για το αίτημα του υποτομέα.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>Ο σημερινός συνδυασμός εργαλείο/λογαριασμό αμφισβητείται από τη χρήση του API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>Λειτουργία μη αναμενόμενο σφάλμα.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>Η λειτουργία που ζητήθηκε δεν συμφωνεί με οποιαδήποτε υποστηριζόμενη επ.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Το εν λόγω επ απαιτεί παράμετροι που δεν παρασχέθηκαν.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>Παράμετροι που παρέχεται δεν είναι έγκυρο (π.χ. string αντί για int, val από σειρά, κλπ).</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>Το ΕΠ που ζητήθηκε δεν είναι συμβατό με το τρέχον αναγνωριστικό προορισμού.</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>Op δεν επιτρέπεται για τρεχουσών ShareFile (χαρακτηριστικό άτομα με ειδικές ανάγκες/όχι άδεια).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>Op δεν επιτρέπεται για τον τρέχοντα χρήστη ShareFile (χρήστης δεν έχει ρόλο χρήστη κατάλληλα/δικαιώματα για τη χρήση).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>Op δεν επιτρέπεται για στόχο (χρήστη μπορεί να έχουν κατάλληλη ρόλο/άδεια, σε άλλες περιπτώσεις, αλλά όχι για αυτό το συγκεκριμένο ID).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>Απροσδόκητη στόχο σφάλμα.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>Ζήτησε αλλά δεν υπάρχει προορισμός του σωστού τύπου (π.χ. προσπαθεί να εκτελέσετε op φάκελο σε ένα αρχείο).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>Στόχος που δεν βρέθηκε.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>Απροσδόκητη δημιουργία σφάλματος.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>Παρεχόμενο μητρική δεν είναι έγκυρη για τη δημιουργία είδους (π.χ. προσπαθεί να δημιουργήσετε ένα φάκελο στη ρίζα ενός λογαριασμού).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>Επεξεργασία μη αναμενόμενο σφάλμα.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>Το στοιχείο που προσπαθείτε να δημιουργήσετε ήδη υπάρχει.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>Το στοιχείο που προσπαθείτε να επεξεργαστείτε ήδη υπάρχει.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>Μη αναμενόμενο σφάλμα.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>Server υπό συντήρηση.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>Έχετε φτάσει στο όριο ποσοστό.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>Server είναι πάνω από ικανότητα.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>Μη αναμενόμενο σφάλμα (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>Server είναι πάνω από ικανότητα (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>Ανεβάσετε προετοιμασία απέτυχε (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>Κατεβάστε προετοιμασία απέτυχε (SC).</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON Σφάλμαανάλυσης.</string>
+    <key>SFAPIConnection_NilResponse</key><string>SFResponse αντικείμενο ήταν μηδενική. Αυτό το αίτημα υποστηρίζεται;</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>Μια σύνδεση δικτύου δεν εντοπίστηκε.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth απέτυχε. Reauth πληροφορίες ήταν μηδενική.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth απέτυχε. SSO πληροφορίες ήταν μηδενική.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth απέτυχε. Άγνωστο σφάλμα.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth απέτυχε. Μη υποστηριζόμενος τύπος σύνδεσης SAML.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection έλαβε την πρόκληση του ελέγχου ταυτότητας.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Άγνωστη απόκριση μορφή.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest ήταν μηδενική.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest δεν είναι έγκυρη. Παρακαλώ ελέγξτε params απαιτείται αίτηση.</string>
+    <key>SFAPIConnection_ErrorCode_120</key><string>Σφάλμα απροσδόκητη ελέγχου ταυτότητας.</string>
+    <key>SFAPIConnection_ErrorCode_121</key><string>Δόθηκαν χωρίς έλεγχο ταυτότητας.</string>
+    <key>SFAPIConnection_ErrorCode_122</key><string>Απόπειρα σύνδεσης δεν ήταν επιτυχής.</string>
+    <key>SFAPIConnection_ErrorCode_123</key><string>AuthID είναι αναγνωρισμένη αλλά μπαγιάτικο. Παρακαλούμε να επαναλάβει τον έλεγχο ταυτότητας πριν να συνεχίσετε.</string>
+    <key>SFAPIConnection_ErrorCode_124</key><string>AuthID ισχύει δεν βρέθηκαν /.</string>
+    <key>SFAPIConnection_ErrorCode_125</key><string>Η τρέχουσα AuthID δεν είναι έγκυρη για το αίτημα του υποτομέα.</string>
+    <key>SFAPIConnection_ErrorCode_126</key><string>Ο σημερινός συνδυασμός εργαλείο/λογαριασμό αμφισβητείται από τη χρήση του API.</string>
+    <key>SFAPIConnection_ErrorCode_220</key><string>Λειτουργία μη αναμενόμενο σφάλμα.</string>
+    <key>SFAPIConnection_ErrorCode_221</key><string>Η λειτουργία που ζητήθηκε δεν συμφωνεί με οποιαδήποτε υποστηριζόμενη επ.</string>
+    <key>SFAPIConnection_ErrorCode_222</key><string>Το εν λόγω επ απαιτεί παράμετροι που δεν παρασχέθηκαν.</string>
+    <key>SFAPIConnection_ErrorCode_223</key><string>Παράμετροι που παρέχεται δεν είναι έγκυρο (π.χ. string αντί για int, val από σειρά, κλπ).</string>
+    <key>SFAPIConnection_ErrorCode_224</key><string>Το ΕΠ που ζητήθηκε δεν είναι συμβατό με το τρέχον αναγνωριστικό προορισμού.</string>
+    <key>SFAPIConnection_ErrorCode_250</key><string>Op δεν επιτρέπεται για τρεχουσών ShareFile (χαρακτηριστικό άτομα με ειδικές ανάγκες/όχι άδεια).</string>
+    <key>SFAPIConnection_ErrorCode_251</key><string>Op δεν επιτρέπεται για τον τρέχοντα χρήστη ShareFile (χρήστης δεν έχει ρόλο χρήστη κατάλληλα/δικαιώματα για τη χρήση).</string>
+    <key>SFAPIConnection_ErrorCode_252</key><string>Op δεν επιτρέπεται για στόχο (χρήστη μπορεί να έχουν κατάλληλη ρόλο/άδεια, σε άλλες περιπτώσεις, αλλά όχι για αυτό το συγκεκριμένο ID).</string>
+    <key>SFAPIConnection_ErrorCode_320</key><string>Απροσδόκητη στόχο σφάλμα.</string>
+    <key>SFAPIConnection_ErrorCode_321</key><string>Ζήτησε αλλά δεν υπάρχει προορισμός του σωστού τύπου (π.χ. προσπαθεί να εκτελέσετε op φάκελο σε ένα αρχείο).</string>
+    <key>SFAPIConnection_ErrorCode_350</key><string>Στόχος που δεν βρέθηκε.</string>
+    <key>SFAPIConnection_ErrorCode_420</key><string>Απροσδόκητη δημιουργία σφάλματος.</string>
+    <key>SFAPIConnection_ErrorCode_421</key><string>Παρεχόμενο μητρική δεν είναι έγκυρη για τη δημιουργία είδους (π.χ. προσπαθεί να δημιουργήσετε ένα φάκελο στη ρίζα ενός λογαριασμού).</string>
+    <key>SFAPIConnection_ErrorCode_430</key><string>Επεξεργασία μη αναμενόμενο σφάλμα.</string>
+    <key>SFAPIConnection_ErrorCode_450</key><string>Το στοιχείο που προσπαθείτε να δημιουργήσετε ήδη υπάρχει.</string>
+    <key>SFAPIConnection_ErrorCode_460</key><string>Το στοιχείο που προσπαθείτε να επεξεργαστείτε ήδη υπάρχει.</string>
+    <key>SFAPIConnection_ErrorCode_500</key><string>Μη αναμενόμενο σφάλμα.</string>
+    <key>SFAPIConnection_ErrorCode_502</key><string>Server υπό συντήρηση.</string>
+    <key>SFAPIConnection_ErrorCode_503</key><string>Έχετε φτάσει στο όριο ποσοστό.</string>
+    <key>SFAPIConnection_ErrorCode_504</key><string>Server είναι πάνω από ικανότητα.</string>
+    <key>SFAPIConnection_ErrorCode_600</key><string>Μη αναμενόμενο σφάλμα (SC).</string>
+    <key>SFAPIConnection_ErrorCode_601</key><string>Server είναι πάνω από ικανότητα (SC).</string>
+    <key>SFAPIConnection_ErrorCode_602</key><string>Ανεβάσετε προετοιμασία απέτυχε (SC).</string>
+    <key>SFAPIConnection_ErrorCode_603</key><string>Κατεβάστε προετοιμασία απέτυχε (SC).</string>
+    <key>SFAPIConnection_JSONParseError</key><string>JSON Σφάλμαανάλυσης.</string>
+    <key>SFAPIConnection_NilResponse</key><string>SFResponse αντικείμενο ήταν μηδενική. Αυτό το αίτημα υποστηρίζεται;</string>
+    <key>SFAPIConnection_NoNetworkConnection</key><string>Μια σύνδεση δικτύου δεν εντοπίστηκε.</string>
+    <key>SFAPIConnection_ReauthFailedNilResponse</key><string>Reauth απέτυχε. Reauth πληροφορίες ήταν μηδενική.</string>
+    <key>SFAPIConnection_ReauthFailedSSOInfoNil</key><string>Reauth απέτυχε. SSO πληροφορίες ήταν μηδενική.</string>
+    <key>SFAPIConnection_ReauthFailedUnknown</key><string>Reauth απέτυχε. Άγνωστο σφάλμα.</string>
+    <key>SFAPIConnection_ReauthFailedUnsupportedSAML</key><string>Reauth απέτυχε. Μη υποστηριζόμενος τύπος σύνδεσης SAML.</string>
+    <key>SFAPIConnection_ReceivedAuthenticationChallenge</key><string>SFAPIConnection έλαβε την πρόκληση του ελέγχου ταυτότητας.</string>
+    <key>SFAPIConnection_UnknownRsponseFormat</key><string>Άγνωστη απόκριση μορφή.</string>
+    <key>SFAPIRequest_Missing</key><string>SFAPIRequest ήταν μηδενική.</string>
+    <key>SFAPIRequest_MissingParams</key><string>SFAPIRequest δεν είναι έγκυρη. Παρακαλώ ελέγξτε params απαιτείται αίτηση.</string>
+    <key>14.normalTitle</key><string>Γίνει</string>
+    <key>139.normalTitle</key><string>◀</string>
+    <key>140.normalTitle</key><string>▲</string>
+    <key>141.normalTitle</key><string>▶</string>
+    <key>143.normalTitle</key><string>▼</string>
+    <key>177.text</key><string>Ζευγάρι</string>
+    <key>178.text</key><string>Σπίτι</string>
+    <key>179.text</key><string>Πλήκτρα βέλους</string>
+    <key>180.text</key><string>Πληκτρολόγιο</string>
+    <key>181.text</key><string>Δείκτη</string>
+    <key>182.text</key><string>Διακόπτης</string>
+    <key>299.text</key><string>Μεγεθυντικός φακός</string>
+    <key>301.text</key><string>Ποντίκι</string>
+    <key>316.text</key><string>Οδηγός χειρονομία</string>
+    <key>329.text</key><string>Δάχτυλο βρύσης:</string>
+    <key>330.text</key><string>Μονό κλικ</string>
+    <key>331.text</key><string>Αφή-κατέχουν-θέση:</string>
+    <key>332.text</key><string>Κάντε δεξιό κλικ</string>
+    <key>333.text</key><string>Τρία-δάχτυλο βρύσης:</string>
+    <key>334.text</key><string>Πληκτρολόγιο</string>
+    <key>335.text</key><string>Πρέζα μέσα και έξω:</string>
+    <key>336.text</key><string>Ζουμ</string>
+    <key>337.text</key><string>Κρατήστε-φωτογραφική διαφάνεια αφής:</string>
+    <key>338.text</key><string>Σύρετε</string>
+    <key>339.text</key><string>Πάτημα με δύο δάχτυλα:</string>
+    <key>340.text</key><string>Alt + Tab</string>
+    <key>40.text</key><string>© 2014 Citrix Systems, Inc Όλα τα δικαιώματα κατοχυρωμένα.</string>
+    <key>58.text</key><string>Πρόσθετες πληροφορίες πνευματικών δικαιωμάτων</string>
+    <key>8.normalTitle</key><string>Προσθέστε τα αγαπημένα</string>
+    <key>4.placeholder</key><string>http://Citrix.mycompany.com</string>
+    <key>5.text</key><string>Καταχωρίστε τη διεύθυνση του Citrix ιστοσελίδα της εταιρείας σας.</string>
+    <key>26.title</key><string>Φόρτωση</string>
+    <key>97.title</key><string>Καταστήματα</string>
+    <key>4.text</key><string>Όνομα φακέλου</string>
+    <key>5.text</key><string>Τελευταία τροποποίηση Φεβρουαρίου 29,2012 2:21 PM</string>
+    <key>6.text</key><string>(Ανάγνωση &amp; εγγραφή)</string>
+    <key>8.text</key><string>Μέγεθος 134.2 MB</string>
+    <key>10.normalTitle</key><string>Κοινόχρηστο φάκελο</string>
+    <key>26.normalTitle</key><string>Στείλτε το φάκελο</string>
+    <key>39.text</key><string>Ιδιοκτήτης</string>
+    <key>5.segmentTitles[0]</key><string>Προσκαλώ</string>
+    <key>5.segmentTitles[1]</key><string>Δικαιώματα</string>
+    <key>14.segmentTitles[0]</key><string>Ανάγνωση</string>
+    <key>14.segmentTitles[1]</key><string>Ανάγνωσης/εγγραφής</string>
+    <key>15.text</key><string>Πρόσβαση</string>
+    <key>24.text</key><string>Να:</string>
+    <key>38.segmentTitles[0]</key><string>Ανάγνωση</string>
+    <key>38.segmentTitles[1]</key><string>Γράψτε</string>
+    <key>38.segmentTitles[2]</key><string>&amp; Ανάγνωσης</string>
+    <key>39.normalTitle</key><string>X</string>
+    <key>52.title</key><string>Κλείσιμο</string>
+    <key>58.text</key><string>Κοινόχρηστο φάκελο</string>
+    <key>69.text</key><string>Ετικέτα</string>
+    <key>9.text</key><string>Τζακ Μπλακ</string>
+    <key>10.text</key><string>Μέγεθος 12.4 MB</string>
+    <key>19.text</key><string>Μέγεθος:</string>
+    <key>20.text</key><string>Φεβρουάριος 29.2012</string>
+    <key>7.title</key><string>Κλείσιμο</string>
+    <key>16.text</key><string>Ετικέτα</string>
+    <key>22.text</key><string>Να</string>
+    <key>28.text</key><string>Λήψεις</string>
+    <key>31.text</key><string>Κομμάτι που λήψεις</string>
+    <key>33.text</key><string>Αντιγράψετε Me</string>
+    <key>35.text</key><string>Να ειδοποιούμαι για λήψη</string>
+    <key>40.segmentTitles[0]</key><string>Απεριόριστη</string>
+    <key>40.segmentTitles[1]</key><string>Ημέρα</string>
+    <key>40.segmentTitles[2]</key><string>Εβδομάδα</string>
+    <key>40.segmentTitles[3]</key><string>Μήνα</string>
+    <key>48.segmentTitles[0]</key><string>Αποστολή αρχείου</string>
+    <key>48.segmentTitles[1]</key><string>Αντιγράψτε το σύνδεσμο</string>
+    <key>14.segmentTitles[0]</key><string>Κατεβάστε GoToMeeting</string>
+    <key>20.placeholder</key><string>123-456-789</string>
+    <key>21.text</key><string>GoToMeeting το καθιστά ευκολότερο να παρακολουθήσουν σε απευθείας σύνδεση συνεδριάσεις στο iPad σας. Απλά πληκτρολογήστε το συνάντηση αναγνωριστικό αριθμό και το όνομά σας και, στη συνέχεια, κάντε κλικ \"Join\ το" κουμπί.</string>
+    <key>22.segmentTitles[0]</key><string>Συμμετέχετε σε σύσκεψη</string>
+    <key>30.text</key><string>Αναγνωριστικό σύσκεψης δεν είναι έγκυρη</string>
+    <key>32.text</key><string>Συμμετέχετε σε μια σύσκεψη</string>
+    <key>33.text</key><string>Αναγνωριστικό σύσκεψης:</string>
+    <key>34.placeholder</key><string>Πρώτη τελευταία</string>
+    <key>36.text</key><string>Όνομα:</string>
+    <key>37.text</key><string>Για να μάθετε πώς μπορείτε να φιλοξενήσει το δικό σας συναντήσεις, παρακαλούμε επισκεφθείτε:</string>
+    <key>38.text</key><string>Για την υποστήριξη, παρακαλούμε επισκεφθείτε:</string>
+    <key>40.normalTitle</key><string>GoToMeeting.com</string>
+    <key>41.normalTitle</key><string>Κέντρο υποστήριξης</string>
+    <key>179.normalTitle</key><string>Κλείσιμο</string>
+    <key>14.text</key><string>Παρακαλώ περίμενε...</string>
+    <key>24.text</key><string>Ετικέτα</string>
+    <key>13.title</key><string>Περικοπή</string>
+    <key>14.title</key><string>Αντίγραφο</string>
+    <key>15.title</key><string>Πάστα</string>
+    <key>16.title</key><string>Αναίρεση</string>
+    <key>45.title</key><string>F1</string>
+    <key>47.title</key><string>F2</string>
+    <key>48.title</key><string>F3</string>
+    <key>49.title</key><string>F4</string>
+    <key>50.title</key><string>F5</string>
+    <key>51.title</key><string>F6</string>
+    <key>52.title</key><string>F7</string>
+    <key>53.title</key><string>F8</string>
+    <key>54.title</key><string>F9</string>
+    <key>55.title</key><string>F10</string>
+    <key>56.title</key><string>F11</string>
+    <key>57.title</key><string>F12</string>
+    <key>9.title</key><string>ESC</string>
+    <key>26.title</key><string>CTRL</string>
+    <key>27.title</key><string>FN</string>
+    <key>28.title</key><string>Σελίδα</string>
+    <key>29.title</key><string>Del</string>
+    <key>111.title</key><string>ALT</string>
+    <key>113.title</key><string>Καρτέλα "</string>
+    <key>120.segmentTitles[1]</key><string>T</string>
+    <key>17.title</key><string>Σπίτι</string>
+    <key>18.title</key><string>Τέλος</string>
+    <key>57.title</key><string>Γίνει</string>
+    <key>62.placeholder</key><string>Αναζήτηση</string>
+    <key>101.text</key><string>Ενημέρωση λίστα εφαρμογών</string>
+    <key>103.text</key><string>Παρακαλώ περίμενε...</string>
+    <key>45.title</key><string>Αποσυνδεθείτε</string>
+    <key>7.text</key><string>Όνομα:</string>
+    <key>8.text</key><string>Επώνυμο:</string>
+    <key>9.text</key><string>Διεύθυνση ηλεκτρονικού ταχυδρομείου:</string>
+    <key>37.text</key><string>Σας ευχαριστώ για την εγγραφή μπλα μπλα μπλα </string>
+    <key>38.normalTitle</key><string>Συνεχίσει</string>
+    <key>16.text</key><string>Μάθε περισσότερα...</string>
+    <key>5.text</key><string>Αλληλεπιδραστικές ταινίας</string>
+    <key>4.text</key><string>Επιλέξτε το \"pair\" για το iPad που θέλετε να συνδεθείτε.</string>
+    <key>23.normalTitle</key><string>Προσθέστε το λογαριασμό</string>
+    <key>24.normalTitle</key><string>Να Demo</string>
+    <key>25.text</key><string>Μάθε περισσότερα...</string>
+    <key>WelcomeScreenTitleKey</key><string>Καλώς όρισες</string>
+    <key>WelcomeScreenDemoAccountPageTitle</key><string>Εγγραφείτε για Citrix Demo σύννεφο</string>
+    <key>WelcomeScreenSetupWorkspaceTitleKey</key><string>Έχει συσταθεί το χώρο εργασίας μου</string>
+    <key>WelcomeScreenDemoAccountiPhonePageTitle</key><string>Demo σύννεφο</string>
+    <key>CRDemoRegistrationRegisterButtonLabelKey</key><string>Εγγράψου</string>
+    <key>CRDemoRegistrationWarningTitleKey</key><string>Προειδοποίηση</string>
+    <key>CRDemoRegistrationWarningMessageKey</key><string>Παρακαλούμε εισάγετε το έγκυρες πιστοποιήσεις πριν συνεχίσετε</string>
+    <key>CRDemoRegistrationFailedErrorTitleKey</key><string>Εγγραφή απέτυχε</string>
+    <key>CRDemoRegistrationFirstName</key><string>Όνομα:</string>
+    <key>CRDemoRegistrationLastName</key><string>Επώνυμο:</string>
+    <key>CRDemoRegistrationEmail</key><string>Ηλεκτρονικό ταχυδρομείο:</string>
+    <key>CRDemoRegistrationRegistering</key><string>Εγγραφή...</string>
+    <key>CRDemoRegistrationTitle</key><string>Δέκτης εγγραφής Demo</string>
+    <key>WebAddressTitle</key><string>Διεύθυνση Web</string>
+    <key>WebAddressOpenButtonLabel</key><string>Ανοικτή</string>
+    <key>WebAddressInvalidURLTitle</key><string>Μη έγκυρη διεύθυνση URL</string>
+    <key>WebAddressInvalidURLMessage</key><string>Αυτό δεν φαίνεται όπως μια έγκυρη διεύθυνση URL. Παρακαλούμε ελέγξτε την είσοδο σας και προσπαθήστε ξανά.</string>
+    <key>WebViewTitleLoading</key><string>Φόρτωση...</string>
+    <key>WebViewTitleUntitled</key><string>Χωρίς τίτλο</string>
+    <key>WebViewCannotOpenPageTitle</key><string>Δεν μπορεί να ανοίξει τη σελίδα</string>
+    <key>WebViewTitleVPNLogin</key><string>VPN σύνδεσης</string>
+    <key>WebViewStartingVPNConnectionTitle</key><string>Αρχίζοντας σύνδεση VPN</string>
+    <key>WebViewConnectingTitle</key><string>Φόρτωση...</string>
+    <key>WebViewUpdateStoreAlertTitle</key><string>Πύλη πρόσβασης</string>
+    <key>WebViewUpdateStoreAlertButtonLabel</key><string>Ενημέρωση λογαριασμού</string>
+    <key>WebViewUpdateStoreAlertMessage</key><string>Δυνατότητες αυτοεξυπηρέτησης ανιχνευθεί. Ενημέρωση λογαριασμού με τα διαπιστευτήριά σας.</string>
+    <key>BrowserButtonLabel</key><string>Πρόγραμμα περιήγησης</string>
+    <key>WebViewAuthTitle</key><string>Πιστοποίηση που απαιτούνται</string>
+    <key>SelfServiceScreenHomeButtonKey</key><string>Σπίτι</string>
+    <key>SelfServiceScreenExploreButtonKey</key><string>Εξερευνήστε</string>
+    <key>StoreToolbarCategoriesButtonDefaultTitle</key><string>Κατηγορίες</string>
+    <key>StoreToolbarCategoriesButtonTitlePrefix</key><string>Κατηγορία: %@</string>
+    <key>StoreToolbarStoresButtonTitle</key><string>Λογαριασμοί</string>
+    <key>StoreToolbarCategoriesAll</key><string>Όλα</string>
+    <key>StoreToolbarCategoriesFeatured</key><string>Προτεινόμενα</string>
+    <key>StoreToolbarDefaultTitle</key><string>Εξερευνήστε</string>
+    <key>StoreToolbarSearchBarPlaceholder</key><string>Αναζήτηση</string>
+    <key>StoreGlobalSearchWithMatchCount</key><string>Αναζήτηση (%i αγώνες)</string>
+    <key>AccountListTitle</key><string>Ρυθμίσεις λογαριασμού</string>
+    <key>AccountListFooter</key><string>\n επιλέξτε λογαριασμό για να συνδεθείτε.</string>
+    <key>StoreLaunchErrorAlertMessageKey</key><string>Παρουσιάστηκε σφάλμα κατά την συνδέουμε με αίτηση.</string>
+    <key>StoreNoApplicationsAlertTitleKey</key><string>Δεν εφαρμογές που είναι διαθέσιμες</string>
+    <key>StoreNoApplicationsAlertMessageKey</key><string>Δεν υπάρχουν εφαρμογές διαθέσιμες για το λογαριασμό "%@».</string>
+    <key>StoreEnterCredentialsTitleKey</key><string>Συνδεθείτε με το Citrix δέκτη</string>
+    <key>StoreStartingConnectionKey</key><string>Ξεκινώντας τη σύνδεση...</string>
+    <key>StoreRequestingConnectionKey</key><string>Αιτούν σύνδεση...</string>
+    <key>StoreRequestingCredentialsKey</key><string>Ζητά πιστοποιήσεις...</string>
+    <key>StoreNumberOfDesktops</key><string>%d επιτραπέζιους υπολογιστές</string>
+    <key>StoreOneDesktop</key><string>%d επιφάνεια εργασίας</string>
+    <key>StoreNumberOfApplications</key><string>%d εφαρμογές</string>
+    <key>StoreOneApplication</key><string>%d app</string>
+    <key>StoreAddStore</key><string>Προσθέστε το λογαριασμό</string>
+    <key>StoreDuplicateStore</key><string>Διπλός λογαριασμός</string>
+    <key>StoreDeleteStore</key><string>Διαγραφή λογαριασμού</string>
+    <key>StoreEditStore</key><string>Επεξεργαστείτε το λογαριασμό</string>
+    <key>StoreShareSettings</key><string>Ρυθμίσεων λογαριασμού</string>
+    <key>StoreUpdateStore</key><string>Ενημέρωση λογαριασμού</string>
+    <key>StoreMyStoresTitleFormatKey</key><string>Τους λογαριασμούς μου (%1% 2)</string>
+    <key>StoreDeleteStoreWarningTitleKey</key><string>Προειδοποίηση</string>
+    <key>StoreDeleteStoreWarningMessageKey</key><string>Πρόκειται να διαγράψετε τον λογαριασμό σας μόνο! Είστε βέβαιοι ότι θέλετε να συνεχίσετε;</string>
+    <key>StoreDeleteStoreDeleteButtonLabelKey</key><string>Διαγραφή</string>
+    <key>StoreItemLogOnLabel</key><string>Συνδεθείτε</string>
+    <key>StoreItemActionsLabel</key><string>Δράσεις</string>
+    <key>StoreItemPleaseWait</key><string>Παρακαλώ περίμενε...</string>
+    <key>LoginLabel</key><string>Συνδεθείτε</string>
+    <key>RecentsTitle</key><string>Αγαπημένα</string>
+    <key>NoRecentsMessage</key><string>Ξεκινήστε τις αγαπημένες σας εφαρμογές.</string>
+    <key>ConfirmDeleteTokenTitle</key><string>Διαγραφή Token της RSA</string>
+    <key>ConfirmDeleteToken</key><string>Είστε βέβαιοι ότι θέλετε να διαγράψετε το διακριτικό αυτό;</string>
+    <key>GetPasscodeTitle</key><string>Πάρετε τα κωδικό πρόσβασης</string>
+    <key>EnterPinTitle</key><string>Παρακαλούμε εισάγετε το PIN σας.</string>
+    <key>StoreServerConnectionErrorTitleKey</key><string>Δεν μπορεί να συνδεθεί με το διακομιστή</string>
+    <key>StoreServerConnectionErrorMessageKey</key><string>Παρακαλώ ξαναδοκιμάστε σε μερικά λεπτά.</string>
+    <key>AccountLabelTitle</key><string>Λογαριασμός:</string>
+    <key>FavoritesTrackpadButtonLabelKey</key><string>Trackpad</string>
+    <key>FavoritesLaunchErrorAlertTitleKey</key><string>Σφάλμα</string>
+    <key>FavoritesLaunchErrorAlertMessageKey</key><string>Λογαριασμό για app δεν υπάρχει πια.  Θα θέλατε να καταργήσετε το φαβορί;</string>
+    <key>FavoritesLaunchErrorAlertMessage2Key</key><string>Παρουσιάστηκε σφάλμα κατά την συνδέουμε με αίτηση. Θα θέλατε να καταργήσετε αυτό το app;</string>
+    <key>FavoritesMobileAppDownloadPausedKey</key><string>Πατήστε για εγκατάσταση</string>
+    <key>FavoritesMobileAppDownloadQueuedKey</key><string>Περιμένοντας να κατεβάσετε...</string>
+    <key>FavoritesMobileAppDownloadingKey</key><string>Κατέβασμα...</string>
+    <key>FavoritesMobileAppDownloadedKey</key><string>Κατέβασμα...</string>
+    <key>FavoritesMobileAppInstallPausedKey</key><string>Πατήστε για εγκατάσταση</string>
+    <key>FavoritesMobileAppInstallSetupKey</key><string>Προετοιμασία...</string>
+    <key>FavoritesMobileAppInstallingKey</key><string>Την εγκατάσταση...</string>
+    <key>FavoritesMobileAppInstalledKey</key><string>Την εγκατάσταση...</string>
+    <key>EditStoreErrorTitleKey</key><string>Σφάλμα</string>
+    <key>EditStoreErrorURLForbidden</key><string>%@ απαγορεύεται. Κωδικός σφάλματος: %d</string>
+    <key>EditStoreErrorURLNotFound</key><string>%@ δεν βρέθηκε. Κωδικός σφάλματος: %d</string>
+    <key>EditStoreErrorCouldNotValidateURL</key><string>Δεν μπορούσα να την επικύρωση URL. Κωδικός σφάλματος: %d</string>
+    <key>EditStoreErrorCouldNotValidateServer</key><string>Δεν ήταν δυνατή η επικύρωση της διεύθυνση του διακομιστή.</string>
+    <key>EditStoreErrorCouldNotVerifyServer</key><string>Δεν μπόρεσε να εξακριβώσει διεύθυνση διακομιστή: </string>
+    <key>EditStoreErrorManualModeButtonKey</key><string>Χειροκίνητη ρύθμιση</string>
+    <key>EditStoreErrorRetryButtonKey</key><string>"Επανάληψη"</string>
+    <key>EditStoreErrorOpenInSafariButtonKey</key><string>Ανοικτή στο σαφάρι</string>
+    <key>EditStoreEnterValidWebAddressTitleKey</key><string>Διεύθυνση</string>
+    <key>EditStoreEnterValidWebAddressMessageKey</key><string>Παρακαλώ εισάγετε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου ή διεύθυνση του διακομιστή.</string>
+    <key>EditStoreErrorInvalidURLMessageKey</key><string>Παρακαλώ, προσθέστε πρόθεμα http:// ή https:// στη διεύθυνση σας.</string>
+    <key>EditStoreActivityVerifying</key><string>Επαλήθευση...</string>
+    <key>EditStoreServerTypeXenApp</key><string>Εικονική Apps</string>
+    <key>EditStoreServerTypeXenDesktop</key><string>Εικονική επιφάνεια εργασίας μου</string>
+    <key>EditStoreStoreVerifiedTitleKey</key><string>Επαλήθευση</string>
+    <key>EditStoreNewStoreTitleKey</key><string>Νέο λογαριασμό</string>
+    <key>EditStoreVerifyStoreTitleKey</key><string>Επαληθεύσετε τον λογαριασμό</string>
+    <key>EditStoreWebStoreLabelKey</key><string>Λογαριασμό Web</string>
+    <key>EditStoreEmailSupportLabelKey</key><string>Υποστήριξη μέσω ηλεκτρονικού ταχυδρομείου</string>
+    <key>EditStoreAppStoreNameFormatKey</key><string>%@ Εικονικές εφαρμογές</string>
+    <key>EditStoreAppStoreDefaultNameKey</key><string>Εικονική Apps μου</string>
+    <key>EditStoreDemoStoreNameKey</key><string>Δοκιμαστικός λογαριασμός</string>
+    <key>EditStoreSerurityTokenTitleKey</key><string>Η συσκευή token</string>
+    <key>EditStoreDuplicateStoreSuffixKey</key><string>(αντίγραφο)</string>
+    <key>EditStoreLoadingStoreKey</key><string>Φόρτωση...</string>
+    <key>EditStoreCertificateNotSelectedKey</key><string>Καμία επιλογή</string>
+    <key>EditStoreCellAddressTitleKey</key><string>Διεύθυνση</string>
+    <key>EditStoreCellAddressPlaceholderKey</key><string>Ηλεκτρονικό ταχυδρομείο διεύθυνση URL ή εργασία</string>
+    <key>EditStoreCellDescriptionTitleKey</key><string>Περιγραφή</string>
+    <key>EditStoreCellDescriptionPlaceholderKey</key><string>Περιγραφή λογαριασμού</string>
+    <key>EditStoreCellWebInterfaceCheckTitleKey</key><string>Web Interface</string>
+    <key>EditStoreCellXenAppServicesCheckTitleKey</key><string>XenApp υπηρεσίες</string>
+    <key>EditStoreCellAccessGatewayCheckTitleKey</key><string>Πύλη πρόσβασης</string>
+    <key>EditStoreCellAutoConfigureCheckTitleKey</key><string>Αυτόματη ρύθμιση παραμέτρων</string>
+    <key>EditStoreCellAGTypeStandardCheckTitleKey</key><string>Standard Edition</string>
+    <key>EditStoreCellAGTypeAdvancedCheckTitleKey</key><string>Προηγμένη έκδοση</string>
+    <key>EditStoreCellAGTypeEnterpriseCheckTitleKey</key><string>Επιχείρηση έκδοση</string>
+    <key>EditStoreCellDeliveryServicesCheckTitleKey</key><string>Βιτρίνα</string>
+    <key>EditStoreCellDomainTitleKey</key><string>Τομέα</string>
+    <key>EditStoreCellDomainPlaceholderKey</key><string>Τομέα</string>
+    <key>EditStoreCellUsernameTitleKey</key><string>Όνομα χρήστη</string>
+    <key>EditStoreCellUsernamePlaceholderKey</key><string>Όνομα χρήστη</string>
+    <key>EditStoreCellPasswordTitleKey</key><string>Κωδικός πρόσβασης</string>
+    <key>EditStoreCellPasswordPlaceholderKey</key><string>Προαιρετικό</string>
+    <key>EditStoreCellSecurityTokenSwitchTitleKey</key><string>Η συσκευή Token</string>
+    <key>EditStoreCellSecurityTokenOnlyCheckTitleKey</key><string>Διακριτικό ασφαλείας μόνο</string>
+    <key>EditStoreCellIdentifierDomainAndSecurityTokenCheck</key><string>Τομέα + διακριτικού ασφαλείας</string>
+    <key>EditStoreCellSecuritySoftTokenCheck</key><string>Μαλακό Διακριτικό</string>
+    <key>EditStoreCellIdentifierWebAppsCheck</key><string>Web Apps</string>
+    <key>EditStoreCellIdentifierIgnoreCertErrorsCheck</key><string>Αγνοούν τις προειδοποιήσεις του πιστοποιητικού</string>
+    <key>EditStoreWebAppsMessage</key><string>Δίνει τη δυνατότητα ασφαλής πρόσβαση σε εφαρμογές Web. (Πειραματικό)</string>
+    <key>EditStoreCellIdentifierCertificate</key><string>Πιστοποιητικό</string>
+    <key>EditStoreServiceRecordGatewaysSectionTitle</key><string>Επιλέξτε τοποθεσία</string>
+    <key>EditStoreCellIdentifierUseSmartCard</key><string>Χρήση έξυπνης κάρτας</string>
+    <key>ProfilesScreenTitleKey</key><string>Χώροι εργασίας</string>
+    <key>AddProfileScreenTitleKey</key><string>Νέο λογαριασμό</string>
+    <key>AddProfileContactAdminMessageKey</key><string>Ηλεκτρονικό ταχυδρομείο ΤΠ σας admin για οδηγίες εγκατάστασης.</string>
+    <key>AddProfileEmailMessageBodyKey</key><string>Αγαπητέ Admin, &lt; br / &gt; &lt; br / &gt; θα ήθελα να έχουν πρόσβαση σε μου εφαρμογές χρησιμοποιώντας το δέκτη Citrix για iOS. &lt; br / &gt; θα μπορούσε να σας παρακαλώ βοηθήστε με να ρυθμίσετε το χώρο εργασίας μου;</string>
+    <key>AddProfileEmailMessageFooterKey</key><string>&lt; br / &gt; &lt; br / &gt; για περισσότερες πληροφορίες και απαιτήσεις, επισκεφθείτε: &lt; br / &gt; %@ &lt; br / &gt; &lt; br / &gt; καλύτερες ευχές, &lt; br / &gt; μου.</string>
+    <key>AddProfileEmailSubjectKey</key><string>Δέκτης Citrix για iOS</string>
+    <key>AddProfileEmailNotAvailableTitleKey</key><string>Ηλεκτρονικού ταχυδρομείου δεν είναι διαθέσιμη</string>
+    <key>AddProfileEmailNotAvailableMessageKey</key><string>IPad σας δεν έχει μια ρύθμιση λογαριασμού ηλεκτρονικού ταχυδρομείου.</string>
+    <key>AddProfileEmailNotAvailableiPhoneMessageKey</key><string>Σας iPhone ή iPod την αφή, δεν έχει μια ρύθμιση λογαριασμού ηλεκτρονικού ταχυδρομείου.</string>
+    <key>ShareSettingsEmailMessageBodyKey</key><string>Γεια σας, &lt; br / &gt; &lt; br / &gt; παρακαλώ πατήστε τον παρακάτω σύνδεσμο για να στήσετε το δέκτη σας Citrix: &lt; br / &gt; &lt; br / &gt;</string>
+    <key>ShareSettingsEmailSubjectKey</key><string>Ρυθμίσεις Citrix δέκτη</string>
+    <key>OldProfileNameKey</key><string>Έκδοση 1.0 προφίλ</string>
+    <key>GeneralSettingsGroupTitleKey</key><string>Γενικές ρυθμίσεις</string>
+    <key>ProfilenameFieldTitleKey</key><string>Περιγραφή</string>
+    <key>ProfilenameFieldPlaceholderKey</key><string>Περιγραφή λογαριασμού</string>
+    <key>ProfilenameFieldDefaultKey</key><string>Νέα</string>
+    <key>ProfilenameErrorTitleKey</key><string>Σφάλμα</string>
+    <key>ProfilenameErrorMessageKey</key><string>Ένας χώρος εργασίας με αυτό το όνομα υπάρχει ήδη</string>
+    <key>ProfilenameErrorButtonTitleKey</key><string>Απορρίψει</string>
+    <key>UsernameFieldTitleKey</key><string>Όνομα χρήστη</string>
+    <key>UsernameFieldPlaceholderKey</key><string>Όνομα χρήστη</string>
+    <key>DomainFieldTitleKey</key><string>Τομέα</string>
+    <key>DomainFieldPlaceholderKey</key><string>Τομέα</string>
+    <key>PasswordAlertTitleKey</key><string>Κωδικός πρόσβασης</string>
+    <key>PasswordAlertMessageKey</key><string>Εισάγετε το όνομα χρήστη και κωδικό πρόσβασης</string>
+    <key>AddressFieldTitleKey</key><string>Διεύθυνση</string>
+    <key>AddressFieldPlaceholderKey</key><string>Ηλεκτρονικό ταχυδρομείο διεύθυνση URL ή εργασία</string>
+    <key>RememberPasswordFieldTitleKey</key><string>Εισέλθετε αυτόματα</string>
+    <key>UseRSAFieldTitleKey</key><string>Citrix πρόσβαση πύλη ™</string>
+    <key>InvalidProtocolErrorTitleKey</key><string>Εσφαλμένη διεύθυνση</string>
+    <key>InvalidProtocolErrorMessageKey</key><string>Παρακαλώ ελέγξτε τη διεύθυνση και ξαναπροσπαθήστε.</string>
+    <key>InvalidProtocolErrorButtonTitleKey</key><string>Αλλαγή</string>
+    <key>HostUnreachableErrorTitleKey</key><string>Διεύθυνση απρόσιτος</string>
+    <key>HostUnreachableErrorMessageKey</key><string>Αυτή η διεύθυνση δεν μπορεί να επιτευχθεί. Ελέγξτε τη διεύθυνση και πύλη ρυθμίσεις σύνδεση δικτύου σας.</string>
+    <key>HostUnreachableErrorButtonTitleKey</key><string>Ok</string>
+    <key>SetupScreenHelpLinkTitleKey</key><string>Μάθε περισσότερα...</string>
+    <key>SetupScreenHelpLinkKey</key><string>http://m.iPhone.Citrix.com/</string>
+    <key>SetupScreenButtonTitleKey</key><string>Επόμενη</string>
+    <key>InvalidCitrixXMLFromSuccessfulHTTPConnectionErrorMessageKey</key><string>Η διεύθυνση που αναφέρεται δεν έδωσε μια έγκυρη λίστα "εφαρμογές". Ελέγξτε τη διεύθυνση και πύλη ρυθμίσεις σύνδεση δικτύου σας.</string>
+    <key>RSAPromptTitleKey</key><string>RSA SecurID ®</string>
+    <key>SMSPassCodePromptTitleKey</key><string>SMS ελέγχου ταυτότητας</string>
+    <key>PasscodePromptMessageKey</key><string>Εισάγετε το όνομα χρήστη και κωδικό πρόσβασης</string>
+    <key>PromptCancelButtonTitleKey</key><string>"Άκυρο"</string>
+    <key>PromptLoginButtonTitleKey</key><string>Ok</string>
+    <key>LoginFailedLabelKey</key><string>Παρακαλώ ξαναπροσπαθήστε.</string>
+    <key>loginFailedTitleKey</key><string>Δεν θα μπορούσε να συνδεθείτε</string>
+    <key>LoginFailedTryAgainTitleKey</key><string>Δοκίμασε ξανά</string>
+    <key>PasscodePromptUserNameKey</key><string>Όνομα χρήστη</string>
+    <key>PasscodePromptPassCodeKey</key><string>Κωδικό πρόσβασης</string>
+    <key>GatewayEnableGatewayKey</key><string>Πύλη πρόσβασης</string>
+    <key>AuthenticationMethodGroupTitleKey</key><string>Πύλη ελέγχου ταυτότητας</string>
+    <key>AuthenticationMethodNoneKey</key><string>Χωρίς έλεγχο ταυτότητας</string>
+    <key>AuthenticationMethodDomainKey</key><string>Μόνο στον τομέα</string>
+    <key>AuthenticationMethodTokenKey</key><string>Μόνο το διακριτικό</string>
+    <key>AuthenticationMethodDomainAndTokenKey</key><string>Τομέα + Διακριτικό</string>
+    <key>RequiredFieldErrorTitleKey</key><string>Πληροφορίες</string>
+    <key>RequiredFieldErrorMessageKey</key><string>Παρακαλώ συμπληρώστε όλα τα πεδία πριν από την αποθήκευση αυτού του λογαριασμού.</string>
+    <key>RequiredFieldAlertMessageKey</key><string>Παρακαλούμε εισάγετε όλες τις πληροφορίες πριν από τη σύνδεση</string>
+    <key>RequiredFieldErrorButtonTitleKey</key><string>Απορρίψει</string>
+    <key>DisabledSavePasswordTextFieldKey</key><string>άτομα με ειδικές ανάγκες από admin</string>
+    <key>AccountSelectionTitleKey</key><string>Επιλογή</string>
+    <key>AccountSelectionNewWorkspaceLabelKey</key><string>Νέο λογαριασμό</string>
+    <key>AccountSelectionPCConnectionLabelKey</key><string>Σύνδεση PC</string>
+    <key>AddDesktopScreenTitleKey</key><string>Προσθήκη σύνδεσης</string>
+    <key>DesktopNameFieldTitleKey</key><string>Περιγραφή</string>
+    <key>DesktopNameFieldPlaceholderKey</key><string>Το όνομά μου στην επιφάνεια εργασίας</string>
+    <key>DesktopAddressFieldPlaceholderKey</key><string>Διεύθυνση IP ή το όνομα του υπολογιστή</string>
+    <key>DesktopConnectionsTitleKey</key><string>PC συνδέσεις</string>
+    <key>DesktopConnectButtonLabelKey</key><string>Συνδεθείτε</string>
+    <key>RSAImportTitle</key><string>Εισαγωγή διακριτικού</string>
+    <key>RSAImportTokenFailed</key><string>Απέτυχε η εισαγωγή token της RSA.</string>
+    <key>RSAImportTokenSuccessTitle</key><string>Διακριτικό που εισάγονται με επιτυχία </string>
+    <key>HaveAPinTitle</key><string>Έχετε ήδη μια καρφίτσα;</string>
+    <key>RSAImportTokenPasswordTitle</key><string>Παρακαλούμε εισάγετε τον κωδικό πρόσβασης που παρέχονται από το γραφείο σας βοήθεια.</string>
+    <key>RSAPinSetupTitle</key><string>PIN εγκατάστασης</string>
+    <key>RSAPasscodeSetupInstructions</key><string>Ακολουθήστε τις οδηγίες από το γραφείο βοήθεια σας χρησιμοποιώντας τον κωδικό εφάπαξ που παρουσιάζονται εδώ.</string>
+    <key>RSACancelTitle</key><string>Άκυρο εισαγωγή διακριτικού</string>
+    <key>RSASecsRemaining</key><string>%@ δευτερόλεπτα που απομένουν</string>
+    <key>RSACancelConfirmTitle</key><string>Είστε βέβαιοι ότι θέλετε να ακυρώσετε την RSA διακριτικού εισαγωγής;</string>
+    <key>RSATokenImportPasswordError</key><string>Κωδικός πρόσβασης πληκτρολογήσατε είναι εσφαλμένος.</string>
+    <key>RSATokenExpired</key><string>Μέσω Token της RSA έχει λήξει.</string>
+    <key>RSATokenImportGeneralFailure</key><string>Παρουσιάστηκε ένα εσωτερικό σφάλμα κατά την εισαγωγή το διακριτικό RSA.</string>
+    <key>RSASerialIncorrectError</key><string>RSA αύξοντα αριθμό ήταν εσφαλμένη.</string>
+    <key>RSAPinIncorrectError</key><string>RSA καρφίτσα ήταν εσφαλμένη.</string>
+    <key>RSAOtpParamIncorrectError</key><string>Η παράμετρος RSA OTP ήταν εσφαλμένη.</string>
+    <key>RSASecondsRemainingError</key><string>RSA αριθμό των δευτερολέπτων που μου απομένουν εσφαλμένη.</string>
+    <key>RSATokenNotFoundError</key><string>Δεν βρέθηκε το διακριτικό RSA.</string>
+    <key>RSAPasscodeRetrievalError</key><string>Παρουσιάστηκε ένα σφάλμα παίρνοντας RSA passcode.</string>
+    <key>RSAPasscodeKey</key><string>RSA κωδικό πρόσβασης</string>
+    <key>RSATokenDeletionSuccess</key><string>RSA διακριτικό %@ έχει διαγραφεί.</string>
+    <key>RSATokenDeletionSerialIncorrectError</key><string>RSA διακριτικού απέτυχε η διαγραφή. Αύξοντα αριθμό %@ εσφαλμένη.</string>
+    <key>RSATokenDeletionNotFoundError</key><string>RSA διακριτικού απέτυχε η διαγραφή. Διακριτικό δεν βρέθηκαν αύξοντα αριθμό %@.</string>
+    <key>RSATokenDeletionFailedError</key><string>Συμβολική διαγραφή απέτυχε για το διακριτικό % RSA %@.</string>
+    <key>RSATokenReuseTitle</key><string>Σφάλμα καρφίτσα</string>
+    <key>RSASoftTokenReUseMessage</key><string>Περιμένετε 60 δευτερόλεπτα και, στη συνέχεια, προσπαθήστε ξανά.</string>
+    <key>RSATokenReUseMessage</key><string>Περιμένετε για 60 δευτερόλεπτα, στη συνέχεια, προσπαθήστε ξανά</string>
+    <key>RSATokenImportContinue</key><string>Συνεχίσει</string>
+    <key>RSATokenImportDuplicateError</key><string>Το διακριτικό αυτό έχει ήδη εισαχθεί.</string>
+    <key>AuthenticatingKey</key><string>Έλεγχος ταυτότητας...</string>
+    <key>ConnectingKey</key><string>Τη σύνδεση...</string>
+    <key>LaunchingKey</key><string>Έναρξη...</string>
+    <key>StartingKey</key><string>Ξεκινώντας %@...</string>
+    <key>StartingApplicationKey</key><string>Έναρξη εφαρμογής...</string>
+    <key>SecuringCommunicationKey</key><string>Εξασφάλιση των επικοινωνιών...</string>
+    <key>SyncingAppsTitleKey</key><string>Ενημέρωση Apps...</string>
+    <key>LoadingProfileButtonCancelTitleKey</key><string>"Άκυρο"</string>
+    <key>LoadingProfileButtonDismissTitleKey</key><string>Απορρίψει</string>
+    <key>PublishedItemsScreenTitleKey</key><string>Εφαρμογές</string>
+    <key>PublishedItemsTipMessage</key><string>\n συμβουλή: μπορείτε να προσθέσετε ή να καταργήσετε μια εφαρμογή στο χώρο εργασίας σας με το τρύπημα και το κράτημα του. \n</string>
+    <key>SearchAppsDesktopsPlaceholderKey</key><string>Αναζήτηση Apps και επιτραπέζιους υπολογιστές</string>
+    <key>FavoritesEditButtonTitleKey</key><string>Επεξεργασία</string>
+    <key>FavoritesDoneButtonTitleKey</key><string>Γίνει</string>
+    <key>EditFavoritesCancelButtonTitleKey</key><string>"Άκυρο"</string>
+    <key>AddFavoriteButtonTitleKey</key><string>Προσθέστε τα αγαπημένα</string>
+    <key>AddFavoriteScreenTitleKey</key><string>Προσθέστε τα αγαπημένα</string>
+    <key>AppDetailScreenTitleKey</key><string>Λεπτομέρειες</string>
+    <key>AppDetailInfoNoDescriptionKey</key><string>Καμία περιγραφή που παρέχεται.</string>
+    <key>AppDetailRemoveFavoriteButtonLabelKey</key><string>Κατάργηση από τα αγαπημένα</string>
+    <key>AppDetailAddToFavoritesButtonLabelKey</key><string>Προσθήκη στα αγαπημένα</string>
+    <key>AppCellFavoriteLabelKey</key><string>Αγαπημένο</string>
+    <key>AppViewNewApp</key><string>Νέο App</string>
+    <key>AppBrowserAllFolders</key><string>Όλοι οι φάκελοι</string>
+    <key>RefreshApplistLabelKey</key><string>Ανανέωση Apps</string>
+    <key>UnableToUpdateApplistTitleKey</key><string>Δεν είναι δυνατή η ενημέρωση Applist</string>
+    <key>UnableToUpdateApplistMessageKey</key><string>Υπήρξε ένα πρόβλημα κατά την ενημέρωση την τρέχουσα applist.</string>
+    <key>FeaturedNoFeaturedAppsKey</key><string>Δεν Επιλεγμένα εφαρμογές έχουν καθοριστεί για σας από το διαχειριστή σας.</string>
+    <key>DesktopItemsUpdatingKey</key><string>Ενημέρωση...</string>
+    <key>DesktopItemsUpdatedKey</key><string>Ενημέρωση </string>
+    <key>DesktopItemsUpdatedDateFormatKey</key><string>ΜΜ/ηη/εεεε ω: λλ ένα</string>
+    <key>DesktopOrganizeWorkspaceKey</key><string>Οργάνωση της λίστας αγαπημένων</string>
+    <key>DesktopSnapToGridTitleKey</key><string>Συγκράτηση στο πλέγμα</string>
+    <key>FeaturedCategoryKey</key><string>Προτεινόμενα</string>
+    <key>AppListErrorButtonTitleKey</key><string>Απορρίψει</string>
+    <key>ZeroPublishedItemsErrorKey</key><string>Δεν υπάρχουν εφαρμογές διαθέσιμες σε αυτή τη διεύθυνση.</string>
+    <key>FailedToExtractListErrorKey</key><string>Η διεύθυνση που αναφέρεται δεν έδωσε μια έγκυρη λίστα "εφαρμογές". Ελέγξτε τη διεύθυνση και πύλη ρυθμίσεις σύνδεση δικτύου σας.</string>
+    <key>BadAddressErrorTitleKey</key><string>Διεύθυνση δεν βρέθηκε</string>
+    <key>BadAddressErrorMessageKey</key><string>Η διεύθυνση δεν μπορεί να βρεθεί. Ελέγξτε τη διεύθυνση και πύλη ρυθμίσεις σύνδεση δικτύου σας.</string>
+    <key>BadAddressErrorButtonTitleKey</key><string>Ok</string>
+    <key>BadCredentialsErrorTitleKey</key><string>Λανθασμένες πιστοποιήσεις</string>
+    <key>BadCredentialsErrorMessageKey</key><string>Απορρίφθηκαν τα διαπιστευτήριά σας.</string>
+    <key>BadCredentialsErrorButtonTitleKey</key><string>Ok</string>
+    <key>CharlotteErrorBadCredentialsMessageKey</key><string>Επαληθεύστε το όνομα χρήστη και κωδικό πρόσβασης και προσπαθήστε ξανά.</string>
+    <key>NoConfigurationFileTitleKey</key><string>Δεν υπάρχει το αρχείο ρύθμισης παραμέτρων</string>
+    <key>NoConfigurationFileMessageKey</key><string>Δεν θα μπορούσε να φθάσει server αρχείο ρυθμίσεων.</string>
+    <key>ResourceUnavailableTitleKey</key><string>Πόρων δεν είναι διαθέσιμη</string>
+    <key>ResourceUnavailableMessageKey</key><string>Server είναι διαθέσιμο προς το παρόν.</string>
+    <key>AppRemovedTitleKey</key><string>App αφαιρεθεί</string>
+    <key>AppRemovedMessageKey</key><string>Η αιτούμενη εφαρμογή έχει αφαιρεθεί ή άτομα με ειδικές ανάγκες. Παρακαλούμε να ανανεώσετε τη λίστα σας εφαρμογή.</string>
+    <key>CharlotteErrorAccountDisabledTitleKey</key><string>Λογαριασμό άτομα με ειδικές ανάγκες</string>
+    <key>CharlotteErrorAccountDisabledMessageKey</key><string>Λογαριασμός σας έχει απενεργοποιηθεί.</string>
+    <key>CharlotteErrorAccountLockedOutTitleKey</key><string>Λογαριασμό κλειδωμένος</string>
+    <key>CharlotteErrorAccountLockedOutMessageKey</key><string>Λογαριασμός σας έχει κλειδωθεί προσωρινά.</string>
+    <key>CharlotteErrorCredentialsMustChangeTitleKey</key><string>Πρέπει να αλλάξετε διαπιστευτήρια</string>
+    <key>CharlotteErrorCredentialsMustChangeMessageKey</key><string>Τα διαπιστευτήριά σας έχουν λήξει και πρέπει να αλλάξει.</string>
+    <key>CharlotteErrorCredentialsExpiredTitleKey</key><string>Διαπιστευτήρια που έληξε</string>
+    <key>CharlotteErrorCredentialsExpiredMessageKey</key><string>Τα διαπιστευτήριά σας έχουν λήξει.</string>
+    <key>CharlotteErrorInvalidLogonHoursTitleKey</key><string>Χρόνος σύνδεσης δεν είναι έγκυρη</string>
+    <key>CharlotteErrorInvalidLogonHoursMessageKey</key><string>Διαχειριστή του συστήματός σας δεν σας επέτρεψε να συνδέεστε αυτή τη στιγμή.</string>
+    <key>InternalServerErrorKey</key><string>Δεν υπάρχουν εφαρμογές διαθέσιμες αυτή τη στιγμή.</string>
+    <key>UnableToLaunchApplicationTitleKey</key><string>Έναρξη του App</string>
+    <key>UnableToLaunchApplicationMessageKey</key><string>Δεν μπορεί να ξεκινήσει την αιτούμενη App. Επιλέξτε \"More Info\» για περαιτέρω λεπτομέρειες.</string>
+    <key>UnableToLaunchApplicationDueToNetWorkKey</key><string>Αυτή η εφαρμογή έχει απενεργοποιηθεί από το διαχειριστή σας, ή ο διακομιστής δεν δέχεται συνδέσεις.</string>
+    <key>UnableToLaunchApplicationButtonKey</key><string>Ok</string>
+    <key>HTTP404ErrorMessageKey</key><string>Η διεύθυνση που αναφέρεται δεν έδωσε μια έγκυρη λίστα "εφαρμογές". Ελέγξτε τη διεύθυνση και πύλη ρυθμίσεις σύνδεση δικτύου σας.</string>
+    <key>AppListFailedGatewayAuthErrorKey</key><string>Βεβαιωθείτε σας διαπιστευτήρια και συνδεσιμότητα δικτύου.</string>
+    <key>AppListFailedGatewayPreAuthScanNotSupportedErrorKey</key><string>Προθεώρηση τελικό σημείο ανάλυση σάρωσης δεν υποστηρίζεται σε αυτήν την συσκευή.</string>
+    <key>AppListFailedGatewayNextTokenErrorKey</key><string>Συσκευή βρίσκεται σε επόμενη διακριτικού κατάσταση.</string>
+    <key>AppListFailedErrorTitleKey</key><string>Δυνατό να φορτώσει τη λίστα "εφαρμογές"</string>
+    <key>AppListFailedErrorButtonTitleKey</key><string>Ok</string>
+    <key>UnknownErrorMessageKey</key><string>Δεν υπάρχουν εφαρμογές διαθέσιμες αυτή τη στιγμή.</string>
+    <key>AccountLockedOutErrorMessageKey</key><string>Διαχειριστής έχει κλειδώσει το λογαριασμό σας.</string>
+    <key>ChangeAccountSettingsButtonTitleKey</key><string>Ρυθμίσεις</string>
+    <key>GatewaySessionExpiredErrorMessageKey</key><string>Σας πύλη πρόσβασης έχει λήξει η συνεδρία, παρακαλώ συνδεθείτε πάλι.</string>
+    <key>SessionTicketInvalidErrorMessageKey</key><string>Σας δελτίο περιόδου λειτουργίας είναι έγκυρο, παρακαλώ συνδεθείτε πάλι.</string>
+    <key>AuthenticationErrorTitleKey</key><string>Σφάλμα ελέγχου ταυτότητας</string>
+    <key>UnableToLaunchAppDetailsTitleKey</key><string>Λεπτομέρειες σφάλματος</string>
+    <key>LoginErrorMessageNull</key><string>Null</string>
+    <key>LoginErrorMessageSuccess</key><string>Επιτυχία</string>
+    <key>LoginErrorMessageInvalidAddress</key><string>Άκυρη διεύθυνση</string>
+    <key>LoginErrorMessageSSLError</key><string>Λάθους SSL</string>
+    <key>LoginErrorMessageIoException</key><string>Εξαίρεση IO</string>
+    <key>LoginErrorMessageProtocolException</key><string>Πρωτόκολλο εξαίρεση</string>
+    <key>LoginErrorMessageEpaEnabled</key><string>EPA ενεργοποιημένη</string>
+    <key>LoginErrorMessageConfigXmlPathNotDetermined</key><string>ConfigXml διαδρομή δεν καθορίζεται</string>
+    <key>LoginErrorMessageUserCancelled</key><string>Χρήστης ακυρώθηκε</string>
+    <key>LoginErrorMessageUnexpectedResponse</key><string>Απροσδόκητη απάντηση</string>
+    <key>LoginErrorMessagePreAuthEnabled</key><string>PreAuth ενεργοποιημένη</string>
+    <key>LoginErrorMessageNewPinRequired</key><string>Μια νέα καρφίτσα Required.\n\nPlease δημιουργία νέου αριθμού PIN χρησιμοποιώντας ένα web browser.</string>
+    <key>LoginErrorMessageNextTokencodeRequired</key><string>Το τρέχον διακριτικό δεν είναι synchronized.\n\nPlease επαναλάβετε το συγχρονισμό σας κουπόνι, χρησιμοποιώντας ένα web browser.</string>
+    <key>LoginErrorMessageChangePasswordRequired</key><string>Ο κωδικός πρόσβασης για αυτόν το λογαριασμό έχει expired.\n\nPlease αλλάξετε τον κωδικό πρόσβασης χρησιμοποιώντας ένα web browser.</string>
+    <key>LoginErrorMessagePinSetupFailed</key><string>Λανθασμένο κωδικό PIN.</string>
+    <key>NoAvailableWorkstationTitleKey</key><string>Δεν διαθέσιμο διακομιστή σταθμούς εργασίας</string>
+    <key>NoAvailableWorkstationMessageKey</key><string>Υπάρχουν δεν σταθμούς εργασίας διαθέσιμο διακομιστή στον οποίο θα εκτελεστεί αυτό το app.</string>
+    <key>ServerErrorKey</key><string>Σφάλμα διακομιστή.</string>
+    <key>TheServerDisconnectedTheSessionKey</key><string>Το server αποσύνδεσε την περίοδο λειτουργίας.</string>
+    <key>WaitForICASessionKey</key><string>Παρακαλώ περίμενε...</string>
+    <key>SessionExitActionSheetTitleKey</key><string></string>
+    <key>SessionExitActionSheetBackButtonTitleKey_XA</key><string>Πίσω σε εφαρμογές</string>
+    <key>SessionExitActionSheetExitButtonTitleKey_XA</key><string>Κλείστε το App</string>
+    <key>SessionExitActionSheetBackButtonTitleKey_XD</key><string>Πίσω στους υπολογιστές γραφείου</string>
+    <key>SessionExitActionSheetExitButtonTitleKey_XD</key><string>Στείλτε Crtl + Alt + Del</string>
+    <key>SessionExitActionSheetGesturesButtonTitleKey</key><string>Χειρονομίες οδηγός</string>
+    <key>SessionExitActionSheetCancelButtonTitleKey</key><string>"Άκυρο"</string>
+    <key>SessionStatePanningMode</key><string>Πανοραμική λειτουργία</string>
+    <key>SessionStateScrollingMode</key><string>Κύλιση λειτουργία</string>
+    <key>SegmentedControlTitleDisconnect</key><string>Αποσύνδεση</string>
+    <key>SegmentedControlTitleLogoff</key><string>Αποσυνδεθείτε</string>
+    <key>SegmentedControlTitleResetZoom</key><string>Επαναφορά ζουμ</string>
+    <key>SegmentedControlTitleChangeResolution</key><string>Αλλαγή ανάλυση</string>
+    <key>SegmentedControlTitleGesturesGuide</key><string>Χειρονομίες οδηγός</string>
+    <key>SegmentedControlTitleDismiss</key><string>Απορρίψει</string>
+    <key>SwitchingWindowTitleKey</key><string>Ανάβω παράθυρο</string>
+    <key>SessionStateScrollingOn</key><string>Τυλίξει στα</string>
+    <key>SessionStateScrollingOff</key><string>Κατεβαίνετε πιο κάτω</string>
+    <key>SessionStateScrollingOnSmall</key><string>τυλίξει στα</string>
+    <key>SessionStateScrollingOffSmall</key><string>κατεβαίνετε πιο κάτω</string>
+    <key>SessionWarningTitleKey</key><string>Προειδοποίηση περίοδο λειτουργίας</string>
+    <key>SessionReadyTitleKey</key><string>App έτοιμο συναγερμού</string>
+    <key>SessionReadyMessageKey</key><string>App σας είναι έτοιμη τώρα.</string>
+    <key>SessionReadyCancelButtonTitleKey</key><string>"Άκυρο"</string>
+    <key>SessionReadyOkButtonTitleKey</key><string>Εμφάνιση App</string>
+    <key>CurrentSessionTerminatedKey</key><string>Τρέχουσα συνεδρία σας τερματίστηκε, μπορείτε να ανοίξετε το δέκτη να ξεκινήσετε μια νέα σύνοδο.</string>
+    <key>GuesturesGuidePortraitFileKey</key><string>gestures_portrait.png</string>
+    <key>GuesturesGuideLandscapeLeftFileKey</key><string>gestures_landscape_left.png</string>
+    <key>GuesturesGuideLandscapeRightFileKey</key><string>gestures_landscape_right.png</string>
+    <key>SettingsTabTitleKey</key><string>Ρυθμίσεις</string>
+    <key>SettingsSessionTitleKey</key><string>Συνεδρία ρυθμίσεις</string>
+    <key>SettingsWorkspaceTitleKey</key><string>Ρυθμίσεις χώρου εργασίας</string>
+    <key>SettingsAccountTitleKey</key><string>Ρυθμίσεις λογαριασμού</string>
+    <key>SettingsWallpaperLabelKey</key><string>Ταπετσαρίες</string>
+    <key>SettingsWallpaperTitleKey</key><string>Ταπετσαρίες</string>
+    <key>SettingsAppearanceLabelKey</key><string>Οθόνη</string>
+    <key>SettingsSessionLabelKey</key><string>Συνεδρία</string>
+    <key>SettingsKeyboardLabelKey</key><string>Πληκτρολόγιο</string>
+    <key>SettingsAudioLabelKey</key><string>Ήχου</string>
+    <key>SettingsMultimediaLabelKey</key><string>Ανακατεύθυνση Win Media</string>
+    <key>SettingsDefaultProfileLabelKey</key><string>Προεπιλεγμένο λογαριασμό</string>
+    <key>SettingsCaffeineLabelKey</key><string>Καφεΐνη</string>
+    <key>SettingsHelpLabelKey</key><string>Βοήθεια</string>
+    <key>SettingsFeedbackLabelKey</key><string>Αποστολή σχολίων</string>
+    <key>SettingsFeedbackMailComposerMailBodyKey</key><string>&lt; br / &gt; ανάδραση: </string>
+    <key>SettingsFeedbackMailAppMailBodyKey</key><string>&amp; σώμα = &lt; br / &gt; ανάδραση: </string>
+    <key>SettingsTellaFriendMailComposerMailBodyKey</key><string>&lt;p&gt;Ελέγξτε έξω αυτήν την εφαρμογή:&lt;/p&gt;</string>
+    <key>SettingsTellaFriendMailAppMailBodyKey</key><string>&amp; σώμα = &lt;p&gt;Ελέγξτε έξω αυτήν την εφαρμογή:&lt;/p&gt;</string>
+    <key>SettingsReceiverAppStoreAddress</key><string>http://iTunes.Apple.com/WebObjects/MZStore.WOA/WA/viewSoftware?ID=363501921&amp;MT=8</string>
+    <key>SettingsAboutLabelKey</key><string>Σχετικά με</string>
+    <key>SettingsAppearanceTitleKey</key><string>Επιλογές εμφάνισης</string>
+    <key>SettingsKeyboardTitleKey</key><string>Επιλογές πληκτρολογίου</string>
+    <key>SettingsDefaultProfileTitleKey</key><string>Προεπιλεγμένο λογαριασμό</string>
+    <key>SettingsCaffeineTitleKey</key><string>Καφεΐνη</string>
+    <key>SettingsAboutScreenTitleKey</key><string>Σχετικά με</string>
+    <key>SettingsResolutionLabelKey</key><string>Ψήφισμα της συνόδου</string>
+    <key>SettingsZoomLabelKey</key><string>Αρχική ζουμ</string>
+    <key>SettingsHideStatusBarLabelKey</key><string>Απόκρυψη γραμμής κατάστασης</string>
+    <key>SettingsResolutionTitleKey</key><string>Ψήφισμα της συνόδου</string>
+    <key>SettingsZoomTitleKey</key><string>Ζουμ</string>
+    <key>SettingsProfilesFooterOnTitleKey</key><string>Όταν μακριά, τελευταία χρησιμοποιούνται λογαριασμό θα αυτο φορτίο \n επόμενη φορά Citrix δέκτης ανοίγει.</string>
+    <key>SettingsProfilesFooterOffTitleKey</key><string>Όταν ενεργοποιείται, επιλεγμένο λογαριασμό θα αυτο να φορτώσει \n everytime Citrix δέκτης ανοίγει.</string>
+    <key>SettingsResolutionDefaultLabelKey</key><string>Προεπιλεγμένη ανάλυση</string>
+    <key>SettingsResolutionAutofitLabelKey</key><string>Αυτόματη προσαρμογή οθόνης</string>
+    <key>SettingsResolutionFitScreenLabelKey</key><string>Ταιριάζει πορτρέτο</string>
+    <key>SettingsResolutionFitWideScreenLabelKey</key><string>Ταιριάζει τοπίο</string>
+    <key>SettingsResolutionLargeLabelKey</key><string>Μεγάλο</string>
+    <key>SettingsResolutionMediumLabelKey</key><string>Μέσο</string>
+    <key>SettingsResolutionSmallLabelKey</key><string>Μικρό</string>
+    <key>SettingsStayAwakeLabelKey</key><string>Μείνετε ξύπνιοι</string>
+    <key>SettingsStayAwakeFooterTitleKey</key><string>Εμποδίζει την οθόνη του iPad θα \n στον ύπνο, αλλά μπορεί να μειώσει τη διάρκεια ζωής της μπαταρίας.</string>
+    <key>SettingsStayAwakeFooteriPhoneTitleKey</key><string>Αποτρέπει σας iPhone ή iPod την αφή από πάτε για ύπνο, αλλά μπορεί να μειώσει τη διάρκεια ζωής της μπαταρίας.</string>
+    <key>SettingsZoomActualSizeLabelKey</key><string>Πραγματικό μέγεθος</string>
+    <key>SettingsZoomZoomedInLabelKey</key><string>Μεγεθύνεται</string>
+    <key>SettingsZoomZoomedOutLabelKey</key><string>Σμίκρυνση</string>
+    <key>SettingsShareLabelKey</key><string>Μερίδιο</string>
+    <key>SettingsTellAFriendLabelKey</key><string>Πες το σε ένα φίλο</string>
+    <key>SettingsHelpTitleKey</key><string>Βοήθεια</string>
+    <key>DismissHelpTitleKey</key><string>Γίνει</string>
+    <key>SettingsStartSessionCenterLabelKey</key><string>Ξεκινήσει η στοίχιση στο κέντρο</string>
+    <key>SettingsZoomViewFooterTitleKey</key><string>Εάν η αρχική ζουμ είναι διαφορετική από ό, τι \"Actual Size\" \n \"Start Centered\" επιλογή θα παραβλεφθούν</string>
+    <key>SettingsExitSessionLabelKey</key><string>Ερώτηση πριν από την έξοδο</string>
+    <key>SettingsGesturesLabelKey</key><string>Χειρονομίες οδηγός</string>
+    <key>SettingsStartInScrollModeLabelKey</key><string>Εκκίνηση σε λειτουργία κύλισης</string>
+    <key>SettingsExternalDisplayLabelKey</key><string>Εξωτερική οθόνη</string>
+    <key>SettingsUseDeviceStorageLabelKey</key><string>Χρήση %@ αποθήκευσης</string>
+    <key>SettingsLogOutLabelKey</key><string>Αποσυνδεθείτε</string>
+    <key>SettingsLogOutMessageKey</key><string>Αποσυνδεθείτε %@;</string>
+    <key>SettingsLearnAskShareLabelKey</key><string>Μάθουν, να ρωτήσω και να ανταλλάσσουν</string>
+    <key>SettingsApplicationSettingsLabelKey</key><string>Ρυθμίσεις εφαρμογής</string>
+    <key>SettingsLaunchTrackpadLabelKey</key><string>Ασύρματο Trackpad</string>
+    <key>SettingsTrackpadModeLabelKey</key><string>Δείκτη</string>
+    <key>SettingsAdvancedLabelKey</key><string>Για προχωρημένους</string>
+    <key>SettingsLogOffLabelKey</key><string>Αποσυνδεθείτε</string>
+    <key>SettingsSessionSharingLabelKey</key><string>Περίοδος λειτουργίας κοινής χρήσης</string>
+    <key>SettingsSessionSharingAutoAddFavoritesLabelKey</key><string>Auto-προσθέτουν αγαπημένα</string>
+    <key>SettingsSessionSharingAutoAddFavoritesMessageKey</key><string>Προσθέτει αυτόματα ξεκίνησε apps στα αγαπημένα για γρήγορη πρόσβαση σε συνεδρία δυνατότητες κοινής χρήσης.</string>
+    <key>SettingsReconnectLogon</key><string>Επανασυνδεθεί λογαριασμός login</string>
+    <key>SettingsReconnectRefresh</key><string>Επανασύνδεση κατά την ανανέωση</string>
+    <key>SettingsWorkspaceControlLabelKey</key><string>Έλεγχο του χώρου εργασίας</string>
+    <key>SettingFullscreenWindowKey</key><string>Παράθυρο πλήρους οθόνης</string>
+    <key>SettingsReconnectMessageKey</key><string>Αυτόματη επανασύνδεση με περίοδο λειτουργίας που ξεκίνησε από μια άλλη συσκευή, όταν μπορώ να προσθέσω ένα λογαριασμό ή να ανανεώσετε τις εφαρμογές, αν υπάρχει μία μόνο συνεδρία.</string>
+    <key>SettingsAutomaticKeyboardLabelKey</key><string>Αυτόματη πληκτρολόγιο</string>
+    <key>SettingsCustomKeysLabelKey</key><string>Κλειδιά του εκτεταμένη</string>
+    <key>SettingsNativeComboBoxLabelKey</key><string>Χρήση μητρική σύνθετο πλαίσιο</string>
+    <key>SettingsAllowKeyboardExtensionsLabelKey</key><string>Χρήση προσαρμοσμένων πληκτρολόγια</string>
+    <key>SettingsDontAllowKeyboardExtensionsLabelKey</key><string>Απενεργοποίηση προσαρμοσμένων πληκτρολόγια</string>
+    <key>SettingsAllowKeyboardExtensionsMessageKey</key><string>Που επιτρέπει έθιμο πληκτρολόγια, τα οποία επικοινωνούν με εξωτερικές πηγές, μπορεί να προκαλέσει έναν κίνδυνο ασφαλείας.  Απενεργοποίηση τους είναι η ασφαλέστερη επιλογή. \n\nAllowing έθιμο πληκτρολόγια θα απαιτήσει δέκτη να κλείσετε. Στη συνέχεια μπορεί να επανεκκίνηση δέκτη</string>
+    <key>SettingsTokenManagementLabelKey</key><string>Η συσκευή Token</string>
+    <key>SettingsTokensLabelKey</key><string>Διακριτικό</string>
+    <key>SettingsOptionsLabelKey</key><string>Επιλογές</string>
+    <key>SettingsRequestHelpFromSupportLabelKey</key><string>Ζητήσετε βοήθεια από την υποστήριξη</string>
+    <key>SettingsMutlitouchModeLabelKey</key><string>Ενεργοποίηση της αφής</string>
+    <key>RequestHelpFromSupportMailBodyTemplate</key><string>&lt;b&gt; &lt; &lt;/b&gt;Όνομα υπαλλήλου &lt;b&gt;&gt;&lt;/b&gt; έχει προβλήματα με το Citrix δέκτη στην Ίο. &lt; br / &gt; &lt; br / &gt; εδώ είναι μια περιγραφή του προβλήματος μου &lt; br / &gt; &lt; br / &gt; σχετικά με τη συσκευή σας:</string>
+    <key>SendFeatureIdeasToCitrixMailBodyTemplate</key><string>Εδώ είναι το μου ιδέες για τη βελτίωση της Citrix δέκτη στην Ίο: &lt; br / &gt; &lt; br / &gt; &lt; br / &gt; σχετικά με τη συσκευή μου:</string>
+    <key>EmailBodyDeviceModel</key><string>Μοντέλο συσκευής: %@</string>
+    <key>EmailBodyOSVersion</key><string>iOS έκδοση: %@</string>
+    <key>EmailBodyReceiverVersion</key><string>Δέκτης έκδοση: %@</string>
+    <key>EmailBodyIsJailBroken</key><string>Είναι Jailbroken: %@</string>
+    <key>EmailBodyApplicationMemory</key><string>Εφαρμογή μνήμης: %@</string>
+    <key>EmailBodyFreeMemory</key><string>Ελεύθερη μνήμη: %@</string>
+    <key>EmailBodyTotalMemory</key><string>Συνολική μνήμη: %@</string>
+    <key>EmailBodyMemoryFormat</key><string>%dMB</string>
+    <key>TokenManagementSerialNumber</key><string>Αύξοντα αριθμό</string>
+    <key>TokenManagementExpirationDate</key><string>Ημερομηνία λήξης</string>
+    <key>TokenManagementGetPasscode</key><string>Πάρετε τα κωδικό πρόσβασης</string>
+    <key>TokenManagementDeleteToken</key><string>Διαγραφή Διακριτικό</string>
+    <key>SettingsSupportKey</key><string>Υποστήριξη</string>
+    <key>SettingsSupportVisit</key><string>Επίσκεψη support.citrix.com</string>
+    <key>SettingsIdeasKey</key><string>Στείλτε μου τις ιδέες χαρακτηριστικό να Citrix</string>
+    <key>SettingsLogOptionsTitleKey</key><string>Επιλογές καταγραφής</string>
+    <key>SettingsLogs_LogLevel_Critical_Key</key><string>Επίπεδο 1 κριτική</string>
+    <key>SettingsLogs_LogLevel_Error_Key</key><string>Επίπεδο 2 σφάλμα</string>
+    <key>SettingsLogs_LogLevel_Warning_Key</key><string>Επίπεδο 3 προειδοποίηση</string>
+    <key>SettingsLogs_LogLevel_Info_Key</key><string>Επίπεδο 4 ενημερωτικό</string>
+    <key>SettingsLogs_LogLevel_Detail_Key</key><string>Επίπεδο 5 λεπτομερείς</string>
+    <key>SettingsLogs_LogLevel_Debug_Key</key><string>Επίπεδο 6 εντοπισμού σφαλμάτων</string>
+    <key>SettingsLogs_LogDestination_File_Key</key><string>Αρχείο</string>
+    <key>SettingsLogs_LogDestination_Console_Key</key><string>Κονσόλα</string>
+    <key>SettingsLogs_LogDestination_FileAndConsole_Key</key><string>Αρχείο και κονσόλα</string>
+    <key>SettingsLogs_MaxLogFiles_Key</key><string>Μέγιστος αριθμός αρχείων καταγραφής:</string>
+    <key>SettingsLogs_MaxLogFileSize_Key</key><string>Μέγιστο μέγεθος ενός αρχείου καταγραφής:</string>
+    <key>SettingsLogs_LogLevel_Options_Key</key><string>Επίπεδο καταγραφής</string>
+    <key>SettingsLogs_LogDestination_Options_Key</key><string>Καταγραφής προορισμού</string>
+    <key>SettingsLogs_ResetToDefaults_Key</key><string>Επαναφορά</string>
+    <key>SettingsLogDestinationOptionsTitleKey</key><string>Καταγραφής προορισμού</string>
+    <key>SettingsLogOptionsResetToDefaultValuesTitleKey</key><string>Επαναφορά στις προεπιλογές</string>
+    <key>SettingsLogOptionsResetToDefaultValuesMessageKey</key><string>Οι επιλογές καταγραφής έχουν γίνει επαναφορά στις προεπιλεγμένες τιμές.</string>
+    <key>SettingsLogDetailWarningTitle</key><string>Προειδοποίηση!</string>
+    <key>SettingsLogDetailWarningMessage</key><string>Επιλέγοντας αυτό το επίπεδο μπορεί να επιβραδύνει τη διαδικασία του δέκτη.  Θέλετε να συνεχίσετε;</string>
+    <key>AltKeyTitleKey</key><string>ALT</string>
+    <key>AltTabKeyTitleKey</key><string>Alt + Tab</string>
+    <key>ControlCKeyTitleKey</key><string>Αντίγραφο</string>
+    <key>ControlAltDeleteKeyTitleKey</key><string>Ctrl + Alt + Del</string>
+    <key>ControlEscapeKeyTitleKey</key><string>CTRL + Esc</string>
+    <key>ControlXKeyTitleKey</key><string>Περικοπή</string>
+    <key>ControlZKeyTitleKey</key><string>Αναίρεση</string>
+    <key>DeleteKeyTitleKey</key><string>Del</string>
+    <key>EndKeyTitleKey</key><string>Τέλος</string>
+    <key>EscapeKeyTitleKey</key><string>ESC</string>
+    <key>F1KeyTitleKey</key><string>F1</string>
+    <key>F2KeyTitleKey</key><string>F2</string>
+    <key>F3KeyTitleKey</key><string>F3</string>
+    <key>F4KeyTitleKey</key><string>F4</string>
+    <key>F5KeyTitleKey</key><string>F5</string>
+    <key>F6KeyTitleKey</key><string>F6</string>
+    <key>F7KeyTitleKey</key><string>F7</string>
+    <key>F8KeyTitleKey</key><string>F8</string>
+    <key>F9KeyTitleKey</key><string>F9</string>
+    <key>F10KeyTitleKey</key><string>F10</string>
+    <key>F11KeyTitleKey</key><string>F11</string>
+    <key>F12KeyTitleKey</key><string>F12</string>
+    <key>HomeKeyTitleKey</key><string>Σπίτι</string>
+    <key>IMEKey</key><string>ΕΙΜΑΙ</string>
+    <key>WinKeyTitleKey</key><string>Νίκη</string>
+    <key>ControlKeyTitleKey</key><string>CTRL</string>
+    <key>PageDownKeyTitleKey</key><string>Page Down</string>
+    <key>PageUpKeyTitleKey</key><string>Page Up</string>
+    <key>ControlVKeyTitleKey</key><string>Πάστα</string>
+    <key>RefreshKeyTitleKey</key><string>Ανανέωση</string>
+    <key>ControlSKeyTitleKey</key><string>Αποθήκευση</string>
+    <key>SlideshowKeyTitleKey</key><string>Προβολή διαφανειών</string>
+    <key>TabKeyTitleKey</key><string>Καρτέλα "</string>
+    <key>AltF4TitileKey</key><string>Κλείσιμο παραθύρου</string>
+    <key>ShiftKeyTitleKey</key><string>Μετατόπιση</string>
+    <key>StartMenuKeyTitleKey</key><string>Μενού "Έναρξη"</string>
+    <key>SendKeyTitleKey</key><string>Αποστολή</string>
+    <key>CopyKeyTitleKey</key><string>Αντίγραφο</string>
+    <key>DoneKeyTitleKey</key><string>Γίνει</string>
+    <key>VirtualTextViewMargin</key><string>140</string>
+    <key>UseUnicodeKeyboardKey</key><string>Χρησιμοποιήστε το πληκτρολόγιο Unicode</string>
+    <key>PinKeyboardToolbar</key><string>Καρφίτσα πληκτρολόγιο εργαλείων</string>
+    <key>CitrixDocFinderAppNameKey</key><string>Citrix Doc Finder</string>
+    <key>SMSMsgTitle</key><string>Ο κωδικός κατάστασης</string>
+    <key>SMSMsgButtonTitle</key><string>Ok</string>
+    <key>SMSPassCodeRequestSuccessMsg</key><string>Θα λαμβάνετε σας ένα χρόνο κωδικό πρόσβασης σε ένα μήνυμα κειμένου σύντομα. Παρακαλώ πατήστε απάντηση και στη συνέχεια τη σύνδεση μέσα στο κείμενο μήνυμα να συνεχίσει.</string>
+    <key>AddProfileFromUrlWarningMsg</key><string>Είστε έτοιμος να προσθέσει ένα νέο λογαριασμό. Παρακαλώ εξετάστε τις πληροφορίες στην επόμενη οθόνη και να το αποθηκεύσετε μόνο αν προέρχεται από αξιόπιστη πηγή.</string>
+    <key>AddProfileFromUrlWarningTitle</key><string>Προσθέστε το λογαριασμό</string>
+    <key>PasswordSaveStatusChangeTitleKey</key><string>Αλλαγή κατάστασης</string>
+    <key>PasswordSavingHasBeenDisabledMessageKey</key><string>Διαχειριστής έχει απενεργοποιήσει αποθήκευση κωδικών πρόσβασης σε αυτόν το διακομιστή</string>
+    <key>PasswordSavingHasBeenEnabledMessageKey</key><string>Διαχειριστής έχει ενεργοποιήσει αποθήκευση κωδικών πρόσβασης σε αυτόν το διακομιστή.</string>
+    <key>ChangePasswordErrorTitleKey</key><string>Λάθος κωδικό πρόσβασης</string>
+    <key>ChangePasswordErrorFailedConsistencyCheck</key><string>Σφάλμα κατά την προσπάθεια να αλλάξει τον κωδικό πρόσβασής σας password.\n\nYour δεν έχει αλλάξει.</string>
+    <key>ChangePasswordErrorNewPasswordInvalid</key><string>Το νέο κωδικό πρόσβασης που εισαγάγατε δεν ήταν έγκυρη.</string>
+    <key>ChangePasswordErrorOldPasswordInvalid</key><string>Ο παλαιός κωδικός πρόσβασης που πληκτρολογήσατε δεν ήταν έγκυρη.</string>
+    <key>ChangePasswordErrorNewPasswordMismatch</key><string>Το νέο κωδικοί πρόσβασης που καταχωρήσατε δεν ταίριαζαν.</string>
+    <key>ChangePasswordErrorOldPasswordMismatch</key><string>Ο παλαιός κωδικός πρόσβασης που πληκτρολογήσατε δεν ταίριαζαν.</string>
+    <key>ChangePasswordErrorOperationFailed</key><string>Σφάλμα κατά την προσπάθεια να αλλάξει τον κωδικό πρόσβασής σας password.\n\nYour δεν έχει αλλάξει.</string>
+    <key>ChangePasswordOldPasswordPlaceholderKey</key><string>Παλιός κωδικός πρόσβασης</string>
+    <key>ChangePasswordNewPasswordPlaceholderKey</key><string>Νέο κωδικό πρόσβασης</string>
+    <key>ChangePasswordConfirmPasswordPlaceholderKey</key><string>Επιβεβαίωση κωδικού</string>
+    <key>ChangePasswordPasswordExpiredTitleKey</key><string>Έληξε ο κωδικός πρόσβασης</string>
+    <key>ChangePasswordPasswordExpiredMessageKey</key><string>Αλλαγή κωδικού πρόσβασης που απαιτείται</string>
+    <key>ChangePasswordPasswordExpiredContactAdminMessageKey</key><string>Παρακαλούμε να αλλάξετε τον κωδικό πρόσβασης και προσπαθήστε ξανά.</string>
+    <key>ChangePasswordPasswordExpiredContactAdminMessageKey2</key><string>Παρακαλούμε να αλλάξετε τον κωδικό πρόσβασης και προσπαθήστε ξανά.</string>
+    <key>ChangePasswordPasswordsNotMatch</key><string>Τους κωδικούς πρόσβασης που έκανε δεν αγώνα. \nThe κωδικό πρόσβασης για αυτόν το λογαριασμό έχει expired.\n\nWould θέλατε να αλλάξετε τον κωδικό πρόσβασης τώρα;</string>
+    <key>ChangePasswordPasswordExpiredPromptKey</key><string>Έληξε κωδικό πρόσβασης, πληκτρολογήστε έναν νέο κωδικό πρόσβασης</string>
+    <key>ChangePasswordPleaseLoginAgain</key><string>Ο κωδικός πρόσβασης έχει ενημερωθεί. \nPlease συνδεθείτε πάλι.</string>
+    <key>NextTokenTitleKey</key><string>Επόμενο κουπόνι</string>
+    <key>NextTokenPlaceholderKey</key><string>Επόμενο κουπόνι</string>
+    <key>NextTokenMessageKey</key><string>Περιμένετε για τον διακριτικό κωδικό για να αλλάξετε και, στη συνέχεια, πληκτρολογήστε το νέο διακριτικό code.\n\n</string>
+    <key>NextTokenInvalidTokenKey</key><string>Το διακριτικό δεν είναι έγκυρο</string>
+    <key>NextTokenOperationFailedMessageKey</key><string>Δεν ήταν δυνατή η συμβολική συγχρονισμού. Παρακαλώ δοκιμάστε ξανά αργότερα</string>
+    <key>NextTokenLoginAgainMessageKey</key><string>Το διακριτικό έχει ενημερωθεί. \nPlease περιμένετε για τον διακριτικό κωδικό για να αλλάξετε και στη συνέχεια, συνδεθείτε ξανά.</string>
+    <key>NextTokenEnterPasscodeKey</key><string>Εισάγετε τον κωδικό πρόσβασής σας</string>
+    <key>NextTokenNewPINKey</key><string>Νέα καρφίτσα</string>
+    <key>NextTokenConfirmNewPINKey</key><string>Επιβεβαίωση νέου αριθμού PIN</string>
+    <key>NextTokenEnterNewPINTitleKey</key><string>Πληκτρολογήστε το νέο PIN</string>
+    <key>NextTokenEnterNewPINMessageKey</key><string>Εισαγάγετε μια νέα καρφίτσα μεταξύ 4 και 8 χαρακτήρες.</string>
+    <key>NextTokenPINsNotMatch</key><string>Οι ακίδες έκανε δεν αγώνα. \nEnter μια νέα καρφίτσα μεταξύ 4 και 8 χαρακτήρες.</string>
+    <key>NextTokenPINChangedMessageKey</key><string>PIN αλλάξει επιτυχώς. περιμένετε \nPlease για το tokencode να αλλάξετε και, στη συνέχεια, να εισάγετε το PIN και την επόμενη tokencode.</string>
+    <key>TokenPlaceholderKey</key><string>Διακριτικό</string>
+    <key>PinPlaceholderKey</key><string>ΚΑΡΦΊΤΣΑ</string>
+    <key>PinTokenPlaceholderKey</key><string>ΚΑΡΦΊΤΣΑ + Διακριτικό</string>
+    <key>ASyncHTTPCannotVerifyServerIdentityWithManualSetupOption</key><string>Δεν μπορεί να επιβεβαιώσει το πιστοποιητικό του διακομιστή αυτό: \ "%@\". Ο διακομιστής μπορεί να μην είναι ασφαλή. \nTo συνεχίσει πρόσβασης, πατήστε Setup και προειδοποιήσεις πιστοποιητικό \"Ignore. \"</string>
+    <key>ASyncHTTPCannotVerifyServerIdentityWithContactHelpdesk</key><string>Αυτός ο διακομιστής μπορεί να μην είναι ασφαλή: \ "%@\". Ζητήστε ένα έγκυρο πιστοποιητικό σας γραφείο βοήθειας.</string>
+    <key>ASyncHTTPInvalidSSLCert</key><string>Πιστοποιητικό που δεν είναι έμπιστο</string>
+    <key>ASyncHTTPAllowButtonLabelKey</key><string>Επιτρέπουν</string>
+    <key>ASyncHTTPSetupButtonLabelKey</key><string>Εγκατάστασης</string>
+    <key>ASyncHTTPGetDataError</key><string>Δεν μπορούσα να πάρω τα δεδομένα. \nStatus: %d, %@.</string>
+    <key>AsyncHTTPLearnMoreButtonLabelKey</key><string>Μάθε περισσότερα</string>
+    <key>BluetoothAlertTitleKey</key><string>Σύνδεση</string>
+    <key>BluetoothSessionEstablishedMessageKey</key><string>Ασύρματο συνεδρία που έχουν ήδη καθιερωθεί.</string>
+    <key>BluetoothWaitingConnectionMessageKey</key><string>Αναμονή για απομακρυσμένη συσκευή για να συνδεθείτε...</string>
+    <key>OkButtonText</key><string>Ok</string>
+    <key>YesButtonText</key><string>Ναι</string>
+    <key>NoButtonText</key><string>Όχι</string>
+    <key>DismissButtonText</key><string>Απορρίψει</string>
+    <key>CancelButtonText</key><string>"Άκυρο"</string>
+    <key>MoreInfoButtonText</key><string>Περισσότερες πληροφορίες</string>
+    <key>NextButtonText</key><string>Επόμενη</string>
+    <key>SaveButtonText</key><string>Αποθήκευση</string>
+    <key>ConfirmButtonText</key><string>Επιβεβαίωση</string>
+    <key>BackButtonText</key><string>Πίσω</string>
+    <key>AllowButtonText</key><string>Επιτρέπουν</string>
+    <key>DontAllowButtonText</key><string>Δεν επιτρέπουν</string>
+    <key>ConnectionErrorText</key><string>Παρουσιάστηκε σφάλμα κατά τη σύνδεση. Ελέγξτε τη σύνδεση δικτύου και η διεύθυνση σας διακομιστή.</string>
+    <key>LoginButtonText</key><string>Συνδέσου</string>
+    <key>ExitingTitle</key><string>Την έξοδο</string>
+    <key>ExitingText</key><string>Τώρα θα βγείτε από δέκτη.</string>
+    <key>RestartWarningText</key><string>Αυτή η αλλαγή απαιτεί δέκτη να κλείσετε. Στη συνέχεια μπορεί να επανεκκίνηση δέκτη</string>
+    <key>ExitButtonText</key><string>Έξοδος</string>
+    <key>DontExitButtonText</key><string>Μην βγείτε</string>
+    <key>HelpButtonText</key><string>Βοήθεια</string>
+    <key>HelpURL</key><string>http://support.Citrix.com/Help/Receiver/58/IOS/EN/index.html</string>
+    <key>SettingsPrivacyKey</key><string>Πολιτική προστασίας προσωπικών δεδομένων</string>
+    <key>PrivacyURL</key><string>http://www.Citrix.com/about/Legal/Privacy/Plain.html</string>
+    <key>SettingsLicensesKey</key><string>Ειδοποιήσεις τρίτων μερών</string>
+    <key>3rdParthNoticesURL</key><string>https://www.Citrix.com/buy/Licensing/Open-Source.html</string>
+    <key>GesturesTitleKey</key><string>Χειρονομίες</string>
+    <key>GestureTapLabelKey</key><string>Κλικ βρύσης</string>
+    <key>GestureTapHoldReleaseLabelKey</key><string>Πατήστε, κρατήστε προς στιγμήν και, στη συνέχεια, αφήστε να κάντε δεξί κλικ</string>
+    <key>GestureTapHoldMoveLabelKey</key><string>Πατήστε, κρατήστε προς στιγμήν και, στη συνέχεια, μετακινήστε να σύρετε</string>
+    <key>GesturePanLabelKey</key><string>Μετακινήσετε το δάχτυλο στην κατσαρόλα οθόνη</string>
+    <key>GestureVerticalSwipeLabelKey</key><string>Κάθετη ισχυρό κτύπημα για να μετακινηθείτε</string>
+    <key>GestureHorizontalSwipeLabelKey</key><string>Οριζόντια ισχυρό κτύπημα στο αριστερό/δεξί βέλος</string>
+    <key>GesturePinchLabelKey</key><string>Τσίμπημα για να μεγεθύνει</string>
+    <key>GestureTwoFingerTapLabelKey</key><string>Βρύση με δύο δάχτυλα για μεγέθυνση/σμίκρυνση</string>
+    <key>GestureTwoFingerSwipeLabelKey</key><string>Ισχυρό κτύπημα δύο δάχτυλων για να μετατοπίσει τη θέα</string>
+    <key>GestureRightClickLabelKey</key><string>Κάντε δεξί κλικ</string>
+    <key>GestureAltTabLabelKey</key><string>Alt + Tab</string>
+    <key>GestureToggleKeyboardLabelKey</key><string>Εναλλαγή Keyboard</string>
+    <key>GestureLeftArrowLabelKey</key><string>Αριστερό πλήκτρο βέλους</string>
+    <key>GestureRightArrowLabelKey</key><string>Δεξί πλήκτρο βέλους</string>
+    <key>GestureUpArrowLabelKey</key><string>Επάνω πλήκτρο βέλους</string>
+    <key>GestureDownArrowLabelKey</key><string>Κάτω πλήκτρο βέλους</string>
+    <key>GestureMouseWheelUpLabelKey</key><string>Τροχό του ποντικιού επάνω</string>
+    <key>GestureMouseWheelDownLabelKey</key><string>Τροχό του ποντικιού προς τα κάτω</string>
+    <key>GestureTapAndHoldKey</key><string>Πατήστε παρατεταμένα</string>
+    <key>GestureTwoFingerTapKey</key><string>Πάτημα με δύο δάχτυλα</string>
+    <key>GestureThreeFingerTapKey</key><string>Τρεις δάχτυλο βρύσης</string>
+    <key>GestureSwipeLeftKey</key><string>Σουφρώνω αριστερά</string>
+    <key>GestureSwipeRightKey</key><string>Ισχυρό κτύπημα δικαίωμα</string>
+    <key>GestureSwipeUpKey</key><string>Ισχυρό κτύπημα επάνω</string>
+    <key>GestureSwipeDownKey</key><string>Ισχυρό κτύπημα κάτω</string>
+    <key>GestureTwoFingerSwipeLeftKey</key><string>Και οι δύο δακτύλων σουφρώνω αριστερά</string>
+    <key>GestureTwoFingerSwipeRightKey</key><string>Και οι δύο δακτύλων σουφρώνω δικαίωμα</string>
+    <key>GestureTwoFingerSwipeUpKey</key><string>Ισχυρό κτύπημα δύο δάχτυλων επάνω</string>
+    <key>GestureTwoFingerSwipeDownKey</key><string>Ισχυρό κτύπημα δύο δάχτυλων κάτω</string>
+    <key>GestureThreeFingerSwipeLeftKey</key><string>Τριών δάχτυλων σουφρώνω αριστερά</string>
+    <key>GestureThreeFingerSwipeRightKey</key><string>Τριών δάχτυλων σουφρώνω δικαίωμα</string>
+    <key>GestureThreeFingerSwipeUpKey</key><string>Ισχυρό κτύπημα τριών δάχτυλων επάνω</string>
+    <key>GestureThreeFingerSwipeDownKey</key><string>Ισχυρό κτύπημα τριών δάχτυλων κάτω</string>
+    <key>GestureDisableGesture</key><string>Απενεργοποίηση της χειρονομίας</string>
+    <key>GestureResetToDefaultLabelKey</key><string>Επαναφορά στην προεπιλογή</string>
+    <key>GestureResetToDefaultMessageKey</key><string>Είστε βέβαιοι ότι θέλετε να επαναφέρετε τις χειρονομίες στις προεπιλογές τους;</string>
+    <key>SecurityAlertTitleKey</key><string>Προειδοποίηση ασφαλείας</string>
+    <key>SecurityAlertJailbreakMessageKey</key><string>Δέκτης Citrix εντοπιστεί αυτή η συσκευή έχει jailbroken και δεν μπορεί να εμπιστευθεί για να τρέξω αυτό το app με ασφάλεια.</string>
+    <key>SecurityAlertExitButtonLabelKey</key><string>Έξοδος</string>
+    <key>IgnoreCertificateErrorsKey</key><string>Αγνοούν τις προειδοποιήσεις του πιστοποιητικού</string>
+    <key>IgnoreCertificateErrorsMessage</key><string>Είστε βέβαιοι ότι θέλετε να παρακάμψετε το πιστοποιητικό ασφαλείας; Ρωτήστε γραφείο σας βοήθεια, εάν δεν είστε βέβαιοι.</string>
+    <key>DataSaveAlertTitleKey</key><string>Ειδοποίηση μη αποθηκευμένων δεδομένων</string>
+    <key>DataSaveAlertMessageKey</key><string>Εφαρμογή έχει κάποια μη αποθηκευμένων δεδομένων που μπορεί να σωθεί στην περιοχή αποκομμάτων για μελλοντική χρήση, είστε βέβαιοι ότι θέλετε να το αποθηκεύσετε τώρα;</string>
+    <key>DataSaveAlertCancelButtonLabelKey</key><string>Απόρριψη</string>
+    <key>DataSaveAlertOKButtonLabelKey</key><string>Αποθήκευση</string>
+    <key>TrackpadReadyToConnectTitleKey</key><string>Έτοιμο να συνδεθεί</string>
+    <key>TrackpadAcceptConnectionFromLabelKey</key><string>Δέχομαι σύνδεση από το: \n</string>
+    <key>TrackpadConfirmConnectionLabelKey</key><string>Επιβεβαιώσετε σύνδεση</string>
+    <key>TrackpadConnectionErrorLabelKey</key><string>Σφάλμα σύνδεσης</string>
+    <key>TrackpadWirelessTrackpadActiveAlertMessageKey</key><string>Ασύρματο trackpad είναι ενεργή. Παρακαλούμε αποσυνδέστε πριν επιχειρήσετε να χρησιμοποιήσετε την μητρική trackpad.</string>
+    <key>TrackpadNativeTrackpadActiveAlertMessageKey</key><string>Μητρική trackpad είναι ενεργή. Παρακαλούμε να απενεργοποιήσετε πριν επιχειρήσετε να χρησιμοποιήσετε το ασύρματο trackpad.</string>
+    <key>TrackpadConnectedTitleKey</key><string>Συνδέονται</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey1</key><string>Ανοικτή</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey2</key><string>Νέο παράθυρο</string>
+    <key>NewAppInstanceActionSheetButtonLabelKey3</key><string>Αποσύνδεση</string>
+    <key>DisambiguateReconnectOpen</key><string>Ανοικτή</string>
+    <key>DisambiguateReconnectNewWindow</key><string>Νέο παράθυρο</string>
+    <key>DisambiguateReconnectCancel</key><string>"Άκυρο"</string>
+    <key>DisambiguateReconnectTitleFormat</key><string>%@ εκτελείται ήδη.</string>
+    <key>DisambiguateReconnectMessage</key><string>Μπορείτε να επανασυνδεθεί με αυτήν την εφαρμογή ή να ανοίξετε ένα επιπλέον παράθυρο.</string>
+    <key>AppSwitchMenuTitleKey</key><string>Διακόπτης Apps</string>
+    <key>AppSwitchMenuTitleKeyNoWindows</key><string>Ο συνδεδεμένος διακομιστής δεν μπορεί να υποστηρίξει τη App μετάβαση...</string>
+    <key>PullRefreshDateFormatKey</key><string>ΜΜ/ΗΗ/ΕΕΕΕ ωω: λλ: ένα</string>
+    <key>PullRefreshDateAMSymbolKey</key><string>Π.Μ.</string>
+    <key>PullRefreshDatePMSymbolKey</key><string>Μ.Μ.</string>
+    <key>PullRefreshLastUpdatedFormatKey</key><string>Τελευταία Ενημερωμένο: %@</string>
+    <key>PullRefreshPullingLabelKey</key><string>Απελευθέρωση να ανανεώσετε...</string>
+    <key>PullRefreshNormalLabelKey</key><string>Τραβήξτε προς τα κάτω για να ανανεώσετε...</string>
+    <key>PullRefreshLoadingLabelKey</key><string>Φόρτωση...</string>
+    <key>ConnectionErrorAlertTitleKey</key><string>Σφάλμα σύνδεσης</string>
+    <key>ConnectionErrorAlertMessageKey</key><string>Εφαρμογή αντιμετώπισε ένα ανεπανόρθωτο σφάλμα και θα κλείσει. Παρακαλώ διορθώστε πάνω από το σφάλμα και επανέναρξη της εφαρμογής.</string>
+    <key>ConnectionErrorAlertMessage2Key</key><string>Δεν είναι δυνατή η σύνδεση με το διακομιστή.</string>
+    <key>RestoringDataConnection</key><string>Αποκατάσταση σύνδεσης δεδομένων...</string>
+    <key>DataConnectionRestored</key><string>Σύνδεση δεδομένων αποκατασταθεί.</string>
+    <key>StoreLogoutMessageTitleKey</key><string>Αποσυνδεθείτε ή αποσύνδεση;</string>
+    <key>StoreLogoutMessageKey</key><string>Εάν αποσυνδέσετε, οποιαδήποτε δεδομένα δεν έχουν αποθηκευτεί σε ανοιχτές εφαρμογές είναι διαθέσιμο την επόμενη φορά που θα συνδεθείτε. Εάν αποσυνδεθείτε, τυχόν μη αποθηκευμένα δεδομένα μπορεί να χαθούν.</string>
+    <key>LogoutButtonText</key><string>Αποσυνδεθείτε</string>
+    <key>DisconnectButtonText</key><string>Αποσύνδεση</string>
+    <key>StoreLoggedOffMessageKey</key><string>Έχετε συνδεθεί από όλους τους λογαριασμούς.</string>
+    <key>ConnectionsButtonTitleKey</key><string>Συνδέσεις</string>
+    <key>ConnectionsActionSheetTitleKey</key><string>Σύνδεση κέντρο</string>
+    <key>LogoutAlertTitleKey</key><string>Αποσύνδεση επιβεβαίωση</string>
+    <key>LogoutAlertMessageKey</key><string>Είστε βέβαιοι ότι θέλετε να αποσυνδεθείτε; Οποιαδήποτε δεδομένα δεν έχουν αποθηκευτεί θα χαθούν.</string>
+    <key>DISMISS_BUTTON_TITLE</key><string>Ok</string>
+    <key>PLACE_HOLDER_CRED_ID</key><string>A12345678</string>
+    <key>CONNECTING_LABEL</key><string>Τη σύνδεση...</string>
+    <key>CANCEL_BUTTON_TITLE</key><string>"Άκυρο"</string>
+    <key>TIMEOUT_MESSAGE_FORMAT</key><string>Υπολείπονται %d δευτερόλεπτα</string>
+    <key>LocationServicesAllowAccessKey</key><string>\ "%@\" Ήθελα να χρησιμοποιήσετε την τρέχουσα θέση σας</string>
+    <key>LocationServicesChangeGeneralSettingsKey</key><string>Ενεργοποιήστε τις υπηρεσίες τοποθεσίας να επιτρέψει \ "%@\" να προσδιορίσει την τοποθεσία σας</string>
+    <key>LocationServicesSecureConnectionWarning</key><string>συνιστάται %@\n\nA ασφαλή σύνδεση, όταν χρησιμοποιείτε υπηρεσίες τοποθεσίας</string>
+    <key>ImportCertificateKey</key><string>Πιστοποιητικό εισαγωγής</string>
+    <key>ImportNewCertificateKey</key><string>Νέο πιστοποιητικό εισαγωγής</string>
+    <key>SelectCertificateKey</key><string>Επιλέξτε το πιστοποιητικό</string>
+    <key>CertificatesKey</key><string>Πιστοποιητικά</string>
+    <key>CertificateKey</key><string>Πιστοποιητικό</string>
+    <key>CertificateNameKey</key><string>Όνομα</string>
+    <key>CertificateNamePlaceHolderKey</key><string>Όνομα πιστοποιητικού</string>
+    <key>CertificateURLKey</key><string>Διεύθυνση</string>
+    <key>CertificateURLPlaceHolderKey</key><string>URL πιστοποιητικού</string>
+    <key>IssuedToKey</key><string>Χορηγούνται:</string>
+    <key>PasswordAlertMessageForImportCertificateKey</key><string>Εισάγετε τον κωδικό πρόσβασης για αυτό το πιστοποιητικό.</string>
+    <key>ImportCertificateFailedTitle</key><string>Δεν μπορεί να εισαγάγει το πιστοποιητικό</string>
+    <key>ImportCertificateFailedMessage</key><string>Εισαγωγή στο keychain απέτυχε.</string>
+    <key>WrongPasswordErrorKey</key><string>Εισαγωγή στο keychain απέτυχε λόγω λάθος κωδικό πρόσβασης.</string>
+    <key>CertificateExistsErrorKey</key><string>Εισαγωγή στο keychain απέτυχε, επειδή το πιστοποιητικό υπάρχει ήδη.</string>
+    <key>CertificateFormatNotSupportedErrorKey</key><string>Εισαγωγή στο keychain απέτυχε, επειδή το πιστοποιητικό δεν είναι σε μορφή P12.</string>
+    <key>AddCertificateErrorTitleKey</key><string>Πιστοποιητικό που έχουν ήδη εισαχθεί</string>
+    <key>AddCertificateErrorButtonText</key><string>Ok</string>
+    <key>DeleteCertificateWarningTitleKey</key><string>Προειδοποίηση</string>
+    <key>DeleteCertificateWarningMessageKey</key><string>Το πιστοποιητικό αυτό χρησιμοποιείται από ένα κατάστημα! Είστε βέβαιοι ότι θέλετε να συνεχίσετε;</string>
+    <key>DeleteButtonText</key><string>Διαγραφή</string>
+    <key>ImportCertificateFailedNoDataMessage</key><string>Κενό ή είναι λανθασμένη πιστοποιητικό σε εκείνο το URL.</string>
+    <key>SRConfigurationError</key><string>Δεν θα μπορούσε να προσθέσει το λογαριασμό.</string>
+    <key>SRParseError</key><string>Δεν θα μπορούσε να προσθέσει το λογαριασμό.</string>
+    <key>SSLChainNotEvaluated</key><string>Το πιστοποιητικό διακομιστή δεν είναι δυνατό να επαληθευτεί. Για να προσθέσετε αυτό το λογαριασμό, να ενεργοποιήσετε «Παράβλεψη πιστοποιητικό προειδοποιήσεις».</string>
+    <key>SRStoreLogin</key><string>Το νέο σας λογαριασμό είναι διαθέσιμη. Παρακαλώ συνδεθείτε για να αποκτήσετε πρόσβαση σε λογαριασμό.</string>
+    <key>SRStorePersistError</key><string>Δεν θα μπορούσε να προσθέσει το λογαριασμό.</string>
+    <key>SROverwriteStore</key><string>Αντικαταστήσει λογαριασμό;</string>
+    <key>SRConfirmOverwriteStore</key><string>Είστε βέβαιοι ότι θέλετε να αντικαταστήσετε %@;</string>
+    <key>SelectAccountDiscoveryStore</key><string>Επιλέξτε ένα κατάστημα</string>
+    <key>AccountDiscoveryDocumentNoStore</key><string>Δεν θα μπορούσε να προσθέσει το λογαριασμό.</string>
+    <key>AccountDiscoveryDocumentNoNewStores</key><string>Όλα τα καταστήματα στο έγγραφο ανακάλυψη έχουν φορτωθεί.</string>
+    <key>AccountDiscoveryDocumentError</key><string>Δεν θα μπορούσε να προσθέσει το λογαριασμό.</string>
+    <key>AccountDiscoveryIgnoreCertificateDescription</key><string>Ανακάλυψη λογαριασμό</string>
+    <key>AccountDiscoveryAddAccountErrorTitle</key><string>Δεν μπορείτε να προσθέσετε το λογαριασμό</string>
+    <key>AccountDiscoveryNoURLForEmail</key><string>Δέκτης δεν μπορεί να βρει το διακομιστή για αυτόν τον τομέα. Εάν λάβατε μια διεύθυνση URL από αυτό, μπορείτε να εισαγάγετε που αντί να το email σας.</string>
+    <key>AccountDiscoveryEmailErrorTitle</key><string>Λανθασμένη Email</string>
+    <key>AccountDiscoveryInvalidEmail</key><string>Εισάγετε το email σας στην name@domain.com της μορφή.</string>
+    <key>AccountDiscoveryInvalidGatewaySetting</key><string>Η ρύθμιση πύλης δεν είναι έγκυρη.</string>
+    <key>AppsTabTitleKey</key><string>Εφαρμογές</string>
+    <key>DocsTabTitleKey</key><string>Έγγραφα</string>
+    <key>FilePreviewKey</key><string>Προεπισκόπηση</string>
+    <key>OpenWithXenappKey</key><string>Ανοικτή App</string>
+    <key>SendFileKey</key><string>Αποστολή αρχείου</string>
+    <key>SaveOfflineKey</key><string>Κατεβάσετε</string>
+    <key>RemoveOfflineKey</key><string>Κατάργηση</string>
+    <key>NoMatchKey</key><string>Δεν βρέθηκαν αντιστοιχίες</string>
+    <key>EnableSharedDocuments</key><string>Παρακαλώ ενεργοποιήστε Κοινόχρηστων εγγράφων από τις ρυθμίσεις για προχωρημένους</string>
+    <key>SessionSharingWarning</key><string>Προειδοποίηση!</string>
+    <key>RemoveDocFromOffline_Title</key><string>Αφαιρέστε Doc;</string>
+    <key>RemoveDocFromOffline_Text</key><string>Μπορείτε να δείτε ακόμα αυτό το έγγραφο όταν συνδέονται στο Internet.</string>
+    <key>FMDBlade_Title</key><string>Μοιράστηκε μαζί μου</string>
+    <key>FMDSendDefaultSubjectFile</key><string>Ένα αρχείο έχει σταλεί σε σας χρησιμοποιώντας Sharefile</string>
+    <key>FMDSendDefaultSubjectFolder</key><string>Ένα φάκελο που έχει σταλεί σε σας χρησιμοποιώντας Sharefile</string>
+    <key>FMDSendHintText</key><string>Εισαγάγετε το προσαρμοσμένο κείμενο εδώ.</string>
+    <key>OK</key><string>Ok</string>
+    <key>Cancel</key><string>"Άκυρο"</string>
+    <key>DeleteUser</key><string>Κατάργηση χρήστη;</string>
+    <key>Read</key><string>Ανάγνωση</string>
+    <key>ReadOnlyKey</key><string>Μόνο για ανάγνωση</string>
+    <key>ReadWrite</key><string>Ανάγνωσης/εγγραφής</string>
+    <key>RemoveButtonText</key><string>Κατάργηση</string>
+    <key>CopyFileURLKey</key><string>Αντιγράψτε το σύνδεσμο</string>
+    <key>LastModifiedBy</key><string>Ιδιοκτήτης</string>
+    <key>LastModified</key><string>Τελευταία τροποποίηση</string>
+    <key>FileSize</key><string>Μέγεθος</string>
+    <key>FMD_PermanentDeleteTitle</key><string>Να διαγράψετε μόνιμα Doc;</string>
+    <key>FMD_CannotBeUnDone</key><string>Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.</string>
+    <key>UserNotInAddressBook</key><string>Το πρόσωπο αυτό δεν είναι στο δίκτυο της εταιρείας σας. Μόνο, μπορείτε να μοιραστείτε φακέλους με ανθρώπους που είναι στο δίκτυο της εταιρείας σας.</string>
+    <key>NotBeingShared</key><string>Αυτός ο φάκελος δεν είναι να μοιραστεί με κανέναν</string>
+    <key>SendFolderTitle</key><string>Στείλτε το φάκελο</string>
+    <key>SendFileTitle</key><string>Αποστολή αρχείου</string>
+    <key>FMD_MyDocs</key><string>%1$@ %2$@ docs</string>
+    <key>FMD_RemoveFavorite_Title</key><string>Καταργήσετε το φάκελο;</string>
+    <key>FMD_RemoveFavorite_Text</key><string>%@ πλέον θα συγχρονιστούν με τις συσκευές σας.</string>
+    <key>Unlimited</key><string>Απεριόριστη</string>
+    <key>Downloads</key><string>Λήψεις</string>
+    <key>FMD_GeneralError_NotLoggedIn_Title</key><string>Εσφαλμένη σύνδεση</string>
+    <key>FMD_GeneralError_NotLoggedIn_Text</key><string>Πρέπει να έχετε συνδεθεί για να ShareFile για να εκτελέσετε αυτήν την ενέργεια.</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Title</key><string>Δεν μπορώ να συνδεθώ</string>
+    <key>FMD_GeneralError_NoNetworkConnectivity_Text</key><string>Ελέγξτε τη σύνδεση δικτύου και προσπαθήστε ξανά.</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Title</key><string>Έγγραφα που σκούπισε</string>
+    <key>FMD_GeneralError_DeviceHasBeenWiped_Text</key><string>Διαχειριστής έχει αφαιρέσει έγγραφα από τη συσκευή σας.</string>
+    <key>FMD_GeneralError_InvalidCredentials_Title</key><string>Εσφαλμένη σύνδεση</string>
+    <key>FMD_GeneralError_InvalidCredentials_NonSSO_Text</key><string>Εσφαλμένο όνομα χρήστη ή τον κωδικό πρόσβασης.</string>
+    <key>FMD_GeneralError_InvalidCredentials_SSO_Text</key><string>Συνδεθείτε με το Citrix δέκτη για να συνεχίσετε.</string>
+    <key>FMD_GeneralError_UnrecognizedSFAPIError_Title</key><string>Πρόβλημα φάκελο κοινής χρήσης</string>
+    <key>FMD_SyncError_ItemNotFound_Title</key><string>Το αρχείο δεν βρέθηκε</string>
+    <key>FMD_SyncError_ItemNotFound_Text</key><string>Το αρχείο δεν βρέθηκε στη συσκευή σας.</string>
+    <key>FMD_DownloadError_Title</key><string>Πρόβλημα λήψη αρχείου</string>
+    <key>FMD_DownloadError_ParentNotFound_Text</key><string>Αυτό το στοιχείο δεν μπορούν να ανακτηθούν από το σύννεφο, επειδή το γονικό φάκελο δεν μπορεί να προσδιοριστεί.</string>
+    <key>FMD_DownloadError_AccessDenied_Text</key><string>Δεν έχετε άδεια για να κατεβάσετε τα αρχεία στη συσκευή.</string>
+    <key>FMD_DownloadError_NotEnoughSpace_Text</key><string>Δεν μπορώ να κατεβάσετε το αρχείο. Θα πρέπει να υπερβαίνει το όριο των 500MB για ληφθέντα αρχεία.</string>
+    <key>FMD_UploadError_Title</key><string>Πρόβλημα αρχείο φόρτωμα</string>
+    <key>FMD_UploadError_ParentNotFound_Text</key><string>Αυτό το στοιχείο δεν μπορούν να αποθηκευτούν στο σύννεφο, επειδή το γονικό φάκελο δεν μπορεί να προσδιοριστεί.</string>
+    <key>FMD_UploadError_FileNotFound_Text</key><string>Το αρχείο δεν βρέθηκε στη συσκευή σας.</string>
+    <key>FMD_UploadError_CannotReadFileAttributes_Text</key><string>Αυτό το στοιχείο δεν μπορούν να αποθηκευτούν στο σύννεφο, επειδή δεν μπορεί να προσδιοριστεί το μέγεθος στη συσκευή σας. Το αρχείο ενδέχεται να έχει καταστραφεί.</string>
+    <key>FMD_UploadError_AccessDenied_Text</key><string>Δεν έχετε δικαίωμα να φορτώσετε αυτό το αρχείο.</string>
+    <key>FMD_AddressBookError_Title</key><string>Σφάλμα βιβλίο διεύθυνση</string>
+    <key>FMD_EmployeeAddressBookError_AccessDenied_Text</key><string>Το βιβλίο διευθύνσεων των εργαζομένων, δεν μπορούν να ανακτηθούν από το σύννεφο, επειδή σας δεν έχουν παραχωρηθεί το δικαίωμα να είναι προσπελάσιμα αυτό.</string>
+    <key>FMD_ClientAddressBookError_AccessDenied_Text</key><string>Το βιβλίο διευθύνσεων του πελάτη δεν μπορούν να ανακτηθούν από το σύννεφο, επειδή σας δεν έχουν παραχωρηθεί το δικαίωμα να είναι προσπελάσιμα αυτό.</string>
+    <key>FMD_DeleteFileError_Title</key><string>Δεν μπορείτε να καταργήσετε το αρχείο</string>
+    <key>FMD_DeleteFileError_AccessDenied_Text</key><string>Δεν έχετε άδεια να καταργήσετε αυτό το αρχείο.</string>
+    <key>FMD_DocsSettingsLabelKey</key><string>ShareFile</string>
+    <key>FMD_DocsUsernameLabelKey</key><string>Όνομα χρήστη</string>
+    <key>FMD_DocsPasswordLabelKey</key><string>Κωδικός πρόσβασης</string>
+    <key>FMD_DocsAccountsTitleKey</key><string>ShareFile ρυθμίσεις</string>
+    <key>FMD_SaveButtonKey</key><string>Αποθήκευση</string>
+    <key>FMDLoginFailedUsernamePasswdText</key><string>Εσφαλμένο όνομα χρήστη ή τον κωδικό πρόσβασης.</string>
+    <key>FMDSendFileFailedTitle</key><string>Πρόβλημα αποστολή αρχείου</string>
+    <key>FMDShareFolderFailedTitle</key><string>Πρόβλημα φάκελο κοινής χρήσης</string>
+    <key>FMDShareFolderFailedInvalidEmailText</key><string>Εισαγάγετε διευθύνσεις ηλεκτρονικού ταχυδρομείου με τη μορφή name@domain.com</string>
+    <key>FMDDownloadFailedConnectionText</key><string>Δεν μπορεί να συνδεθεί. Ελέγξτε τη σύνδεση δικτύου και προσπαθήστε ξανά.</string>
+    <key>FMDDownloadFailedPermissionText</key><string>Δεν έχετε άδεια για να κατεβάσετε τα αρχεία στη συσκευή.</string>
+    <key>FMDChooseSubDomainMessageFormatKey</key><string>Χρησιμοποιήστε αυτό το subdomain; - %@</string>
+    <key>FMDUseTitleKey</key><string>Χρήση</string>
+    <key>FMDNotUseTitleKey</key><string>Μην χρησιμοποιείτε</string>
+    <key>TryDemoLabel</key><string>Δοκιμάστε το Demo</string>
+    <key>FirstTimeAddYour</key><string>ΠΡΟΣΘΉΚΗ ΣΑΣ</string>
+    <key>FirstTimeFavoriteApps</key><string>ΑΓΑΠΗΜΈΝΑ APPS</string>
+    <key>FMDErrorAddAccountFailedGeneral</key><string>Ελέγξτε τις ρυθμίσεις του λογαριασμού σας και προσπαθήστε ξανά</string>
+    <key>FMDErrorSubDomain</key><string>Εισάγετε το subdomain σε τη μορφή myaccount.sharefile.com</string>
+    <key>FMDErrorCantFindAddressBook_Title</key><string>Πρόβλημα διαπίστωση βιβλίο διευθύνσεων</string>
+    <key>FMDErrorSendingFolder_Title</key><string>Πρόβλημα φάκελο αποστολή</string>
+    <key>FMDErrorProblemCopyingLink</key><string>Αντιγραφή του ζητήματοςσύνδεση</string>
+    <key>FMDErrorSaveQuota</key><string>Δεν μπορεί να αποθηκεύσει το αρχείο. Φτάσετε ποσόστωση σας ShareFile</string>
+    <key>FMDErrorNoPermissionToDownload</key><string>Δεν έχετε άδεια για να κατεβάσετε τα αρχεία στη συσκευή</string>
+    <key>FMDErrorCouldNotUpload1</key><string>Δεν θα μπορούσε να ανεβάσετε το αρχείο. Φτάσετε ποσόστωση σας ShareFile</string>
+    <key>FMDErrorCouldNotUpload2</key><string>Δεν θα μπορούσε να ανεβάσετε το αρχείο</string>
+    <key>FMDErrorFileNotAvailable</key><string>Αυτό το αρχείο δεν είναι πλέον διαθέσιμο.</string>
+    <key>FMDErrorNoDocs</key><string>Τα έγγραφά σας δεν είναι διαθέσιμα σήμερα</string>
+    <key>FMDErrorNoSharedFolders</key><string>Κοινόχρηστους φακέλους δεν είναι διαθέσιμα σήμερα</string>
+    <key>FMDErrorFatal</key><string>Παρουσιάστηκε μη αναμενόμενο σφάλμα. [Εάν επανεκκινήσετε δυνατό] Θα θέλατε να κάνετε επανεκκίνηση του δέκτη Citrix τώρα; Ναι/όχι</string>
+    <key>DeleteFileKey</key><string>Διαγραφή</string>
+    <key>ErrorKey</key><string>Σφάλμα</string>
+    <key>Write</key><string>Γράψτε</string>
+    <key>FMD_DocsAccountsLabelKey</key><string>Λογαριασμοί</string>
+    <key>FMDLoginFailedTitle</key><string>Εσφαλμένη σύνδεση</string>
+    <key>FMDLoginFailedGeneralText</key><string>Ελέγξτε τα στοιχεία του λογαριασμού σας και προσπαθήστε ξανά.</string>
+    <key>FMDLoginFailedURLText</key><string>Πληκτρολογήστε τη διεύθυνση URL στην myaccount.sharefile.com η μορφή</string>
+    <key>FMDLoginFailedSofttokenText</key><string>Εισαγάγετε έναν έγκυρο διακριτικό κωδικό.</string>
+    <key>FMDAddAccountFailedTitle</key><string>Δεν θα μπορούσε να προσθέσει λογαριασμό</string>
+    <key>FMDLoginFailedUsernameRequiredText</key><string>Πληκτρολογήστε το όνομα χρήστη σας.</string>
+    <key>FMDLoginFailedPasswordRequiredText</key><string>Εισάγετε τον κωδικό σας.</string>
+    <key>FMDLoginFailedInvalidEmailText</key><string>Εισάγετε το email σας με τη μορφή name@domain.com</string>
+    <key>FMDLoginFailedNoAccountText</key><string>Αυτός ο λογαριασμός ShareFile δεν βρέθηκε.</string>
+    <key>FMDSendFileFailedInvalidEmailText</key><string>Εισαγάγετε διευθύνσεις ηλεκτρονικού ταχυδρομείου με τη μορφή name@domain.com.</string>
+    <key>FMDShareFolderFailedShare</key><string>Προσπαθήστε ξανά σε λίγα λεπτά.</string>
+    <key>FMDShareFolderFailedPersonNotFound</key><string>Αυτοί οι άνθρωποι δεν είναι στο δίκτυο της εταιρείας σας. Μόνο, μπορείτε να μοιραστείτε φακέλους με ανθρώπους που είναι στο δίκτυο της εταιρείας σας.</string>
+    <key>FMDShareFolderFailedAddressbookAccess</key><string>Δεν έχετε δικαίωμα πρόσβασης το βιβλίο διευθύνσεων.</string>
+    <key>FMDDownloadFailedTitle</key><string>Πρόβλημα λήψη αρχείου</string>
+    <key>FMDDownloadFailedSpaceText</key><string>Δεν υπάρχει αρκετός χώρος στη συσκευή σας για να αποθηκεύσετε αυτό το αρχείο.</string>
+    <key>FMDDownloadFailedQuotaText</key><string>Δεν μπορώ να κατεβάσετε το αρχείο. Θα πρέπει να υπερβαίνει το όριο των 500 MB για ληφθέντα αρχεία.</string>
+    <key>FMDDownloadFailedFileText</key><string>Αυτό το αρχείο δεν βρέθηκε.</string>
+    <key>FMDDownloadFailedFileSizeText</key><string>Το μέγεθος του αρχείου δεν μπορεί να προσδιοριστεί. Το αρχείο μπορεί να είναι κατεστραμμένο.</string>
+    <key>FMDDownloadFailedFileRemovedText</key><string>Αυτό το αρχείο έχει αφαιρεθεί από τη συσκευή σας.</string>
+    <key>FMDSaveFileFailedTitle</key><string>Δεν μπορώ να αποθηκεύσετε το αρχείο</string>
+    <key>FMDSaveFileFailedSpaceText</key><string>Δεν υπάρχει αρκετός χώρος για να αποθηκεύσετε αυτό το αρχείο. </string>
+    <key>FMDSaveFileFailedPermissionText</key><string>Δεν έχετε δικαίωμα αποθήκευσης αρχείων.</string>
+    <key>FMDReplaceFileTitle</key><string>Αντικαταστήστε το αρχείο;</string>
+    <key>FMDReplaceFileText</key><string>Το αρχείο υπάρχει ήδη, θέλετε να το αντικαταστήσετε;</string>
+    <key>FMDOpenFileFailedTitle</key><string>Δεν μπορεί να ανοίξει το αρχείο</string>
+    <key>FMDOpenFileFailedNoAppText</key><string>Δεν βρέθηκε ένα app για αυτόν τον τύπο αρχείου. Ελέγξτε εάν το app είναι διαθέσιμο σε δέκτη πρώτα.</string>
+    <key>FMDRemoveFileFailedTitle</key><string>Δεν μπορείτε να καταργήσετε το αρχείο</string>
+    <key>FMDRemoveFileFailedPermisisonText</key><string>Δεν έχετε άδεια να καταργήσετε αυτό το αρχείο.</string>
+    <key>FMDFileNotFoundFailedTitle</key><string>Το αρχείο δεν βρέθηκε</string>
+    <key>FMDFileNotFoundFailedNotAvailableText</key><string>Αυτό το αρχείο δεν είναι διαθέσιμα σήμερα. Προσπαθήστε ξανά σε λίγα λεπτά.</string>
+    <key>FMDFileNotFoundFailedNotSyncedText</key><string>Αυτό το αρχείο δεν έχουν συγχρονιστεί με αυτή τη συσκευή ακόμη.</string>
+    <key>FMDFileNotFoundFailedWipedText</key><string>Διαχειριστής έχει αφαιρεθεί τα έγγραφά σας από τη συσκευή σας</string>
+    <key>FMDFileNotFoundFailedRemovedText</key><string>Αυτό το αρχείο έχει αφαιρεθεί από τη συσκευή σας.</string>
+    <key>MobileAppConfirmUnsubscribeTitleKey</key><string>Αφαιρέστε \ "%@\"; </string>
+    <key>MobileAppConfirmUnsubscribeDescriptionKey</key><string>Αφαίρεση app αυτό απενεργοποιεί όλες τις συσκευές.</string>
+    <key>MobileAppConfirmDownloadTitleKey</key><string>Επιβεβαιώσετε τη λήψη</string>
+    <key>MobileAppConfirmDownloadDescriptionKey</key><string>Αυτό το κινητό app πρέπει πρώτα να κατεβάσετε στη συσκευή σας για να το ανοίξετε. Είστε βέβαιοι ότι θέλετε να κατεβάσετε αυτό το app;</string>
+    <key>AppPendingTitleKey</key><string>App αίτηση εκκρεμεί</string>
+    <key>AppPendingDescriptionKey</key><string>Αυτό το app είναι εν αναμονή της έγκρισης.</string>
+    <key>AppDeniedTitleKey</key><string>App αίτηση δεν επιτρέπεται</string>
+    <key>AppDeniedDescriptionKey</key><string>Δεν επιτρέπεται η πρόσβαση σε αυτό το app.</string>
+    <key>MaintenenceModeTitleKey</key><string>App άτομα με ειδικές ανάγκες</string>
+    <key>MaintenenceModeAppDisabled</key><string>Αυτό το app είναι απενεργοποιημένος</string>
+    <key>AppNotFoundTitleKey</key><string>App διαθέσιμο</string>
+    <key>AppNotFoundDescriptionKey</key><string>Αυτό το app είναι διαθέσιμο προς το παρόν.</string>
+    <key>SelectFeedbackTitleKey</key><string>Αποστολή σχολίων</string>
+    <key>SelectFeedbackCancelKey</key><string>"Άκυρο"</string>
+    <key>GeneralFeedback</key><string>Γενική ανατροφοδότηση</string>
+    <key>ReportIssue</key><string>Έκθεση θέμα</string>
+    <key>EmailSubjectForIOSLogs</key><string>για αρχεία καταγραφής Ίος</string>
+    <key>EmailSubjectForIOSFeedback</key><string>για iOS ανατροφοδότηση</string>
+    <key>EmailSubjectForFeatureIdeasToCitrix</key><string>Στείλτε μου τις ιδέες χαρακτηριστικό να Citrix</string>
+    <key>JailBrokenAlertTitle</key><string>Συσκευή που είναι μη ασφαλές</string>
+    <key>JailBrokenAlertMsg</key><string>Η εταιρεία σας δεν επιτρέπει αυτό το app να τρέχει σε ένα jailbroken συσκευή.</string>
+    <key>WifiRequiredAlertMsg</key><string>Συνδεθείτε σε ένα ασύρματο δίκτυο για να χρησιμοποιήσετε αυτό το app.</string>
+    <key>AccountLockedTitle</key><string>Apps που είναι κλειδωμένα</string>
+    <key>AccountLockedMessage</key><string>Εταιρεία σας έχει κλειδώσει σας apps Citrix δέκτη. Επικοινωνήστε με το διαχειριστή σας για περισσότερες πληροφορίες.</string>
+    <key>DeviceNameLabel</key><string>Όνομα_συσκευής</string>
+    <key>WebcamPermissionDialogTitle</key><string>Εικονική επιφάνεια εργασίας σας προσπαθεί να χρησιμοποιήσει το μικρόφωνο ή κάμερα.</string>
+    <key>WebcamPermissionDialogMsg</key><string>Είστε βέβαιοι ότι θέλετε να σας εικονική επιφάνεια εργασίας για να χρησιμοποιήσει αυτές τις συσκευές;</string>
+    <key>MouseViewFTUGuide</key><string>Πατήστε δύο φορές για να κάνετε ζουμ</string>
+    <key>BAIPairingTitleKey</key><string>Αντιστοίχιση</string>
+    <key>BAIBeginPairingKey</key><string>Θέσει σας αναγνώστη σε ανιχνεύσιμη λειτουργία και πατήστε \"Continue\" ξεκινώ αντιστοίχιση.</string>
+    <key>BAIAttachAdapterKey</key><string>Επισυνάψτε το baiMobile προσαρμογέα Bluetooth στη συσκευή σας</string>
+    <key>BAICancelKey</key><string>"Άκυρο"</string>
+    <key>BAISearchDiscoverableDevicesKey</key><string>Αναζήτηση για εντοπιστεί συσκευές</string>
+    <key>BAISelectDeviceKey</key><string>Επιλέξτε μια συσκευή</string>
+    <key>BAISearchAgainKey</key><string>Αναζήτηση και πάλι</string>
+    <key>BAIPairingPINMatchKey</key><string>Ταιριάζει στον κώδικα που εμφανίζεται στον αναγνώστη σας BAI τον κωδικό που εμφανίζεται παρακάτω;</string>
+    <key>BAIOneMomentKey</key><string>Μια στιγμή...</string>
+    <key>BAIPairingCompleteKey</key><string>Αυτό το τηλέφωνο είναι τώρα σε συνδυασμό με αναγνώστη σας baiMobile</string>
+    <key>BAIUnableToPairKey</key><string>Δεν είναι δυνατή στο ζευγάρι με αναγνώστη σας. Προσπαθήστε να ανανεώσει τους δεσμούς το εξάρτημα και έχοντας τη μονάδα ανάγνωσης έξυπνης κάρτας σας σε κατάσταση εντοπιστεί πριν προσπαθήσετε να αντιστοιχίσετε και πάλι.</string>
+    <key>BAIContinueKey</key><string>Συνεχίσει</string>
+    <key>BAIRetryKey</key><string>Δοκίμασε ξανά.</string>
+    <key>BAIPairingMatchButtonKey</key><string>Ναι, ταιριάζει με τον κώδικα.</string>
+    <key>BAIPairingNoMatchButtonKey</key><string>Όχι, ο κώδικας δεν ταιριάζει.</string>
+    <key>BAIPairingDismissButtonKey</key><string>Απορρίψει</string>
+    <key>%d attempts remaining.</key><string>%d προσπάθειες παραμένουν.</string>
+    <key>1 attempt remaining.</key><string>1 προσπάθεια που απομένουν.</string>
+    <key>Ask the card issuer to unblock your smart card before signing on.</key><string>Ρωτήστε τον εκδότη της κάρτας να απεμπλακεί έξυπνη κάρτα σας πρίν υπογράφει στη.</string>
+    <key>Connect Smart Card</key><string>Σύνδεση έξυπνης κάρτας</string>
+    <key>Enter Smart Card PIN</key><string>Εισαγάγετε το PIN της έξυπνης κάρτας</string>
+    <key>Identity</key><string>Ταυτότητα</string>
+    <key>Insert Smart Card</key><string>Εισαγωγή έξυπνων καρτών</string>
+    <key>Please connect your smart card reader to continue.</key><string>Παρακαλώ συνδεθείτε μονάδα ανάγνωσης έξυπνης κάρτας σας να συνεχίσει.</string>
+    <key>Please connect your smart card reader to sign on.</key><string>Παρακαλώ σύνδεση σας μονάδα ανάγνωσης έξυπνης κάρτας να ναυτολογηθεί.</string>
+    <key>Please insert your smart card to continue.</key><string>Παρακαλώ εισάγετε την έξυπνη κάρτα για να συνεχίσει.</string>
+    <key>Please insert your smart card to sign on.</key><string>Παρακαλώ εισάγετε την κάρτα σας smart να ναυτολογηθεί.</string>
+    <key>Please wait...</key><string>Παρακαλώ περίμενε...</string>
+    <key>Smart card PIN</key><string>Αριθμού PIN έξυπνης κάρτας</string>
+    <key>You have exceeded the maximum sign on attempts.\n\n</key><string>Έχετε υπερβεί το μέγιστο σημάδι για attempts.\n\n</string>
+    <key>Your PIN is incorrect. Please try again.</key><string>Το PIN είναι εσφαλμένη. Παρακαλώ ξαναπροσπαθήστε.</string>
+    <key>Your smart card does not have a valid certificate.</key><string>Έξυπνη κάρτα σας δεν έχει έγκυρο πιστοποιητικό.</string>
+    <key>Your smart card is blocked.</key><string>Η έξυπνη κάρτα είναι αποκλεισμένη.</string>
+    <key>Your smart card is blocked.\n\nAsk the card issuer to unblock your smart card before signing on.</key><string>Η έξυπνη κάρτα είναι blocked.\n\nAsk τον εκδότη της κάρτας να απεμπλακεί έξυπνη κάρτα σας πρίν υπογράφει στη.</string>
+    <key>Your smart card is not recognized. Please insert a valid smart card.</key><string>Έξυπνη κάρτα σας δεν αναγνωρίζεται. Παρακαλώ εισάγετε μια έγκυρη έξυπνη κάρτα.</string>
+    <key>KURL_ERROR_COULD_NOT_SET_OPENSSL_CERTIFICATE</key><string>Έξυπνη κάρτα λάθος ρύθμιση SSL πιστοποιητικό.</string>
+    <key>KURL_ERROR_COULD_NOT_SET_OPENSSL_SMARTCARD_PRIVATE_KEY</key><string>Έξυπνη κάρτα λάθος ρύθμιση SSL ιδιωτικό κλειδί.</string>
+    <key>KURL_REQUEST_CANCELLED</key><string>Έξυπνη κάρτα αίτηση ακυρωθεί.</string>
+    <key>KURL_ERROR_SSL_CONNECT_FAILURE</key><string>Έξυπνη κάρτα σφάλμα σύνδεσης SSL.</string>
+    <key>KURL_REQUEST_CANCELLED_BY_USER</key><string>Έξυπνη κάρτα αίτηση ακυρωθεί από το χρήστη.</string>
+    <key>KURL_STATUS_UNKNOWN</key><string>Άγνωστο έξυπνων καρτών αίτημα σφάλματος.</string>
+    <key>This server requires a client certificate</key><string>Αυτός ο διακομιστής απαιτεί ένα πιστοποιητικό προγράμματος-πελάτη.</string>
+    <key>The server rejected the client certificate</key><string>Ο διακομιστής απέρριψε το πιστοποιητικό προγράμματος-πελάτη.</string>
+    <key>Server error: %@.</key><string>Σφάλμα διακομιστή: %@.</string>
+    <key>New Feature! New Gestures!</key><string>Νέο χαρακτηριστικό γνώρισμα! Νέα χειρονομίες!</string>
+    <key>App Switcher starts automatically when you open a second app.</key><string>Εναλλαγή εφαρμογών ξεκινά αυτόματα όταν ανοίγετε ένα δεύτερο app.</string>
+    <key>Shows one of your running apps</key><string>Δείχνει μία από σας τρέχοντας εφαρμογές</string>
+    <key>Shows all your running apps</key><string>Δείχνει όλες τις τρέχοντας εφαρμογές</string>
+    <key>Closes an app</key><string>Κλείνει ένα app</string>
+    <key>Remind me next time</key><string>Μου θυμίζουν την επόμενη φορά</string>
+    <key>Got it</key><string>Το έπιασα</string>
+    <key>UnavailableDesktop</key><string>Η επιφάνεια εργασίας είναι διαθέσιμο προς το παρόν.</string>
+    <key>AppRemoved</key><string>App δεν είναι διαθέσιμη.</string>
+    <key>NoMoreActiveSessions</key><string>Πλέον ενεργές περιόδους λειτουργίας.</string>
+    <key>NotLicensed</key><string>Χωρίς άδεια χρήσης.</string>
+    <key>CouldNotConnectToWorkstation</key><string>Δεν είναι δυνατή η σύνδεση με το σταθμό εργασίας.</string>
+    <key>WorkstationInMaintenance</key><string>Η επιφάνεια εργασίας είναι διαθέσιμο προσωρινά λόγω της προγραμματισμένης συντήρησης.</string>
+    <key>ResourceError</key><string>Σφάλμα πόρου</string>
+    <key>GeneralAppLaunchError</key><string>Μπορεί να μην ξεκινούν την εφαρμογή</string>
+</dict></plist>
