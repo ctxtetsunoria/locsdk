@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>version:%@</key><string>ばーじょん:%@</string>
+<key>Done</key><string>お疲れ</string>
+<key>versionid</key><string>1.0.0</string>
+<key>Select Language</key><string>選んでみ</string>
+<key>etcid</key><string>ネットから落としたの</string>
+<key>language:%@</key><string>言葉:%@</string>
+<key>languageid</key><string>変な日本語</string>
+<key>Language pack information</key><string>言語ポッケージの情報</string>
+<key>Downloadable Resources</key><string>落とせる言語</string>
+<key>Hello World!</key><string>まいど！</string>
+<key>Manage Languages</key><string>変えてみて</string>
+<key>Remove Downloaded Languages</key><string>落としたのの削除</string>
+<key>Package Resources</key><string>もとからあった言語</string>
+<key>No Downloadable Resource</key><string>使えるやつはありまへん</string>
+<key>others:%@</key><string>ほかの:%@</string>
+</dict></plist>

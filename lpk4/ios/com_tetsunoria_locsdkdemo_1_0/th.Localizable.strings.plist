@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>version:%@</key><string>รุ่น:%@</string>
+<key>Done</key><string>บริจาค</string>
+<key>versionid</key><string>1.0.0</string>
+<key>Select Language</key><string>เลือกภาษา</string>
+<key>etcid</key><string>ที่ดาวน์โหลดมาจากอินเทอร์เน็ต ...</string>
+<key>language:%@</key><string>ภาษา:%@</string>
+<key>languageid</key><string>th</string>
+<key>Language pack information</key><string>ข้อมูลชุดภาษา</string>
+<key>Downloadable Resources</key><string>ดาวน์โหลดทรัพยากร</string>
+<key>Hello World!</key><string>สวัสดีชาวโลก!</string>
+<key>Manage Languages</key><string>การจัดการภาษา</string>
+<key>Remove Downloaded Languages</key><string>ลบดาวน์โหลดภาษา</string>
+<key>Package Resources</key><string>แพคเกจทรัพยากร</string>
+<key>No Downloadable Resource</key><string>ไม่มีทรัพยากรที่ดาวน์โหลด</string>
+<key>others:%@</key><string>อื่น ๆ :%@</string>
+</dict></plist>

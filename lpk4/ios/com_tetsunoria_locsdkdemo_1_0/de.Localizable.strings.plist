@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>version:%@</key><string>version:%@</string>
+<key>Done</key><string>Gemacht</string>
+<key>versionid</key><string>1.0.0</string>
+<key>Select Language</key><string>Sprachwahl</string>
+<key>etcid</key><string>heruntergeladen aus dem Internet ...</string>
+<key>language:%@</key><string>Sprache:%@</string>
+<key>languageid</key><string>de</string>
+<key>Language pack information</key><string>Sprachpaket Informationen</string>
+<key>Downloadable Resources</key><string>herunterladbare Ressourcen</string>
+<key>Hello World!</key><string>Hallo Welt!</string>
+<key>Manage Languages</key><string>Verwalten Sprachen</string>
+<key>Remove Downloaded Languages</key><string>Entfernen Heruntergeladene Sprachen</string>
+<key>Package Resources</key><string>Package Ressourcen</string>
+<key>No Downloadable Resource</key><string>Kein Herunterladen Ressourcen</string>
+<key>others:%@</key><string>Sonstiges:%@</string>
+</dict></plist>
