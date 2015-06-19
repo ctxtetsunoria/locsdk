@@ -1,0 +1,1 @@
+Microsoft.ReportViewer.Common.resources.dll,Microsoft.ReportViewer.WinForms.resources.dll,XenCenterMain.resources.dll,XenModel.resources.dll,XenOvf.resources.dll,XenOvfTransport.resources.dll
